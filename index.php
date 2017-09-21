@@ -23,39 +23,43 @@
           <div class="carousel-inner">
 
             <div class="item active">
-                <a href="content/strains.php"><img src="images/islandPink.JPG" alt="island pink kush"></a>
+              <a href="content/strains.php"><img src="images/islandPink.JPG" alt="island pink kush">
                 
-              <div class="carousel-caption">
-                  <h3>Island Pink kush</h3>
-                  <p>Island Pink is one of our newest strains, worth a try!</p>
-              </div>
+                <div class="carousel-caption">
+                    <h3>Island Pink kush</h3>
+                    <p>Island Pink is one of our newest strains, worth a try!</p>
+                </div>
+              </a>
             </div>
 
             <div class="item">
-              <a href="content/extracts.php"><img src="images/extractsCover.JPG" alt="Extracts"></a>
+              <a href="content/extracts.php"><img src="images/extractsCover.JPG" alt="Extracts">
 
-              <div class="carousel-caption">
-                  <h3>Extracts</h3>
-                  <p>Great new selection of shatter products!</p>
-              </div>
+                <div class="carousel-caption">
+                    <h3>Extracts</h3>
+                    <p>Great new selection of shatter products!</p>
+                </div>
+              </a>
             </div>
             
             <div class="item">
-              <a href="content/hash.php"><img src="images/redLebAd.JPG" alt="Red Leb"></a>
+              <a href="content/hash.php"><img src="images/redLebAd.JPG" alt="Red Leb">
                   
-              <div class="carousel-caption">
-                  <h3>New Red Lebanese</h3>
-                  <p>Premium Quality! Tastes soo good!</a>
-              </div>
+                <div class="carousel-caption">
+                    <h3>New Red Lebanese</h3>
+                    <p>Premium Quality! Tastes soo good!</p>
+                </div>
+              </a>
             </div>
               
             <div class="item">
-              <a href="content/specials.php"><img src="images/dealsBig.png" alt="Specials"></a>
+              <a href="content/specials.php"><img src="images/dealsBig.png" alt="Specials">
                 
-              <div class="carousel-caption">
-                  <h3>Don't miss our Specials!</h3>
-                  <p>5g for $40, 10g for $80</p>
-              </div>
+                <div class="carousel-caption">
+                    <h3>Don't miss our Specials!</h3>
+                    <p>5g for $40, 10g for $80</p>
+                </div>
+              </a>
             </div>
           
           </div><!-- carosel inner -->
