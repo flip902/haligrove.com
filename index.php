@@ -44,8 +44,8 @@
               <a href="content/hash.php"><img src="images/redLebAd.JPG" alt="Red Leb"></a>
                   
               <div class="carousel-caption">
-                  <h3>New Red Lebaneese</h3>
-                  <p>Good Quality! Tastes so good </a>
+                  <h3>New Red Lebanese</h3>
+                  <p>Premium Quality! Tastes soo good!</a>
               </div>
             </div>
               
@@ -54,7 +54,7 @@
                 
               <div class="carousel-caption">
                   <h3>Don't miss our Specials!</h3>
-                  <p>3g for $25, 5g for $40, 10g for $80</p>
+                  <p>5g for $40, 10g for $80</p>
               </div>
             </div>
           
@@ -77,8 +77,7 @@
           <h2>About Us</h2>
           <hr class="pinkRule">
           <p>  
-            Welcome to Haligrove. We are Halifax's top Medical Marijuana delivery service. We offer same day service for HRM. All you need to do is look through our products, call or text with your order and location, and that day your order will be delivered. Check our site daily for new products and specials. Our base prices are 5g for $40, 10g for $80. If you have any questions or concerns please email us at <a href="mailto:info@haligrove.com"> info@haligrove.com</a>.   
-          </p>
+            Welcome to Haligrove. We are Halifax's top Medical Marijuana delivery service. We offer same day service for HRM. All you need to do is look through our products, call or text with your order and location, and that day your order will be delivered. Check our site daily for new products and specials. Our base prices are 5g for $40, 10g for $80. If you have any questions or concerns please email us at <a href="mailto:info@haligrove.com"> info@haligrove.com</a>. </p><div style="text-align: center; color: #DE28A9; margin-top: -20px; heght: 8px">* Referrals Only</div>
 
           <!-- <img class="arrow" src="https://cdn3.iconfinder.com/data/icons/google-material-design-icons/48/ic_keyboard_arrow_down_48px-128.png" /> -->
         </div>

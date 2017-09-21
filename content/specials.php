@@ -45,7 +45,14 @@
             <li>5g for $40</li>
             <li>10 for $80</li>
             <li>20 for $160</li>
-            <li>28 for $155-$225</li>
+            <li>28 for $155-$250</li>
+        </ul>
+        <br>
+	
+	<a href="/haligroveV2/content/hash.php" class="pinkChalk">Red Lebanese</a>
+        <ui>
+            <li>5 for $70</li>
+            <li>10 for $135</li>
         </ul>
         <br>
 
@@ -64,21 +71,22 @@
             <li>10 for $100</li>
         </ul>
         <br>
-
-        <a href="/haligroveV2/content/hash.php" class="pinkChalk">Mercedes</a>
+	
+	<a href="/haligroveV2/content/hash.php" class="pinkChalk">Bubble Hash</a>
+        <ui>
+            <li>5 for $60</li>
+            <li>10 for $120</li>
+        </ul>
+        <br>
+        
+	<a href="/haligroveV2/content/hash.php" class="pinkChalk">Mercedes</a>
         <ui>
             <li>10 for $75</li>
             <li>30 for $210</li>
         </ul>
         <br>
 
-        <a href="/haligroveV2/content/hash.php" class="pinkChalk">Bubble Hash</a>
-        <ui>
-            <li>3 for $40</li>
-            <li>5 for $65</li>
-            <li>10 for $125</li>
-        </ul>
-        <br>
+        
 
 
     </div>

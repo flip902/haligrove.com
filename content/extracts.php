@@ -17,12 +17,11 @@
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
                         <div class="indica">indica</div>
-                        <div class="new">new</div>
                         <img src= "../images/8ballKush.JPG" style="height: 100%">
                     </div>
                     <div class="extractsItemTitle" id="">8ball Kush</div>
                     <div class="extractsPrice">
-                        <span>$40 Per <br>2 for $70</span><br>
+                        <span>$40 Per </span><br>
                         <h3>Phyto Extractions</h3>
                         <p class="descriptionP">Pine, earthy, pungent, taste.
                         Effective for Stress, pain, depression, and fatigue
@@ -40,12 +39,11 @@
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
                         <div class="indica">indica</div>
-                        <div class="new">new</div>
                         <img src= "../images/trueOG.JPG" style="height: 100%">
                     </div>
                     <div class="extractsItemTitle" id="">True OG</div>
                     <div class="extractsPrice">
-                        <span>$40 Per <br>2 for $70</span><br>
+                        <span>$40 Per </span><br>
                         <h3>Phyto Extractions</h3>
                         <p class="descriptionP">earthy, pungent, citrus taste.
                         Great for insomnia, stress, and pain
@@ -63,12 +61,11 @@
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
                         <div class="hybrid">hybrid</div>
-                        <div class="new">new</div>
                         <img src= "../images/edmontonOilers.JPG" style="height: 100%">
                     </div>
                     <div class="extractsItemTitle" id="">Edmonton Oilers</div>
                     <div class="extractsPrice">
-                        <span>$40 Per <br>2 for $70</span><br>
+                        <span>$40 Per </span><br>
                         <h3>Phyto Extractions</h3>
                         <p class="descriptionP">citrus, pine, pungent, taste.
                         Great for insomnia, pain, and depression
@@ -82,28 +79,7 @@
                 </div>
             </div>
 
-            <div class="extractsBox col-lg-6 col-md-6">
-                <div class="extractsThumbnail">
-                    <div class="extractsImageDiv">
-                        <div class="indica">indica</div>
-                        <div class="new">new</div>
-                        <img src= "../images/orangeKush.JPG" style="height: 100%">
-                    </div>
-                    <div class="extractsItemTitle" id="">Orange Kush</div>
-                    <div class="extractsPrice">
-                        <span>$40 Per <br>2 for $70</span><br>
-                        <h3>Phyto Extractions</h3>
-                        <p class="descriptionP">Orange, citrus, sweet taste.
-                        Great for insomnia, stress, pain
-                        </p>
-                    </div>
-                        
-                    <div id="orangeKushInventory">
-                        <div></div>
-                    </div>
-                    <p class="inventoryPTag">inventory</p>
-                </div>
-            </div>
+            
 
             
             <div class="extractsBox col-lg-6 col-md-6">

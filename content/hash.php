@@ -21,9 +21,9 @@
                             <div class="new">new</div>
                                 <img src= "../images/redLeb.JPG" alt="Red Lebaneese">
                         </div>
-                        <h3 class="hashItemTitle" id="">Red Lebaneese</h3>
+                        <h3 class="hashItemTitle" id="">Red Lebanese</h3>
                         <div class="hashPrice">
-                            $15<span> Gram</span> 
+                            $15<span> Gram</span> / 5 <span>for</span> $70 
                             <p>soft, brownish red center</p>
                         </div>
                         <div id="sevenInventory">
@@ -58,7 +58,7 @@
                         <h3 class="hashItemTitle" id="">Malaysian Cream</h3>
                         <div class="hashPrice">
                             $15<span> Gram</span> / 3 <span>for</span> $40
-                            <p>hard, crumbly, brown center</p>
+                            <p>hard, sweet taste, brown</p>
                         </div>
                         <div id="malaysianInventory">
                             <div></div>
@@ -127,7 +127,7 @@
                         </div>
                         <h3 class="hashItemTitle" id="">Bubble</h3>
                         <div class="hashPrice">
-                            $12<span> Gram</span>
+                            $12<span> Gram</span> / 5 <span>for</span> $60
                             <p>soft, gooey, sticky</p>
                         </div>
                         
