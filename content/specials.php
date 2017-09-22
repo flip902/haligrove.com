@@ -11,10 +11,18 @@
 
 
     <div contenteditable="false" class="chalkboardbody">
-       <h1> Making room for new inventory check out these great strains on special...</h1>
+	<br>
+       <h1>Great Strains... @ Great Prices!<br>Try Something Different<br>(for limited time only!)</h1>
         <br/>
-
-        
+	
+	<a href="strains.php#17">Rockstar</a> <a href="strains.php#7">& Super Silver Haze</a>
+        <ui>
+            <li>10 for $70</li>
+            <li>28 for $185</li>
+        </ul>
+        <br>
+       
+       <h1>Get these strains while you can. At these prices they are going fast!</h1> 
         
         <a href="strains.php#26">Black Widow</a>, <a href="strains.php#30">Double Barrel Og</a>,<br> <a href="strains.php#16">Critical Jack </a>.....<br> 
         For Limited Time Only!</a>
@@ -49,14 +57,14 @@
         </ul>
         <br>
 	
-	<a href="/haligroveV2/content/hash.php" class="pinkChalk">Red Lebanese</a>
+	<a href="/content/hash.php" class="pinkChalk">Red Lebanese</a>
         <ui>
             <li>5 for $70</li>
             <li>10 for $135</li>
         </ul>
         <br>
 
-        <a href="/haligroveV2/content/hash.php" class="pinkChalk">Romeo & Juliet, 777, Malaysian Cream</a>
+        <a href="/content/hash.php" class="pinkChalk">Romeo & Juliet, 777, Malaysian Cream</a>
         <ui>
             <li>3 for $40</li>
             <li>5 for $65</li>
@@ -64,7 +72,7 @@
         </ul>
         <br>
 
-        <a href="/haligroveV2/content/hash.php" class="pinkChalk">Moroccan Hash</a>
+        <a href="/content/hash.php" class="pinkChalk">Moroccan Hash</a>
         <ui>
             <li>3 for $35</li>
             <li>5 for $55</li>
@@ -72,14 +80,14 @@
         </ul>
         <br>
 	
-	<a href="/haligroveV2/content/hash.php" class="pinkChalk">Bubble Hash</a>
+	<a href="/content/hash.php" class="pinkChalk">Bubble Hash</a>
         <ui>
             <li>5 for $60</li>
             <li>10 for $120</li>
         </ul>
         <br>
         
-	<a href="/haligroveV2/content/hash.php" class="pinkChalk">Mercedes</a>
+	<a href="/content/hash.php" class="pinkChalk">Mercedes</a>
         <ui>
             <li>10 for $75</li>
             <li>30 for $210</li>
