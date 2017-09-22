@@ -781,6 +781,20 @@
     line-height: 35px;
   }
 
+  .soldOut {
+    position: absolute;
+    color: #022411;
+    text-align: center;
+    top: 50%;
+    left: 0;        /* !!! */
+    width:100%;
+    height: auto;
+    background-color: red;
+    border-top-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+    font-size: 18px;
+    line-height: 35px;
+  }
   .indica {
     position: absolute;
     bottom: 0px;
@@ -2283,7 +2297,22 @@
     font-size: 18px;
     line-height: 35px;
   }
+  
 
+  .soldOut {
+    position: absolute;
+    color: #022411;
+    text-align: center;
+    top: 50%;
+    left: 0;        /* !!! */
+    width:100%;
+    height: auto;
+    background-color: red;
+    border-top-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+    font-size: 18px;
+    line-height: 35px;
+  }
   .indica {
     position: absolute;
     bottom: 0px;

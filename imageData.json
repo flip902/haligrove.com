@@ -19,7 +19,9 @@
           "pain" : "81",
           "insomnia" : "79",
           "appetite" : "85",
-          "overall" : "83" 
+          "overall" : "83", 
+	"soldOut" : "none",
+	"opacity" : "1"
     },
 
     {
@@ -28,7 +30,7 @@
         "name" : "Fruity Pebbles",
         "src" : "../images/fruityPebbles.JPG",
         "type" : "hybrid",
-        "isNew" : "new",
+        "isNew" : "none",
         "sale" : "none",
         "pricePerGram" : "$10",
         "pricePerOunce" : "$210",
@@ -40,7 +42,10 @@
           "pain" : "82",
           "insomnia" : "83",
           "appetite" : "83",
-          "overall" : "83" 
+          "overall" : "83", 
+	"soldOut" : "soldOut",
+	"opacity" : "0.3"
+
     },
 
     {
@@ -62,7 +67,10 @@
           "pain" : "90",
           "insomnia" : "86",
           "appetite" : "87",
-          "overall" : "88" 
+          "overall" : "88", 
+	"soldOut" : "none",
+	"opacity" : "1"
+ 
     },
 
     {
@@ -84,7 +92,10 @@
           "pain" : "78",
           "insomnia" : "75",
           "appetite" : "77",
-          "overall" : "77"
+          "overall" : "77", 
+	"soldOut" : "none",
+	"opacity" : "1"
+
     },
 
     {
@@ -105,7 +116,10 @@
           "pain" : "76",
           "insomnia" : "72",
           "appetite" : "77",
-          "overall" : "77"
+          "overall" : "77", 
+	"soldOut" : "none",
+	"opacity" : "1"
+
     },
 
     {
@@ -126,7 +140,10 @@
           "pain" : "81",
           "insomnia" : "80",
           "appetite" : "82",
-          "overall" : "84"
+          "overall" : "84", 
+	"soldOut" : "none",
+	"opacity" : "1"
+
     },
 
     {
@@ -147,7 +164,10 @@
           "pain" : "78",
           "insomnia" : "78",
           "appetite" : "78",
-          "overall" : "78"
+          "overall" : "78", 
+	"soldOut" : "none",
+	"opacity" : "1"
+
     },
 
     {
@@ -169,7 +189,10 @@
           "pain" : "72",
           "insomnia" : "72",
           "appetite" : "82",
-          "overall" : "77"
+          "overall" : "77", 
+	"soldOut" : "none",
+	"opacity" : "1"
+
     },
 
     {
@@ -190,7 +213,10 @@
         "pain" : "83",
         "insomnia" : "82",
         "appetite" : "77",
-        "overall" : "82"
+        "overall" : "82", 
+      "soldOut" : "none",
+      "opacity" : "1"
+
     },
 
     {
@@ -211,7 +237,10 @@
         "pain" : "81",
         "insomnia" : "78",
         "appetite" : "79",
-        "overall" : "79"
+        "overall" : "79", 
+	"soldOut" : "none",
+	"opacity" : "1"
+
     },
 
     {
@@ -232,7 +261,10 @@
         "pain" : "81",
         "insomnia" : "78",
         "appetite" : "79",
-        "overall" : "78"
+        "overall" : "78", 
+	"soldOut" : "none",
+	"opacity" : "1"
+
     },
 
     {
@@ -253,7 +285,10 @@
           "pain" : "80",
           "insomnia" : "52",
           "appetite" : "64",
-          "overall" : "78"
+          "overall" : "78", 
+	"soldOut" : "none",
+	"opacity" : "1"
+
     },
 
     {
@@ -274,7 +309,10 @@
           "pain" : "64",
           "insomnia" : "60",
           "appetite" : "85",
-          "overall" : "74"
+          "overall" : "74", 
+	"soldOut" : "none",
+	"opacity" : "1"
+
     },
 
     {
@@ -295,7 +333,10 @@
         "pain" : "72",
         "insomnia" : "74",
         "appetite" : "81",
-        "overall" : "81"
+        "overall" : "81", 
+	"soldOut" : "none",
+	"opacity" : "1"
+
     },
    
     {
@@ -316,7 +357,10 @@
         "pain" : "83",
         "insomnia" : "71",
         "appetite" : "70",
-        "overall" : "77"
+        "overall" : "77", 
+	"soldOut" : "none",
+	"opacity" : "1"
+
     },
 
     {
@@ -337,7 +381,10 @@
         "pain" : "79",
         "insomnia" : "67",
         "appetite" : "73",
-        "overall" : "72"
+        "overall" : "72", 
+	"soldOut" : "none",
+	"opacity" : "1"
+
     },
 
     {
@@ -358,7 +405,10 @@
         "pain" : "60",
         "insomnia" : "62",
         "appetite" : "79",
-        "overall" : "74"
+        "overall" : "74", 
+	"soldOut" : "none",
+	"opacity" : "1"
+
     },
 
     {
@@ -379,7 +429,10 @@
         "pain" : "81",
         "insomnia" : "74",
         "appetite" : "78",
-        "overall" : "78"
+        "overall" : "78", 
+	"soldOut" : "none",
+	"opacity" : "1"
+
     },
    
     {
@@ -400,7 +453,10 @@
         "pain" : "82",
         "insomnia" : "84",
         "appetite" : "81",
-        "overall" : "83"
+        "overall" : "83", 
+	"soldOut" : "none",
+	"opacity" : "1"
+
     },
    
     {
@@ -420,7 +476,10 @@
         "pain" : "74",
         "insomnia" : "83",
         "appetite" : "81",
-        "overall" : "82"
+        "overall" : "82", 
+	"soldOut" : "none",
+	"opacity" : "1"
+
     },
    
     {
@@ -440,7 +499,10 @@
         "pain" : "74",
         "insomnia" : "72",
         "appetite" : "71",
-        "overall" : "82"
+        "overall" : "82", 
+	"soldOut" : "none",
+	"opacity" : "1"
+
     },
    
     {
@@ -460,7 +522,10 @@
         "pain" : "71",
         "insomnia" : "75",
         "appetite" : "74",
-        "overall" : "79"
+        "overall" : "79", 
+	"soldOut" : "none",
+	"opacity" : "1"
+
     },
 
     {
@@ -480,7 +545,10 @@
         "pain" : "70",
         "insomnia" : "74",
         "appetite" : "76",
-        "overall" : "79"
+        "overall" : "79", 
+	"soldOut" : "none",
+	"opacity" : "1"
+
     },
    
     {
@@ -500,7 +568,10 @@
         "pain" : "85",
         "insomnia" : "86",
         "appetite" : "86",
-        "overall" : "85"
+        "overall" : "85", 
+	"soldOut" : "none",
+	"opacity" : "1"
+
     },
    
     {
@@ -520,7 +591,10 @@
         "pain" : "79",
         "insomnia" : "64",
         "appetite" : "70",
-        "overall" : "76"
+        "overall" : "76", 
+	"soldOut" : "none",
+	"opacity" : "1"
+
     },
    
     {
@@ -540,7 +614,10 @@
         "pain" : "84",
         "insomnia" : "81",
         "appetite" : "89",
-        "overall" : "77"
+        "overall" : "77", 
+	"soldOut" : "none",
+	"opacity" : "1"
+
     },
    
     
@@ -562,7 +639,10 @@
         "pain" : "82",
         "insomnia" : "73",
         "appetite" : "78",
-        "overall" : "78"
+        "overall" : "78", 
+	"soldOut" : "none",
+	"opacity" : "1"
+
     },
    
     {
@@ -582,7 +662,10 @@
         "pain" : "83",
         "insomnia" : "82",
         "appetite" : "84",
-        "overall" : "78"
+        "overall" : "78", 
+	"soldOut" : "none",
+	"opacity" : "1"
+
     },
    
     {
@@ -602,7 +685,10 @@
         "pain" : "78",
         "insomnia" : "76",
         "appetite" : "78",
-        "overall" : "75"
+        "overall" : "75", 
+	"soldOut" : "none",
+	"opacity" : "1"
+
     },
     
     {
@@ -622,7 +708,10 @@
         "pain" : "64",
         "insomnia" : "78",
         "appetite" : "68",
-        "overall" : "76"
+        "overall" : "76", 
+	"soldOut" : "none",
+	"opacity" : "1"
+
     },
 
     {
@@ -642,7 +731,10 @@
         "pain" : "76",
         "insomnia" : "77",
         "appetite" : "77",
-        "overall" : "76"
+        "overall" : "76", 
+	"soldOut" : "none",
+	"opacity" : "1"
+
     },
 
     {
@@ -662,7 +754,10 @@
         "pain" : "70",
         "insomnia" : "68",
         "appetite" : "72",
-        "overall" : "70"
+        "overall" : "70", 
+	"soldOut" : "none",
+	"opacity" : "1"
+
     },
    
     {
@@ -682,7 +777,10 @@
         "pain" : "71",
         "insomnia" : "71",
         "appetite" : "78",
-        "overall" : "73"
+        "overall" : "73", 
+	"soldOut" : "none",
+	"opacity" : "1"
+
     }
    
    
