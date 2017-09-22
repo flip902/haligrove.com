@@ -781,7 +781,7 @@
     line-height: 35px;
   }
 
-  .soldOut {
+  .out {
     position: absolute;
     color: #022411;
     text-align: center;
@@ -2299,7 +2299,7 @@
   }
   
 
-  .soldOut {
+  .out {
     position: absolute;
     color: #022411;
     text-align: center;

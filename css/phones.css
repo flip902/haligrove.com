@@ -1053,7 +1053,7 @@
     line-height: 35px;
   }
 
-  .soldOut {
+  .out {
     position: absolute;
     color: #022411;
     text-align: center;
@@ -2590,7 +2590,7 @@
     position: relative;
   }
 
-  .soldOut {
+  .out {
     position: absolute;
     color: #022411;
     text-align: center;
@@ -4150,7 +4150,7 @@
     position: relative;
   }
 
-  .soldOut {
+  .out {
     position: absolute;
     color: #022411;
     text-align: center;
@@ -5720,7 +5720,7 @@
   .strainImageDiv {
     position: relative;
   }
-  .soldOut {
+  .out {
     position: absolute;
     color: #022411;
     text-align: center;
