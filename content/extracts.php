@@ -138,7 +138,7 @@
                     <div class="extractsPrice">
                         <span>$40 Per <br>2 for $70</span><br>
                         <h3>Atomic</h3>
-                        <p class="descriptionP">Earthy, skunky taste.<br>
+                        <p class="descriptionP">Earthy, skunky taste.
                         Purged for 106hrs<br>
                         Good for depression, increase of appetite
                         </p>
