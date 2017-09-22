@@ -57,14 +57,14 @@
         </ul>
         <br>
 	
-	<a href="/content/hash.php" class="pinkChalk">Red Lebanese</a>
+	<a href="/content/hash.php" class="pinkChalk">Red Lebanese Hash</a>
         <ui>
             <li>5 for $70</li>
             <li>10 for $135</li>
         </ul>
         <br>
 
-        <a href="/content/hash.php" class="pinkChalk">Romeo & Juliet, 777, Malaysian Cream</a>
+        <a href="/content/hash.php" class="pinkChalk">Romeo & Juliet, 777, Malaysian Cream Hash</a>
         <ui>
             <li>3 for $40</li>
             <li>5 for $65</li>
@@ -87,7 +87,7 @@
         </ul>
         <br>
         
-	<a href="/content/hash.php" class="pinkChalk">Mercedes</a>
+	<a href="/content/hash.php" class="pinkChalk">Mercedes Hash</a>
         <ui>
             <li>10 for $75</li>
             <li>30 for $210</li>

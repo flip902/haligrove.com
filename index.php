@@ -23,11 +23,12 @@
           <div class="carousel-inner">
 
             <div class="item active">
-              <a href="content/strains.php"><img src="images/islandPink.JPG" alt="island pink kush">
+              <a href="content/strains.php"><img src="images/rockstar.JPG" alt="rockstar">
                 
                 <div class="carousel-caption">
-                    <h3>Island Pink kush</h3>
-                    <p>Island Pink is one of our newest strains, worth a try!</p>
+                    <h3>Rockstar</h3>
+                    <p>On sale this week!<br>
+			10g for $70<br>28g for $185</p>
                 </div>
               </a>
             </div>
