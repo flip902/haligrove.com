@@ -19,7 +19,7 @@
           "pain" : "76",
           "insomnia" : "71",
           "appetite" : "79",
-          "overall" : "79", 
+          "overall" : "80", 
 	"soldOut" : "none",
 	"opacity" : "1"
     },
@@ -28,7 +28,7 @@
       "id" : "2",
 
         "name" : "Blueberry Hubba Bubba",
-        "src" : "../images/hubbaBubba.JPG",
+        "src" : "../images/bluberryHubbaBubba.JPG",
         "type" : "indica",
         "isNew" : "new",
         "sale" : "none",
