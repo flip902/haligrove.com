@@ -4,6 +4,52 @@
     {
       "id" : "1",
 
+        "name" : "White Widow Supreme",
+        "src" : "../images/whiteWidowSupreme.JPG",
+        "type" : "hybrid",
+        "isNew" : "new",
+        "sale" : "none",
+        "pricePerGram" : "$10",
+        "pricePerOunce" : "$210",
+        "description" : "This strain holds a pretty balanced 60:40 sativa/indica ratio ( Brazil Sativa x South Indian Indica) that leads one to a cognitive driven high with a relaxing undertone. Patients will opt for White Widow if they're seeking a strain that allows them to unwind and relax while still maintaining a sense of mental awareness. This strain is especially good for depression, stress, pain, and PTSD. White Widow gets its name from the fact that it is literally blanketed in white crystals. Beware though, this sweet sugary smoke starts out light but expands dramatically which can lead to heavy coughing; especially if you're a novice smoker. When it comes to smell, you can expect a citrus and peppery scent that is accompanied by a lemony aftertaste. This strain is perfect for outdoor activities like hanging out at the beach or taking a nice walk",
+        "inventory" : "full",
+          "THC" : "26",
+          "taste" : "81",
+          "aroma" : "81",
+          "pain" : "76",
+          "insomnia" : "71",
+          "appetite" : "79",
+          "overall" : "79", 
+	"soldOut" : "none",
+	"opacity" : "1"
+    },
+
+    {
+      "id" : "2",
+
+        "name" : "Blueberry Hubba Bubba",
+        "src" : "../images/hubbaBubba.JPG",
+        "type" : "indica",
+        "isNew" : "new",
+        "sale" : "none",
+        "pricePerGram" : "$10",
+        "pricePerOunce" : "$210",
+        "description" : "Hubba Bubba is an indica strain that has gained notoriety in the U.S. and beyond for its heavy tranquilizing effects. Sweet hashish flavors with subtle notes of bubble gum come through on the exhale, delighting the palate as powerful relaxation takes over. From head to toe, muscles ease with heaviness as dreamy euphoria blankets the mind, crushing stress while coercing happy moods. Bubba Kush exhibits a distinctive, bulky bud structure with hues that range from forest green to pale purple.",
+        "inventory" : "full",
+          "THC" : "26",
+          "taste" : "82",
+          "aroma" : "83",
+          "pain" : "81",
+          "insomnia" : "84",
+          "appetite" : "80",
+          "overall" : "82", 
+	"soldOut" : "none",
+	"opacity" : "1"
+    },
+
+    {
+      "id" : "3",
+
         "name" : "Island Pink Kush",
         "src" : "../images/islandPink.JPG",
         "type" : "hybrid",
@@ -25,7 +71,7 @@
     },
 
     {
-      "id" : "2",
+      "id" : "4",
 
         "name" : "Fruity Pebbles",
         "src" : "../images/fruityPebbles.JPG",
@@ -49,7 +95,7 @@
     },
 
     {
-      "id" : "3",
+      "id" : "5",
 
       
         "name" : "Blackfin Tuna",
@@ -75,7 +121,7 @@
 
     {
       
-      "id" : "4",
+      "id" : "6",
 
         "name" : "Tangerine Bliss",
         "src" : "../images/tangerineBliss.JPG",
@@ -99,7 +145,7 @@
     },
 
     {
-      "id" : "5",
+      "id" : "7",
 
         "name" : "S Lemon Rockstar",
         "src" : "../images/superLemonRockstar.JPG",
@@ -123,7 +169,7 @@
     },
 
     {
-      "id" : "6",
+      "id" : "8",
 
         "name" : "Deep Purple",
         "src" : "../images/deepPurple.JPG",
@@ -147,7 +193,7 @@
     },
 
     {
-      "id" : "7",
+      "id" : "9",
 
         "name" : "Monster Bud",
         "src" : "../images/monsterBud.JPG",
@@ -172,7 +218,7 @@
 
     {
 
-      "id" : "8",
+      "id" : "10",
 
         "name" : "Super Silver Haze",
         "src" : "../images/ssh.JPG",
@@ -196,7 +242,7 @@
     },
 
     {
-      "id" : "9",
+      "id" : "11",
 
       "name" : "Atomic Trainwreck",
       "src" : "../images/atomicTrainwreck.JPG",
@@ -220,7 +266,7 @@
     },
 
     {
-      "id" : "10",
+      "id" : "12",
 
       "name" : "BC Chemo",
       "src" : "../images/bcChemo.JPG",
@@ -244,7 +290,7 @@
     },
 
     {
-      "id" : "11",
+      "id" : "13",
 
       "name" : "Lemon OG",
       "src" : "../images/lemonOG.JPG",
@@ -268,7 +314,7 @@
     },
 
     {
-      "id" : "12",
+      "id" : "14",
 
         "name" : "Deadhead OG",
         "src" : "../images/deadHead.JPG",
@@ -292,7 +338,7 @@
     },
 
     {
-      "id" : "13",
+      "id" : "15",
 
         "name" : "Powerplant",
         "src" : "../images/powerplant.JPG",
@@ -316,7 +362,7 @@
     },
 
     {
-      "id" : "14",
+      "id" : "16",
 
       "name" : "Nuken",
       "src" : "../images/dukeNuken.JPG",
@@ -340,7 +386,7 @@
     },
    
     {
-      "id" : "15",
+      "id" : "17",
 
       "name" : "OG Kush",
       "src" : "../images/ogKush.JPG",
@@ -364,7 +410,7 @@
     },
 
     {
-      "id" : "16",
+      "id" : "18",
 
       "name" : "Kimo",
       "src" : "../images/kimo.JPG",
@@ -388,7 +434,7 @@
     },
 
     {
-      "id" : "17",
+      "id" : "19",
 
       "name" : "Critical Jack",
       "src" : "../images/criticalJack.JPG",
@@ -412,7 +458,7 @@
     },
 
     {
-      "id" : "18",
+      "id" : "20",
 
       "name" : "Rockstar",
       "src" : "../images/rockstar.JPG",
@@ -436,7 +482,7 @@
     },
    
     {
-      "id" : "19",
+      "id" : "21",
       "name" : "Tuna Kush",
       
       "src" : "../images/tuna.JPG",
@@ -461,7 +507,7 @@
    
     {
       "name" : "Gorilla Glue",
-      "id" : "20",
+      "id" : "22",
       "src" : "../images/gorillaGlue.JPG",
       "type" : "hybrid",
       "isNew" : "none",
@@ -484,7 +530,7 @@
    
     {
       "name" : "Cotton Candy",
-      "id" : "21",
+      "id" : "23",
       "src" : "../images/cottenCandy.JPG",
       "type" : "hybrid",
       "isNew" : "none",
@@ -507,7 +553,7 @@
    
     {
       "name" : "Larry OG",
-      "id" : "22",
+      "id" : "24",
       "src" : "../images/larryOG.JPG",
       "type" : "indica",
       "isNew" : "none",
@@ -530,7 +576,7 @@
 
     {
       "name" : "Candy Apple",
-      "id" : "23",
+      "id" : "25",
       "src" : "../images/candyApple.JPG",
       "type" : "indica",
       "isNew" : "none",
@@ -553,7 +599,7 @@
    
     {
       "name" : "Violator",
-      "id" : "24",
+      "id" : "26",
       "src" : "../images/violator.JPG",
       "type" : "hybrid",
       "isNew" : "none",
@@ -576,7 +622,7 @@
    
     {
       "name" : "Moby Dick",
-      "id" : "25",
+      "id" : "27",
       "src" : "../images/mobyDick.JPG",
       "type" : "sativa",
       "isNew" : "none",
@@ -599,7 +645,7 @@
    
     {
       "name" : "Black Widow",
-      "id" : "26",
+      "id" : "28",
       "src" : "../images/blackWidow.JPG",
       "type" : "hybrid",
       "isNew" : "none",
@@ -624,7 +670,7 @@
    
     {
       "name" : "MK Trips",
-      "id" : "27",
+      "id" : "29",
       "src" : "../images/mkTrip.JPG",
       "type" : "indica",
       "isNew" : "none",
@@ -647,7 +693,7 @@
    
     {
       "name" : "Bubba OG",
-      "id" : "28",
+      "id" : "30",
       "src" : "../images/bubbaOG.JPG",
       "type" : "indica",
       "isNew" : "none",
@@ -670,7 +716,7 @@
    
     {
       "name" : "Double Barrel OG",
-      "id" : "29",
+      "id" : "31",
       "src" : "../images/doubleBarrelOG.JPG",
       "type" : "indica",
       "isNew" : "none",
@@ -693,7 +739,7 @@
     
     {
       "name" : "Reef Jerky",
-      "id" : "30",
+      "id" : "32",
       "src" : "../images/reefJerky.JPG",
       "type" : "sativa",
       "isNew" : "none",
@@ -716,7 +762,7 @@
 
     {
       "name" : "Crown Royal",
-      "id" : "31",
+      "id" : "33",
       "src" : "../images/crownRoyal.JPG",
       "type" : "indica",
       "isNew" : "none",
@@ -739,7 +785,7 @@
 
     {
       "name" : "White Widow AA",
-      "id" : "32",
+      "id" : "34",
       "src" : "../images/whiteWidow.JPG",
       "type" : "hybrid",
       "isNew" : "none",
@@ -762,7 +808,7 @@
    
     {
       "name" : "Hindu Dub",
-      "id" : "33",
+      "id" : "35",
       "src" : "../images/hinduDub.JPG",
       "type" : "indica",
       "isNew" : "none",
