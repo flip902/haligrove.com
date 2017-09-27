@@ -26,7 +26,7 @@
                             $15<span> Gram</span> / 5 <span>for</span> $70 
                             <p>soft, brownish red center</p>
                         </div>
-                        <div id="sevenInventory">
+                        <div id="redLeb">
                             <div></div>
                         </div>
                         <p class="inventoryPTag">inventory</p>

@@ -8,7 +8,7 @@
     <title>Haligrove.com</title>
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-    <link rel="stylesheet" href="../css/styles.css"> <!-- production -->
+    <link rel="stylesheet" href="../css/styles.css?<?php echo time(); ?>"> <!-- production -->
     <link rel="stylesheet" href="css/styles.css"> <!-- production -->
     <link rel="stylesheet" href="../css/tablets.css">
     <link rel="stylesheet" href="css/tablets.css">

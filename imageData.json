@@ -19,7 +19,7 @@
           "pain" : "76",
           "insomnia" : "71",
           "appetite" : "79",
-          "overall" : "80", 
+          "overall" : "79", 
 	"soldOut" : "none",
 	"opacity" : "1"
     },
@@ -34,7 +34,7 @@
         "sale" : "none",
         "pricePerGram" : "$10",
         "pricePerOunce" : "$210",
-        "description" : "Hubba Bubba is an indica strain that has gained notoriety in the U.S. and beyond for its heavy tranquilizing effects. Sweet hashish flavors with subtle notes of bubble gum come through on the exhale, delighting the palate as powerful relaxation takes over. From head to toe, muscles ease with heaviness as dreamy euphoria blankets the mind, crushing stress while coercing happy moods. Bubba Kush exhibits a distinctive, bulky bud structure with hues that range from forest green to pale purple.",
+        "description" : "Hubba Bubba is an indica strain that has gained notoriety in the U.S. and beyond for its heavy tranquilizing effects. Sweet hashish flavors with subtle notes of bubble gum come through on the exhale, delighting the palate as powerful relaxation takes over. From head to toe, muscles ease with heaviness as dreamy euphoria blankets the mind, crushing stress while coercing happy moods.",
         "inventory" : "full",
           "THC" : "26",
           "taste" : "82",
@@ -252,7 +252,7 @@
       "pricePerGram" : "$10",
       "pricePerOunce" : "$210",
       "description" : "Don't confuse this strain with regular Trainwreck, this is an Indica strain that has amazing taste and hard hitting, longlasting effects great for pain, insomnia, and headaches",
-      "inventory" : "full",
+      "inventory" : "med",
         "THC" : "25",
         "taste" : "86",
         "aroma" : "81",
@@ -276,7 +276,7 @@
       "pricePerGram" : "$10",
       "pricePerOunce" : "$210",
       "description" : "This strain originates from British Columbia and was primarily developed to treat cancer patients without having to undergo the disastrous side effects of chemotherapy, hence the name.Considering its potent high, you may be tempted to overdo it at times. The strain will give you the munchies in no time, which is perfect for patients suffering from a loss appetite. Additionally, it has also been used by patients suffering from panic attacks and paranoia.",
-      "inventory" : "med",
+      "inventory" : "low",
         "THC" : "25",
         "taste" : "80",
         "aroma" : "80",
@@ -755,8 +755,8 @@
         "insomnia" : "78",
         "appetite" : "68",
         "overall" : "76", 
-	"soldOut" : "none",
-	"opacity" : "1"
+	"soldOut" : "sold out",
+	"opacity" : "0.2"
 
     },
 
@@ -793,7 +793,7 @@
       "pricePerGram" : "$10",
       "pricePerOunce" : "$180",
       "description" : "This particular strain of White Widow is leafy but was trimmed that way for a reason… to get as much of the resin as we can. Usually a leafy strain effects the taste, but not the case here, what you are left with is a good tasting, fresh, resin packed hybrid with mild euphoric effects.",
-      "inventory" : "med",
+      "inventory" : "low",
         "THC" : "19",
         "taste" : "72",
         "aroma" : "72",

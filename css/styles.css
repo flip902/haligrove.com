@@ -327,6 +327,7 @@
     border-radius: 15px;
     margin: 0 0px 50px 140px;
     box-shadow: 20px 20px 5px rgba(43, 41, 41, 0.76); 
+    z-index: 0;
   }
   
   .strainsSquare {
@@ -334,7 +335,12 @@
     height: 100%;
     width: 100%;
     background-color: #899D41;
-    border-bottom-right-radius: 10px;
+    border-radius: 8px;
+    overflow: hidden;
+  }
+
+  .strainsSquare a {
+    border-radius: 15px;
   }
 
   .strainsSquare img {
@@ -344,8 +350,10 @@
     width: 100%;
     opacity: 0.4;
     border-radius: 15px;
-    z-index: 1;
+
   }
+
+
 
   .strainsButton {
     position: absolute;

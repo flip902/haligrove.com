@@ -34,7 +34,7 @@
         </ul>
         <br>
     
-        <a href="strains.php">White Widow, Hindu & Crown Royal</a>
+        <a href="strains.php">White Widow AA, Hindu Dub & Crown Royal</a>
         <ui>
             <li>5g for $35</li>
             <li>10 for $60</li>
@@ -48,7 +48,7 @@
 
         <!-- <img class="arrow" src="https://cdn3.iconfinder.com/data/icons/google-material-design-icons/48/ic_keyboard_arrow_down_48px-128.png" /> -->
 
-        <a href="strains.php">All Strains sell as follows:</a><br>
+        <a href="strains.php">All Strains (excluding Blackfin Tuna) sell as follows:</a><br>
         <ui>
             <li>5g for $40</li>
             <li>10 for $80</li>
