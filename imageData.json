@@ -766,7 +766,7 @@
       "src" : "../images/crownRoyal.JPG",
       "type" : "indica",
       "isNew" : "none",
-      "sale" : "sale",
+      "sale" : "none",
       "pricePerGram" : "$6",
       "pricePerOunce" : "$160",
       "description" : "Crown Royale exhibits notes of the forest floor with piney aromas and a telltale berry tartness. These scents show up in the flavor as a sweeter, fruiter pine. Enjoy this strain for pervasive physical effects that dull pain, nausea, and stress.",
@@ -778,8 +778,8 @@
         "insomnia" : "77",
         "appetite" : "77",
         "overall" : "76", 
-	"soldOut" : "none",
-	"opacity" : "1"
+	"soldOut" : "sold out",
+	"opacity" : "0.3"
 
     },
 

@@ -34,7 +34,7 @@
         </ul>
         <br>
     
-        <a href="strains.php">White Widow AA, Hindu Dub & Crown Royal</a>
+        <a href="strains.php">White Widow AA, Hindu Dub</a>
         <ui>
             <li>5g for $35</li>
             <li>10 for $60</li>
