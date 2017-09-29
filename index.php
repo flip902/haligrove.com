@@ -23,7 +23,7 @@
           <div class="carousel-inner">
 
             <div class="item active">
-              <a href="content/strains.php"><img src="images/powerPlant.JPG" alt="rockstar">
+              <a href="content/strains.php"><img src="images/powerplant.JPG" alt="rockstar">
                 
                 <div class="carousel-caption">
                     <h3>Picks Of The Week:</h3>

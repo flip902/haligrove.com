@@ -12,7 +12,7 @@
 
     <div contenteditable="false" class="chalkboardbody">
 	<br>
-       <h1 class="pickOTW">Pick Of The Week:</h1>
+       <h1 class="pickOTW">Picks Of The Week:</h1>
        <p>For a limited time, every week we will put 2 of our regular priced strains
         on sale! So make sure you check back every week!
        </p>
