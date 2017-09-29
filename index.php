@@ -23,22 +23,23 @@
           <div class="carousel-inner">
 
             <div class="item active">
-              <a href="content/strains.php"><img src="images/rockstar.JPG" alt="rockstar">
+              <a href="content/strains.php"><img src="images/powerPlant.JPG" alt="rockstar">
                 
                 <div class="carousel-caption">
-                    <h3>Rockstar</h3>
-                    <p>On sale this week!<br>
-			10g for $70<br>28g for $185</p>
+                    <h3>Picks Of The Week:</h3>
+                    <p>Deadhead & Powerplant<br>
+			              10g for $70<br>28g for $185</p>
                 </div>
               </a>
             </div>
 
             <div class="item">
-              <a href="content/extracts.php"><img src="images/extractsCover.JPG" alt="Extracts">
+              <a href="content/specials.php"><img src="images/atomicPurpleCandyAd.JPG" alt="Extracts">
 
                 <div class="carousel-caption">
                     <h3>Extracts</h3>
-                    <p>Great new selection of shatter products!</p>
+                    <p>Yellow Package sale!</p>
+                    <p>3 for $100</p>
                 </div>
               </a>
             </div>
@@ -54,11 +55,11 @@
             </div>
               
             <div class="item">
-              <a href="content/specials.php"><img src="images/dealsBig.png" alt="Specials">
+              <img src="images/referral.png" alt="referral">
                 
                 <div class="carousel-caption">
-                    <h3>Don't miss our Specials!</h3>
-                    <p>5g for $40, 10g for $80</p>
+                    <h3>Ask about our referral program</h3>
+                    <p>gain rewards!</p>
                 </div>
               </a>
             </div>

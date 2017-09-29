@@ -60,8 +60,9 @@
             <div class="extractsBox col-lg-6 col-md-6">
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
+                        <div class="sold out" style="z-index: 1">sold out</div>
                         <div class="hybrid">hybrid</div>
-                        <img src= "../images/edmontonOilers.JPG" style="height: 100%">
+                        <img src= "../images/edmontonOilers.JPG" style="height: 100%; opacity: 0.3">
                     </div>
                     <div class="extractsItemTitle" id="">Edmonton Oilers</div>
                     <div class="extractsPrice">
@@ -108,6 +109,7 @@
             <div class="extractsBox col-lg-6 col-md-6">
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
+                        <div class="sale"><a href="specials.php">sale</a></div>
                         <div class="indica">indica</div>
                         <img src= "../images/atomicPurpleCandy.JPG" style="height: 100%">
                     </div>
@@ -131,6 +133,7 @@
             <div class="extractsBox col-lg-6 col-md-6">
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
+                        <div class="sale"><a href="specials.php">sale</a></div>
                         <div class="indica">indica</div>
                         <img src= "../images/atomicBubbaKush.JPG" style="height: 100%">
                     </div>
@@ -176,6 +179,7 @@
             <div class="extractsBox col-lg-6 col-md-6">
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
+                    <div class="sale"><a href="specials.php">sale</a></div>
                         <img src= "../images/purpleKushShat.JPG" style="height: 100%">
                     </div>
                     <div class="extractsItemTitle" id="">Purple Kush</div>
@@ -198,6 +202,7 @@
             <div class="extractsBox col-lg-6 col-md-6">
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
+                        <div class="sale"><a href="specials.php">sale</a></div>
                         <img src= "../images/pinkKushShat.JPG" style="height: 100%">
                     </div>
                     <div class="extractsItemTitle" id="">Pink Kush</div>

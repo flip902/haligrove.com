@@ -73,30 +73,6 @@
     {
       "id" : "4",
 
-        "name" : "Fruity Pebbles",
-        "src" : "../images/fruityPebbles.JPG",
-        "type" : "hybrid",
-        "isNew" : "none",
-        "sale" : "none",
-        "pricePerGram" : "$10",
-        "pricePerOunce" : "$210",
-        "description" : "Fruity Pebbles is an indica dominant hybrid created by breeders at the infamous Alien Genetics cannabis farms. This dank bud is a cross between the hugely popular Green Ribbon X Granddaddy Purple X Tahoe OG X Alien Kush",
-        "inventory" : "low",
-          "THC" : "25",
-          "taste" : "83",
-          "aroma" : "83",
-          "pain" : "82",
-          "insomnia" : "83",
-          "appetite" : "83",
-          "overall" : "83", 
-	"soldOut" : "sold out",
-	"opacity" : "0.3"
-
-    },
-
-    {
-      "id" : "5",
-
       
         "name" : "Blackfin Tuna",
         "src" : "../images/bluefinTuna.JPG",
@@ -121,7 +97,7 @@
 
     {
       
-      "id" : "6",
+      "id" : "5",
 
         "name" : "Tangerine Bliss",
         "src" : "../images/tangerineBliss.JPG",
@@ -145,7 +121,7 @@
     },
 
     {
-      "id" : "7",
+      "id" : "6",
 
         "name" : "S Lemon Rockstar",
         "src" : "../images/superLemonRockstar.JPG",
@@ -155,7 +131,7 @@
         "pricePerGram" : "$10",
         "pricePerOunce" : "$210",
         "description" : "As the name states this strain has real lemony characteristics. The smell is zesty, citrusy, and a little sweet. As for the taste, it's everything one would expect from the namesake; tart and sweet like lemonheads candy - not quite as sharp as one might expect. The effects are uniquely energetic and lively, may not be the best strain for those of us that are naturally wound-up tight.",
-          "inventory" : "full",
+          "inventory" : "med",
           "THC" : "22",
           "taste" : "79",
           "aroma" : "78",
@@ -169,7 +145,7 @@
     },
 
     {
-      "id" : "8",
+      "id" : "7",
 
         "name" : "Deep Purple",
         "src" : "../images/deepPurple.JPG",
@@ -193,7 +169,7 @@
     },
 
     {
-      "id" : "9",
+      "id" : "8",
 
         "name" : "Monster Bud",
         "src" : "../images/monsterBud.JPG",
@@ -218,13 +194,13 @@
 
     {
 
-      "id" : "10",
+      "id" : "9",
 
         "name" : "Super Silver Haze",
         "src" : "../images/ssh.JPG",
         "type" : "sativa",
         "isNew" : "none",
-        "sale" : "sale",
+        "sale" : "none",
         "pricePerGram" : "$10",
         "pricePerOunce" : "$210",
         "description" : "SSH was the first prize winner at the High Times Cannabis Cup in 1997, 1998, and 1999. It also won awards at the High Times Harvest Festival. By crossing the genetics of Skunk, Northern Lights, and Haze, we are left with a beautiful, sticky sativa blend that boasts an energetic, long-lasting body high. The uplifting effects are a great remedy for high stress levels or when suffering from a lack of appetite or nausea.",
@@ -242,7 +218,7 @@
     },
 
     {
-      "id" : "11",
+      "id" : "10",
 
       "name" : "Atomic Trainwreck",
       "src" : "../images/atomicTrainwreck.JPG",
@@ -266,7 +242,7 @@
     },
 
     {
-      "id" : "12",
+      "id" : "11",
 
       "name" : "BC Chemo",
       "src" : "../images/bcChemo.JPG",
@@ -290,7 +266,7 @@
     },
 
     {
-      "id" : "13",
+      "id" : "12",
 
       "name" : "Lemon OG",
       "src" : "../images/lemonOG.JPG",
@@ -314,13 +290,13 @@
     },
 
     {
-      "id" : "14",
+      "id" : "13",
 
         "name" : "Deadhead OG",
         "src" : "../images/deadHead.JPG",
         "type" : "hybrid",
         "isNew" : "none",
-        "sale" : "none",
+        "sale" : "sale",
         "pricePerGram" : "$10",
         "pricePerOunce" : "$210",
         "description" : "Apart from having an amazing potency level, Deadhead OG has a classic O.G taste and great flavour. Deadhead will not leave you with an itchy throat and is not as harsh as some strains. This strain is great for depression, anxiety, pain, stress, and can leave you feeling euphoric and giggly. Must try for those who wish to stay active and alert after medicating.",
@@ -338,13 +314,13 @@
     },
 
     {
-      "id" : "15",
+      "id" : "14",
 
         "name" : "Powerplant",
         "src" : "../images/powerplant.JPG",
         "type" : "hybrid",
         "isNew" : "none",
-        "sale" : "none",
+        "sale" : "sale",
         "pricePerGram" : "$10",
         "pricePerOunce" : "$210",
         "description" : "Use this strain for early afternoons or, if you wake and bake, mornings, as it provides a clear-headed boost of energy, with a creative spark and happy euphoria. Power Plant has a sweet taste with earthy, woody flavors.",
@@ -362,7 +338,7 @@
     },
 
     {
-      "id" : "16",
+      "id" : "15",
 
       "name" : "Nuken",
       "src" : "../images/dukeNuken.JPG",
@@ -386,7 +362,7 @@
     },
    
     {
-      "id" : "17",
+      "id" : "16",
 
       "name" : "OG Kush",
       "src" : "../images/ogKush.JPG",
@@ -410,7 +386,7 @@
     },
 
     {
-      "id" : "18",
+      "id" : "17",
 
       "name" : "Kimo",
       "src" : "../images/kimo.JPG",
@@ -434,7 +410,7 @@
     },
 
     {
-      "id" : "19",
+      "id" : "18",
 
       "name" : "Critical Jack",
       "src" : "../images/criticalJack.JPG",
@@ -458,13 +434,13 @@
     },
 
     {
-      "id" : "20",
+      "id" : "19",
 
       "name" : "Rockstar",
       "src" : "../images/rockstar.JPG",
       "type" : "hybrid",
       "isNew" : "none",
-      "sale" : "sale",
+      "sale" : "none",
       "pricePerGram" : "$10",
       "pricePerOunce" : "$200",
       "description" : "Rockstars potent effects are said to be perfect for treating chronic pain, muscle spasms or tremors, inflammation, and mild to moderate cases of depression. This bud has an aroma of spicy grapey earth with a hint of skunky pungent herbs and a taste of spiced mulled wine with a pungent slightly skunky exhale. Rockstar buds have medium-sized dense and lumpy dark olive green spade-shaped nugs with rich purple undertones, fiery orange hairs, and frosty trichome covered purple leaves.",
@@ -482,7 +458,7 @@
     },
    
     {
-      "id" : "21",
+      "id" : "20",
       "name" : "Tuna Kush",
       
       "src" : "../images/tuna.JPG",
@@ -507,7 +483,7 @@
    
     {
       "name" : "Gorilla Glue",
-      "id" : "22",
+      "id" : "21",
       "src" : "../images/gorillaGlue.JPG",
       "type" : "hybrid",
       "isNew" : "none",
@@ -530,7 +506,7 @@
    
     {
       "name" : "Cotton Candy",
-      "id" : "23",
+      "id" : "22",
       "src" : "../images/cottenCandy.JPG",
       "type" : "hybrid",
       "isNew" : "none",
@@ -553,7 +529,7 @@
    
     {
       "name" : "Larry OG",
-      "id" : "24",
+      "id" : "23",
       "src" : "../images/larryOG.JPG",
       "type" : "indica",
       "isNew" : "none",
@@ -576,7 +552,7 @@
 
     {
       "name" : "Candy Apple",
-      "id" : "25",
+      "id" : "24",
       "src" : "../images/candyApple.JPG",
       "type" : "indica",
       "isNew" : "none",
@@ -599,7 +575,7 @@
    
     {
       "name" : "Violator",
-      "id" : "26",
+      "id" : "25",
       "src" : "../images/violator.JPG",
       "type" : "hybrid",
       "isNew" : "none",
@@ -622,7 +598,7 @@
    
     {
       "name" : "Moby Dick",
-      "id" : "27",
+      "id" : "26",
       "src" : "../images/mobyDick.JPG",
       "type" : "sativa",
       "isNew" : "none",
@@ -645,7 +621,7 @@
    
     {
       "name" : "Black Widow",
-      "id" : "28",
+      "id" : "27",
       "src" : "../images/blackWidow.JPG",
       "type" : "hybrid",
       "isNew" : "none",
@@ -670,7 +646,7 @@
    
     {
       "name" : "MK Trips",
-      "id" : "29",
+      "id" : "28",
       "src" : "../images/mkTrip.JPG",
       "type" : "indica",
       "isNew" : "none",
@@ -693,7 +669,7 @@
    
     {
       "name" : "Bubba OG",
-      "id" : "30",
+      "id" : "29",
       "src" : "../images/bubbaOG.JPG",
       "type" : "indica",
       "isNew" : "none",
@@ -716,7 +692,7 @@
    
     {
       "name" : "Double Barrel OG",
-      "id" : "31",
+      "id" : "30",
       "src" : "../images/doubleBarrelOG.JPG",
       "type" : "indica",
       "isNew" : "none",
@@ -739,7 +715,7 @@
     
     {
       "name" : "Reef Jerky",
-      "id" : "32",
+      "id" : "31",
       "src" : "../images/reefJerky.JPG",
       "type" : "sativa",
       "isNew" : "none",
@@ -762,7 +738,7 @@
 
     {
       "name" : "Crown Royal",
-      "id" : "33",
+      "id" : "32",
       "src" : "../images/crownRoyal.JPG",
       "type" : "indica",
       "isNew" : "none",
@@ -785,7 +761,7 @@
 
     {
       "name" : "White Widow AA",
-      "id" : "34",
+      "id" : "33",
       "src" : "../images/whiteWidow.JPG",
       "type" : "hybrid",
       "isNew" : "none",
@@ -808,7 +784,7 @@
    
     {
       "name" : "Hindu Dub",
-      "id" : "35",
+      "id" : "34",
       "src" : "../images/hinduDub.JPG",
       "type" : "indica",
       "isNew" : "none",

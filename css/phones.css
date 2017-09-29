@@ -279,6 +279,24 @@
   border-radius: 10px;
 }
 
+div h1.pickOTW {
+  color: #DE28A9;
+  font-size: 40px;
+  font-weight: bold;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  text-shadow: 1px 1px black;
+}
+
+p a.blue {
+  color:#191CE0;
+  
+}
+
+div h1.shatterDeal {
+  color: #191CE0;
+  text-shadow: 1px 1px black;
+}
+
 /* landscape phones */
 @media (min-width: 545px) and (max-width: 669px) {
     body {

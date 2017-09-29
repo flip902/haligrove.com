@@ -12,15 +12,28 @@
 
     <div contenteditable="false" class="chalkboardbody">
 	<br>
-       <h1>Great Strains... @ Great Prices!<br>Try Something Different<br>(for limited time only!)</h1>
+       <h1 class="pickOTW">Pick Of The Week:</h1>
+       <p>For a limited time, every week we will put 2 of our regular priced strains
+        on sale! So make sure you check back every week!
+       </p>
         <br/>
+        <h1 class="pickOTW">This Week:</h1>
 	
-	<a href="strains.php#17">Rockstar</a> <a href="strains.php#7">& Super Silver Haze</a>
+	<a href="strains.php#" class="pink">Deadhead OG</a> <a href="strains.php#" class="pink">& Powerplant</a>
         <ui>
             <li>10 for $70</li>
             <li>28 for $185</li>
         </ul>
         <br>
+
+        <h1 class="shatterDeal">Shatter Special!!</h1>
+        <p>Get any combination of 3 <a href="extracts.php" class="blue">Atomic</a> or <a href="extracts.php" class="blue">Sorcerer</a> 
+        Shatter (yellow packaging only) for $100
+        <p>
+
+        <br>
+        
+
        
        <h1>Get these strains while you can. At these prices they are going fast!</h1> 
         
