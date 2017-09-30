@@ -416,7 +416,7 @@
       "src" : "../images/criticalJack.JPG",
       "type" : "sativa",
       "isNew" : "none",
-      "sale" : "sale",
+      "sale" : "none",
       "pricePerGram" : "$10",
       "pricePerOunce" : "$195",
       "description" : "Critical Jack, a hybrid cross between Critical Plus and Jack Herer, delivers functional cerebral effects with a flavorful blend of lemon, pine, and floral aromas. Its effects are light on the body and stimulating to the mind, allowing one to fixate their attention strongly on whatever task is at hand. Uplifting qualities make Critical Jack a popular daytime remedy for depression, appetite loss, and headaches.",
@@ -428,8 +428,8 @@
         "insomnia" : "62",
         "appetite" : "79",
         "overall" : "74", 
-	"soldOut" : "none",
-	"opacity" : "1"
+	"soldOut" : "sold out",
+	"opacity" : "0.3"
 
     },
 
@@ -606,7 +606,7 @@
       "pricePerGram" : "$10",
       "pricePerOunce" : "$210",
       "description" : "Originating in Amsterdam. Moby Dicks high THC content makes it one of the strongest sativas. The aroma is a sweet citrus from the haze, which dominates the palate with vanilla and eucalyptus tones.",
-      "inventory" : "med",
+      "inventory" : "low",
         "THC" : "23",
         "taste" : "78",
         "aroma" : "78",
@@ -737,16 +737,16 @@
     },
 
     {
-      "name" : "Crown Royal",
+      "name" : "Green Crack",
       "id" : "32",
-      "src" : "../images/crownRoyal.JPG",
-      "type" : "indica",
-      "isNew" : "none",
-      "sale" : "none",
-      "pricePerGram" : "$6",
-      "pricePerOunce" : "$160",
-      "description" : "Crown Royale exhibits notes of the forest floor with piney aromas and a telltale berry tartness. These scents show up in the flavor as a sweeter, fruiter pine. Enjoy this strain for pervasive physical effects that dull pain, nausea, and stress.",
-      "inventory" : "low",
+      "src" : "../images/greenCrack.JPG",
+      "type" : "hybrid",
+      "isNew" : "new",
+      "sale" : "sale",
+      "pricePerGram" : "$7",
+      "pricePerOunce" : "$170",
+      "description" : "",
+      "inventory" : "full",
         "THC" : "21",
         "taste" : "76",
         "aroma" : "76",
@@ -754,8 +754,8 @@
         "insomnia" : "77",
         "appetite" : "77",
         "overall" : "76", 
-	"soldOut" : "sold out",
-	"opacity" : "0.3"
+	"soldOut" : "none",
+	"opacity" : "1"
 
     },
 
@@ -765,7 +765,7 @@
       "src" : "../images/whiteWidow.JPG",
       "type" : "hybrid",
       "isNew" : "none",
-      "sale" : "sale",
+      "sale" : "none",
       "pricePerGram" : "$10",
       "pricePerOunce" : "$180",
       "description" : "This particular strain of White Widow is leafy but was trimmed that way for a reason… to get as much of the resin as we can. Usually a leafy strain effects the taste, but not the case here, what you are left with is a good tasting, fresh, resin packed hybrid with mild euphoric effects.",
@@ -777,8 +777,8 @@
         "insomnia" : "68",
         "appetite" : "72",
         "overall" : "70", 
-	"soldOut" : "none",
-	"opacity" : "1"
+	"soldOut" : "sold out",
+	"opacity" : "0.3"
 
     },
    

@@ -229,7 +229,7 @@
 
 #malaysianInventory > div {
   background-color: #C9DF78;
-  width: 75%; /* Adjust with JavaScript */
+  width: 49%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -244,7 +244,7 @@
 
 #moroccanInventory > div {
   background-color: #C9DF78;
-  width: 100%; /* Adjust with JavaScript */
+  width: 90%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -265,7 +265,7 @@
 }
 
 #redLeb {
-  width: 80%;
+  width: 75%;
   background-color: black;
   border-radius: 13px; /* (height of inner div) / 2 + padding */
   padding: 3px;
@@ -274,7 +274,7 @@
 
 #redLeb > div {
   background-color: #C9DF78;
-  width: 90%; /* Adjust with JavaScript */
+  width: 80%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }

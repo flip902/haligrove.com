@@ -36,8 +36,16 @@
 
        
        <h1>Get these strains while you can. At these prices they are going fast!</h1> 
+
+       <a href="strains.php#32">Green Crack</a>
+	  <ui>
+	      <li>5g for $35</li>
+              <li>10 for $65</li>
+	      <li>20 for $120<li>
+	  </ul>
+	  <br>
         
-        <a href="strains.php#26">Black Widow</a>, <a href="strains.php#30">Double Barrel Og</a>,<br> <a href="strains.php#16">Critical Jack </a>.....<br> 
+        <a href="strains.php#26">Black Widow</a>, <a href="strains.php#30">Double Barrel Og</a>,<br> 
         For Limited Time Only!</a>
         <ui>
             <li>5g for $35</li>
@@ -47,7 +55,7 @@
         </ul>
         <br>
     
-        <a href="strains.php">White Widow AA, Hindu Dub</a>
+        <a href="strains.php">Hindu Dub</a>
         <ui>
             <li>5g for $35</li>
             <li>10 for $60</li>
