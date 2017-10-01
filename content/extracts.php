@@ -16,7 +16,7 @@
         <div class="extractsBox col-lg-6 col-md-6">
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
-			<div class="sold out" style="opacity: 1">sold out</div>
+			<div class="sold out" style="z-index: 1">sold out</div>
                         <div class="indica">indica</div>
                         <img src= "../images/8ballKush.JPG" style="height: 100%; opacity: 0.3">
                     </div>
@@ -40,7 +40,8 @@
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
                         <div class="indica">indica</div>
-                        <img src= "../images/trueOG.JPG" style="height: 100%">
+			<div class="sold out" style="z-index: 1">sold out</div>
+                        <img src= "../images/trueOG.JPG" style="height: 100%; opacity: 0.3">
                     </div>
                     <div class="extractsItemTitle" id="">True OG</div>
                     <div class="extractsPrice">
