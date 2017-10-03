@@ -16,20 +16,19 @@
         <div class="extractsBox col-lg-6 col-md-6">
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
-			<div class="sold out" style="z-index: 1">sold out</div>
-                        <div class="indica">indica</div>
-                        <img src= "../images/8ballKush.JPG" style="height: 100%; opacity: 0.3">
+			<div class="new">new</div>
+                        <div class="sativa">sativa</div>
+                        <img src= "../images/incredibleHulk.JPG" style="height: 100%">
                     </div>
-                    <div class="extractsItemTitle" id="">8ball Kush</div>
+                    <div class="extractsItemTitle" id="">Incredible Hulk</div>
                     <div class="extractsPrice">
                         <span>$40 Per </span><br>
                         <h3>Phyto Extractions</h3>
-                        <p class="descriptionP">Pine, earthy, pungent, taste.
-                        Effective for Stress, pain, depression, and fatigue
-                        </p>
+                        <p class="descriptionP">citrus, sweet, earthy.
+                        Effective for Stress, pain, lack of appetite                        </p>
                     </div>
                         
-                    <div id="eightballInventory">
+                    <div id="HulkInventory">
                         <div></div>
                     </div>
                     <p class="inventoryPTag">inventory</p>
@@ -40,19 +39,19 @@
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
                         <div class="indica">indica</div>
-			<div class="sold out" style="z-index: 1">sold out</div>
-                        <img src= "../images/trueOG.JPG" style="height: 100%; opacity: 0.3">
+			<div class="new">new</div>
+                        <img src= "../images/godzilla.JPG" style="height: 100%">
                     </div>
-                    <div class="extractsItemTitle" id="">True OG</div>
+                    <div class="extractsItemTitle" id="">Godzilla</div>
                     <div class="extractsPrice">
                         <span>$40 Per </span><br>
                         <h3>Phyto Extractions</h3>
-                        <p class="descriptionP">earthy, pungent, citrus taste.
-                        Great for insomnia, stress, and pain
+                        <p class="descriptionP">earthy, pungent, berry taste.
+                        Great for inflamation, stress, and pain
                         </p>
                     </div>
                         
-                    <div id="trueOGInventory">
+                    <div id="godzillaInventory">
                         <div></div>
                     </div>
                     <p class="inventoryPTag">inventory</p>
@@ -62,20 +61,20 @@
             <div class="extractsBox col-lg-6 col-md-6">
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
-                        <div class="sold out" style="z-index: 1">sold out</div>
+                        <div class="new">new</div>
                         <div class="hybrid">hybrid</div>
-                        <img src= "../images/edmontonOilers.JPG" style="height: 100%; opacity: 0.3">
+                        <img src= "../images/cherryPie.JPG" style="height: 100%">
                     </div>
-                    <div class="extractsItemTitle" id="">Edmonton Oilers</div>
+                    <div class="extractsItemTitle" id="">Cherry Pie</div>
                     <div class="extractsPrice">
                         <span>$40 Per </span><br>
                         <h3>Phyto Extractions</h3>
-                        <p class="descriptionP">citrus, pine, pungent, taste.
-                        Great for insomnia, pain, and depression
+                        <p class="descriptionP">sweet, cherry, earthy.
+                        Great for stress, pain, and depression
                         </p>
                     </div>
                         
-                    <div id="edmontonOilersInventory">
+                    <div id="cherryPieInventory">
                         <div></div>
                     </div>
                     <p class="inventoryPTag">inventory</p>
@@ -225,7 +224,6 @@
             <div class="extractsBox col-lg-6 col-md-6">
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
-                        <div class="new">new</div>
                         <img src= "../images/oilPen.JPG" alt="Oil Pen" style="height:100%">
                             
                     </div>

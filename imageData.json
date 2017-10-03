@@ -101,7 +101,7 @@
 
         "name" : "Tangerine Bliss",
         "src" : "../images/tangerineBliss.JPG",
-        "type" : "indica",
+        "type" : "sativa",
         "isNew" : "none",
         "sale" : "none",
         "pricePerGram" : "$10",
@@ -361,80 +361,12 @@
 
     },
    
-    {
+    
+
+    
+
+        {
       "id" : "16",
-
-      "name" : "OG Kush",
-      "src" : "../images/ogKush.JPG",
-      "type" : "indica",
-      "isNew" : "none",
-      "sale" : "none",
-      "pricePerGram" : "$10",
-      "pricePerOunce" : "$210",
-      "description" : "OG Kush is cherished for its ability to crush stress under the weight of its heavy euphoria. It carries an earthy pine and sour lemon scent with woody undertones, an aroma that has become the signature of OG Kush varieties and descendants. With OG Kush, patients most commonly cite improvements in migraines, ADD/ADHD, and stress disorders.",
-      "inventory" : "low",
-        "THC" : "23",
-        "taste" : "79",
-        "aroma" : "82",
-        "pain" : "83",
-        "insomnia" : "71",
-        "appetite" : "70",
-        "overall" : "77", 
-	"soldOut" : "none",
-	"opacity" : "1"
-
-    },
-
-    {
-      "id" : "17",
-
-      "name" : "Kimo",
-      "src" : "../images/kimo.JPG",
-      "type" : "indica",
-      "isNew" : "none",
-      "sale" : "none",
-      "pricePerGram" : "$10",
-      "pricePerOunce" : "$195",
-      "description" : "Chemo, also known more commonly as “UBC Chemo” to cannabis users, is a 100% pure indica hybrid with unknown genetics that was bred specifically to treat patients going through chemo treatments. This powerful bud offers extremely potent heavy indica effects characterized by a high level of pain relief in both mind and body.",
-      "inventory" : "low",
-        "THC" : "22",
-        "taste" : "78",
-        "aroma" : "74",
-        "pain" : "79",
-        "insomnia" : "67",
-        "appetite" : "73",
-        "overall" : "72", 
-	"soldOut" : "none",
-	"opacity" : "1"
-
-    },
-
-    {
-      "id" : "18",
-
-      "name" : "Critical Jack",
-      "src" : "../images/criticalJack.JPG",
-      "type" : "sativa",
-      "isNew" : "none",
-      "sale" : "none",
-      "pricePerGram" : "$10",
-      "pricePerOunce" : "$195",
-      "description" : "Critical Jack, a hybrid cross between Critical Plus and Jack Herer, delivers functional cerebral effects with a flavorful blend of lemon, pine, and floral aromas. Its effects are light on the body and stimulating to the mind, allowing one to fixate their attention strongly on whatever task is at hand. Uplifting qualities make Critical Jack a popular daytime remedy for depression, appetite loss, and headaches.",
-      "inventory" : "low",
-        "THC" : "21",
-        "taste" : "77",
-        "aroma" : "76",
-        "pain" : "60",
-        "insomnia" : "62",
-        "appetite" : "79",
-        "overall" : "74", 
-	"soldOut" : "sold out",
-	"opacity" : "0.3"
-
-    },
-
-    {
-      "id" : "19",
 
       "name" : "Rockstar",
       "src" : "../images/rockstar.JPG",
@@ -457,33 +389,10 @@
 
     },
    
-    {
-      "id" : "20",
-      "name" : "Tuna Kush",
-      
-      "src" : "../images/tuna.JPG",
-      "type" : "indica",
-      "isNew" : "none",
-      "sale" : "none",
-      "pricePerGram" : "$10",
-      "pricePerOunce" : "$210",
-      "description" : "Tuna Kush is a BC legend. This strian is one of the most potent availible. Tuna has a sweet, berry, pungent taste that produces a euphoric, happy high. Great for stress, depression, and pain.",
-      "inventory" : "low",
-        "THC" : "24",
-        "taste" : "81",
-        "aroma" : "83",
-        "pain" : "82",
-        "insomnia" : "84",
-        "appetite" : "81",
-        "overall" : "83", 
-	"soldOut" : "none",
-	"opacity" : "1"
-
-    },
-   
+       
     {
       "name" : "Gorilla Glue",
-      "id" : "21",
+      "id" : "17",
       "src" : "../images/gorillaGlue.JPG",
       "type" : "hybrid",
       "isNew" : "none",
@@ -504,32 +413,10 @@
 
     },
    
-    {
-      "name" : "Cotton Candy",
-      "id" : "22",
-      "src" : "../images/cottenCandy.JPG",
-      "type" : "hybrid",
-      "isNew" : "none",
-      "sale" : "none",
-      "pricePerGram" : "$10",
-      "pricePerOunce" : "$210",
-      "description" : "Expect a calming body high from this strain, along with cerebral effects, euphoria,and a boost of happiness. It's a good choice for patients who suffer from anxiety, migraines and other headaches, chronic pain, and everyday stress. Not surprisingly, the smell and flavor are reminiscent of cotton candy, with sweet, fruity notes and hints of other kinds of candy.",
-      "inventory" : "low",
-        "THC" : "24",
-        "taste" : "84",
-        "aroma" : "89",
-        "pain" : "74",
-        "insomnia" : "72",
-        "appetite" : "71",
-        "overall" : "82", 
-	"soldOut" : "sold out",
-	"opacity" : "0.3"
-
-    },
-   
+       
     {
       "name" : "Larry OG",
-      "id" : "23",
+      "id" : "18",
       "src" : "../images/larryOG.JPG",
       "type" : "indica",
       "isNew" : "none",
@@ -552,7 +439,7 @@
 
     {
       "name" : "Candy Apple",
-      "id" : "24",
+      "id" : "19",
       "src" : "../images/candyApple.JPG",
       "type" : "indica",
       "isNew" : "none",
@@ -575,7 +462,7 @@
    
     {
       "name" : "Violator",
-      "id" : "25",
+      "id" : "20",
       "src" : "../images/violator.JPG",
       "type" : "hybrid",
       "isNew" : "none",
@@ -598,7 +485,7 @@
    
     {
       "name" : "Moby Dick",
-      "id" : "26",
+      "id" : "21",
       "src" : "../images/mobyDick.JPG",
       "type" : "sativa",
       "isNew" : "none",
@@ -621,7 +508,7 @@
    
     {
       "name" : "Black Widow",
-      "id" : "27",
+      "id" : "22",
       "src" : "../images/blackWidow.JPG",
       "type" : "hybrid",
       "isNew" : "none",
@@ -646,7 +533,7 @@
    
     {
       "name" : "MK Trips",
-      "id" : "28",
+      "id" : "23",
       "src" : "../images/mkTrip.JPG",
       "type" : "indica",
       "isNew" : "none",
@@ -669,7 +556,7 @@
    
     {
       "name" : "Bubba OG",
-      "id" : "29",
+      "id" : "24",
       "src" : "../images/bubbaOG.JPG",
       "type" : "indica",
       "isNew" : "none",
@@ -692,7 +579,7 @@
    
     {
       "name" : "Double Barrel OG",
-      "id" : "30",
+      "id" : "25",
       "src" : "../images/doubleBarrelOG.JPG",
       "type" : "indica",
       "isNew" : "none",
@@ -713,32 +600,10 @@
 
     },
     
-    {
-      "name" : "Reef Jerky",
-      "id" : "31",
-      "src" : "../images/reefJerky.JPG",
-      "type" : "sativa",
-      "isNew" : "none",
-      "sale" : "none",
-      "pricePerGram" : "$10",
-      "pricePerOunce" : "$195",
-      "description" : "Reef Jerky is a potent sativa blend with mysterious genetic origins. The skunky, berry flavors will capture your senses while the cerebral, uplifting effects provide an aura of euphoria that is sure to leave a smile on your face",
-      "inventory" : "low",
-        "THC" : "21",
-        "taste" : "77",
-        "aroma" : "78",
-        "pain" : "64",
-        "insomnia" : "78",
-        "appetite" : "68",
-        "overall" : "76", 
-	"soldOut" : "sold out",
-	"opacity" : "0.2"
-
-    },
-
+    
     {
       "name" : "Green Crack",
-      "id" : "32",
+      "id" : "26",
       "src" : "../images/greenCrack.JPG",
       "type" : "hybrid",
       "isNew" : "new",
@@ -759,32 +624,10 @@
 
     },
 
-    {
-      "name" : "White Widow AA",
-      "id" : "33",
-      "src" : "../images/whiteWidow.JPG",
-      "type" : "hybrid",
-      "isNew" : "none",
-      "sale" : "none",
-      "pricePerGram" : "$10",
-      "pricePerOunce" : "$180",
-      "description" : "This particular strain of White Widow is leafy but was trimmed that way for a reason… to get as much of the resin as we can. Usually a leafy strain effects the taste, but not the case here, what you are left with is a good tasting, fresh, resin packed hybrid with mild euphoric effects.",
-      "inventory" : "low",
-        "THC" : "19",
-        "taste" : "72",
-        "aroma" : "72",
-        "pain" : "70",
-        "insomnia" : "68",
-        "appetite" : "72",
-        "overall" : "70", 
-	"soldOut" : "sold out",
-	"opacity" : "0.3"
-
-    },
-   
+       
     {
       "name" : "Hindu Dub",
-      "id" : "34",
+      "id" : "27",
       "src" : "../images/hinduDub.JPG",
       "type" : "indica",
       "isNew" : "none",

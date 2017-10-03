@@ -45,11 +45,11 @@
             </div>
             
             <div class="item">
-              <a href="content/hash.php"><img src="images/redLebAd.JPG" alt="Red Leb">
+              <a href="content/extracts.php"><img src="images/godzillaindex.JPG" alt="godzilla">
                   
                 <div class="carousel-caption">
-                    <h3>New Red Lebanese</h3>
-                    <p>Premium Quality! Tastes soo good!</p>
+                    <h3>New Phyto's</h3>
+                    <p>Check them out!</p>
                 </div>
               </a>
             </div>
