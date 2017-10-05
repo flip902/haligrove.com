@@ -35,13 +35,20 @@
         
 
        
-       <h1>Get these strains while you can. At these prices they are going fast!</h1> 
+       <h1>Our newest strain on sale!!</h1>
+	<a href="strains.php#1">Tuna</a>
+	  <ui>
+	      <li>5g for $35</li>
+              <li>10 for $70</li>
+	      <li>28 for $185</li>
+	  </ul>
+	  <br> 
 
        <a href="strains.php#32">Green Crack</a>
 	  <ui>
 	      <li>5g for $35</li>
               <li>10 for $65</li>
-	      <li>20 for $125<li>
+	      <li>20 for $125</li>
 	  </ul>
 	  <br>
         

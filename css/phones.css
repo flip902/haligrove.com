@@ -1040,12 +1040,14 @@ div h1.shatterDeal {
   .strains {
     background-image: url(../images/strainHeaderTablet.png);
     background-repeat: no-repeat;
-    height: 150px;
+    height: 100px;
     width: 200px;
     position: absolute;
     top: 50px;
     left: -20px;
     z-index: 3;
+    
+    pointer-events: none;
   }
 
   .strainsSection {
@@ -1154,6 +1156,7 @@ div h1.shatterDeal {
     line-height: 35px;
     border-bottom-left-radius: 15px;
     border-top-right-radius: 15px;
+    z-index: 5;
   }
 
   .sale a {
@@ -2592,12 +2595,14 @@ div h1.shatterDeal {
   .strains {
     background-image: url(../images/strainHeaderPhone.png);
     background-repeat: no-repeat;
-    height: 150px;
+    height: 100px;
     width: 200px;
     position: absolute;
     top: 40px;
     left: -10px;
     z-index: 3;
+    
+    pointer-events: none;
   }
 
   .strainsSection {
@@ -2706,6 +2711,7 @@ div h1.shatterDeal {
     line-height: 35px;
     border-bottom-left-radius: 15px;
     border-top-right-radius: 15px;
+    z-index: 5;
   }
 
   .sale a {
@@ -4158,6 +4164,8 @@ div h1.shatterDeal {
     top: 40px;
     left: -10px;
     z-index: 3;
+    
+    pointer-events: none;
   }
 
   .strainsSection {
@@ -4266,6 +4274,7 @@ div h1.shatterDeal {
     line-height: 35px;
     border-bottom-left-radius: 15px;
     border-top-right-radius: 15px;
+    z-index: 5;
   }
 
   .sale a {
@@ -5729,6 +5738,8 @@ div h1.shatterDeal {
     top: 40px;
     left: -10px;
     z-index: 3;
+    
+    pointer-events: none;
   }
 
   .strainsSection {
@@ -5836,6 +5847,7 @@ div h1.shatterDeal {
     line-height: 35px;
     border-bottom-left-radius: 15px;
     border-top-right-radius: 15px;
+    z-index: 5;
   }
 
   .sale a {
