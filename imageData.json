@@ -50,7 +50,7 @@
     {
       "id" : "3",
 
-        "name" : "Blueberry Hubba Bubba",
+        "name" : "Blueberry H.Bubba",
         "src" : "../images/bluberryHubbaBubba.JPG",
         "type" : "indica",
         "isNew" : "new",
@@ -528,35 +528,11 @@
 	"opacity" : "1"
 
     },
-   
-    {
-      "name" : "Black Widow",
-      "id" : "23",
-      "src" : "../images/blackWidow.JPG",
-      "type" : "hybrid",
-      "isNew" : "none",
-      "sale" : "sale",
-      "pricePerGram" : "$10",
-      "pricePerOunce" : "$195",
-      "description" : "This strain lives up to its perilous name, cousin of White Widow delivering wickedly potent THC levels that top 24% in some tests. That puts Black Widow on a very short list of the strongest marijuana strains of all time. With sativa-dominant genes (sativa/indica ratio of at least 30:70), this strain provides an exceptional head high with remarkably intense euphoria, powerful happiness, deep relaxation, and a major case of the munchies. Black Widow is only recommended for patients who have been toking for a while, as its intensity can overwhelm novice users and potentially trigger panic attacks. But for those who can tolerate the venom, this strain is good for depression, physical pain, muscle spasms, headaches, and everyday stress. It's also perfect for inducing hunger in patients with wasting or eating disorders.",
-      "inventory" : "low",
-        "THC" : "24",
-        "taste" : "72",
-        "aroma" : "72",
-        "pain" : "84",
-        "insomnia" : "81",
-        "appetite" : "89",
-        "overall" : "77", 
-	"soldOut" : "sold out",
-	"opacity" : "0.3"
-
-    },
-   
-    
+     
    
     {
       "name" : "MK Trips",
-      "id" : "24",
+      "id" : "23",
       "src" : "../images/mkTrip.JPG",
       "type" : "indica",
       "isNew" : "none",
@@ -579,7 +555,7 @@
    
     {
       "name" : "Bubba OG",
-      "id" : "25",
+      "id" : "24",
       "src" : "../images/bubbaOG.JPG",
       "type" : "indica",
       "isNew" : "none",
@@ -602,7 +578,7 @@
    
     {
       "name" : "Double Barrel OG",
-      "id" : "26",
+      "id" : "25",
       "src" : "../images/doubleBarrelOG.JPG",
       "type" : "indica",
       "isNew" : "none",
@@ -626,7 +602,7 @@
     
     {
       "name" : "Green Crack",
-      "id" : "27",
+      "id" : "26",
       "src" : "../images/greenCrack.JPG",
       "type" : "hybrid",
       "isNew" : "new",
@@ -650,7 +626,7 @@
        
     {
       "name" : "Hindu Dub",
-      "id" : "28",
+      "id" : "27",
       "src" : "../images/hinduDub.JPG",
       "type" : "indica",
       "isNew" : "none",
