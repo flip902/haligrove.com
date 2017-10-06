@@ -52,7 +52,7 @@
 	  </ul>
 	  <br>
         
-        <a href="strains.php#26">Black Widow</a>, <a href="strains.php#30">Double Barrel Og</a>,<br> 
+        <a href="strains.php#30">Double Barrel Og</a>,<br> 
         For Limited Time Only!</a>
         <ui>
             <li>5g for $35</li>
