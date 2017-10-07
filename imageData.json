@@ -1,8 +1,53 @@
 {
   "images" : [
-
 {
       "id" : "1",
+
+        "name" : "Pink Kandy Kush",
+        "src" : "../images/pinkKandyKush.JPG",
+        "type" : "indica",
+        "isNew" : "new",
+        "sale" : "none",
+        "pricePerGram" : "$10",
+        "pricePerOunce" : "$210",
+        "description" : "",
+        "inventory" : "full",
+          "THC" : "26",
+          "taste" : "82",
+          "aroma" : "81",
+          "pain" : "82",
+          "insomnia" : "80",
+          "appetite" : "79",
+          "overall" : "81", 
+	"soldOut" : "none",
+	"opacity" : "1"
+    },
+
+{
+      "id" : "2",
+
+        "name" : "Pink God",
+        "src" : "../images/pinkGod.JPG",
+        "type" : "indica",
+        "isNew" : "new",
+        "sale" : "none",
+        "pricePerGram" : "$10",
+        "pricePerOunce" : "$210",
+        "description" : "",
+        "inventory" : "full",
+          "THC" : "23",
+          "taste" : "80",
+          "aroma" : "78",
+          "pain" : "80",
+          "insomnia" : "76",
+          "appetite" : "77",
+          "overall" : "79", 
+	"soldOut" : "none",
+	"opacity" : "1"
+    },
+
+    {
+      "id" : "3",
 
         "name" : "Tuna",
         "src" : "../images/newTuna.JPG",
@@ -25,12 +70,12 @@
     },
 
     {
-      "id" : "2",
+      "id" : "4",
 
         "name" : "White Widow Supreme",
         "src" : "../images/whiteWidowSupreme.JPG",
         "type" : "hybrid",
-        "isNew" : "new",
+        "isNew" : "none",
         "sale" : "none",
         "pricePerGram" : "$10",
         "pricePerOunce" : "$210",
@@ -48,12 +93,12 @@
     },
 
     {
-      "id" : "3",
+      "id" : "5",
 
         "name" : "Blueberry H.Bubba",
         "src" : "../images/bluberryHubbaBubba.JPG",
         "type" : "indica",
-        "isNew" : "new",
+        "isNew" : "none",
         "sale" : "none",
         "pricePerGram" : "$10",
         "pricePerOunce" : "$210",
@@ -71,7 +116,7 @@
     },
 
     {
-      "id" : "4",
+      "id" : "6",
 
         "name" : "Island Pink Kush",
         "src" : "../images/islandPink.JPG",
@@ -94,7 +139,7 @@
     },
 
     {
-      "id" : "5",
+      "id" : "7",
 
       
         "name" : "Blackfin Tuna",
@@ -120,7 +165,7 @@
 
     {
       
-      "id" : "6",
+      "id" : "8",
 
         "name" : "Tangerine Bliss",
         "src" : "../images/tangerineBliss.JPG",
@@ -144,7 +189,7 @@
     },
 
     {
-      "id" : "7",
+      "id" : "9",
 
         "name" : "S Lemon Rockstar",
         "src" : "../images/superLemonRockstar.JPG",
@@ -168,7 +213,7 @@
     },
 
     {
-      "id" : "8",
+      "id" : "10",
 
         "name" : "Deep Purple",
         "src" : "../images/deepPurple.JPG",
@@ -192,7 +237,7 @@
     },
 
     {
-      "id" : "9",
+      "id" : "11",
 
         "name" : "Monster Bud",
         "src" : "../images/monsterBud.JPG",
@@ -217,7 +262,7 @@
 
     {
 
-      "id" : "10",
+      "id" : "12",
 
         "name" : "Super Silver Haze",
         "src" : "../images/ssh.JPG",
@@ -241,7 +286,7 @@
     },
 
     {
-      "id" : "11",
+      "id" : "13",
 
       "name" : "Atomic Trainwreck",
       "src" : "../images/atomicTrainwreck.JPG",
@@ -265,7 +310,7 @@
     },
 
     {
-      "id" : "12",
+      "id" : "14",
 
       "name" : "BC Chemo",
       "src" : "../images/bcChemo.JPG",
@@ -289,7 +334,7 @@
     },
 
     {
-      "id" : "13",
+      "id" : "15",
 
       "name" : "Lemon OG",
       "src" : "../images/lemonOG.JPG",
@@ -313,7 +358,7 @@
     },
 
     {
-      "id" : "14",
+      "id" : "16",
 
         "name" : "Deadhead OG",
         "src" : "../images/deadHead.JPG",
@@ -337,7 +382,7 @@
     },
 
     {
-      "id" : "15",
+      "id" : "17",
 
         "name" : "Powerplant",
         "src" : "../images/powerplant.JPG",
@@ -361,7 +406,7 @@
     },
 
     {
-      "id" : "16",
+      "id" : "18",
 
       "name" : "Nuken",
       "src" : "../images/dukeNuken.JPG",
@@ -389,7 +434,7 @@
     
 
         {
-      "id" : "17",
+      "id" : "19",
 
       "name" : "Rockstar",
       "src" : "../images/rockstar.JPG",
@@ -415,7 +460,7 @@
        
     {
       "name" : "Gorilla Glue",
-      "id" : "18",
+      "id" : "20",
       "src" : "../images/gorillaGlue.JPG",
       "type" : "hybrid",
       "isNew" : "none",
@@ -439,7 +484,7 @@
        
     {
       "name" : "Larry OG",
-      "id" : "19",
+      "id" : "21",
       "src" : "../images/larryOG.JPG",
       "type" : "indica",
       "isNew" : "none",
@@ -462,7 +507,7 @@
 
     {
       "name" : "Candy Apple",
-      "id" : "20",
+      "id" : "22",
       "src" : "../images/candyApple.JPG",
       "type" : "indica",
       "isNew" : "none",
@@ -485,7 +530,7 @@
    
     {
       "name" : "Violator",
-      "id" : "21",
+      "id" : "23",
       "src" : "../images/violator.JPG",
       "type" : "hybrid",
       "isNew" : "none",
@@ -508,7 +553,7 @@
    
     {
       "name" : "Moby Dick",
-      "id" : "22",
+      "id" : "24",
       "src" : "../images/mobyDick.JPG",
       "type" : "sativa",
       "isNew" : "none",
@@ -532,7 +577,7 @@
    
     {
       "name" : "MK Trips",
-      "id" : "23",
+      "id" : "25",
       "src" : "../images/mkTrip.JPG",
       "type" : "indica",
       "isNew" : "none",
@@ -555,7 +600,7 @@
    
     {
       "name" : "Bubba OG",
-      "id" : "24",
+      "id" : "26",
       "src" : "../images/bubbaOG.JPG",
       "type" : "indica",
       "isNew" : "none",
@@ -578,7 +623,7 @@
    
     {
       "name" : "Double Barrel OG",
-      "id" : "25",
+      "id" : "27",
       "src" : "../images/doubleBarrelOG.JPG",
       "type" : "indica",
       "isNew" : "none",
@@ -602,10 +647,10 @@
     
     {
       "name" : "Green Crack",
-      "id" : "26",
+      "id" : "28",
       "src" : "../images/greenCrack.JPG",
       "type" : "hybrid",
-      "isNew" : "new",
+      "isNew" : "none",
       "sale" : "sale",
       "pricePerGram" : "$7",
       "pricePerOunce" : "$170",
@@ -626,7 +671,7 @@
        
     {
       "name" : "Hindu Dub",
-      "id" : "27",
+      "id" : "29",
       "src" : "../images/hinduDub.JPG",
       "type" : "indica",
       "isNew" : "none",
