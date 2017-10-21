@@ -18,7 +18,6 @@
                 <div class="hashBox col-lg-6 col-md-6">
                     <div class="hashThumbnail">
                         <div class="hashImageDiv">
-                            <div class="new">new</div>
                                 <img src= "../images/redLeb.JPG" alt="Red Lebaneese">
                         </div>
                         <h3 class="hashItemTitle" id="">Red Lebanese</h3>
@@ -33,22 +32,7 @@
                     </div>
                 </div>
 
-                <div class="hashBox col-lg-6 col-md-6">
-                    <div class="hashThumbnail">
-                        <div class="hashImageDiv">
-                                <img src= "../images/777.JPG" alt="777">
-                        </div>
-                        <h3 class="hashItemTitle" id="">777</h3>
-                        <div class="hashPrice">
-                            $15<span> Gram</span> / 3 <span>for</span> $40
-                            <p>soft, golden brown center</p>
-                        </div>
-                        <div id="sevenInventory">
-                            <div></div>
-                        </div>
-                        <p class="inventoryPTag">inventory</p>
-                    </div>
-                </div>
+                
 
                 <div class="hashBox col-lg-6 col-md-6">
                     <div class="hashThumbnail">
@@ -67,22 +51,7 @@
                     </div>
                 </div>
 
-                <div class="hashBox col-lg-6 col-md-6">
-                    <div class="hashThumbnail">
-                        <div class="hashImageDiv">
-                                <img src= "../images/romeo.JPG" alt="Romeo">
-                        </div>
-                        <h3 class="hashItemTitle" id="">Romeo & Juliet</h3>
-                        <div class="hashPrice">
-                            $15<span> Gram</span> / 3 <span>for</span> $40
-                            <p>soft, gummy, lightbrown center</p>
-                        </div>
-                        <div id="romeoInventory">
-                            <div></div>
-                        </div>
-                        <p class="inventoryPTag">inventory</p>
-                    </div>
-                </div>
+                
 
                 <div class="hashBox col-lg-6 col-md-6">
                     <div class="hashThumbnail">
@@ -123,7 +92,8 @@
                 <div class="hashBox col-lg-6 col-md-6">
                     <div class="hashThumbnail">
                         <div class="hashImageDiv">
-                            <img src= "../images/hash.jpg">
+			<div class="sold out">sold out</div>
+                            <img src= "../images/hash.jpg" style="opacity:0.3">
                         </div>
                         <h3 class="hashItemTitle" id="">Bubble</h3>
                         <div class="hashPrice">

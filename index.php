@@ -23,11 +23,11 @@
           <div class="carousel-inner">
 
             <div class="item active">
-              <a href="content/strains.php"><img src="images/purpleUrkle.JPG" alt="rockstar">
+              <a href="content/strains.php"><img src="images/ssh.JPG" alt="">
                 
                 <div class="carousel-caption">
                     <h3>Picks Of The Week:</h3>
-                    <p>Purple Urkle & Tangerine Bliss<br>
+                    <p>Rockstar & Super Silver haze<br>
 			              10g for $70<br>28g for $185</p>
                 </div>
               </a>
@@ -45,11 +45,11 @@
             </div>
             
             <div class="item">
-              <a href="content/extracts.php"><img src="images/godzillaindex.JPG" alt="godzilla">
+              <a href="content/extracts.php"><img src="images/popRocksAD.JPG" alt="godzilla">
                   
                 <div class="carousel-caption">
                     <h3>New Phyto's</h3>
-                    <p>Check them out!</p>
+                    <p>Pop Rocks & Alien OG</p>
                 </div>
               </a>
             </div>

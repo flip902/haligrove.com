@@ -13,10 +13,55 @@
     <div class="extractsPositioning">
         <div class="row width extractWidth">
 
+	  <div class="extractsBox col-lg-6 col-md-6">
+                <div class="extractsThumbnail">
+                    <div class="extractsImageDiv">
+                        <div class="new">new</div>
+                        <div class="hybrid">hybrid</div>
+                        <img src= "../images/popRocks.JPG" style="height: 100%">
+                    </div>
+                    <div class="extractsItemTitle" id="">Pop Rocks</div>
+                    <div class="extractsPrice">
+                        <span>$40 Per </span><br>
+                        <h3>Phyto Extractions</h3>
+                        <p class="descriptionP">citrus, grape, lemon.
+                        Great for appitite, stress, and fatique.
+                        </p>
+                    </div>
+                        
+                    <div id="popRocksInventory">
+                        <div></div>
+                    </div>
+                    <p class="inventoryPTag">inventory</p>
+                </div>
+            </div>
+
+	<div class="extractsBox col-lg-6 col-md-6">
+                <div class="extractsThumbnail">
+                    <div class="extractsImageDiv">
+                        <div class="new">new</div>
+                        <div class="hybrid">hybrid</div>
+                        <img src= "../images/alienOG.JPG" style="height: 100%">
+                    </div>
+                    <div class="extractsItemTitle" id="">Alien OG</div>
+                    <div class="extractsPrice">
+                        <span>$40 Per </span><br>
+                        <h3>Phyto Extractions</h3>
+                        <p class="descriptionP">flowery, earthy, lemon.
+                        Great for stress, pain, and depression
+                        </p>
+                    </div>
+                        
+                    <div id="alienOGInventory">
+                        <div></div>
+                    </div>
+                    <p class="inventoryPTag">inventory</p>
+                </div>
+            </div>
+
         <div class="extractsBox col-lg-6 col-md-6">
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
-			<div class="new">new</div>
                         <div class="sativa">sativa</div>
                         <img src= "../images/incredibleHulk.JPG" style="height: 100%">
                     </div>
@@ -39,7 +84,6 @@
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
                         <div class="indica">indica</div>
-			<div class="new">new</div>
                         <img src= "../images/godzilla.JPG" style="height: 100%">
                     </div>
                     <div class="extractsItemTitle" id="">Godzilla</div>
@@ -61,7 +105,6 @@
             <div class="extractsBox col-lg-6 col-md-6">
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
-                        <div class="new">new</div>
                         <div class="hybrid">hybrid</div>
                         <img src= "../images/cherryPie.JPG" style="height: 100%">
                     </div>

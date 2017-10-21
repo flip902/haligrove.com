@@ -159,14 +159,40 @@
 
 #cherryPieInventory > div {
   background-color: #C9DF78;
-  width: 90%; /* Adjust with JavaScript */
+  width: 20%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
 
+#alienOGInventory {
+  width: 80%;
+  background-color: black;
+  border-radius: 13px; /* (height of inner div) / 2 + padding */
+  padding: 3px;
+  margin: 0 auto 0 auto;
+}
 
+#alienOGInventory > div {
+  background-color: #C9DF78;
+  width: 100%; /* Adjust with JavaScript */
+  height: 20px;
+  border-radius: 10px;
+}
 
+#popRocksInventory {
+  width: 80%;
+  background-color: black;
+  border-radius: 13px; /* (height of inner div) / 2 + padding */
+  padding: 3px;
+  margin: 0 auto 0 auto;
+}
 
+#popRocksInventory > div {
+  background-color: #C9DF78;
+  width: 100%; /* Adjust with JavaScript */
+  height: 20px;
+  border-radius: 10px;
+}
 
 
 
@@ -184,40 +210,14 @@
 
 #bubbleInventory > div {
   background-color: #C9DF78;
-  width: 50%; /* Adjust with JavaScript */
+  width: 0%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
 
-#romeoInventory {
-  width: 80%;
-  background-color: black;
-  border-radius: 13px; /* (height of inner div) / 2 + padding */
-  padding: 3px;
-  margin: 0 auto 0 auto;
-}
 
-#romeoInventory > div {
-  background-color: #C9DF78;
-  width: 15%; /* Adjust with JavaScript */
-  height: 20px;
-  border-radius: 10px;
-}
 
-#sevenInventory {
-  width: 80%;
-  background-color: black;
-  border-radius: 13px; /* (height of inner div) / 2 + padding */
-  padding: 3px;
-  margin: 0 auto 0 auto;
-}
 
-#sevenInventory > div {
-  background-color: #C9DF78;
-  width: 15%; /* Adjust with JavaScript */
-  height: 20px;
-  border-radius: 10px;
-}
 
 #malaysianInventory {
   width: 80%;
@@ -229,7 +229,7 @@
 
 #malaysianInventory > div {
   background-color: #C9DF78;
-  width: 30%; /* Adjust with JavaScript */
+  width: 10%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }

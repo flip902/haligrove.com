@@ -3,11 +3,33 @@
 {
       "id" : "1",
 
+        "name" : "Sour Diesel",
+        "src" : "../images/sourDiesel.JPG",
+        "type" : "hybrid",
+        "isNew" : "new",
+        "sale" : "none",
+        "pricePerGram" : "$10",
+        "pricePerOunce" : "$210",
+        "description" : "",
+        "inventory" : "full",
+          "THC" : "23",
+          "taste" : "81",
+          "aroma" : "80",
+          "pain" : "79",
+          "insomnia" : "80",
+          "appetite" : "79",
+          "overall" : "80", 
+    "soldOut" : "none",
+    "opacity" : "1"
+    },
+{
+      "id" : "2",
+
         "name" : "Purple Urkle",
         "src" : "../images/purpleUrkle.JPG",
         "type" : "indica",
-        "isNew" : "new",
-        "sale" : "sale",
+        "isNew" : "none",
+        "sale" : "none",
         "pricePerGram" : "$10",
         "pricePerOunce" : "$200",
         "description" : "Purple Urkles effects are deeply relaxing, sleep-inducing, and a great option for full-body pain relief. The short onset of effects make it a perfect nighttime strain for those who suffer from insomnia.",
@@ -19,18 +41,18 @@
           "insomnia" : "79",
           "appetite" : "78",
           "overall" : "78", 
-	"soldOut" : "none",
-	"opacity" : "1"
+    "soldOut" : "none",
+    "opacity" : "1"
     },
 
     {
 
-      "id" : "2",
+      "id" : "3",
 
         "name" : "Pink Kandy Kush",
         "src" : "../images/pinkKandyKush.JPG",
         "type" : "indica",
-        "isNew" : "new",
+        "isNew" : "none",
         "sale" : "none",
         "pricePerGram" : "$10",
         "pricePerOunce" : "$210",
@@ -43,17 +65,17 @@
           "insomnia" : "80",
           "appetite" : "79",
           "overall" : "81", 
-	"soldOut" : "none",
-	"opacity" : "1"
+    "soldOut" : "none",
+    "opacity" : "1"
     },
 
 {
-      "id" : "3",
+      "id" : "4",
 
         "name" : "Pink God",
         "src" : "../images/pinkGod.JPG",
         "type" : "indica",
-        "isNew" : "new",
+        "isNew" : "none",
         "sale" : "none",
         "pricePerGram" : "$10",
         "pricePerOunce" : "$210",
@@ -66,17 +88,17 @@
           "insomnia" : "76",
           "appetite" : "80",
           "overall" : "79", 
-	"soldOut" : "none",
-	"opacity" : "1"
+    "soldOut" : "none",
+    "opacity" : "1"
     },
 
     {
-      "id" : "4",
+      "id" : "5",
 
         "name" : "Tuna",
         "src" : "../images/newTuna.JPG",
         "type" : "indica",
-        "isNew" : "new",
+        "isNew" : "none",
         "sale" : "sale",
         "pricePerGram" : "$10",
         "pricePerOunce" : "$185",
@@ -89,12 +111,12 @@
           "insomnia" : "76",
           "appetite" : "77",
           "overall" : "78", 
-	"soldOut" : "none",
-	"opacity" : "1"
+    "soldOut" : "none",
+    "opacity" : "1"
     },
 
     {
-      "id" : "5",
+      "id" : "6",
 
         "name" : "White Widow Sup.",
         "src" : "../images/whiteWidowSupreme.JPG",
@@ -112,12 +134,12 @@
           "insomnia" : "71",
           "appetite" : "79",
           "overall" : "79", 
-	"soldOut" : "none",
-	"opacity" : "1"
+    "soldOut" : "none",
+    "opacity" : "1"
     },
 
     {
-      "id" : "6",
+      "id" : "7",
 
         "name" : "Blueberry H.Bubba",
         "src" : "../images/bluberryHubbaBubba.JPG",
@@ -135,12 +157,12 @@
           "insomnia" : "84",
           "appetite" : "80",
           "overall" : "82", 
-	"soldOut" : "none",
-	"opacity" : "1"
+    "soldOut" : "sold out",
+    "opacity" : "0.3"
     },
 
     {
-      "id" : "7",
+      "id" : "8",
 
         "name" : "Island Pink Kush",
         "src" : "../images/islandPink.JPG",
@@ -158,34 +180,11 @@
           "insomnia" : "79",
           "appetite" : "85",
           "overall" : "83", 
-	"soldOut" : "none",
-	"opacity" : "1"
+    "soldOut" : "none",
+    "opacity" : "1"
     },
 
-    {
-      "id" : "8",
-
-      
-        "name" : "Blackfin Tuna",
-        "src" : "../images/bluefinTuna.JPG",
-        "type" : "indica",
-        "isNew" : "none",
-        "sale" : "none",
-        "pricePerGram" : "$10",
-        "pricePerOunce" : "$250",
-        "description" : "Blackfin is a powerful indica which has many medical benefits. The buds are tight and sticky with a potent piney aroma. Be careful with this strain, it may leave you parked on the couch for a while with a strong case of the munchies. This strain is top of the line and one of the more expensive strains at $10 across the board but worth the extra money spent.",
-        "inventory" : "med",
-          "THC" : "27",
-          "taste" : "87",
-          "aroma" : "88",
-          "pain" : "90",
-          "insomnia" : "86",
-          "appetite" : "87",
-          "overall" : "88", 
-	"soldOut" : "none",
-	"opacity" : "1"
- 
-    },
+    
 
     {
       
@@ -195,7 +194,7 @@
         "src" : "../images/tangerineBliss.JPG",
         "type" : "sativa",
         "isNew" : "none",
-        "sale" : "sale",
+        "sale" : "none",
         "pricePerGram" : "$10",
         "pricePerOunce" : "$210",
         "description" : "This cannabis strain got its name for both its citrusy flavor and its halo of bright orange hairs covering the bud. While the effects of this indica are particularly short-lasting, Tangerine Bliss is potent with a quick onset. Providing consumers with a happy, body-heavy sensation",
@@ -207,8 +206,8 @@
           "insomnia" : "75",
           "appetite" : "77",
           "overall" : "77", 
-	"soldOut" : "none",
-	"opacity" : "1"
+    "soldOut" : "none",
+    "opacity" : "1"
 
     },
 
@@ -231,8 +230,8 @@
           "insomnia" : "72",
           "appetite" : "77",
           "overall" : "77", 
-	"soldOut" : "none",
-	"opacity" : "1"
+    "soldOut" : "none",
+    "opacity" : "1"
 
     },
 
@@ -255,8 +254,8 @@
           "insomnia" : "80",
           "appetite" : "82",
           "overall" : "84", 
-	"soldOut" : "none",
-	"opacity" : "1"
+    "soldOut" : "none",
+    "opacity" : "1"
 
     },
 
@@ -279,8 +278,8 @@
           "insomnia" : "78",
           "appetite" : "78",
           "overall" : "78", 
-	"soldOut" : "none",
-	"opacity" : "1"
+    "soldOut" : "none",
+    "opacity" : "1"
 
     },
 
@@ -292,7 +291,7 @@
         "src" : "../images/ssh.JPG",
         "type" : "sativa",
         "isNew" : "none",
-        "sale" : "none",
+        "sale" : "sale",
         "pricePerGram" : "$10",
         "pricePerOunce" : "$210",
         "description" : "SSH was the first prize winner at the High Times Cannabis Cup in 1997, 1998, and 1999. It also won awards at the High Times Harvest Festival. By crossing the genetics of Skunk, Northern Lights, and Haze, we are left with a beautiful, sticky sativa blend that boasts an energetic, long-lasting body high. The uplifting effects are a great remedy for high stress levels or when suffering from a lack of appetite or nausea.",
@@ -304,8 +303,8 @@
           "insomnia" : "72",
           "appetite" : "82",
           "overall" : "77", 
-	"soldOut" : "none",
-	"opacity" : "1"
+    "soldOut" : "none",
+    "opacity" : "1"
 
     },
 
@@ -352,8 +351,8 @@
         "insomnia" : "78",
         "appetite" : "79",
         "overall" : "79", 
-	"soldOut" : "none",
-	"opacity" : "1"
+    "soldOut" : "none",
+    "opacity" : "1"
 
     },
 
@@ -376,8 +375,8 @@
         "insomnia" : "78",
         "appetite" : "79",
         "overall" : "78", 
-	"soldOut" : "none",
-	"opacity" : "1"
+    "soldOut" : "none",
+    "opacity" : "1"
 
     },
 
@@ -400,8 +399,8 @@
           "insomnia" : "52",
           "appetite" : "64",
           "overall" : "78", 
-	"soldOut" : "none",
-	"opacity" : "1"
+    "soldOut" : "none",
+    "opacity" : "1"
 
     },
 
@@ -424,8 +423,8 @@
           "insomnia" : "60",
           "appetite" : "85",
           "overall" : "74", 
-	"soldOut" : "none",
-	"opacity" : "1"
+    "soldOut" : "none",
+    "opacity" : "1"
 
     },
 
@@ -448,8 +447,8 @@
         "insomnia" : "74",
         "appetite" : "81",
         "overall" : "81", 
-	"soldOut" : "none",
-	"opacity" : "1"
+    "soldOut" : "none",
+    "opacity" : "1"
 
     },
    
@@ -464,7 +463,7 @@
       "src" : "../images/rockstar.JPG",
       "type" : "hybrid",
       "isNew" : "none",
-      "sale" : "none",
+      "sale" : "sale",
       "pricePerGram" : "$10",
       "pricePerOunce" : "$200",
       "description" : "Rockstars potent effects are said to be perfect for treating chronic pain, muscle spasms or tremors, inflammation, and mild to moderate cases of depression. This bud has an aroma of spicy grapey earth with a hint of skunky pungent herbs and a taste of spiced mulled wine with a pungent slightly skunky exhale. Rockstar buds have medium-sized dense and lumpy dark olive green spade-shaped nugs with rich purple undertones, fiery orange hairs, and frosty trichome covered purple leaves.",
@@ -476,8 +475,8 @@
         "insomnia" : "74",
         "appetite" : "78",
         "overall" : "78", 
-	"soldOut" : "none",
-	"opacity" : "1"
+    "soldOut" : "none",
+    "opacity" : "1"
 
     },
    
@@ -500,8 +499,8 @@
         "insomnia" : "83",
         "appetite" : "81",
         "overall" : "82", 
-	"soldOut" : "none",
-	"opacity" : "1"
+    "soldOut" : "sold out",
+    "opacity" : "0.3"
 
     },
    
@@ -524,8 +523,8 @@
         "insomnia" : "75",
         "appetite" : "74",
         "overall" : "79", 
-	"soldOut" : "none",
-	"opacity" : "1"
+    "soldOut" : "none",
+    "opacity" : "1"
 
     },
 
@@ -547,8 +546,8 @@
         "insomnia" : "74",
         "appetite" : "76",
         "overall" : "79", 
-	"soldOut" : "none",
-	"opacity" : "1"
+    "soldOut" : "none",
+    "opacity" : "1"
 
     },
    
@@ -570,38 +569,17 @@
         "insomnia" : "86",
         "appetite" : "86",
         "overall" : "85", 
-	"soldOut" : "none",
-	"opacity" : "1"
+    "soldOut" : "none",
+    "opacity" : "1"
 
     },
    
-    {
-      "name" : "Moby Dick",
-      "id" : "25",
-      "src" : "../images/mobyDick.JPG",
-      "type" : "sativa",
-      "isNew" : "none",
-      "sale" : "none",
-      "pricePerGram" : "$10",
-      "pricePerOunce" : "$210",
-      "description" : "Originating in Amsterdam. Moby Dicks high THC content makes it one of the strongest sativas. The aroma is a sweet citrus from the haze, which dominates the palate with vanilla and eucalyptus tones.",
-      "inventory" : "low",
-        "THC" : "23",
-        "taste" : "78",
-        "aroma" : "78",
-        "pain" : "79",
-        "insomnia" : "64",
-        "appetite" : "70",
-        "overall" : "76", 
-	"soldOut" : "none",
-	"opacity" : "1"
-
-    },
+    
      
    
     {
       "name" : "MK Trips",
-      "id" : "26",
+      "id" : "25",
       "src" : "../images/mkTrip.JPG",
       "type" : "indica",
       "isNew" : "none",
@@ -617,14 +595,14 @@
         "insomnia" : "73",
         "appetite" : "78",
         "overall" : "78", 
-	"soldOut" : "none",
-	"opacity" : "1"
+    "soldOut" : "none",
+    "opacity" : "1"
 
     },
    
     {
       "name" : "Bubba OG",
-      "id" : "27",
+      "id" : "26",
       "src" : "../images/bubbaOG.JPG",
       "type" : "indica",
       "isNew" : "none",
@@ -640,14 +618,14 @@
         "insomnia" : "82",
         "appetite" : "84",
         "overall" : "78", 
-	"soldOut" : "none",
-	"opacity" : "1"
+    "soldOut" : "none",
+    "opacity" : "1"
 
     },
    
     {
       "name" : "Double Barrel OG",
-      "id" : "28",
+      "id" : "27",
       "src" : "../images/doubleBarrelOG.JPG",
       "type" : "indica",
       "isNew" : "none",
@@ -663,15 +641,15 @@
         "insomnia" : "76",
         "appetite" : "78",
         "overall" : "75", 
-	"soldOut" : "sold out",
-	"opacity" : "0.3"
+    "soldOut" : "sold out",
+    "opacity" : "0.3"
 
     },
     
     
     {
       "name" : "Green Crack",
-      "id" : "29",
+      "id" : "28",
       "src" : "../images/greenCrack.JPG",
       "type" : "hybrid",
       "isNew" : "none",
@@ -679,7 +657,7 @@
       "pricePerGram" : "$7",
       "pricePerOunce" : "$170",
       "description" : "Green Crack is the perfect daytime medication for patients treating fatigue, stress, and depression.",
-      "inventory" : "full",
+      "inventory" : "low",
         "THC" : "21",
         "taste" : "76",
         "aroma" : "76",
@@ -687,15 +665,15 @@
         "insomnia" : "77",
         "appetite" : "77",
         "overall" : "76", 
-	"soldOut" : "none",
-	"opacity" : "1"
+    "soldOut" : "none",
+    "opacity" : "1"
 
     },
 
        
     {
       "name" : "Hindu Dub",
-      "id" : "30",
+      "id" : "29",
       "src" : "../images/hinduDub.JPG",
       "type" : "indica",
       "isNew" : "none",
@@ -711,8 +689,8 @@
         "insomnia" : "71",
         "appetite" : "78",
         "overall" : "73", 
-	"soldOut" : "sold out",
-	"opacity" : "0.3"
+    "soldOut" : "none",
+    "opacity" : "1"
 
     }
    
