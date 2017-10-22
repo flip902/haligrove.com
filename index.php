@@ -49,7 +49,7 @@
                   
                 <div class="carousel-caption">
                     <h3>New Phyto's</h3>
-                    <p>Pop Rocks & Alien OG</p>
+                    <p>Pop Rox & Alien OG</p>
                 </div>
               </a>
             </div>

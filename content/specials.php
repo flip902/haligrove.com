@@ -48,7 +48,6 @@
 	  <ui>
 	      <li>5g for $35</li>
               <li>10 for $65</li>
-	      <li>20 for $125</li>
 	  </ul>
 	  <br>
         
@@ -62,7 +61,7 @@
             <li>5g for $40</li>
             <li>10 for $80</li>
             <li>20 for $160</li>
-            <li>28 for $155-$250</li>
+            <li>28 for $170 - $210</li>
         </ul>
         <br>
 	

@@ -198,7 +198,7 @@
         "pricePerGram" : "$10",
         "pricePerOunce" : "$210",
         "description" : "This cannabis strain got its name for both its citrusy flavor and its halo of bright orange hairs covering the bud. While the effects of this indica are particularly short-lasting, Tangerine Bliss is potent with a quick onset. Providing consumers with a happy, body-heavy sensation",
-        "inventory" : "med",
+        "inventory" : "low",
           "THC" : "21",
           "taste" : "79",
           "aroma" : "79",
@@ -270,7 +270,7 @@
         "pricePerGram" : "$10",
         "pricePerOunce" : "$210",
         "description" : "With a THC profile that can stretch past 26 percent, Monster OG's effects come on strong to relax muscles, soothe pains, relieve stress, increase the appetite, and promote rest. Stout plants produce tights resin-packed buds that carry a blend of deep, earthy diesel and subtle burnt spice notes.",
-        "inventory" : "med",
+        "inventory" : "low",
           "THC" : "24",
           "taste" : "78",
           "aroma" : "78",
@@ -576,80 +576,9 @@
    
     
      
-   
-    {
-      "name" : "MK Trips",
-      "id" : "25",
-      "src" : "../images/mkTrip.JPG",
-      "type" : "indica",
-      "isNew" : "none",
-      "sale" : "none",
-      "pricePerGram" : "$10",
-      "pricePerOunce" : "$210",
-      "description" : "Mk Trips is renowned for It's hypnotic effects that are fast-acting and best used when strong medication is desired.",
-      "inventory" : "low",
-        "THC" : "22",
-        "taste" : "81",
-        "aroma" : "78",
-        "pain" : "82",
-        "insomnia" : "73",
-        "appetite" : "78",
-        "overall" : "78", 
-    "soldOut" : "none",
-    "opacity" : "1"
-
-    },
-   
-    {
-      "name" : "Bubba OG",
-      "id" : "26",
-      "src" : "../images/bubbaOG.JPG",
-      "type" : "indica",
-      "isNew" : "none",
-      "sale" : "none",
-      "pricePerGram" : "$10",
-      "pricePerOunce" : "$210",
-      "description" : "Bubba OG makes for a lazy, potent body high that reduces stress, sparks hunger, and encourages sleep. These effects make Bubba great for treating lack of appetite, chronic pain, insomnia, and anxiety, as well as headaches and depression. This strain has a strong, pungent earthy flavour with a floral aroma. Still a favorite of many medical users.",
-      "inventory" : "low",
-        "THC" : "23",
-        "taste" : "75",
-        "aroma" : "75",
-        "pain" : "83",
-        "insomnia" : "82",
-        "appetite" : "84",
-        "overall" : "78", 
-    "soldOut" : "none",
-    "opacity" : "1"
-
-    },
-   
-    {
-      "name" : "Double Barrel OG",
-      "id" : "27",
-      "src" : "../images/doubleBarrelOG.JPG",
-      "type" : "indica",
-      "isNew" : "none",
-      "sale" : "none",
-      "pricePerGram" : "$10",
-      "pricePerOunce" : "$195",
-      "description" : "Double Barrell",
-      "inventory" : "low",
-        "THC" : "21",
-        "taste" : "75",
-        "aroma" : "75",
-        "pain" : "78",
-        "insomnia" : "76",
-        "appetite" : "78",
-        "overall" : "75", 
-    "soldOut" : "sold out",
-    "opacity" : "0.3"
-
-    },
-    
-    
-    {
+   {
       "name" : "Green Crack",
-      "id" : "28",
+      "id" : "25",
       "src" : "../images/greenCrack.JPG",
       "type" : "hybrid",
       "isNew" : "none",
@@ -673,7 +602,7 @@
        
     {
       "name" : "Hindu Dub",
-      "id" : "29",
+      "id" : "26",
       "src" : "../images/hinduDub.JPG",
       "type" : "indica",
       "isNew" : "none",

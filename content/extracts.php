@@ -20,7 +20,7 @@
                         <div class="hybrid">hybrid</div>
                         <img src= "../images/popRocks.JPG" style="height: 100%">
                     </div>
-                    <div class="extractsItemTitle" id="">Pop Rocks</div>
+                    <div class="extractsItemTitle" id="">Pop Rox</div>
                     <div class="extractsPrice">
                         <span>$40 Per </span><br>
                         <h3>Phyto Extractions</h3>
