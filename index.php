@@ -45,11 +45,11 @@
             </div>
             
             <div class="item">
-              <a href="content/extracts.php"><img src="images/popRocksAD.JPG" alt="godzilla">
+              <a href="content/hash.php"><img src="images/shetralAD.JPG" alt="shetral">
                   
                 <div class="carousel-caption">
-                    <h3>New Phyto's</h3>
-                    <p>Pop Rox & Alien OG</p>
+                    <h3>New Hash!</h3>
+                    <p>Shetral</p>
                 </div>
               </a>
             </div>

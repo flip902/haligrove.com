@@ -15,6 +15,24 @@
         <section class="hashSpace">
             <div class="row hashRow">
 
+		<div class="hashBox col-lg-6 col-md-6">
+                    <div class="hashThumbnail">
+                        <div class="hashImageDiv">
+			<div class="new">new</div>
+                                <img src= "../images/shetral.JPG" alt="Shetral">
+                        </div>
+                        <h3 class="hashItemTitle" id="">Shetral</h3>
+                        <div class="hashPrice">
+                            $15<span> Gram</span> / 5 <span>for</span> $70 
+                            <p>soft, brown, sweet smell</p>
+                        </div>
+                        <div id="shetral">
+                            <div></div>
+                        </div>
+                        <p class="inventoryPTag">inventory</p>
+                    </div>
+                </div>
+
                 <div class="hashBox col-lg-6 col-md-6">
                     <div class="hashThumbnail">
                         <div class="hashImageDiv">
