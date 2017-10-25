@@ -45,8 +45,38 @@
     "soldOut" : "none",
     "opacity" : "1"
     },
+
+
+
+
+
 {
       "id" : "3",
+
+        "name" : "Blackfin Tuna",
+        "src" : "../images/bluefinTuna.JPG",
+        "type" : "indica",
+        "isNew" : "new",
+        "sale" : "none",
+        "pricePerGram" : "$10",
+        "pricePerOunce" : "$255",
+        "description" : "It's back! the boss of all bosses.",
+        "inventory" : "full",
+          "THC" : "26",
+          "taste" : "88",
+          "aroma" : "87",
+          "pain" : "87",
+          "insomnia" : "87",
+          "appetite" : "87",
+          "overall" : "87", 
+    "soldOut" : "none",
+    "opacity" : "1"
+    },
+
+
+
+{
+      "id" : "4",
 
         "name" : "Purple Urkle",
         "src" : "../images/purpleUrkle.JPG",
@@ -56,7 +86,7 @@
         "pricePerGram" : "$10",
         "pricePerOunce" : "$200",
         "description" : "Purple Urkles effects are deeply relaxing, sleep-inducing, and a great option for full-body pain relief. The short onset of effects make it a perfect nighttime strain for those who suffer from insomnia.",
-        "inventory" : "full",
+        "inventory" : "low",
           "THC" : "23",
           "taste" : "80",
           "aroma" : "78",
@@ -70,7 +100,7 @@
 
     {
 
-      "id" : "4",
+      "id" : "5",
 
         "name" : "Pink Kandy Kush",
         "src" : "../images/pinkKandyKush.JPG",
@@ -93,7 +123,7 @@
     },
 
 {
-      "id" : "5",
+      "id" : "6",
 
         "name" : "Pink God",
         "src" : "../images/pinkGod.JPG",
@@ -116,7 +146,7 @@
     },
 
     {
-      "id" : "6",
+      "id" : "7",
 
         "name" : "Tuna",
         "src" : "../images/newTuna.JPG",
@@ -139,7 +169,7 @@
     },
 
     {
-      "id" : "7",
+      "id" : "8",
 
         "name" : "White Widow Sup.",
         "src" : "../images/whiteWidowSupreme.JPG",
@@ -162,17 +192,17 @@
     },
 
     {
-      "id" : "8",
+      "id" : "9",
 
         "name" : "Blueberry H.Bubba",
         "src" : "../images/bluberryHubbaBubba.JPG",
         "type" : "indica",
-        "isNew" : "none",
+        "isNew" : "new",
         "sale" : "none",
         "pricePerGram" : "$10",
         "pricePerOunce" : "$210",
-        "description" : "Hubba Bubba is an indica strain that has gained notoriety in the U.S. and beyond for its heavy tranquilizing effects. Sweet hashish flavors with subtle notes of bubble gum come through on the exhale, delighting the palate as powerful relaxation takes over. From head to toe, muscles ease with heaviness as dreamy euphoria blankets the mind, crushing stress while coercing happy moods.",
-        "inventory" : "low",
+        "description" : "It's Back! Hubba Bubba is an indica strain that has gained notoriety in the U.S. and beyond for its heavy tranquilizing effects. Sweet hashish flavors with subtle notes of bubble gum come through on the exhale, delighting the palate as powerful relaxation takes over. From head to toe, muscles ease with heaviness as dreamy euphoria blankets the mind, crushing stress while coercing happy moods.",
+        "inventory" : "full",
           "THC" : "26",
           "taste" : "82",
           "aroma" : "83",
@@ -180,12 +210,12 @@
           "insomnia" : "84",
           "appetite" : "80",
           "overall" : "82", 
-    "soldOut" : "sold out",
-    "opacity" : "0.3"
+    "soldOut" : "none",
+    "opacity" : "1"
     },
 
     {
-      "id" : "9",
+      "id" : "10",
 
         "name" : "Island Pink Kush",
         "src" : "../images/islandPink.JPG",
@@ -211,7 +241,7 @@
 
     {
       
-      "id" : "10",
+      "id" : "11",
 
         "name" : "Tangerine Bliss",
         "src" : "../images/tangerineBliss.JPG",
@@ -235,7 +265,7 @@
     },
 
     {
-      "id" : "11",
+      "id" : "12",
 
         "name" : "S Lemon Rockstar",
         "src" : "../images/superLemonRockstar.JPG",
@@ -259,7 +289,7 @@
     },
 
     {
-      "id" : "12",
+      "id" : "13",
 
         "name" : "Deep Purple",
         "src" : "../images/deepPurple.JPG",
@@ -283,7 +313,7 @@
     },
 
     {
-      "id" : "13",
+      "id" : "14",
 
         "name" : "Monster Bud",
         "src" : "../images/monsterBud.JPG",
@@ -308,7 +338,7 @@
 
     {
 
-      "id" : "14",
+      "id" : "15",
 
         "name" : "Super Silver Haze",
         "src" : "../images/ssh.JPG",
@@ -332,7 +362,7 @@
     },
 
     {
-      "id" : "15",
+      "id" : "16",
 
       "name" : "Atomic Trainwreck",
       "src" : "../images/atomicTrainwreck.JPG",
@@ -356,17 +386,17 @@
     },
 
     {
-      "id" : "16",
+      "id" : "17",
 
       "name" : "BC Chemo",
       "src" : "../images/bcChemo.JPG",
       "type" : "indica",
-      "isNew" : "none",
+      "isNew" : "new",
       "sale" : "none",
       "pricePerGram" : "$10",
       "pricePerOunce" : "$210",
-      "description" : "This strain originates from British Columbia and was primarily developed to treat cancer patients without having to undergo the disastrous side effects of chemotherapy, hence the name.Considering its potent high, you may be tempted to overdo it at times. The strain will give you the munchies in no time, which is perfect for patients suffering from a loss appetite. Additionally, it has also been used by patients suffering from panic attacks and paranoia.",
-      "inventory" : "low",
+      "description" : "It's Back! This strain originates from British Columbia and was primarily developed to treat cancer patients without having to undergo the disastrous side effects of chemotherapy, hence the name.Considering its potent high, you may be tempted to overdo it at times. The strain will give you the munchies in no time, which is perfect for patients suffering from a loss appetite. Additionally, it has also been used by patients suffering from panic attacks and paranoia.",
+      "inventory" : "full",
         "THC" : "25",
         "taste" : "80",
         "aroma" : "80",
@@ -380,7 +410,7 @@
     },
 
     {
-      "id" : "17",
+      "id" : "18",
 
       "name" : "Lemon OG",
       "src" : "../images/lemonOG.JPG",
@@ -404,7 +434,7 @@
     },
 
     {
-      "id" : "18",
+      "id" : "19",
 
         "name" : "Deadhead OG",
         "src" : "../images/deadHead.JPG",
@@ -428,7 +458,7 @@
     },
 
     {
-      "id" : "19",
+      "id" : "20",
 
         "name" : "Powerplant",
         "src" : "../images/powerplant.JPG",
@@ -438,7 +468,7 @@
         "pricePerGram" : "$10",
         "pricePerOunce" : "$210",
         "description" : "Use this strain for early afternoons or, if you wake and bake, mornings, as it provides a clear-headed boost of energy, with a creative spark and happy euphoria. Power Plant has a sweet taste with earthy, woody flavors.",
-        "inventory" : "med",
+        "inventory" : "low",
           "THC" : "21",
           "taste" : "71",
           "aroma" : "70",
@@ -452,7 +482,7 @@
     },
 
     {
-      "id" : "20",
+      "id" : "21",
 
       "name" : "Nuken",
       "src" : "../images/dukeNuken.JPG",
@@ -462,7 +492,7 @@
       "pricePerGram" : "$10",
       "pricePerOunce" : "$210",
       "description" : "The mostly Indica Nuken is a Canadian strain bred by combining genetics from kish and God Bud. Her even-keeled effects are delivered alongside a sweet, earthy aroma. While undeniably strong, Nuken typically leaves you functional enough to still enjoy hobbies and the company of friends. Nuken blooms with rounded, dense buds covered in a blanket of crystal resin veiling it's sage hues.",
-      "inventory" : "med",
+      "inventory" : "full",
         "THC" : "25",
         "taste" : "84",
         "aroma" : "86",
@@ -480,7 +510,7 @@
     
 
         {
-      "id" : "21",
+      "id" : "22",
 
       "name" : "Rockstar",
       "src" : "../images/rockstar.JPG",
@@ -506,15 +536,15 @@
        
     {
       "name" : "Gorilla Glue",
-      "id" : "22",
+      "id" : "23",
       "src" : "../images/gorillaGlue.JPG",
       "type" : "hybrid",
       "isNew" : "none",
       "sale" : "none",
       "pricePerGram" : "$10",
       "pricePerOunce" : "$210",
-      "description" : "Gorilla Glue, is a potent hybrid strain that delivers heavy-handed euphoria and relaxation, leaving you feeling glued to the couch. Earthy, pungent, piney taste. Good for stress, pain, depression, insomnia, and headaches.",
-      "inventory" : "low",
+      "description" : "Back again! Gorilla Glue, is a potent hybrid strain that delivers heavy-handed euphoria and relaxation, leaving you feeling glued to the couch. Earthy, pungent, piney taste. Good for stress, pain, depression, insomnia, and headaches.",
+      "inventory" : "full",
         "THC" : "25",
         "taste" : "81",
         "aroma" : "83",
@@ -522,15 +552,15 @@
         "insomnia" : "83",
         "appetite" : "81",
         "overall" : "82", 
-    "soldOut" : "sold out",
-    "opacity" : "0.3"
+    "soldOut" : "none",
+    "opacity" : "1"
 
     },
    
        
     {
       "name" : "Larry OG",
-      "id" : "23",
+      "id" : "24",
       "src" : "../images/larryOG.JPG",
       "type" : "indica",
       "isNew" : "none",
@@ -553,7 +583,7 @@
 
     {
       "name" : "Candy Apple",
-      "id" : "24",
+      "id" : "25",
       "src" : "../images/candyApple.JPG",
       "type" : "indica",
       "isNew" : "none",
@@ -561,7 +591,7 @@
       "pricePerGram" : "$10",
       "pricePerOunce" : "$210",
       "description" : "Expect to pucker up, because this strain will send your tastebuds a-tinglin’. Bright green in color with a distinct sour apple candy aroma, Candy Apple lives up to its name. You won’t get a sugar rush from this strain, however, but it may leave you stuck on the couch. This indica is good for after work or on a lazy afternoon. Candy Apple at its best is extremely potent and full-bodied. Try this strain if you’re looking to relax and ease stress.",
-      "inventory" : "med",
+      "inventory" : "low",
         "THC" : "23",
         "taste" : "82",
         "aroma" : "81",
@@ -576,7 +606,7 @@
    
     {
       "name" : "Violator",
-      "id" : "25",
+      "id" : "26",
       "src" : "../images/violator.JPG",
       "type" : "hybrid",
       "isNew" : "none",
@@ -601,7 +631,7 @@
      
    {
       "name" : "Green Crack",
-      "id" : "26",
+      "id" : "27",
       "src" : "../images/greenCrack.JPG",
       "type" : "hybrid",
       "isNew" : "none",
@@ -625,7 +655,7 @@
        
     {
       "name" : "Hindu Dub",
-      "id" : "27",
+      "id" : "28",
       "src" : "../images/hinduDub.JPG",
       "type" : "indica",
       "isNew" : "none",

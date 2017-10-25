@@ -18,12 +18,25 @@
               <li data-target="#myCarousel" data-slide-to="2"></li>
               <li data-target="#myCarousel" data-slide-to="3"></li>
 	      <li data-target="#myCarousel" data-slide-to="4"></li>
+	      <li data-target="#myCarousel" data-slide-to="5"></li>
           </ol>
 
           <!-- Wrapper for slides -->
           <div class="carousel-inner">
 
-	    <div class="item active">
+	   <div class="item active">
+              <a href="content/strains.php"><img src="images/favorites.png" alt="">
+                
+                <div class="carousel-caption">
+                    <h3>Returning Fav's!</h3>
+                    <p>Blackfin Tuna</p>
+		    <p>BC Chemo</p>
+		    <p>Blueberry Hubba Bubba</p>
+                </div>
+              </a>
+            </div>
+
+	    <div class="item">
               <a href="content/strains.php"><img src="images/blueDream.JPG" alt="">
                 
                 <div class="carousel-caption">
