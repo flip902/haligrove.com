@@ -44,12 +44,7 @@
 	  </ul>
 	  <br> 
 
-       <a href="strains.php#32">Green Crack</a>
-	  <ui>
-	      <li>5g for $35</li>
-              <li>10 for $65</li>
-	  </ul>
-	  <br>
+       
         
         <p>Please notify when ordering if you want any of these items, 
         to make sure we have on hand for you!! ......Thank you!</p><br>
