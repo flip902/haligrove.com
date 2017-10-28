@@ -19,10 +19,10 @@
         <br/>
         <h1 class="pickOTW">This Week:</h1>
 	
-	<a href="strains.php#" class="pink">Rockstar</a> <a href="strains.php#" class="pink">& Super Silver Haze</a>
+	<a href="strains.php#" class="pink">Sour Diesel</a> <a href="strains.php#" class="pink">& Pink God</a>
         <ui>
             <li>10 for $70</li>
-            <li>28 for $185</li>
+            <li>28 for $190</li>
         </ul>
         <br>
 
@@ -32,10 +32,15 @@
         <p>
 
         <br>
-        
+        <a href="strains.php#1">Nam</a>
+	  <ui>
+	      <li>5g for $35</li>
+              <li>10 for $60</li>
+	      <li>28 for $170</li>
+	  </ul>
+	  <br>
 
        
-       <h1>Our newest strain on sale!!</h1>
 	<a href="strains.php#1">Tuna</a>
 	  <ui>
 	      <li>5g for $35</li>
@@ -56,7 +61,7 @@
             <li>5g for $40</li>
             <li>10 for $80</li>
             <li>20 for $160</li>
-            <li>28 for $170 - $210</li>
+            <li>28 for $170 - $255</li>
         </ul>
         <br>
 	
@@ -70,8 +75,6 @@
         <a href="/content/hash.php" class="pinkChalk">Malaysian Cream Hash</a>
         <ui>
             <li>3 for $40</li>
-            <li>5 for $65</li>
-            <li>10 for $125</li>
         </ul>
         <br>
 
@@ -86,7 +89,6 @@
 	<a href="/content/hash.php" class="pinkChalk">Bubble Hash</a>
         <ui>
             <li>5 for $60</li>
-            <li>10 for $120</li>
         </ul>
         <br>
         

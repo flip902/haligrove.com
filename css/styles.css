@@ -8,7 +8,7 @@
     width: 100%;
     height: 100%;
     padding: 0px;
-    background-image: url("../images/background.png");
+    background-image: url("../images/halloweenBG.png");
     background-repeat: repeat;
     background-position: center right;
     background-color: #C9DF78;
@@ -23,7 +23,7 @@
     position: relative;
     height: 640px;
     width: 100%;
-    background: url(../images/header.jpg) 100% 100% no-repeat;
+    background: url(../images/halloweenHeader.jpg) 100% 100% no-repeat;
     background-size: 100% 600px;
     background-position: top center;
     background-attachment: fixed;
@@ -62,7 +62,7 @@
   }
 
   .leaf {
-    width: 438px;
+    /*width: 438px;
     height: 349px;
     background-image: url(../images/leaf.png);
     background-repeat: no-repeat;
@@ -70,7 +70,8 @@
     position: absolute;
     left: -120px;
     top: -100px;
-    margin-left: 0px;
+    margin-left: 0px;*/
+    display: none;
   }
   /* end of Header */
 
@@ -1527,7 +1528,7 @@
     width: 100%;
     height: 100%;
     padding: 0px;
-    background-image: url("../images/background.png");
+    background-image: url("../images/halloweenBG.png");
     background-repeat: repeat;
     background-position: center right;
     background-color: #C9DF78;
@@ -1541,7 +1542,7 @@
     position: relative;
     height: 600px;
     width: 100%;
-    background: url(../images/header.jpg) 100% 100% no-repeat;
+    background: url(../images/halloweenHeader.jpg) 100% 100% no-repeat;
     background-size: 100% 600px;
     background-position: top center;
     background-attachment: fixed;
@@ -1579,7 +1580,7 @@
   }
 
   .leaf {
-    width: 438px;
+    /*width: 438px;
     height: 349px;
     background-image: url(../images/leaf.png);
     background-repeat: no-repeat;
@@ -1587,7 +1588,8 @@
     position: absolute;
     left: -150px;
     top: -100px;
-    margin-left: 0px;
+    margin-left: 0px;*/
+    display: none;
   }
   /* end of Header */
   /* ----- Drop down menu button --- */

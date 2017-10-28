@@ -318,7 +318,7 @@ div h1.shatterDeal {
         width: 100%;
         height: 100%;
         padding: 0px;
-        background-image: url("../images/background.png");
+        background-image: url("../images/halloweenBG.png");
         background-repeat: repeat;
         background-position: center right;
         background-color: #C9DF78;
@@ -328,7 +328,7 @@ div h1.shatterDeal {
     position: relative;
     height: 370px; 
     width: 100%;
-    background: url(../images/header.jpg) repeat;
+    background: url(../images/halloweenHeader.jpg) repeat;
     background-position: top center;
     background-attachment: scroll;
     margin: 0 0 0 0;
@@ -364,7 +364,7 @@ div h1.shatterDeal {
   }
 
   .leaf {
-    width: 280px;
+    /*width: 280px;
     height: 300px;
     background-image: url(../images/leafLandscape.png);
     background-repeat: no-repeat;
@@ -372,7 +372,8 @@ div h1.shatterDeal {
     position: absolute;
     left: -50px;
     top: 0px;
-    margin-left: 0px;
+    margin-left: 0px;*/
+    display: none;
   }
 
   /* ----- Drop down menu button --- */
@@ -1871,7 +1872,7 @@ div h1.shatterDeal {
     width: 100%;
     height: 100%;
     padding: 0px;
-    background-image: url("../images/background.png");
+    background-image: url("../images/halloweenBG.png");
     background-repeat: repeat;
     background-position: center right;
     background-color: #C9DF78;
@@ -1880,7 +1881,7 @@ div h1.shatterDeal {
     position: relative;
     height: 370px; 
     width: 100%;
-    background: url(../images/header.jpg) repeat;
+    background: url(../images/halloweenHeader.jpg) repeat;
     background-position: top center;
     background-attachment: scroll;
     margin: 0 0 0 0;
@@ -1915,7 +1916,7 @@ div h1.shatterDeal {
     
   }
   .leaf {
-    width: 280px;
+    /*width: 280px;
     height: 300px;
     background-image: url(../images/leafLgPhone.png);
     background-repeat: no-repeat;
@@ -1923,7 +1924,8 @@ div h1.shatterDeal {
     position: absolute;
     left: -50px;
     top: -15px;
-    margin-left: 0px;
+    margin-left: 0px;*/
+    display: none;
   }
    /* ----- Drop down menu button --- */
   .dropbtn {
@@ -3426,7 +3428,7 @@ div h1.shatterDeal {
     width: 100%;
     height: 100%;
     padding: 0px;
-    background-image: url("../images/background.png");
+    background-image: url("../images/halloweenBG.png");
     background-repeat: repeat;
     background-position: center right;
     background-color: #C9DF78;
@@ -3435,7 +3437,7 @@ div h1.shatterDeal {
     position: relative;
     height: 370px; 
     width: 100%;
-    background: url(../images/header.jpg) repeat;
+    background: url(../images/halloweenHeader.jpg) repeat;
     background-position: top center;
     background-attachment: scroll;
     margin: 0 0 0 0;
@@ -3470,7 +3472,7 @@ div h1.shatterDeal {
     
   }
   .leaf {
-    width: 280px;
+    /*width: 280px;
     height: 300px;
     background-image: url(../images/leafLgPhone.png);
     background-repeat: no-repeat;
@@ -3478,7 +3480,8 @@ div h1.shatterDeal {
     position: absolute;
     left: -50px;
     top: -15px;
-    margin-left: 0px;
+    margin-left: 0px;*/
+    display: none;
   }
    /* ----- Drop down menu button --- */
   .dropbtn {
@@ -4993,7 +4996,7 @@ div h1.shatterDeal {
     width: 100%;
     height: 100%;
     padding: 0px;
-    background-image: url("../images/background.png");
+    background-image: url("../images/halloweenBG.png");
     background-repeat: repeat;
     background-position: center right;
     background-color: #C9DF78;
@@ -5002,7 +5005,7 @@ div h1.shatterDeal {
     position: relative;
     height: 280px; 
     width: 100%;
-    background: url(../images/header.jpg) repeat;
+    background: url(../images/halloweenHeader.jpg) repeat;
     background-position: top center;
     background-attachment: scroll;
     margin: 0 0 0 0;
@@ -5037,7 +5040,7 @@ div h1.shatterDeal {
     
   }
   .leaf {
-    width: 200px;
+    /*width: 200px;
     height: 200px;
     background-image: url(../images/leafLgPhone.png);
     background-repeat: no-repeat;
@@ -5045,7 +5048,8 @@ div h1.shatterDeal {
     position: absolute;
     left: -60px;
     top: -25px;
-    margin-left: 0px;
+    margin-left: 0px;*/
+    display: none;
   }
    /* ----- Drop down menu button --- */
   .dropbtn {

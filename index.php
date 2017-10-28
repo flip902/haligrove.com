@@ -18,14 +18,36 @@
               <li data-target="#myCarousel" data-slide-to="2"></li>
               <li data-target="#myCarousel" data-slide-to="3"></li>
 	      <li data-target="#myCarousel" data-slide-to="4"></li>
-	      <li data-target="#myCarousel" data-slide-to="5"></li>
           </ol>
 
           <!-- Wrapper for slides -->
           <div class="carousel-inner">
-
 	   <div class="item active">
-              <a href="content/strains.php"><img src="images/favorites.png" alt="">
+		<a href="content/strains.php"><img src="images/nam.JPG" alt="">
+                
+                <div class="carousel-caption">
+                    <h3>Nam</h3>
+                    <p>our new strain, great price<br>
+			              10g for $60<br>28g for $170</p>
+                </div>
+              </a>
+             </div>
+
+	   <div class="item">
+		<a href="content/strains.php"><img src="images/sourDiesel.JPG" alt="">
+                
+                <div class="carousel-caption">
+                    <h3>Picks Of The Week:</h3>
+                    <p>Sour Diesel & Pink God<br>
+			              10g for $70<br>28g for $190</p>
+                </div>
+              </a>
+             </div>
+
+	    
+
+            <div class="item">
+		<a href="content/strains.php"><img src="images/favorites.png" alt="">
                 
                 <div class="carousel-caption">
                     <h3>Returning Fav's!</h3>
@@ -34,27 +56,8 @@
 		    <p>Blueberry Hubba Bubba</p>
                 </div>
               </a>
-            </div>
 
-	    <div class="item">
-              <a href="content/strains.php"><img src="images/blueDream.JPG" alt="">
-                
-                <div class="carousel-caption">
-                    <h3>Blue Dream</h3>
-                    <p>a must try!!<br>
-                </div>
-              </a>
-            </div>
-
-            <div class="item">
-              <a href="content/strains.php"><img src="images/ssh.JPG" alt="">
-                
-                <div class="carousel-caption">
-                    <h3>Picks Of The Week:</h3>
-                    <p>Rockstar & Super Silver haze<br>
-			              10g for $70<br>28g for $185</p>
-                </div>
-              </a>
+              
             </div>
 
             <div class="item">
@@ -68,15 +71,7 @@
               </a>
             </div>
             
-            <div class="item">
-              <a href="content/hash.php"><img src="images/shetralAD.JPG" alt="shetral">
-                  
-                <div class="carousel-caption">
-                    <h3>New Hash!</h3>
-                    <p>Shetral</p>
-                </div>
-              </a>
-            </div>
+           
               
             <div class="item">
               <img src="images/referral.png" alt="referral">

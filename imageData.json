@@ -30,7 +30,7 @@
         "src" : "../images/sourDiesel.JPG",
         "type" : "hybrid",
         "isNew" : "new",
-        "sale" : "none",
+        "sale" : "sale",
         "pricePerGram" : "$10",
         "pricePerOunce" : "$210",
         "description" : "Sour Diesel, sometimes called Sour D, is an invigorating sativa-dominant strain named after its pungent, diesel-like aroma. This fast-acting strain delivers energizing, dreamy cerebral effects that have pushed Sour Diesel to its legendary status. Stress, pain, and depression fade away in long-lasting relief that makes Sour Diesel a top choice among medical patients.",
@@ -129,7 +129,7 @@
         "src" : "../images/pinkGod.JPG",
         "type" : "indica",
         "isNew" : "none",
-        "sale" : "none",
+        "sale" : "sale",
         "pricePerGram" : "$10",
         "pricePerOunce" : "$210",
         "description" : "The heritage of this heavy indica is a little uncertain, but it's known to be a relative and possibly an offspring of the legendary OG Kush, one of history's most popular strains. Pink God carries on the legacy, delivering a potent body high that's very effective as medical treatment. The effects are calming and intensely euphoric, with happiness and a powerful case of the munchies. It's a versatile tool for treating anxiety, depression, inflammation, lack of appetite, migraines and other headaches, mood disorders, chronic pain, and insomnia.",
@@ -344,7 +344,7 @@
         "src" : "../images/ssh.JPG",
         "type" : "sativa",
         "isNew" : "none",
-        "sale" : "sale",
+        "sale" : "none",
         "pricePerGram" : "$10",
         "pricePerOunce" : "$210",
         "description" : "SSH was the first prize winner at the High Times Cannabis Cup in 1997, 1998, and 1999. It also won awards at the High Times Harvest Festival. By crossing the genetics of Skunk, Northern Lights, and Haze, we are left with a beautiful, sticky sativa blend that boasts an energetic, long-lasting body high. The uplifting effects are a great remedy for high stress levels or when suffering from a lack of appetite or nausea.",
@@ -516,7 +516,7 @@
       "src" : "../images/rockstar.JPG",
       "type" : "hybrid",
       "isNew" : "none",
-      "sale" : "sale",
+      "sale" : "none",
       "pricePerGram" : "$10",
       "pricePerOunce" : "$200",
       "description" : "Rockstars potent effects are said to be perfect for treating chronic pain, muscle spasms or tremors, inflammation, and mild to moderate cases of depression. This bud has an aroma of spicy grapey earth with a hint of skunky pungent herbs and a taste of spiced mulled wine with a pungent slightly skunky exhale. Rockstar buds have medium-sized dense and lumpy dark olive green spade-shaped nugs with rich purple undertones, fiery orange hairs, and frosty trichome covered purple leaves.",
@@ -630,16 +630,16 @@
     
      
    {
-      "name" : "Green Crack",
+      "name" : "Nam",
       "id" : "27",
-      "src" : "../images/greenCrack.JPG",
+      "src" : "../images/nam.JPG",
       "type" : "hybrid",
-      "isNew" : "none",
+      "isNew" : "new",
       "sale" : "sale",
       "pricePerGram" : "$7",
       "pricePerOunce" : "$170",
-      "description" : "Green Crack is the perfect daytime medication for patients treating fatigue, stress, and depression.",
-      "inventory" : "low",
+      "description" : "",
+      "inventory" : "full",
         "THC" : "21",
         "taste" : "76",
         "aroma" : "76",
@@ -647,8 +647,8 @@
         "insomnia" : "77",
         "appetite" : "77",
         "overall" : "76", 
-    "soldOut" : "sold out",
-    "opacity" : "0.3"
+    "soldOut" : "none",
+    "opacity" : "1"
 
     },
 
