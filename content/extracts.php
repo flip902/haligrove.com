@@ -16,7 +16,25 @@
 	  <div class="extractsBox col-lg-6 col-md-6">
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
-                        <div class="new">new</div>
+		    <div class="new">new</div>
+                        <img src= "../images/kushyChews.png" style="height: 100%">
+                    </div>
+                    <div class="extractsItemTitle" id="">Kushy Chews</div>
+                    <div class="extractsPrice">
+                        $12<span> per</span><br>
+                 <br>   <p>Great tasting chews. each gummy is infused with 40mg of thc, great for pain and insomnia.</p><br>
+                    </div>
+                    <div id="kushyInventory">
+                        <div></div>
+                    </div>
+                    <p class="inventoryPTag">inventory</p>
+                </div>
+            </div>
+
+
+	  <div class="extractsBox col-lg-6 col-md-6">
+                <div class="extractsThumbnail">
+                    <div class="extractsImageDiv">
                         <div class="hybrid">hybrid</div>
                         <img src= "../images/popRocks.JPG" style="height: 100%">
                     </div>
@@ -39,7 +57,6 @@
 	<div class="extractsBox col-lg-6 col-md-6">
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
-                        <div class="new">new</div>
                         <div class="hybrid">hybrid</div>
                         <img src= "../images/alienOG.JPG" style="height: 100%">
                     </div>

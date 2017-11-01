@@ -26,6 +26,24 @@
         </ul>
         <br>
 
+	<h1 class="pickOTW">Hash Sale!</h1>
+
+	<a href="/content/hash.php" class="pinkChalk">Moroccan Hash</a>
+        <ui>
+            <li>3 for $30</li>
+            <li>5 for $45</li>
+            <li>10 for $85</li>
+        </ul>
+        <br>
+  
+        <a href="/content/hash.php" class="pinkChalk">Mercedes Hash</a>
+        <ui>
+	    <li>$7 per gram</li>
+            <li>10 for $65</li>
+        </ul>
+        <br>
+
+
         <h1 class="shatterDeal">Shatter Special!!</h1>
         <p>Get any combination of 3 <a href="extracts.php" class="blue">Atomic</a> or <a href="extracts.php" class="blue">Sorcerer</a> 
         Shatter (yellow packaging only) for $100
@@ -65,39 +83,20 @@
         </ul>
         <br>
 	
-	<a href="/content/hash.php" class="pinkChalk">Red Lebanese Hash</a>
+	<a href="/content/hash.php" class="pinkChalk">Red Lebanese & Shetral Hash</a>
         <ui>
             <li>5 for $70</li>
             <li>10 for $135</li>
         </ul>
         <br>
 
-        <a href="/content/hash.php" class="pinkChalk">Malaysian Cream Hash</a>
-        <ui>
-            <li>3 for $40</li>
-        </ul>
-        <br>
-
-        <a href="/content/hash.php" class="pinkChalk">Moroccan Hash</a>
-        <ui>
-            <li>3 for $35</li>
-            <li>5 for $55</li>
-            <li>10 for $100</li>
-        </ul>
-        <br>
-	
-	<a href="/content/hash.php" class="pinkChalk">Bubble Hash</a>
-        <ui>
-            <li>5 for $60</li>
-        </ul>
-        <br>
         
-	<a href="/content/hash.php" class="pinkChalk">Mercedes Hash</a>
-        <ui>
-            <li>10 for $75</li>
-            <li>30 for $210</li>
-        </ul>
-        <br>
+
+        
+	
+	
+        
+	
 
         
 

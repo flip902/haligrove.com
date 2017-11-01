@@ -23,12 +23,11 @@
           <!-- Wrapper for slides -->
           <div class="carousel-inner">
 	   <div class="item active">
-		<a href="content/strains.php"><img src="images/nam.JPG" alt="">
+		<a href="content/extracts.php"><img src="images/kushyAd.JPG" alt="">
                 
                 <div class="carousel-caption">
-                    <h3>Nam</h3>
-                    <p>our new strain, great price<br>
-			              10g for $60<br>28g for $170</p>
+                    <h3>Kushy Chews are Here!</h3>
+		    <p>$12/pack</p><p>40mg/piece</p>
                 </div>
               </a>
              </div>
@@ -47,13 +46,12 @@
 	    
 
             <div class="item">
-		<a href="content/strains.php"><img src="images/favorites.png" alt="">
+		<a href="content/specials.php"><img src="images/hashSaleAd.png" alt="">
                 
                 <div class="carousel-caption">
-                    <h3>Returning Fav's!</h3>
-                    <p>Blackfin Tuna</p>
-		    <p>BC Chemo</p>
-		    <p>Blueberry Hubba Bubba</p>
+                    <h3>Hash Sale!</h3>
+                    <p>Mercedes and Moroccan</p>
+		    <p>check specials page for prices.</p>
                 </div>
               </a>
 

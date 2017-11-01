@@ -18,7 +18,6 @@
 		<div class="hashBox col-lg-6 col-md-6">
                     <div class="hashThumbnail">
                         <div class="hashImageDiv">
-			<div class="new">new</div>
                                 <img src= "../images/shetral.JPG" alt="Shetral">
                         </div>
                         <h3 class="hashItemTitle" id="">Shetral</h3>
@@ -59,7 +58,7 @@
                         </div>
                         <h3 class="hashItemTitle" id="">Malaysian Cream</h3>
                         <div class="hashPrice">
-                            $15<span> Gram</span> / 3 <span>for</span> $40
+                            $15<span> Gram</span>
                             <p>hard, sweet taste, brown</p>
                         </div>
                         <div id="malaysianInventory">
@@ -74,12 +73,15 @@
                 <div class="hashBox col-lg-6 col-md-6">
                     <div class="hashThumbnail">
                         <div class="hashImageDiv">
+				<div class="sale">sale</div>
                                 <img src= "../images/moroccan.JPG" alt="Moroccan">
+				
                         </div>
                         <h3 class="hashItemTitle" id="">Moroccan</h3>
                         <div class="hashPrice">
-                            $12<span> Gram</span> / 3 <span>for</span> $35
-                            <p>hard, crumbly, dark center</p>
+                            $12<span> Gram</span> / 3 <span>for</span> $35<br>
+				
+                            <p>* check specials page for sale price</p>
                         </div>
                         <div id="moroccanInventory">
                             <div></div>
@@ -91,12 +93,13 @@
                 <div class="hashBox col-lg-6 col-md-6">
                     <div class="hashThumbnail">
                         <div class="hashImageDiv">
+				<div class="sale">sale</div>
                                 <img src= "../images/mercedes.JPG" alt="Mercedes">
                         </div>
                         <h3 class="hashItemTitle" id="">Mercedes</h3>
                         <div class="hashPrice">
                             $8<span> Gram</span> / 10 <span>for</span> $75
-                            <p>soft, gooey, dark</p>
+                            <p>* check specials page for sale price</p>
                         </div>
                         <div id="mercedesInventory">
                             <div></div>
@@ -114,7 +117,7 @@
                         </div>
                         <h3 class="hashItemTitle" id="">Bubble</h3>
                         <div class="hashPrice">
-                            $12<span> Gram</span> / 5 <span>for</span> $60
+                            $12<span> Gram</span>
                             <p>soft, gooey, sticky</p>
                         </div>
                         
