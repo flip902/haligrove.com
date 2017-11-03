@@ -27,7 +27,7 @@
         <br>
 
 	<h1 class="pickOTW">Hash Sale!</h1>
-
+	<p>* for limited time only</p>
 	<a href="/content/hash.php" class="pinkChalk">Moroccan Hash</a>
         <ui>
             <li>3 for $30</li>

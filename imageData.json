@@ -12,7 +12,7 @@
         "pricePerOunce" : "$210",
         "description" : "Yellowfin Tuna gives patients a potent punch of THC that is ideal for chronic pain relief. This Herijuana and Lamb's Bread cross has gained quite a bit of fame in Canada for both its strong narcotic effect and its whimsical marketing - prepackaged meds were sold in sealed tuna cans. Flowers will be compact, trichome-covered and have a strong smell. ",
         "inventory" : "full",
-          "THC" : "22",
+          "THC" : "23",
           "taste" : "80",
           "aroma" : "78",
           "pain" : "80",
@@ -282,8 +282,8 @@
           "insomnia" : "75",
           "appetite" : "77",
           "overall" : "77", 
-    "soldOut" : "none",
-    "opacity" : "1"
+    "soldOut" : "sold out",
+    "opacity" : "0.3"
 
     },
 
