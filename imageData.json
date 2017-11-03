@@ -3,6 +3,29 @@
 {
       "id" : "1",
 
+        "name" : "Yellowfin Tuna",
+        "src" : "../images/yellowfinTuna.JPG",
+        "type" : "indica",
+        "isNew" : "new",
+        "sale" : "none",
+        "pricePerGram" : "$10",
+        "pricePerOunce" : "$210",
+        "description" : "Yellowfin Tuna gives patients a potent punch of THC that is ideal for chronic pain relief. This Herijuana and Lamb's Bread cross has gained quite a bit of fame in Canada for both its strong narcotic effect and its whimsical marketing - prepackaged meds were sold in sealed tuna cans. Flowers will be compact, trichome-covered and have a strong smell. ",
+        "inventory" : "full",
+          "THC" : "22",
+          "taste" : "80",
+          "aroma" : "78",
+          "pain" : "80",
+          "insomnia" : "79",
+          "appetite" : "76",
+          "overall" : "79", 
+    "soldOut" : "none",
+    "opacity" : "1"
+    },
+
+{
+      "id" : "2",
+
         "name" : "Blue Dream",
         "src" : "../images/blueDream.JPG",
         "type" : "hybrid",
@@ -24,7 +47,7 @@
     },
 
 {
-      "id" : "2",
+      "id" : "3",
 
         "name" : "Sour Diesel",
         "src" : "../images/sourDiesel.JPG",
@@ -51,7 +74,7 @@
 
 
 {
-      "id" : "3",
+      "id" : "4",
 
         "name" : "Blackfin Tuna",
         "src" : "../images/bluefinTuna.JPG",
@@ -76,7 +99,7 @@
 
 
 {
-      "id" : "4",
+      "id" : "5",
 
         "name" : "Purple Urkle",
         "src" : "../images/purpleUrkle.JPG",
@@ -100,7 +123,7 @@
 
     {
 
-      "id" : "5",
+      "id" : "6",
 
         "name" : "Pink Kandy Kush",
         "src" : "../images/pinkKandyKush.JPG",
@@ -123,7 +146,7 @@
     },
 
 {
-      "id" : "6",
+      "id" : "7",
 
         "name" : "Pink God",
         "src" : "../images/pinkGod.JPG",
@@ -146,7 +169,7 @@
     },
 
     {
-      "id" : "7",
+      "id" : "8",
 
         "name" : "Tuna",
         "src" : "../images/newTuna.JPG",
@@ -169,7 +192,7 @@
     },
 
     {
-      "id" : "8",
+      "id" : "9",
 
         "name" : "White Widow Sup.",
         "src" : "../images/whiteWidowSupreme.JPG",
@@ -192,7 +215,7 @@
     },
 
     {
-      "id" : "9",
+      "id" : "10",
 
         "name" : "Blueberry H.Bubba",
         "src" : "../images/bluberryHubbaBubba.JPG",
@@ -215,7 +238,7 @@
     },
 
     {
-      "id" : "10",
+      "id" : "11",
 
         "name" : "Island Pink Kush",
         "src" : "../images/islandPink.JPG",
@@ -241,7 +264,7 @@
 
     {
       
-      "id" : "11",
+      "id" : "12",
 
         "name" : "Tangerine Bliss",
         "src" : "../images/tangerineBliss.JPG",
@@ -265,7 +288,7 @@
     },
 
     {
-      "id" : "12",
+      "id" : "13",
 
         "name" : "S Lemon Rockstar",
         "src" : "../images/superLemonRockstar.JPG",
@@ -289,7 +312,7 @@
     },
 
     {
-      "id" : "13",
+      "id" : "14",
 
         "name" : "Deep Purple",
         "src" : "../images/deepPurple.JPG",
@@ -313,7 +336,7 @@
     },
 
     {
-      "id" : "14",
+      "id" : "15",
 
         "name" : "Monster Bud",
         "src" : "../images/monsterBud.JPG",
@@ -338,7 +361,7 @@
 
     {
 
-      "id" : "15",
+      "id" : "16",
 
         "name" : "Super Silver Haze",
         "src" : "../images/ssh.JPG",
@@ -362,7 +385,7 @@
     },
 
     {
-      "id" : "16",
+      "id" : "17",
 
       "name" : "Atomic Trainwreck",
       "src" : "../images/atomicTrainwreck.JPG",
@@ -386,7 +409,7 @@
     },
 
     {
-      "id" : "17",
+      "id" : "18",
 
       "name" : "BC Chemo",
       "src" : "../images/bcChemo.JPG",
@@ -410,7 +433,7 @@
     },
 
     {
-      "id" : "18",
+      "id" : "19",
 
       "name" : "Lemon OG",
       "src" : "../images/lemonOG.JPG",
@@ -434,7 +457,7 @@
     },
 
     {
-      "id" : "19",
+      "id" : "20",
 
         "name" : "Deadhead OG",
         "src" : "../images/deadHead.JPG",
@@ -458,7 +481,7 @@
     },
 
     {
-      "id" : "20",
+      "id" : "21",
 
         "name" : "Powerplant",
         "src" : "../images/powerplant.JPG",
@@ -482,7 +505,7 @@
     },
 
     {
-      "id" : "21",
+      "id" : "22",
 
       "name" : "Nuken",
       "src" : "../images/dukeNuken.JPG",
@@ -510,7 +533,7 @@
     
 
         {
-      "id" : "22",
+      "id" : "23",
 
       "name" : "Rockstar",
       "src" : "../images/rockstar.JPG",
@@ -536,7 +559,7 @@
        
     {
       "name" : "Gorilla Glue",
-      "id" : "23",
+      "id" : "24",
       "src" : "../images/gorillaGlue.JPG",
       "type" : "hybrid",
       "isNew" : "none",
@@ -560,7 +583,7 @@
        
     {
       "name" : "Larry OG",
-      "id" : "24",
+      "id" : "25",
       "src" : "../images/larryOG.JPG",
       "type" : "indica",
       "isNew" : "none",
@@ -583,7 +606,7 @@
 
     {
       "name" : "Candy Apple",
-      "id" : "25",
+      "id" : "26",
       "src" : "../images/candyApple.JPG",
       "type" : "indica",
       "isNew" : "none",
@@ -606,7 +629,7 @@
    
     {
       "name" : "Violator",
-      "id" : "26",
+      "id" : "27",
       "src" : "../images/violator.JPG",
       "type" : "hybrid",
       "isNew" : "none",
@@ -631,14 +654,14 @@
      
    {
       "name" : "Nam",
-      "id" : "27",
+      "id" : "28",
       "src" : "../images/nam.JPG",
       "type" : "hybrid",
       "isNew" : "new",
       "sale" : "sale",
       "pricePerGram" : "$7",
       "pricePerOunce" : "$170",
-      "description" : "",
+      "description" : "Nam is a Vietnamese, Sativa dominant hybrid Created and distributed by SoCal Seed Co. Nam is like most of Asian bred Sativas out there now-a-days, growing big, fast and tall, with a long flowering time, rather large yields that bring a happy head high which asian strains are known for.",
       "inventory" : "full",
         "THC" : "21",
         "taste" : "76",
@@ -655,7 +678,7 @@
        
     {
       "name" : "Hindu Dub",
-      "id" : "28",
+      "id" : "29",
       "src" : "../images/hinduDub.JPG",
       "type" : "indica",
       "isNew" : "none",
