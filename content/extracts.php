@@ -13,6 +13,76 @@
     <div class="extractsPositioning">
         <div class="row width extractWidth">
 
+	    <div class="extractsBox col-lg-6 col-md-6">
+                <div class="extractsThumbnail">
+                    <div class="extractsImageDiv">
+                        <div class="sativa">sativa</div>
+			<div class="new">new</div>
+                        <img src= "../images/littleFarmSourTangie.JPG" style="height: 100%">
+                    </div>
+                    <div class="extractsItemTitle" id="">Sour Tangie</div>
+                    <div class="extractsPrice">
+                        <span>$40 Per </span><br>
+                        <h3>Little Farma</h3>
+                        <p class="descriptionP">Citrus Orange taste.
+                        Great for depression and stress.
+                        </p>
+                    </div>
+                       <br> 
+                    <div id="sourTangieInventory">
+                        <div></div>
+                    </div>
+                    <p class="inventoryPTag">inventory</p>
+                </div>
+            </div>
+
+
+	    <div class="extractsBox col-lg-6 col-md-6">
+                <div class="extractsThumbnail">
+                    <div class="extractsImageDiv">
+                        <div class="indica">indica</div>
+			<div class="new">new</div>
+                        <img src= "../images/littleFarmBubbaKush.JPG" style="height: 100%">
+                    </div>
+                    <div class="extractsItemTitle" id="">Bubba Kush</div>
+                    <div class="extractsPrice">
+                        <span>$40 Per </span><br>
+                        <h3>Little Farma</h3>
+                        <p class="descriptionP">Earthy, sweet taste.
+                        Great for pain and stress.
+                        </p>
+                    </div>
+                       <br> 
+                    <div id="bubbaKushInventory">
+                        <div></div>
+                    </div>
+                    <p class="inventoryPTag">inventory</p>
+                </div>
+            </div>
+
+	    <div class="extractsBox col-lg-6 col-md-6">
+                <div class="extractsThumbnail">
+                    <div class="extractsImageDiv">
+                        <div class="indica">indica</div>
+			<div class="new">new</div>
+                        <img src= "../images/littleFarmLindseyOG.JPG" style="height: 100%">
+                    </div>
+                    <div class="extractsItemTitle" id="">Lindsay OG</div>
+                    <div class="extractsPrice">
+                        <span>$40 Per </span><br>
+                        <h3>Little Farma</h3>
+                        <p class="descriptionP">Earthy, lemon taste.
+                        Great for pain and stress.
+                        </p>
+                    </div>
+                       <br> 
+                    <div id="lindsayOGInventory">
+                        <div></div>
+                    </div>
+                    <p class="inventoryPTag">inventory</p>
+                </div>
+            </div>
+
 	  <div class="extractsBox col-lg-6 col-md-6">
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">

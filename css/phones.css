@@ -209,7 +209,50 @@
   border-radius: 10px;
 }
 
+#lindsayOGInventory {
+  width: 80%;
+  background-color: black;
+  border-radius: 13px; /* (height of inner div) / 2 + padding */
+  padding: 3px;
+  margin: 0 auto 0 auto;
+}
 
+#lindsayOGInventory > div {
+  background-color: #C9DF78;
+  width: 100%; /* Adjust with JavaScript */
+  height: 20px;
+  border-radius: 10px;
+}
+
+#bubbaKushInventory {
+  width: 80%;
+  background-color: black;
+  border-radius: 13px; /* (height of inner div) / 2 + padding */
+  padding: 3px;
+  margin: 0 auto 0 auto;
+}
+
+#bubbaKushInventory > div {
+  background-color: #C9DF78;
+  width: 100%; /* Adjust with JavaScript */
+  height: 20px;
+  border-radius: 10px;
+}
+
+#sourTangieInventory {
+  width: 80%;
+  background-color: black;
+  border-radius: 13px; /* (height of inner div) / 2 + padding */
+  padding: 3px;
+  margin: 0 auto 0 auto;
+}
+
+#sourTangieInventory > div {
+  background-color: #C9DF78;
+  width: 100%; /* Adjust with JavaScript */
+  height: 20px;
+  border-radius: 10px;
+}
 
 
 /* Hash inventory */

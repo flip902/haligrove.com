@@ -3,6 +3,29 @@
 {
       "id" : "1",
 
+        "name" : "Phantom OG",
+        "src" : "../images/phantomOG.JPG",
+        "type" : "indica",
+        "isNew" : "new",
+        "sale" : "none",
+        "pricePerGram" : "$10",
+        "pricePerOunce" : "$210",
+        "description" : "Phantom OG begins with heightened energy and ends with a crash of full-body relaxation. Its aroma is a rich combination of pine and lemon accented by a subtle menthol flavor. The initial euporic jolt launches you into a happy, dreamy state of mind with fits of giggles and fixated concentration. Over time, you may notice some mental jamming, absent-mindedness, and impending sleepiness. Phantom OG is a great choice for patients treating insomnia, pain, appetite loss, and arthritis.",
+        "inventory" : "full",
+          "THC" : "24",
+          "taste" : "82",
+          "aroma" : "82",
+          "pain" : "81",
+          "insomnia" : "81",
+          "appetite" : "81",
+          "overall" : "82", 
+    "soldOut" : "none",
+    "opacity" : "1"
+},
+
+{
+      "id" : "2",
+
         "name" : "Yellowfin Tuna",
         "src" : "../images/yellowfinTuna.JPG",
         "type" : "indica",
@@ -24,12 +47,12 @@
     },
 
 {
-      "id" : "2",
+      "id" : "3",
 
         "name" : "Blue Dream",
         "src" : "../images/blueDream.JPG",
         "type" : "hybrid",
-        "isNew" : "new",
+        "isNew" : "none",
         "sale" : "none",
         "pricePerGram" : "$10",
         "pricePerOunce" : "$210",
@@ -47,7 +70,7 @@
     },
 
 {
-      "id" : "3",
+      "id" : "4",
 
         "name" : "Sour Diesel",
         "src" : "../images/sourDiesel.JPG",
@@ -74,7 +97,7 @@
 
 
 {
-      "id" : "4",
+      "id" : "5",
 
         "name" : "Blackfin Tuna",
         "src" : "../images/bluefinTuna.JPG",
@@ -99,7 +122,7 @@
 
 
 {
-      "id" : "5",
+      "id" : "6",
 
         "name" : "Purple Urkle",
         "src" : "../images/purpleUrkle.JPG",
@@ -123,7 +146,7 @@
 
     {
 
-      "id" : "6",
+      "id" : "7",
 
         "name" : "Pink Kandy Kush",
         "src" : "../images/pinkKandyKush.JPG",
@@ -146,7 +169,7 @@
     },
 
 {
-      "id" : "7",
+      "id" : "8",
 
         "name" : "Pink God",
         "src" : "../images/pinkGod.JPG",
@@ -169,7 +192,7 @@
     },
 
     {
-      "id" : "8",
+      "id" : "9",
 
         "name" : "Tuna",
         "src" : "../images/newTuna.JPG",
@@ -192,7 +215,7 @@
     },
 
     {
-      "id" : "9",
+      "id" : "10",
 
         "name" : "White Widow Sup.",
         "src" : "../images/whiteWidowSupreme.JPG",
@@ -215,7 +238,7 @@
     },
 
     {
-      "id" : "10",
+      "id" : "11",
 
         "name" : "Blueberry H.Bubba",
         "src" : "../images/bluberryHubbaBubba.JPG",
@@ -238,7 +261,7 @@
     },
 
     {
-      "id" : "11",
+      "id" : "12",
 
         "name" : "Island Pink Kush",
         "src" : "../images/islandPink.JPG",
@@ -262,30 +285,7 @@
 
     
 
-    {
-      
-      "id" : "12",
-
-        "name" : "Tangerine Bliss",
-        "src" : "../images/tangerineBliss.JPG",
-        "type" : "sativa",
-        "isNew" : "none",
-        "sale" : "none",
-        "pricePerGram" : "$10",
-        "pricePerOunce" : "$210",
-        "description" : "This cannabis strain got its name for both its citrusy flavor and its halo of bright orange hairs covering the bud. While the effects of this indica are particularly short-lasting, Tangerine Bliss is potent with a quick onset. Providing consumers with a happy, body-heavy sensation",
-        "inventory" : "low",
-          "THC" : "21",
-          "taste" : "79",
-          "aroma" : "79",
-          "pain" : "78",
-          "insomnia" : "75",
-          "appetite" : "77",
-          "overall" : "77", 
-    "soldOut" : "sold out",
-    "opacity" : "0.3"
-
-    },
+    
 
     {
       "id" : "13",
