@@ -33,11 +33,11 @@
              </div>
 
 	   <div class="item">
-		<a href="content/strains.php"><img src="images/sourDiesel.JPG" alt="">
+		<a href="content/strains.php"><img src="images/lemonOG.JPG" alt="">
                 
                 <div class="carousel-caption">
                     <h3>Picks Of The Week:</h3>
-                    <p>Sour Diesel & Pink God<br>
+                    <p>Lemon OG & Super Silver Haze<br>
 			              10g for $70<br>28g for $190</p>
                 </div>
               </a>

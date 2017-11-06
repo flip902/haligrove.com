@@ -19,7 +19,7 @@
         <br/>
         <h1 class="pickOTW">This Week:</h1>
 	
-	<a href="strains.php#" class="pink">Sour Diesel</a> <a href="strains.php#" class="pink">& Pink God</a>
+	<a href="strains.php#" class="pink">Lemon OG</a> <a href="strains.php#" class="pink">& Super Silver Haze</a>
         <ui>
             <li>10 for $70</li>
             <li>28 for $190</li>
