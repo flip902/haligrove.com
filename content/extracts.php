@@ -92,7 +92,7 @@
                     <div class="extractsItemTitle" id="">Kushy Chews</div>
                     <div class="extractsPrice">
                         $12<span> per</span><br>
-                 <br>   <p>Great tasting chews. each gummy is infused with 40mg of thc, great for pain and insomnia.</p><br>
+                 <br>   <p>Great tasting chews. each gummy is infused with 40mg of thc, great for pain and insomnia.<br> 4 gummies in pack</p><br>
                     </div>
                     <div id="kushyInventory">
                         <div></div>

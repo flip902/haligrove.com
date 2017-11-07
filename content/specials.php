@@ -57,7 +57,14 @@
 	      <li>28 for $170</li>
 	  </ul>
 	  <br>
-
+	
+	<a href="strains.php#1">Hindu</a>
+	  <ui>
+	      <li>5g for $35</li>
+              <li>10 for $65</li>
+	      <li>28 for $170</li>
+	  </ul>
+	  <br>
        
 	<a href="strains.php#1">Tuna</a>
 	  <ui>

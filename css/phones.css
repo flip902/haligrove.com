@@ -144,7 +144,7 @@
 
 #godzillaInventory > div {
   background-color: #C9DF78;
-  width: 80%; /* Adjust with JavaScript */
+  width: 50%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -174,7 +174,7 @@
 
 #alienOGInventory > div {
   background-color: #C9DF78;
-  width: 80%; /* Adjust with JavaScript */
+  width: 50%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -189,7 +189,7 @@
 
 #popRocksInventory > div {
   background-color: #C9DF78;
-  width: 80%; /* Adjust with JavaScript */
+  width: 50%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
