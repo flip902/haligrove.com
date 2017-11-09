@@ -54,7 +54,7 @@
 	  <ui>
 	      <li>5g for $35</li>
               <li>10 for $60</li>
-	      <li>28 for $170</li>
+	      <li>28 for $165</li>
 	  </ul>
 	  <br>
 	

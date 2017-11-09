@@ -129,7 +129,7 @@
 
 #HulkInventory > div {
   background-color: #C9DF78;
-  width: 50%; /* Adjust with JavaScript */
+  width: 20%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -144,7 +144,7 @@
 
 #godzillaInventory > div {
   background-color: #C9DF78;
-  width: 50%; /* Adjust with JavaScript */
+  width: 20%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }

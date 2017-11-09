@@ -37,7 +37,7 @@
             </div>
 
 
-	    <div class="extractsBox col-lg-6 col-md-6">
+	    <!-- <div class="extractsBox col-lg-6 col-md-6">
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
                         <div class="indica">indica</div>
@@ -58,9 +58,9 @@
                     </div>
                     <p class="inventoryPTag">inventory</p>
                 </div>
-            </div>
+            </div> -->
 
-	    <div class="extractsBox col-lg-6 col-md-6">
+	    <!-- <div class="extractsBox col-lg-6 col-md-6">
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
                         <div class="indica">indica</div>
@@ -81,7 +81,7 @@
                     </div>
                     <p class="inventoryPTag">inventory</p>
                 </div>
-            </div>
+            </div> -->
 
 	  <div class="extractsBox col-lg-6 col-md-6">
                 <div class="extractsThumbnail">
@@ -89,7 +89,7 @@
 		    <div class="new">new</div>
                         <img src= "../images/kushyChews.png" style="height: 100%">
                     </div>
-                    <div class="extractsItemTitle" id="">Kushy Chews</div>
+                    <div class="extractsItemTitle" id="">Kushy Chews</div><p class="extractsPrice">(edibles)</p>
                     <div class="extractsPrice">
                         $12<span> per</span><br>
                  <br>   <p>Great tasting chews. each gummy is infused with 40mg of thc, great for pain and insomnia.<br> 4 gummies in pack</p><br>
