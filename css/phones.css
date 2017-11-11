@@ -144,7 +144,7 @@
 
 #godzillaInventory > div {
   background-color: #C9DF78;
-  width: 20%; /* Adjust with JavaScript */
+  width: 0%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -249,7 +249,7 @@
 
 #sourTangieInventory > div {
   background-color: #C9DF78;
-  width: 100%; /* Adjust with JavaScript */
+  width: 50%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -346,6 +346,21 @@
 #shetral > div {
   background-color: #C9DF78;
   width: 90%; /* Adjust with JavaScript */
+  height: 20px;
+  border-radius: 10px;
+}
+
+#trident {
+  width: 75%;
+  background-color: black;
+  border-radius: 13px; /* (height of inner div) / 2 + padding */
+  padding: 3px;
+  margin: 0 auto 0 auto;
+}
+
+#trident > div {
+  background-color: #C9DF78;
+  width: 100%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }

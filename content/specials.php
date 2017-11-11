@@ -86,7 +86,15 @@
             <li>5g for $40</li>
             <li>10 for $80</li>
             <li>20 for $160</li>
-            <li>28 for $170 - $255</li>
+            <li>28 for $170 - $210</li>
+        </ul>
+        <br>
+
+	<a href="/content/hash.php" class="pinkChalk">Trident Hash</a>
+        <ui>
+	    <li>3 for $40</li>
+            <li>5 for $65</li>
+            <li>10 for $125</li>
         </ul>
         <br>
 	

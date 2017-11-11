@@ -130,7 +130,7 @@
         "pricePerGram" : "$10",
         "pricePerOunce" : "$255",
         "description" : "It's back! the boss of all bosses.",
-        "inventory" : "med",
+        "inventory" : "low",
           "THC" : "26",
           "taste" : "88",
           "aroma" : "87",
@@ -138,8 +138,8 @@
           "insomnia" : "87",
           "appetite" : "87",
           "overall" : "87", 
-    "soldOut" : "none",
-    "opacity" : "1"
+    "soldOut" : "sold out",
+    "opacity" : "0.3"
     },
 
 
@@ -200,7 +200,7 @@
         "isNew" : "none",
         "sale" : "none",
         "pricePerGram" : "$10",
-        "pricePerOunce" : "$210",
+        "pricePerOunce" : "$195",
         "description" : "The heritage of this heavy indica is a little uncertain, but it's known to be a relative and possibly an offspring of the legendary OG Kush, one of history's most popular strains. Pink God carries on the legacy, delivering a potent body high that's very effective as medical treatment. The effects are calming and intensely euphoric, with happiness and a powerful case of the munchies. It's a versatile tool for treating anxiety, depression, inflammation, lack of appetite, migraines and other headaches, mood disorders, chronic pain, and insomnia.",
         "inventory" : "full",
           "THC" : "23",
@@ -660,7 +660,7 @@
       "pricePerGram" : "$10",
       "pricePerOunce" : "$210",
       "description" : "Violator Kush is an Indica dominant hybrid. This tastey bud has a spicy pungent earthy aroma and a taste of spicy pine upon exhale. Users describe the high as starting slowly with a lazy warming body buzz with a hint of euphoria. Great for pain, appetite loss, and sleep disorders.",
-      "inventory" : "med",
+      "inventory" : "low",
         "THC" : "25",
         "taste" : "83",
         "aroma" : "86",

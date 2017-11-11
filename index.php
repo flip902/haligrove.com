@@ -23,11 +23,11 @@
           <!-- Wrapper for slides -->
           <div class="carousel-inner">
 	   <div class="item active">
-		<a href="content/extracts.php"><img src="images/kushyAd.JPG" alt="">
+		<a href="content/hash.php"><img src="images/tridentAd.JPG" alt="">
                 
                 <div class="carousel-caption">
-                    <h3>Kushy Chews are Here!</h3>
-		    <p>$12/pack</p><p>40mg/piece</p>
+                    <h3>New Trident Hash</h3>
+		    <p>3 for $40<br>5 for $65<br>10 for $125</p>
                 </div>
               </a>
              </div>

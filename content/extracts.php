@@ -87,11 +87,29 @@
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
 		    <div class="new">new</div>
+                        <img src= "../images/kushyChews20.JPG" style="height: 100%">
+                    </div>
+                    <div class="extractsItemTitle" id="">Kushy Chews</div><p class="extractsPrice">(edibles 20mg)</p>
+                    <div class="extractsPrice">
+                        $10<span> per</span><br>
+                 <br>   <p>Great tasting chews. each gummy is infused with 20mg of thc, great for pain and insomnia.<br> 4 gummies in pack</p><br>
+                    </div>
+                    <div id="kushyInventory">
+                        <div></div>
+                    </div>
+                    <p class="inventoryPTag">inventory</p>
+                </div>
+            </div>
+
+	    <div class="extractsBox col-lg-6 col-md-6">
+                <div class="extractsThumbnail">
+                    <div class="extractsImageDiv">
+		    <div class="new">new</div>
                         <img src= "../images/kushyChews.png" style="height: 100%">
                     </div>
-                    <div class="extractsItemTitle" id="">Kushy Chews</div><p class="extractsPrice">(edibles)</p>
+                    <div class="extractsItemTitle" id="">Kushy Chews</div><p class="extractsPrice">(edibles 40mg)</p>
                     <div class="extractsPrice">
-                        $12<span> per</span><br>
+                        $15<span> per</span><br>3 <span>for </span>$40
                  <br>   <p>Great tasting chews. each gummy is infused with 40mg of thc, great for pain and insomnia.<br> 4 gummies in pack</p><br>
                     </div>
                     <div id="kushyInventory">
@@ -171,7 +189,8 @@
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
                         <div class="indica">indica</div>
-                        <img src= "../images/godzilla.JPG" style="height: 100%">
+			<div class="sold out">sold out</div>
+                        <img src= "../images/godzilla.JPG" style="height: 100%; opacity: 0.3">
                     </div>
                     <div class="extractsItemTitle" id="">Godzilla</div>
                     <div class="extractsPrice">
