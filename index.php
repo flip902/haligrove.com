@@ -33,11 +33,11 @@
              </div>
 
 	   <div class="item">
-		<a href="content/strains.php"><img src="images/lemonOG.JPG" alt="">
+		<a href="content/strains.php"><img src="images/pinkGod.JPG" alt="">
                 
                 <div class="carousel-caption">
                     <h3>Picks Of The Week:</h3>
-                    <p>Lemon OG & Super Silver Haze<br>
+                    <p>BC Chemo & Pink God<br>
 			              10g for $70<br>28g for $190</p>
                 </div>
               </a>
@@ -59,12 +59,11 @@
             </div>
 
             <div class="item">
-              <a href="content/specials.php"><img src="images/atomicPurpleCandyAd.JPG" alt="Extracts">
+              <a href="content/strains.php"><img src="images/deathStar.JPG" alt="">
 
                 <div class="carousel-caption">
-                    <h3>Extracts</h3>
-                    <p>Yellow Package sale!</p>
-                    <p>3 for $100</p>
+                    <h3>Death Star</h3>
+                    <p>Our newest indica</p>
                 </div>
               </a>
             </div>

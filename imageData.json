@@ -1,12 +1,60 @@
 {
   "images" : [
+
 {
       "id" : "1",
+
+        "name" : "Death Star",
+        "src" : "../images/deathStar.JPG",
+        "type" : "indica",
+        "isNew" : "new",
+        "sale" : "none",
+        "pricePerGram" : "$10",
+        "pricePerOunce" : "$210",
+        "description" : "Death Star is an Indica dominant hybrid strain of marijuana known for it's potency and having a creeping onset. While you may be eying this strain in particular as a Star Wars fan, it's got a lot more going for it than just a cool name. Death Star is a cross of the infamous Sour Diesel and Sensi Star. This cross breeding results in Death Star having a mix of both indica and sativa effects, giving it a nice balance. This strain is renowned for having high THC Content with potent effects. The buds are thick, fat, and sticky.",
+        "inventory" : "full",
+          "THC" : "25",
+          "taste" : "80",
+          "aroma" : "81",
+          "pain" : "80",
+          "insomnia" : "82",
+          "appetite" : "79",
+          "overall" : "81", 
+    "soldOut" : "none",
+    "opacity" : "1"
+},
+
+
+{
+      "id" : "2",
+
+        "name" : "House Blend (Mix)",
+        "src" : "../images/houseBlend.JPG",
+        "type" : "none",
+        "isNew" : "new",
+        "sale" : "sale",
+        "pricePerGram" : "$8",
+        "pricePerOunce" : "$190",
+        "description" : "A mixture of some of our popular strains. Get 10 grams of our blend for $70.",
+        "inventory" : "full",
+          "THC" : "23",
+          "taste" : "79",
+          "aroma" : "79",
+          "pain" : "79",
+          "insomnia" : "79",
+          "appetite" : "79",
+          "overall" : "79", 
+    "soldOut" : "none",
+    "opacity" : "1"
+},
+
+{
+      "id" : "3",
 
         "name" : "Sour Kosher",
         "src" : "../images/sourKosher.JPG",
         "type" : "sativa",
-        "isNew" : "new",
+        "isNew" : "none",
         "sale" : "none",
         "pricePerGram" : "$10",
         "pricePerOunce" : "$210",
@@ -24,12 +72,12 @@
 },
 
 {
-      "id" : "2",
+      "id" : "4",
 
         "name" : "Phantom OG",
         "src" : "../images/phantomOG.JPG",
         "type" : "indica",
-        "isNew" : "new",
+        "isNew" : "none",
         "sale" : "none",
         "pricePerGram" : "$10",
         "pricePerOunce" : "$210",
@@ -47,17 +95,17 @@
 },
 
 {
-      "id" : "3",
+      "id" : "5",
 
         "name" : "Yellowfin Tuna",
         "src" : "../images/yellowfinTuna.JPG",
         "type" : "indica",
-        "isNew" : "new",
+        "isNew" : "none",
         "sale" : "none",
         "pricePerGram" : "$10",
         "pricePerOunce" : "$210",
         "description" : "Yellowfin Tuna gives patients a potent punch of THC that is ideal for chronic pain relief. This Herijuana and Lamb's Bread cross has gained quite a bit of fame in Canada for both its strong narcotic effect and its whimsical marketing - prepackaged meds were sold in sealed tuna cans. Flowers will be compact, trichome-covered and have a strong smell. ",
-        "inventory" : "full",
+        "inventory" : "med",
           "THC" : "23",
           "taste" : "80",
           "aroma" : "78",
@@ -70,7 +118,7 @@
     },
 
 {
-      "id" : "4",
+      "id" : "6",
 
         "name" : "Blue Dream",
         "src" : "../images/blueDream.JPG",
@@ -93,7 +141,7 @@
     },
 
 {
-      "id" : "5",
+      "id" : "7",
 
         "name" : "Sour Diesel",
         "src" : "../images/sourDiesel.JPG",
@@ -103,7 +151,7 @@
         "pricePerGram" : "$10",
         "pricePerOunce" : "$210",
         "description" : "Sour Diesel, sometimes called Sour D, is an invigorating sativa-dominant strain named after its pungent, diesel-like aroma. This fast-acting strain delivers energizing, dreamy cerebral effects that have pushed Sour Diesel to its legendary status. Stress, pain, and depression fade away in long-lasting relief that makes Sour Diesel a top choice among medical patients.",
-        "inventory" : "full",
+        "inventory" : "med",
           "THC" : "23",
           "taste" : "81",
           "aroma" : "80",
@@ -117,35 +165,8 @@
 
 
 
-
-
 {
-      "id" : "6",
-
-        "name" : "Blackfin Tuna",
-        "src" : "../images/bluefinTuna.JPG",
-        "type" : "indica",
-        "isNew" : "none",
-        "sale" : "none",
-        "pricePerGram" : "$10",
-        "pricePerOunce" : "$255",
-        "description" : "It's back! the boss of all bosses.",
-        "inventory" : "low",
-          "THC" : "26",
-          "taste" : "88",
-          "aroma" : "87",
-          "pain" : "87",
-          "insomnia" : "87",
-          "appetite" : "87",
-          "overall" : "87", 
-    "soldOut" : "sold out",
-    "opacity" : "0.3"
-    },
-
-
-
-{
-      "id" : "7",
+      "id" : "8",
 
         "name" : "Purple Urkle",
         "src" : "../images/purpleUrkle.JPG",
@@ -169,7 +190,7 @@
 
     {
 
-      "id" : "8",
+      "id" : "9",
 
         "name" : "Pink Kandy Kush",
         "src" : "../images/pinkKandyKush.JPG",
@@ -192,14 +213,14 @@
     },
 
 {
-      "id" : "9",
+      "id" : "10",
 
         "name" : "Pink God",
         "src" : "../images/pinkGod.JPG",
         "type" : "indica",
         "isNew" : "none",
-        "sale" : "none",
-        "pricePerGram" : "$10",
+        "sale" : "sale",
+        "pricePerGram" : "$8",
         "pricePerOunce" : "$195",
         "description" : "The heritage of this heavy indica is a little uncertain, but it's known to be a relative and possibly an offspring of the legendary OG Kush, one of history's most popular strains. Pink God carries on the legacy, delivering a potent body high that's very effective as medical treatment. The effects are calming and intensely euphoric, with happiness and a powerful case of the munchies. It's a versatile tool for treating anxiety, depression, inflammation, lack of appetite, migraines and other headaches, mood disorders, chronic pain, and insomnia.",
         "inventory" : "full",
@@ -215,7 +236,7 @@
     },
 
     {
-      "id" : "10",
+      "id" : "11",
 
         "name" : "Tuna",
         "src" : "../images/newTuna.JPG",
@@ -238,7 +259,7 @@
     },
 
     {
-      "id" : "11",
+      "id" : "12",
 
         "name" : "White Widow Sup.",
         "src" : "../images/whiteWidowSupreme.JPG",
@@ -261,7 +282,7 @@
     },
 
     {
-      "id" : "12",
+      "id" : "13",
 
         "name" : "Blueberry H.Bubba",
         "src" : "../images/bluberryHubbaBubba.JPG",
@@ -271,7 +292,7 @@
         "pricePerGram" : "$10",
         "pricePerOunce" : "$210",
         "description" : "It's Back! Hubba Bubba is an indica strain that has gained notoriety in the U.S. and beyond for its heavy tranquilizing effects. Sweet hashish flavors with subtle notes of bubble gum come through on the exhale, delighting the palate as powerful relaxation takes over. From head to toe, muscles ease with heaviness as dreamy euphoria blankets the mind, crushing stress while coercing happy moods.",
-        "inventory" : "med",
+        "inventory" : "low",
           "THC" : "26",
           "taste" : "82",
           "aroma" : "83",
@@ -284,7 +305,7 @@
     },
 
     {
-      "id" : "13",
+      "id" : "14",
 
         "name" : "Island Pink Kush",
         "src" : "../images/islandPink.JPG",
@@ -294,7 +315,7 @@
         "pricePerGram" : "$10",
         "pricePerOunce" : "$210",
         "description" : "Island Pink has a nice skunky aroma with a sweet grapefruit fragrance. Its 20:80 sativa-indica has strong physical effects giving an ultimate high and intense euphoria leaving you with a powerful case of the munchies. This is great for those who suffer with mood disorders, chronic pain and helps with appetite.",
-        "inventory" : "full",
+        "inventory" : "med",
           "THC" : "25",
           "taste" : "81",
           "aroma" : "84",
@@ -311,7 +332,7 @@
     
 
     {
-      "id" : "14",
+      "id" : "15",
 
         "name" : "S Lemon Rockstar",
         "src" : "../images/superLemonRockstar.JPG",
@@ -335,7 +356,7 @@
     },
 
     {
-      "id" : "15",
+      "id" : "16",
 
         "name" : "Deep Purple",
         "src" : "../images/deepPurple.JPG",
@@ -359,7 +380,7 @@
     },
 
     {
-      "id" : "16",
+      "id" : "17",
 
         "name" : "Monster Bud",
         "src" : "../images/monsterBud.JPG",
@@ -384,17 +405,17 @@
 
     {
 
-      "id" : "17",
+      "id" : "18",
 
         "name" : "Super Silver Haze",
         "src" : "../images/ssh.JPG",
         "type" : "sativa",
         "isNew" : "none",
-        "sale" : "sale",
+        "sale" : "none",
         "pricePerGram" : "$10",
         "pricePerOunce" : "$210",
         "description" : "SSH was the first prize winner at the High Times Cannabis Cup in 1997, 1998, and 1999. It also won awards at the High Times Harvest Festival. By crossing the genetics of Skunk, Northern Lights, and Haze, we are left with a beautiful, sticky sativa blend that boasts an energetic, long-lasting body high. The uplifting effects are a great remedy for high stress levels or when suffering from a lack of appetite or nausea.",
-        "inventory" : "med",
+        "inventory" : "low",
           "THC" : "23",
           "taste" : "78",
           "aroma" : "79",
@@ -408,7 +429,7 @@
     },
 
     {
-      "id" : "18",
+      "id" : "19",
 
       "name" : "Atomic Trainwreck",
       "src" : "../images/atomicTrainwreck.JPG",
@@ -432,13 +453,13 @@
     },
 
     {
-      "id" : "19",
+      "id" : "20",
 
       "name" : "BC Chemo",
       "src" : "../images/bcChemo.JPG",
       "type" : "indica",
       "isNew" : "none",
-      "sale" : "none",
+      "sale" : "sale",
       "pricePerGram" : "$10",
       "pricePerOunce" : "$210",
       "description" : "It's Back! This strain originates from British Columbia and was primarily developed to treat cancer patients without having to undergo the disastrous side effects of chemotherapy, hence the name.Considering its potent high, you may be tempted to overdo it at times. The strain will give you the munchies in no time, which is perfect for patients suffering from a loss appetite. Additionally, it has also been used by patients suffering from panic attacks and paranoia.",
@@ -456,17 +477,17 @@
     },
 
     {
-      "id" : "20",
+      "id" : "21",
 
       "name" : "Lemon OG",
       "src" : "../images/lemonOG.JPG",
       "type" : "indica",
       "isNew" : "none",
-      "sale" : "sale",
+      "sale" : "none",
       "pricePerGram" : "$10",
       "pricePerOunce" : "$210",
       "description" : "What this skunky indica lacks in longevity it makes up for in speed. A cross between the mythical Las Vegas Lemon Skunk and The OG #18, Lemon OG provides users with a quick-acting sleepy head sensation. While Lemon OG has inherited a skunky aroma from its kush relatives, this particular strain is mild tasting and pleasant smelling with fruity undertones. Lemon OG tends to feel more psychoactive than other members of the kush family, but still offers a heavy, medicated feel.",
-      "inventory" : "med",
+      "inventory" : "low",
         "THC" : "23",
         "taste" : "78",
         "aroma" : "79",
@@ -480,7 +501,7 @@
     },
 
     {
-      "id" : "21",
+      "id" : "22",
 
         "name" : "Deadhead OG",
         "src" : "../images/deadHead.JPG",
@@ -504,7 +525,7 @@
     },
 
     {
-      "id" : "22",
+      "id" : "23",
 
         "name" : "Powerplant",
         "src" : "../images/powerplant.JPG",
@@ -528,7 +549,7 @@
     },
 
     {
-      "id" : "23",
+      "id" : "24",
 
       "name" : "Nuken",
       "src" : "../images/dukeNuken.JPG",
@@ -556,7 +577,7 @@
     
 
         {
-      "id" : "24",
+      "id" : "25",
 
       "name" : "Rockstar",
       "src" : "../images/rockstar.JPG",
@@ -582,7 +603,7 @@
        
     {
       "name" : "Gorilla Glue",
-      "id" : "25",
+      "id" : "26",
       "src" : "../images/gorillaGlue.JPG",
       "type" : "hybrid",
       "isNew" : "none",
@@ -606,7 +627,7 @@
        
     {
       "name" : "Larry OG",
-      "id" : "26",
+      "id" : "27",
       "src" : "../images/larryOG.JPG",
       "type" : "indica",
       "isNew" : "none",
@@ -629,7 +650,7 @@
 
     {
       "name" : "Candy Apple",
-      "id" : "27",
+      "id" : "28",
       "src" : "../images/candyApple.JPG",
       "type" : "indica",
       "isNew" : "none",
@@ -650,42 +671,20 @@
 
     },
    
-    {
-      "name" : "Violator",
-      "id" : "28",
-      "src" : "../images/violator.JPG",
-      "type" : "hybrid",
-      "isNew" : "none",
-      "sale" : "none",
-      "pricePerGram" : "$10",
-      "pricePerOunce" : "$210",
-      "description" : "Violator Kush is an Indica dominant hybrid. This tastey bud has a spicy pungent earthy aroma and a taste of spicy pine upon exhale. Users describe the high as starting slowly with a lazy warming body buzz with a hint of euphoria. Great for pain, appetite loss, and sleep disorders.",
-      "inventory" : "low",
-        "THC" : "25",
-        "taste" : "83",
-        "aroma" : "86",
-        "pain" : "85",
-        "insomnia" : "86",
-        "appetite" : "86",
-        "overall" : "85", 
-    "soldOut" : "none",
-    "opacity" : "1"
 
-    },
    
     
-     
-   {
+{
       "name" : "Nam",
       "id" : "29",
       "src" : "../images/nam.JPG",
       "type" : "hybrid",
-      "isNew" : "new",
+      "isNew" : "none",
       "sale" : "sale",
       "pricePerGram" : "$7",
       "pricePerOunce" : "$170",
       "description" : "Nam is a Vietnamese, Sativa dominant hybrid Created and distributed by SoCal Seed Co. Nam is like most of Asian bred Sativas out there now-a-days, growing big, fast and tall, with a long flowering time, rather large yields that bring a happy head high which asian strains are known for.",
-      "inventory" : "full",
+      "inventory" : "med",
         "THC" : "21",
         "taste" : "76",
         "aroma" : "76",

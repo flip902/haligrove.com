@@ -19,7 +19,7 @@
         <br/>
         <h1 class="pickOTW">This Week:</h1>
 	
-	<a href="strains.php#" class="pink">Lemon OG</a> <a href="strains.php#" class="pink">& Super Silver Haze</a>
+	<a href="strains.php#" class="pink">BC Chemo</a> <a href="strains.php#" class="pink">& Pink God</a>
         <ui>
             <li>10 for $70</li>
             <li>28 for $190</li>
@@ -42,14 +42,29 @@
             <li>10 for $65</li>
         </ul>
         <br>
-
-
-        <h1 class="shatterDeal">Shatter Special!!</h1>
-        <p>Get any combination of 3 <a href="extracts.php" class="blue">Atomic</a> or <a href="extracts.php" class="blue">Sorcerer</a> 
-        Shatter (yellow packaging only) for $100
-        <p>
-
+	
+	<a href="/content/hash.php" class="pinkChalk">Trident Hash</a>
+        <ui>
+	    <li>3 for $40</li>
+            <li>5 for $65</li>
+            <li>10 for $125</li>
+        </ul>
         <br>
+	
+	<a href="/content/hash.php" class="pinkChalk">Red Lebanese & Shetral Hash</a>
+        <ui>
+            <li>5 for $70</li>
+            <li>10 for $135</li>
+        </ul>
+        <br>
+        
+
+	<a href="strains.php">new House Blend mixture!</a>
+	  <ui>
+	      <li>10g for $70</li>
+	  </ul>
+	  <br>
+
         <a href="strains.php#1">Nam</a>
 	  <ui>
 	      <li>5g for $35</li>
@@ -90,20 +105,7 @@
         </ul>
         <br>
 
-	<a href="/content/hash.php" class="pinkChalk">Trident Hash</a>
-        <ui>
-	    <li>3 for $40</li>
-            <li>5 for $65</li>
-            <li>10 for $125</li>
-        </ul>
-        <br>
 	
-	<a href="/content/hash.php" class="pinkChalk">Red Lebanese & Shetral Hash</a>
-        <ui>
-            <li>5 for $70</li>
-            <li>10 for $135</li>
-        </ul>
-        <br>
 
         
 
