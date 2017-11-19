@@ -23,10 +23,10 @@
           <!-- Wrapper for slides -->
           <div class="carousel-inner">
 	   <div class="item active">
-		<a href="content/hash.php"><img src="images/tridentAd.JPG" alt="">
+		<a href="content/hash.php"><img src="images/romeoAd.JPG" alt="">
                 
                 <div class="carousel-caption">
-                    <h3>New Trident Hash</h3>
+                    <h3>New Romeo & Juliet</h3>
 		    <p>3 for $40<br>5 for $65<br>10 for $125</p>
                 </div>
               </a>

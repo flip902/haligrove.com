@@ -7,10 +7,12 @@
             <div class="glass"></div>
     </div>
 
-
+        
 
 
     <div contenteditable="false" class="chalkboardbody">
+    
+	
 	<br>
        <h1 class="pickOTW">Picks Of The Week:</h1>
        <p>For a limited time, every week we will put 2 of our regular priced strains
@@ -106,7 +108,11 @@
         <br>
 
 	
-
+	<a href="http://haligrove.com/images/bitcoin.png" style="hieght: 120px; width: 120px">
+        <div class="bitcoin">
+	  <img src="../images/bitcoinAccepted.png" style="hieght: 120px; width: 120px">
+        </div>
+        </a>
         
 
         

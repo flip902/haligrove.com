@@ -19,6 +19,24 @@
                     <div class="hashThumbnail">
                         <div class="hashImageDiv">
 				<div class="new">new</div>
+                                <img src= "../images/romeo.JPG" alt="Romeo">
+                        </div>
+                        <h3 class="hashItemTitle" id="">Romeo & Juliet</h3>
+                        <div class="hashPrice">
+                            $15<span> Gram</span> / 5 <span>for</span> $65 
+                            <p>soft, sweet, good taste</p>
+                        </div>
+                        <div id="romeo">
+                            <div></div>
+                        </div>
+                        <p class="inventoryPTag">inventory</p>
+                    </div>
+                </div>
+
+		<div class="hashBox col-lg-6 col-md-6">
+                    <div class="hashThumbnail">
+                        <div class="hashImageDiv">
+				<div class="new">new</div>
                                 <img src= "../images/trident.JPG" alt="Shetral">
                         </div>
                         <h3 class="hashItemTitle" id="">Trident</h3>

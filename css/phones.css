@@ -365,6 +365,21 @@
   border-radius: 10px;
 }
 
+#romeo {
+  width: 75%;
+  background-color: black;
+  border-radius: 13px; /* (height of inner div) / 2 + padding */
+  padding: 3px;
+  margin: 0 auto 0 auto;
+}
+
+#romeo > div {
+  background-color: #C9DF78;
+  width: 100%; /* Adjust with JavaScript */
+  height: 20px;
+  border-radius: 10px;
+}
+
 div h1.pickOTW {
   color: #DE28A9;
   font-size: 40px;
