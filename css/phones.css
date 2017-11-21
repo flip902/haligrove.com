@@ -39,7 +39,7 @@
 
 #ogKushInventory > div {
   background-color: #C9DF78;
-  width: 40%; /* Adjust with JavaScript */
+  width: 20%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -54,7 +54,7 @@
 
 #purpleKushInventory > div {
   background-color: #C9DF78;
-  width: 40%; /* Adjust with JavaScript */
+  width: 30%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -69,7 +69,7 @@
 
 #pinkKushInventory > div {
   background-color: #C9DF78;
-  width: 40%; /* Adjust with JavaScript */
+  width: 30%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -99,7 +99,7 @@
 
 #chemoInventory > div {
   background-color: #C9DF78;
-  width: 50%; /* Adjust with JavaScript */
+  width: 30%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -114,7 +114,7 @@
 
 #purpleCandyInventory > div {
   background-color: #C9DF78;
-  width: 50%; /* Adjust with JavaScript */
+  width: 30%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -174,7 +174,7 @@
 
 #alienOGInventory > div {
   background-color: #C9DF78;
-  width: 50%; /* Adjust with JavaScript */
+  width: 40%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -189,7 +189,7 @@
 
 #popRocksInventory > div {
   background-color: #C9DF78;
-  width: 50%; /* Adjust with JavaScript */
+  width: 30%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -204,40 +204,13 @@
 
 #kushyInventory > div {
   background-color: #C9DF78;
-  width: 100%; /* Adjust with JavaScript */
+  width: 90%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
 
-#lindsayOGInventory {
-  width: 80%;
-  background-color: black;
-  border-radius: 13px; /* (height of inner div) / 2 + padding */
-  padding: 3px;
-  margin: 0 auto 0 auto;
-}
 
-#lindsayOGInventory > div {
-  background-color: #C9DF78;
-  width: 100%; /* Adjust with JavaScript */
-  height: 20px;
-  border-radius: 10px;
-}
 
-#bubbaKushInventory {
-  width: 80%;
-  background-color: black;
-  border-radius: 13px; /* (height of inner div) / 2 + padding */
-  padding: 3px;
-  margin: 0 auto 0 auto;
-}
-
-#bubbaKushInventory > div {
-  background-color: #C9DF78;
-  width: 100%; /* Adjust with JavaScript */
-  height: 20px;
-  border-radius: 10px;
-}
 
 #sourTangieInventory {
   width: 80%;
@@ -249,11 +222,100 @@
 
 #sourTangieInventory > div {
   background-color: #C9DF78;
-  width: 50%; /* Adjust with JavaScript */
+  width: 30%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
 
+#girlScout {
+  width: 80%;
+  background-color: black;
+  border-radius: 13px; /* (height of inner div) / 2 + padding */
+  padding: 3px;
+  margin: 0 auto 0 auto;
+}
+
+#girlScout > div {
+  background-color: #C9DF78;
+  width: 100%; /* Adjust with JavaScript */
+  height: 20px;
+  border-radius: 10px;
+}
+
+#goombaSmash {
+  width: 80%;
+  background-color: black;
+  border-radius: 13px; /* (height of inner div) / 2 + padding */
+  padding: 3px;
+  margin: 0 auto 0 auto;
+}
+
+#goombaSmash > div {
+  background-color: #C9DF78;
+  width: 100%; /* Adjust with JavaScript */
+  height: 20px;
+  border-radius: 10px;
+}
+
+#nardiusHaze {
+  width: 80%;
+  background-color: black;
+  border-radius: 13px; /* (height of inner div) / 2 + padding */
+  padding: 3px;
+  margin: 0 auto 0 auto;
+}
+
+#nardiusHaze > div {
+  background-color: #C9DF78;
+  width: 100%; /* Adjust with JavaScript */
+  height: 20px;
+  border-radius: 10px;
+}
+
+#purpleUrkle {
+  width: 80%;
+  background-color: black;
+  border-radius: 13px; /* (height of inner div) / 2 + padding */
+  padding: 3px;
+  margin: 0 auto 0 auto;
+}
+
+#purpleUrkle > div {
+  background-color: #C9DF78;
+  width: 100%; /* Adjust with JavaScript */
+  height: 20px;
+  border-radius: 10px;
+}
+
+#couchPotato {
+  width: 80%;
+  background-color: black;
+  border-radius: 13px; /* (height of inner div) / 2 + padding */
+  padding: 3px;
+  margin: 0 auto 0 auto;
+}
+
+#couchPotato > div {
+  background-color: #C9DF78;
+  width: 100%; /* Adjust with JavaScript */
+  height: 20px;
+  border-radius: 10px;
+}
+
+#gorillaGlue {
+  width: 80%;
+  background-color: black;
+  border-radius: 13px; /* (height of inner div) / 2 + padding */
+  padding: 3px;
+  margin: 0 auto 0 auto;
+}
+
+#gorillaGlue > div {
+  background-color: #C9DF78;
+  width: 100%; /* Adjust with JavaScript */
+  height: 20px;
+  border-radius: 10px;
+}
 
 /* Hash inventory */
 #bubbleInventory {
@@ -300,7 +362,7 @@
 
 #moroccanInventory > div {
   background-color: #C9DF78;
-  width: 85%; /* Adjust with JavaScript */
+  width: 00%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -315,7 +377,7 @@
 
 #mercedesInventory > div {
   background-color: #C9DF78;
-  width: 60%; /* Adjust with JavaScript */
+  width: 30%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }

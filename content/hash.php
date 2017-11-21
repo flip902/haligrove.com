@@ -109,8 +109,8 @@
                 <div class="hashBox col-lg-6 col-md-6">
                     <div class="hashThumbnail">
                         <div class="hashImageDiv">
-				<div class="sale">sale</div>
-                                <img src= "../images/moroccan.JPG" alt="Moroccan">
+				<div class="sold out">sold out</div>
+                                <img src= "../images/moroccan.JPG" alt="Moroccan" style="opacity: 0.3">
 				
                         </div>
                         <h3 class="hashItemTitle" id="">Moroccan</h3>
@@ -129,13 +129,12 @@
                 <div class="hashBox col-lg-6 col-md-6">
                     <div class="hashThumbnail">
                         <div class="hashImageDiv">
-				<div class="sale">sale</div>
                                 <img src= "../images/mercedes.JPG" alt="Mercedes">
                         </div>
                         <h3 class="hashItemTitle" id="">Mercedes</h3>
                         <div class="hashPrice">
                             $8<span> Gram</span> / 10 <span>for</span> $75
-                            <p>* check specials page for sale price</p>
+                            <p>soft, brown</p>
                         </div>
                         <div id="mercedesInventory">
                             <div></div>

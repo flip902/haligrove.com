@@ -13,6 +13,144 @@
     <div class="extractsPositioning">
         <div class="row width extractWidth">
 
+	  <div class="extractsBox col-lg-6 col-md-6">
+                <div class="extractsThumbnail">
+                    <div class="extractsImageDiv">
+                        <div class="hybrid">hybrid</div>
+			<div class="new">new</div>
+                        <img src= "../images/gorillaGlueEm.JPG" style="height: 100%">
+                    </div>
+                    <div class="extractsItemTitle" id="">Gorilla Glue</div>
+                    <div class="extractsPrice">
+                        <span>$40 Per </span><br>
+                        <h3>Emerald Extracts</h3>
+                        <p class="descriptionP">Earthy, pine, pungent taste.
+                        Great for Pain, appetite and insomnia.
+                        </p>
+                    </div>
+                       <br> 
+                    <div id="gorillaGlue">
+                        <div></div>
+                    </div>
+                    <p class="inventoryPTag">inventory</p>
+                </div>
+            </div>
+
+	  <div class="extractsBox col-lg-6 col-md-6">
+                <div class="extractsThumbnail">
+                    <div class="extractsImageDiv">
+                        <div class="hybrid">hybrid</div>
+			<div class="new">new</div>
+                        <img src= "../images/couchPotatoEm.JPG" style="height: 100%">
+                    </div>
+                    <div class="extractsItemTitle" id="">Couch Potato</div>
+                    <div class="extractsPrice">
+                        <span>$40 Per </span><br>
+                        <h3>Emerald Extracts</h3>
+                        <p class="descriptionP">Earthy, woody, pungent taste.
+                        Great for Pain, inflamation and insomnia.
+                        </p>
+                    </div>
+                       <br> 
+                    <div id="couchPotato">
+                        <div></div>
+                    </div>
+                    <p class="inventoryPTag">inventory</p>
+                </div>
+            </div>
+
+	  <div class="extractsBox col-lg-6 col-md-6">
+                <div class="extractsThumbnail">
+                    <div class="extractsImageDiv">
+                        <div class="indica">indica</div>
+			<div class="new">new</div>
+                        <img src= "../images/purpleUrkleEm.JPG" style="height: 100%">
+                    </div>
+                    <div class="extractsItemTitle" id="">Purple Urkle</div>
+                    <div class="extractsPrice">
+                        <span>$40 Per </span><br>
+                        <h3>Emerald Extracts</h3>
+                        <p class="descriptionP">Sweet, grape, berry taste.
+                        Great for Pain, stress and insomnia.
+                        </p>
+                    </div>
+                       <br> 
+                    <div id="purpleUrkle">
+                        <div></div>
+                    </div>
+                    <p class="inventoryPTag">inventory</p>
+                </div>
+            </div>
+
+	  <div class="extractsBox col-lg-6 col-md-6">
+                <div class="extractsThumbnail">
+                    <div class="extractsImageDiv">
+                        <div class="hybrid">hybrid</div>
+			<div class="new">new</div>
+                        <img src= "../images/nardiusHazeEm.JPG" style="height: 100%">
+                    </div>
+                    <div class="extractsItemTitle" id="">Nardius Haze</div>
+                    <div class="extractsPrice">
+                        <span>$40 Per </span><br>
+                        <h3>Emerald Extracts</h3>
+                        <p class="descriptionP">Pungent, earthy, flowery taste.
+                        Great for Pain, stress and relaxation.
+                        </p>
+                    </div>
+                       <br> 
+                    <div id="nardiusHaze">
+                        <div></div>
+                    </div>
+                    <p class="inventoryPTag">inventory</p>
+                </div>
+            </div>
+
+	  <div class="extractsBox col-lg-6 col-md-6">
+                <div class="extractsThumbnail">
+                    <div class="extractsImageDiv">
+                        <div class="sativa">sativa</div>
+			<div class="new">new</div>
+                        <img src= "../images/goombaSmashEm.JPG" style="height: 100%">
+                    </div>
+                    <div class="extractsItemTitle" id="">Goombasmash</div>
+                    <div class="extractsPrice">
+                        <span>$40 Per </span><br>
+                        <h3>Emerald Extracts</h3>
+                        <p class="descriptionP">Strawberry, sweet, berry taste.
+                        Happy, euphoric, Uplifting buzz.
+                        </p>
+                    </div>
+                       <br> 
+                    <div id="goombaSmash">
+                        <div></div>
+                    </div>
+                    <p class="inventoryPTag">inventory</p>
+                </div>
+            </div>
+
+	   <div class="extractsBox col-lg-6 col-md-6">
+                <div class="extractsThumbnail">
+                    <div class="extractsImageDiv">
+                        <div class="hybrid">hybrid</div>
+			<div class="new">new</div>
+                        <img src= "../images/girlScoutCookiesEm.JPG" style="height: 100%">
+                    </div>
+                    <div class="extractsItemTitle" id="">Girl Scout Cookies</div>
+                    <div class="extractsPrice">
+                        <span>$40 Per </span><br>
+                        <h3>Emerald Extracts</h3>
+                        <p class="descriptionP">Earthy, pungent, sweet taste.
+                        Great for depression, stress and pain.
+                        </p>
+                    </div>
+                       <br> 
+                    <div id="girlScout">
+                        <div></div>
+                    </div>
+                    <p class="inventoryPTag">inventory</p>
+                </div>
+            </div>
+
 	    <div class="extractsBox col-lg-6 col-md-6">
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
@@ -185,28 +323,6 @@
                 </div>
             </div>
 
-            <div class="extractsBox col-lg-6 col-md-6">
-                <div class="extractsThumbnail">
-                    <div class="extractsImageDiv">
-                        <div class="indica">indica</div>
-			<div class="sold out">sold out</div>
-                        <img src= "../images/godzilla.JPG" style="height: 100%; opacity: 0.3">
-                    </div>
-                    <div class="extractsItemTitle" id="">Godzilla</div>
-                    <div class="extractsPrice">
-                        <span>$40 Per </span><br>
-                        <h3>Phyto Extractions</h3>
-                        <p class="descriptionP">earthy, pungent, berry taste.
-                        Great for inflamation, stress, and pain
-                        </p>
-                    </div>
-                        
-                    <div id="godzillaInventory">
-                        <div></div>
-                    </div>
-                    <p class="inventoryPTag">inventory</p>
-                </div>
-            </div>
 
             <div class="extractsBox col-lg-6 col-md-6">
                 <div class="extractsThumbnail">

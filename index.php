@@ -18,11 +18,48 @@
               <li data-target="#myCarousel" data-slide-to="2"></li>
               <li data-target="#myCarousel" data-slide-to="3"></li>
 	      <li data-target="#myCarousel" data-slide-to="4"></li>
+	      <li data-target="#myCarousel" data-slide-to="5"></li>
+
+
           </ol>
 
           <!-- Wrapper for slides -->
           <div class="carousel-inner">
+
 	   <div class="item active">
+              <a href="content/extracts.php"><img src="images/kushyAd.JPG" alt="">
+
+                <div class="carousel-caption">
+                    <h3>Try our Kushy Chews!</h3>
+                    <p>20mg - $10<br>
+	            40mg - $15<br>
+		     look in extracts</p>
+                </div>
+              </a>
+            </div>
+
+
+	     <div class="item">
+              <a href="content/extracts.php"><img src="images/emAd.JPG" alt="">
+
+                <div class="carousel-caption">
+                    <h3>New!</h3>
+                    <p>Emerald Extracts</p>
+                </div>
+              </a>
+            </div>
+
+	   <div class="item">
+              <a href="content/strains.php"><img src="images/kingKush.JPG" alt="">
+
+                <div class="carousel-caption">
+                    <h3>King Kush & Jack Herer</h3>
+                    <p>Our newest strains!</p>
+                </div>
+              </a>
+            </div>
+
+	   <div class="item">
 		<a href="content/hash.php"><img src="images/romeoAd.JPG" alt="">
                 
                 <div class="carousel-caption">
@@ -33,43 +70,18 @@
              </div>
 
 	   <div class="item">
-		<a href="content/strains.php"><img src="images/pinkGod.JPG" alt="">
+		<a href="content/strains.php"><img src="images/sourDiesel.JPG" alt="">
                 
                 <div class="carousel-caption">
                     <h3>Picks Of The Week:</h3>
-                    <p>BC Chemo & Pink God<br>
+                    <p>Sour Diesel & <br>Yellowfin Tuna<br>
 			              10g for $70<br>28g for $190</p>
                 </div>
               </a>
              </div>
 
 	    
-
-            <div class="item">
-		<a href="content/specials.php"><img src="images/hashSaleAd.png" alt="">
-                
-                <div class="carousel-caption">
-                    <h3>Hash Sale!</h3>
-                    <p>Mercedes and Moroccan</p>
-		    <p>check specials page for prices.</p>
-                </div>
-              </a>
-
-              
-            </div>
-
-            <div class="item">
-              <a href="content/strains.php"><img src="images/deathStar.JPG" alt="">
-
-                <div class="carousel-caption">
-                    <h3>Death Star</h3>
-                    <p>Our newest indica</p>
-                </div>
-              </a>
-            </div>
-            
-           
-              
+          
             <div class="item">
               <img src="images/referral.png" alt="referral">
                 

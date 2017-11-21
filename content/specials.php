@@ -21,44 +21,15 @@
         <br/>
         <h1 class="pickOTW">This Week:</h1>
 	
-	<a href="strains.php#" class="pink">BC Chemo</a> <a href="strains.php#" class="pink">& Pink God</a>
+	<a href="strains.php#" class="pink">Sour Diesel</a> <a href="strains.php#" class="pink">& Yellowfin Tuna</a>
         <ui>
             <li>10 for $70</li>
             <li>28 for $190</li>
         </ul>
         <br>
 
-	<h1 class="pickOTW">Hash Sale!</h1>
-	<p>* for limited time only</p>
-	<a href="/content/hash.php" class="pinkChalk">Moroccan Hash</a>
-        <ui>
-            <li>3 for $30</li>
-            <li>5 for $45</li>
-            <li>10 for $85</li>
-        </ul>
-        <br>
   
-        <a href="/content/hash.php" class="pinkChalk">Mercedes Hash</a>
-        <ui>
-	    <li>$7 per gram</li>
-            <li>10 for $65</li>
-        </ul>
-        <br>
-	
-	<a href="/content/hash.php" class="pinkChalk">Trident Hash</a>
-        <ui>
-	    <li>3 for $40</li>
-            <li>5 for $65</li>
-            <li>10 for $125</li>
-        </ul>
-        <br>
-	
-	<a href="/content/hash.php" class="pinkChalk">Red Lebanese & Shetral Hash</a>
-        <ui>
-            <li>5 for $70</li>
-            <li>10 for $135</li>
-        </ul>
-        <br>
+        
         
 
 	<a href="strains.php">new House Blend mixture!</a>
@@ -106,7 +77,27 @@
             <li>28 for $170 - $210</li>
         </ul>
         <br>
-
+	
+	<a href="/content/hash.php" class="pinkChalk">Mercedes Hash</a>
+        <ui>
+	    <li>$7 per gram</li>
+        </ul>
+        <br>
+	
+	<a href="/content/hash.php" class="pinkChalk">Romeo & Juliet and Trident Hash</a>
+        <ui>
+	    <li>3 for $40</li>
+            <li>5 for $65</li>
+            <li>10 for $125</li>
+        </ul>
+        <br>
+	
+	<a href="/content/hash.php" class="pinkChalk">Red Lebanese & Shetral Hash</a>
+        <ui>
+            <li>5 for $70</li>
+            <li>10 for $135</li>
+        </ul>
+        <br>
 	
 	<a href="http://haligrove.com/images/bitcoin.png" style="hieght: 120px; width: 120px">
         <div class="bitcoin">
