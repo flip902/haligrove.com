@@ -28,11 +28,22 @@
         </ul>
         <br>
 
+	<h1 class="pickOTW">New Cheaper Strain:</h1>
+	
+	<a href="strains.php#" class="pink">Jack Herer</a>
+        <ui>
+            <li>5g for $35</li>
+            <li>10 for $60</li>
+	    <li>28 for $155</li>
+        </ul>
+        <br>
+	<br>
+
   
         
         
 
-	<a href="strains.php">new House Blend mixture!</a>
+	<a href="strains.php">House Blend mixture!</a>
 	  <ui>
 	      <li>10g for $70</li>
 	  </ul>
@@ -74,15 +85,11 @@
             <li>5g for $40</li>
             <li>10 for $80</li>
             <li>20 for $160</li>
-            <li>28 for $170 - $210</li>
+            <li>28 for $155 - $210</li>
         </ul>
         <br>
 	
-	<a href="/content/hash.php" class="pinkChalk">Mercedes Hash</a>
-        <ui>
-	    <li>$7 per gram</li>
-        </ul>
-        <br>
+	
 	
 	<a href="/content/hash.php" class="pinkChalk">Romeo & Juliet and Trident Hash</a>
         <ui>
