@@ -4,6 +4,29 @@
 {
       "id" : "1",
 
+        "name" : "MK Ultra",
+        "src" : "../images/mkUltra.JPG",
+        "type" : "indica",
+        "isNew" : "new",
+        "sale" : "none",
+        "pricePerGram" : "$10",
+        "pricePerOunce" : "$210",
+        "description" : "MK Ultra is an indica dominant strain that has ultra-strong cerebral effects. It is created by crossing the indica variety G-13 and OG Kush. MK Ultra is an incredibly hard-hitting strain with a strong and strange odour.",
+        "inventory" : "full",
+          "THC" : "23",
+          "taste" : "80",
+          "aroma" : "80",
+          "pain" : "76",
+          "insomnia" : "77",
+          "appetite" : "78",
+          "overall" : "80", 
+    "soldOut" : "none",
+    "opacity" : "1"
+},
+
+{
+      "id" : "2",
+
         "name" : "King Kush",
         "src" : "../images/kingKush.JPG",
         "type" : "indica",
@@ -26,7 +49,7 @@
 
 
 {
-      "id" : "2",
+      "id" : "3",
 
         "name" : "Jack Herer",
         "src" : "../images/jackHerer.JPG",
@@ -49,7 +72,7 @@
 },
 
 {
-      "id" : "3",
+      "id" : "4",
 
         "name" : "Death Star",
         "src" : "../images/deathStar.JPG",
@@ -73,7 +96,7 @@
 
 
 {
-      "id" : "4",
+      "id" : "5",
 
         "name" : "House Blend (Mix)",
         "src" : "../images/houseBlend.JPG",
@@ -96,7 +119,7 @@
 },
 
 {
-      "id" : "5",
+      "id" : "6",
 
         "name" : "Sour Kosher",
         "src" : "../images/sourKosher.JPG",
@@ -119,7 +142,7 @@
 },
 
 {
-      "id" : "6",
+      "id" : "7",
 
         "name" : "Phantom OG",
         "src" : "../images/phantomOG.JPG",
@@ -142,7 +165,7 @@
 },
 
 {
-      "id" : "7",
+      "id" : "8",
 
         "name" : "Yellowfin Tuna",
         "src" : "../images/yellowfinTuna.JPG",
@@ -165,7 +188,7 @@
     },
 
 {
-      "id" : "8",
+      "id" : "9",
 
         "name" : "Blue Dream",
         "src" : "../images/blueDream.JPG",
@@ -188,7 +211,7 @@
     },
 
 {
-      "id" : "9",
+      "id" : "10",
 
         "name" : "Sour Diesel",
         "src" : "../images/sourDiesel.JPG",
@@ -212,28 +235,7 @@
 
 
 
-{
-      "id" : "10",
 
-        "name" : "Purple Urkle",
-        "src" : "../images/purpleUrkle.JPG",
-        "type" : "indica",
-        "isNew" : "none",
-        "sale" : "none",
-        "pricePerGram" : "$10",
-        "pricePerOunce" : "$200",
-        "description" : "Purple Urkles effects are deeply relaxing, sleep-inducing, and a great option for full-body pain relief. The short onset of effects make it a perfect nighttime strain for those who suffer from insomnia.",
-        "inventory" : "low",
-          "THC" : "23",
-          "taste" : "80",
-          "aroma" : "78",
-          "pain" : "79",
-          "insomnia" : "79",
-          "appetite" : "78",
-          "overall" : "78", 
-    "soldOut" : "sold out",
-    "opacity" : "0.3"
-    },
 
     {
 
@@ -328,31 +330,10 @@
     "opacity" : "1"
     },
 
+    
+
     {
       "id" : "15",
-
-        "name" : "Blueberry H.Bubba",
-        "src" : "../images/bluberryHubbaBubba.JPG",
-        "type" : "indica",
-        "isNew" : "none",
-        "sale" : "none",
-        "pricePerGram" : "$10",
-        "pricePerOunce" : "$210",
-        "description" : "It's Back! Hubba Bubba is an indica strain that has gained notoriety in the U.S. and beyond for its heavy tranquilizing effects. Sweet hashish flavors with subtle notes of bubble gum come through on the exhale, delighting the palate as powerful relaxation takes over. From head to toe, muscles ease with heaviness as dreamy euphoria blankets the mind, crushing stress while coercing happy moods.",
-        "inventory" : "low",
-          "THC" : "26",
-          "taste" : "82",
-          "aroma" : "83",
-          "pain" : "81",
-          "insomnia" : "84",
-          "appetite" : "80",
-          "overall" : "82", 
-    "soldOut" : "sold out",
-    "opacity" : "0.3"
-    },
-
-    {
-      "id" : "16",
 
         "name" : "Island Pink Kush",
         "src" : "../images/islandPink.JPG",
@@ -379,7 +360,7 @@
     
 
     {
-      "id" : "17",
+      "id" : "16",
 
         "name" : "S Lemon Rockstar",
         "src" : "../images/superLemonRockstar.JPG",
@@ -403,7 +384,7 @@
     },
 
     {
-      "id" : "18",
+      "id" : "17",
 
         "name" : "Deep Purple",
         "src" : "../images/deepPurple.JPG",
@@ -427,7 +408,7 @@
     },
 
     {
-      "id" : "19",
+      "id" : "18",
 
         "name" : "Monster Bud",
         "src" : "../images/monsterBud.JPG",
@@ -452,7 +433,7 @@
 
     {
 
-      "id" : "20",
+      "id" : "19",
 
         "name" : "Super Silver Haze",
         "src" : "../images/ssh.JPG",
@@ -476,7 +457,7 @@
     },
 
     {
-      "id" : "21",
+      "id" : "20",
 
       "name" : "Atomic Trainwreck",
       "src" : "../images/atomicTrainwreck.JPG",
@@ -500,7 +481,7 @@
     },
 
     {
-      "id" : "22",
+      "id" : "21",
 
       "name" : "BC Chemo",
       "src" : "../images/bcChemo.JPG",
@@ -524,7 +505,7 @@
     },
 
     {
-      "id" : "23",
+      "id" : "22",
 
       "name" : "Lemon OG",
       "src" : "../images/lemonOG.JPG",
@@ -548,7 +529,7 @@
     },
 
     {
-      "id" : "24",
+      "id" : "23",
 
         "name" : "Deadhead OG",
         "src" : "../images/deadHead.JPG",
@@ -572,7 +553,7 @@
     },
 
     {
-      "id" : "25",
+      "id" : "24",
 
         "name" : "Powerplant",
         "src" : "../images/powerplant.JPG",
@@ -596,7 +577,7 @@
     },
 
     {
-      "id" : "26",
+      "id" : "25",
 
       "name" : "Nuken",
       "src" : "../images/dukeNuken.JPG",
@@ -621,10 +602,8 @@
    
     
 
-    
-
-        {
-      "id" : "27",
+    {
+      "id" : "26",
 
       "name" : "Rockstar",
       "src" : "../images/rockstar.JPG",
@@ -650,7 +629,7 @@
        
     {
       "name" : "Gorilla Glue",
-      "id" : "28",
+      "id" : "27",
       "src" : "../images/gorillaGlue.JPG",
       "type" : "hybrid",
       "isNew" : "none",
@@ -674,7 +653,7 @@
        
     {
       "name" : "Larry OG",
-      "id" : "29",
+      "id" : "28",
       "src" : "../images/larryOG.JPG",
       "type" : "indica",
       "isNew" : "none",
@@ -697,7 +676,7 @@
 
     {
       "name" : "Candy Apple",
-      "id" : "30",
+      "id" : "29",
       "src" : "../images/candyApple.JPG",
       "type" : "indica",
       "isNew" : "none",
@@ -723,7 +702,7 @@
     
 {
       "name" : "Nam",
-      "id" : "31",
+      "id" : "30",
       "src" : "../images/nam.JPG",
       "type" : "hybrid",
       "isNew" : "none",
@@ -747,7 +726,7 @@
        
     {
       "name" : "Hindu Dub",
-      "id" : "32",
+      "id" : "31",
       "src" : "../images/hinduDub.JPG",
       "type" : "indica",
       "isNew" : "none",
