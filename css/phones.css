@@ -69,7 +69,7 @@
 
 #pinkKushInventory > div {
   background-color: #C9DF78;
-  width: 30%; /* Adjust with JavaScript */
+  width: 0%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -99,7 +99,7 @@
 
 #chemoInventory > div {
   background-color: #C9DF78;
-  width: 30%; /* Adjust with JavaScript */
+  width: 20%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -114,7 +114,7 @@
 
 #purpleCandyInventory > div {
   background-color: #C9DF78;
-  width: 30%; /* Adjust with JavaScript */
+  width: 0%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -159,7 +159,7 @@
 
 #cherryPieInventory > div {
   background-color: #C9DF78;
-  width: 20%; /* Adjust with JavaScript */
+  width: 0%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -204,7 +204,7 @@
 
 #kushyInventory > div {
   background-color: #C9DF78;
-  width: 90%; /* Adjust with JavaScript */
+  width: 50%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -222,7 +222,7 @@
 
 #sourTangieInventory > div {
   background-color: #C9DF78;
-  width: 30%; /* Adjust with JavaScript */
+  width: 20%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -237,7 +237,7 @@
 
 #girlScout > div {
   background-color: #C9DF78;
-  width: 100%; /* Adjust with JavaScript */
+  width: 90%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -252,7 +252,7 @@
 
 #goombaSmash > div {
   background-color: #C9DF78;
-  width: 100%; /* Adjust with JavaScript */
+  width: 90%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -267,7 +267,7 @@
 
 #nardiusHaze > div {
   background-color: #C9DF78;
-  width: 100%; /* Adjust with JavaScript */
+  width: 90%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -282,7 +282,7 @@
 
 #purpleUrkle > div {
   background-color: #C9DF78;
-  width: 100%; /* Adjust with JavaScript */
+  width: 90%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -297,7 +297,7 @@
 
 #couchPotato > div {
   background-color: #C9DF78;
-  width: 100%; /* Adjust with JavaScript */
+  width: 90%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -312,7 +312,7 @@
 
 #gorillaGlue > div {
   background-color: #C9DF78;
-  width: 100%; /* Adjust with JavaScript */
+  width: 90%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -422,7 +422,7 @@
 
 #trident > div {
   background-color: #C9DF78;
-  width: 100%; /* Adjust with JavaScript */
+  width: 90%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -437,7 +437,7 @@
 
 #romeo > div {
   background-color: #C9DF78;
-  width: 100%; /* Adjust with JavaScript */
+  width: 90%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -5424,7 +5424,7 @@ div h1.shatterDeal {
   .cardContainer p {
     text-indent: 30px;
     color: #DE28A9;
-    font-size: 16px;
+    font-size: 15px;
     margin: auto 20px 20px 20px;
   }
 

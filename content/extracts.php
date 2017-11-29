@@ -328,7 +328,8 @@
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
                         <div class="hybrid">hybrid</div>
-                        <img src= "../images/cherryPie.JPG" style="height: 100%">
+			<div class="sold out">sold out</div>
+                        <img src= "../images/cherryPie.JPG" style="height: 100%; opacity: 0.3">
                     </div>
                     <div class="extractsItemTitle" id="">Cherry Pie</div>
                     <div class="extractsPrice">
@@ -376,7 +377,8 @@
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
                         <div class="indica">indica</div>
-                        <img src= "../images/atomicPurpleCandy.JPG" style="height: 100%">
+			<div class="sold out">sold out</div>
+                        <img src= "../images/atomicPurpleCandy.JPG" style="height: 100%; opacity: 0.3">
                     </div>
                     <div class="extractsItemTitle" id="">Purple Candy</div>
                     <div class="extractsPrice">
@@ -399,7 +401,8 @@
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
                         <div class="indica">indica</div>
-                        <img src= "../images/atomicBubbaKush.JPG" style="height: 100%">
+			<div class="sold out">sold out</div>
+                        <img src= "../images/atomicBubbaKush.JPG" style="height: 100%; opacity: 0.3">
                     </div>
                     <div class="extractsItemTitle" id="">Bubba Kush</div>
                     <div class="extractsPrice">
@@ -465,7 +468,8 @@
             <div class="extractsBox col-lg-6 col-md-6">
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
-                        <img src= "../images/pinkKushShat.JPG" style="height: 100%">
+			<div class="sold out">sold out</div>
+                        <img src= "../images/pinkKushShat.JPG" style="height: 100%; opacity: 0.3">
                     </div>
                     <div class="extractsItemTitle" id="">Pink Kush</div>
                     <div class="extractsPrice">

@@ -21,7 +21,7 @@
         <br/>
         <h1 class="pickOTW">This Week:</h1>
 	
-	<a href="strains.php#" class="pink">Sour Diesel</a> <a href="strains.php#" class="pink">& Yellowfin Tuna</a>
+	<a href="strains.php#" class="pink">Rockstar</a> <a href="strains.php#" class="pink">& MK Ultra</a>
         <ui>
             <li>10 for $70</li>
             <li>28 for $190</li>
@@ -40,8 +40,15 @@
 	<br>
 
   
-        
-        
+       <h1 class="pickOTW">Overstock Sale: </h1>
+	<a href="strains.php">Pink God</a>
+	<ui>
+	    <li>5g for $35</li>
+	    <li>10 for $65</li>
+	    <li>28 for $180</li>
+	</ul> 
+       <br>
+	<br> 
 
 	<a href="strains.php">House Blend mixture!</a>
 	  <ui>
@@ -111,8 +118,13 @@
 	  <img src="../images/bitcoinAccepted.png" style="hieght: 120px; width: 120px">
         </div>
         </a>
-        
-
+       <br> 
+	<a href="http://haligrove.com/images/etherAdd.png" style="hieght: 120px; width: 120px">
+        <div class="ether">
+	  <img src="../images/ether.png" style="hieght: 150px; width: 150px">
+        </div>
+        </a>
+	<br>
         
 	
 	

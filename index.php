@@ -18,7 +18,6 @@
               <li data-target="#myCarousel" data-slide-to="2"></li>
               <li data-target="#myCarousel" data-slide-to="3"></li>
 	      <li data-target="#myCarousel" data-slide-to="4"></li>
-	      <li data-target="#myCarousel" data-slide-to="5"></li>
 
 
           </ol>
@@ -26,14 +25,25 @@
           <!-- Wrapper for slides -->
           <div class="carousel-inner">
 
-	   <div class="item active">
-              <a href="content/extracts.php"><img src="images/kushyAd.JPG" alt="">
+	     <div class="item active">
+		<a href="content/strains.php"><img src="images/mkUltra.JPG" alt="">
+                
+                <div class="carousel-caption">
+                    <h3>Picks Of The Week:</h3>
+                    <p>Rockstar & <br>MK Ultra<br>
+			              10g for $70<br>28g for $190</p>
+                </div>
+              </a>
+             </div>
+
+	   <div class="item">
+              <a href="content/strains.php"><img src="images/pinkGod.JPG" alt="">
 
                 <div class="carousel-caption">
-                    <h3>Try our Kushy Chews!</h3>
-                    <p>20mg - $10<br>
-	            40mg - $15<br>
-		     look in extracts</p>
+                    <h3>Overstock of Pink God</h3>
+                    <p>5g for $35<br>
+	            10 for $65<br>
+		     28 for $180</p>
                 </div>
               </a>
             </div>
@@ -49,15 +59,7 @@
               </a>
             </div>
 
-	   <div class="item">
-              <a href="content/strains.php"><img src="images/kingKush.JPG" alt="">
-
-                <div class="carousel-caption">
-                    <h3>King Kush & Jack Herer</h3>
-                    <p>Our newest strains!</p>
-                </div>
-              </a>
-            </div>
+	   
 
 	   <div class="item">
 		<a href="content/hash.php"><img src="images/romeoAd.JPG" alt="">
@@ -69,16 +71,7 @@
               </a>
              </div>
 
-	   <div class="item">
-		<a href="content/strains.php"><img src="images/sourDiesel.JPG" alt="">
-                
-                <div class="carousel-caption">
-                    <h3>Picks Of The Week:</h3>
-                    <p>Sour Diesel & <br>Yellowfin Tuna<br>
-			              10g for $70<br>28g for $190</p>
-                </div>
-              </a>
-             </div>
+	   
 
 	    
           
@@ -111,7 +104,7 @@
           <h2>About Us</h2>
           <hr class="pinkRule">
           <p>  
-            Welcome to Haligrove. We are Halifax's top Medical Marijuana delivery service. We offer same day service for HRM. All you need to do is look through our products, call or text with your order and location, and that day your order will be delivered. Check our site daily for new products and specials. Our base prices are 5g for $40, 10g for $80. If you have any questions or concerns please email us at <a href="mailto:info@haligrove.com"> info@haligrove.com</a>. 
+            Welcome to Haligrove. We are Halifax's top Medical Marijuana delivery service. We offer same day service for HRM. All you need to do is look through our products, call or text with your order and location, and that day your order will be delivered. Check our site daily for new products and specials. Our base prices are 5g for $40, 10g for $80. You must be 19+. If you have any questions or concerns please email us at <a href="mailto:info@haligrove.com"> info@haligrove.com</a>. 
 
           <!-- <img class="arrow" src="https://cdn3.iconfinder.com/data/icons/google-material-design-icons/48/ic_keyboard_arrow_down_48px-128.png" /> -->
         </div>
