@@ -18,6 +18,8 @@
               <li data-target="#myCarousel" data-slide-to="2"></li>
               <li data-target="#myCarousel" data-slide-to="3"></li>
 	      <li data-target="#myCarousel" data-slide-to="4"></li>
+	      <li data-target="#myCarousel" data-slide-to="5"></li>
+
 
 
           </ol>
@@ -25,7 +27,19 @@
           <!-- Wrapper for slides -->
           <div class="carousel-inner">
 
-	     <div class="item active">
+	    <div class="item active">
+              <a href="content/strains.php"><img src="images/spaceCookies.JPG" alt="">
+
+                <div class="carousel-caption">
+                    <h3>New Indica: Space Cookies</h3>
+                    <p>5g for $45<br>
+	            10 for $80<br>
+		     28 for $225</p>
+                </div>
+              </a>
+            </div>
+
+	     <div class="item">
 		<a href="content/strains.php"><img src="images/mkUltra.JPG" alt="">
                 
                 <div class="carousel-caption">

@@ -155,7 +155,6 @@
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
                         <div class="sativa">sativa</div>
-			<div class="new">new</div>
                         <img src= "../images/littleFarmSourTangie.JPG" style="height: 100%">
                     </div>
                     <div class="extractsItemTitle" id="">Sour Tangie</div>
@@ -224,7 +223,6 @@
 	  <div class="extractsBox col-lg-6 col-md-6">
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
-		    <div class="new">new</div>
                         <img src= "../images/kushyChews20.JPG" style="height: 100%">
                     </div>
                     <div class="extractsItemTitle" id="">Kushy Chews</div><p class="extractsPrice">(edibles 20mg)</p>
@@ -242,7 +240,6 @@
 	    <div class="extractsBox col-lg-6 col-md-6">
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
-		    <div class="new">new</div>
                         <img src= "../images/kushyChews.png" style="height: 100%">
                     </div>
                     <div class="extractsItemTitle" id="">Kushy Chews</div><p class="extractsPrice">(edibles 40mg)</p>
@@ -324,28 +321,7 @@
             </div>
 
 
-            <div class="extractsBox col-lg-6 col-md-6">
-                <div class="extractsThumbnail">
-                    <div class="extractsImageDiv">
-                        <div class="hybrid">hybrid</div>
-			<div class="sold out">sold out</div>
-                        <img src= "../images/cherryPie.JPG" style="height: 100%; opacity: 0.3">
-                    </div>
-                    <div class="extractsItemTitle" id="">Cherry Pie</div>
-                    <div class="extractsPrice">
-                        <span>$40 Per </span><br>
-                        <h3>Phyto Extractions</h3>
-                        <p class="descriptionP">sweet, cherry, earthy.
-                        Great for stress, pain, and depression
-                        </p>
-                    </div>
-                        
-                    <div id="cherryPieInventory">
-                        <div></div>
-                    </div>
-                    <p class="inventoryPTag">inventory</p>
-                </div>
-            </div>
+          
 
             
 
@@ -373,53 +349,9 @@
                 </div>
             </div>
 
-            <div class="extractsBox col-lg-6 col-md-6">
-                <div class="extractsThumbnail">
-                    <div class="extractsImageDiv">
-                        <div class="indica">indica</div>
-			<div class="sold out">sold out</div>
-                        <img src= "../images/atomicPurpleCandy.JPG" style="height: 100%; opacity: 0.3">
-                    </div>
-                    <div class="extractsItemTitle" id="">Purple Candy</div>
-                    <div class="extractsPrice">
-                        <span>$40 Per <br>2 for $70</span><br>
-                        <h3>Atomic</h3>
-                        <p class="descriptionP">Fruity, skunky taste
-                        Purged 105hrs
-                        Great for nausea, pain, and anxiety
-                        </p>
-                    </div>
-                        
-                    <div id="purpleCandyInventory">
-                        <div></div>
-                    </div>
-                    <p class="inventoryPTag">inventory</p>
-                </div>
-            </div>
+            
 
-            <div class="extractsBox col-lg-6 col-md-6">
-                <div class="extractsThumbnail">
-                    <div class="extractsImageDiv">
-                        <div class="indica">indica</div>
-			<div class="sold out">sold out</div>
-                        <img src= "../images/atomicBubbaKush.JPG" style="height: 100%; opacity: 0.3">
-                    </div>
-                    <div class="extractsItemTitle" id="">Bubba Kush</div>
-                    <div class="extractsPrice">
-                        <span>$40 Per <br>2 for $70</span><br>
-                        <h3>Atomic</h3>
-                        <p class="descriptionP">Earthy, skunky taste.
-                        Purged for 106hrs<br>
-                        Good for depression, increase of appetite
-                        </p>
-                    </div>
-                        
-                    <div id="purpleCandyInventory">
-                        <div></div>
-                    </div>
-                    <p class="inventoryPTag">inventory</p>
-                </div>
-            </div>
+            
 
             <div class="extractsBox col-lg-6 col-md-6">
                 <div class="extractsThumbnail">
@@ -465,26 +397,7 @@
             </div>
                 
         
-            <div class="extractsBox col-lg-6 col-md-6">
-                <div class="extractsThumbnail">
-                    <div class="extractsImageDiv">
-			<div class="sold out">sold out</div>
-                        <img src= "../images/pinkKushShat.JPG" style="height: 100%; opacity: 0.3">
-                    </div>
-                    <div class="extractsItemTitle" id="">Pink Kush</div>
-                    <div class="extractsPrice">
-                        <span>$40 Per <br>2 for $70</span><br>
-                        <h3>Sorcerer Shatter</h3>
-                        <p>Skunky, earthy, pungent, taste. Good for pain, stress, and loss of appetite
-                        </p>
-                    </div>
-
-                    <div id="pinkKushInventory">
-                        <div></div>
-                    </div>
-                    <p class="inventoryPTag">inventory</p>
-                </div>
-            </div>
+            
 
             <div class="extractsBox col-lg-6 col-md-6">
                 <div class="extractsThumbnail">

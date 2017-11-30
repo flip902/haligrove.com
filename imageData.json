@@ -4,6 +4,30 @@
 {
       "id" : "1",
 
+        "name" : "Space Cookies",
+        "src" : "../images/spaceCookies.JPG",
+        "type" : "indica",
+        "isNew" : "new",
+        "sale" : "none",
+        "pricePerGram" : "$10",
+        "pricePerOunce" : "$225",
+        "description" : "Among Cannasseurs (connoisseurs of cannabis), Space Cookies is known for its ability to launch users into another realm of time and space, while creating feelings of intense euphoria and full body relaxation. Its effects make the strand popular among those who suffer from chronic stress, anxiety, migraines, physical pain, depression and insomnia.",
+        "inventory" : "full",
+          "THC" : "25",
+          "taste" : "86",
+          "aroma" : "85",
+          "pain" : "86",
+          "insomnia" : "86",
+          "appetite" : "85",
+          "overall" : "86", 
+    "soldOut" : "none",
+    "opacity" : "1"
+},
+
+
+{
+      "id" : "2",
+
         "name" : "MK Ultra",
         "src" : "../images/mkUltra.JPG",
         "type" : "indica",
@@ -25,12 +49,12 @@
 },
 
 {
-      "id" : "2",
+      "id" : "3",
 
         "name" : "King Kush",
         "src" : "../images/kingKush.JPG",
         "type" : "indica",
-        "isNew" : "new",
+        "isNew" : "none",
         "sale" : "none",
         "pricePerGram" : "$10",
         "pricePerOunce" : "$210",
@@ -49,12 +73,12 @@
 
 
 {
-      "id" : "3",
+      "id" : "4",
 
         "name" : "Jack Herer",
         "src" : "../images/jackHerer.JPG",
         "type" : "hybrid",
-        "isNew" : "new",
+        "isNew" : "none",
         "sale" : "none",
         "pricePerGram" : "$7",
         "pricePerOunce" : "$170",
@@ -72,12 +96,12 @@
 },
 
 {
-      "id" : "4",
+      "id" : "5",
 
         "name" : "Death Star",
         "src" : "../images/deathStar.JPG",
         "type" : "indica",
-        "isNew" : "new",
+        "isNew" : "none",
         "sale" : "none",
         "pricePerGram" : "$10",
         "pricePerOunce" : "$210",
@@ -96,7 +120,7 @@
 
 
 {
-      "id" : "5",
+      "id" : "6",
 
         "name" : "House Blend (Mix)",
         "src" : "../images/houseBlend.JPG",
@@ -114,12 +138,12 @@
           "insomnia" : "79",
           "appetite" : "79",
           "overall" : "79", 
-    "soldOut" : "none",
-    "opacity" : "1"
+    "soldOut" : "sold out",
+    "opacity" : "0.3"
 },
 
 {
-      "id" : "6",
+      "id" : "7",
 
         "name" : "Sour Kosher",
         "src" : "../images/sourKosher.JPG",
@@ -142,7 +166,7 @@
 },
 
 {
-      "id" : "7",
+      "id" : "8",
 
         "name" : "Phantom OG",
         "src" : "../images/phantomOG.JPG",
@@ -165,7 +189,7 @@
 },
 
 {
-      "id" : "8",
+      "id" : "9",
 
         "name" : "Yellowfin Tuna",
         "src" : "../images/yellowfinTuna.JPG",
@@ -188,7 +212,7 @@
     },
 
 {
-      "id" : "9",
+      "id" : "10",
 
         "name" : "Blue Dream",
         "src" : "../images/blueDream.JPG",
@@ -211,7 +235,7 @@
     },
 
 {
-      "id" : "10",
+      "id" : "11",
 
         "name" : "Sour Diesel",
         "src" : "../images/sourDiesel.JPG",
@@ -239,7 +263,7 @@
 
     {
 
-      "id" : "11",
+      "id" : "12",
 
         "name" : "Pink Kandy Kush",
         "src" : "../images/pinkKandyKush.JPG",
@@ -262,7 +286,7 @@
     },
 
 {
-      "id" : "12",
+      "id" : "13",
 
         "name" : "Pink God",
         "src" : "../images/pinkGod.JPG",
@@ -285,7 +309,7 @@
     },
 
     {
-      "id" : "13",
+      "id" : "14",
 
         "name" : "Tuna",
         "src" : "../images/newTuna.JPG",
@@ -308,7 +332,7 @@
     },
 
     {
-      "id" : "14",
+      "id" : "15",
 
         "name" : "White Widow Sup.",
         "src" : "../images/whiteWidowSupreme.JPG",
@@ -333,7 +357,7 @@
     
 
     {
-      "id" : "15",
+      "id" : "16",
 
         "name" : "Island Pink Kush",
         "src" : "../images/islandPink.JPG",
@@ -357,10 +381,8 @@
 
     
 
-    
-
     {
-      "id" : "16",
+      "id" : "17",
 
         "name" : "S Lemon Rockstar",
         "src" : "../images/superLemonRockstar.JPG",
@@ -384,7 +406,7 @@
     },
 
     {
-      "id" : "17",
+      "id" : "18",
 
         "name" : "Deep Purple",
         "src" : "../images/deepPurple.JPG",
@@ -408,7 +430,7 @@
     },
 
     {
-      "id" : "18",
+      "id" : "19",
 
         "name" : "Monster Bud",
         "src" : "../images/monsterBud.JPG",
@@ -431,30 +453,7 @@
 
     },
 
-    {
-
-      "id" : "19",
-
-        "name" : "Super Silver Haze",
-        "src" : "../images/ssh.JPG",
-        "type" : "sativa",
-        "isNew" : "none",
-        "sale" : "none",
-        "pricePerGram" : "$10",
-        "pricePerOunce" : "$210",
-        "description" : "SSH was the first prize winner at the High Times Cannabis Cup in 1997, 1998, and 1999. It also won awards at the High Times Harvest Festival. By crossing the genetics of Skunk, Northern Lights, and Haze, we are left with a beautiful, sticky sativa blend that boasts an energetic, long-lasting body high. The uplifting effects are a great remedy for high stress levels or when suffering from a lack of appetite or nausea.",
-        "inventory" : "low",
-          "THC" : "23",
-          "taste" : "78",
-          "aroma" : "79",
-          "pain" : "72",
-          "insomnia" : "72",
-          "appetite" : "82",
-          "overall" : "77", 
-    "soldOut" : "sold out",
-    "opacity" : "0.3"
-
-    },
+    
 
     {
       "id" : "20",
@@ -552,32 +551,10 @@
 
     },
 
+    
+
     {
       "id" : "24",
-
-        "name" : "Powerplant",
-        "src" : "../images/powerplant.JPG",
-        "type" : "hybrid",
-        "isNew" : "none",
-        "sale" : "none",
-        "pricePerGram" : "$10",
-        "pricePerOunce" : "$210",
-        "description" : "Use this strain for early afternoons or, if you wake and bake, mornings, as it provides a clear-headed boost of energy, with a creative spark and happy euphoria. Power Plant has a sweet taste with earthy, woody flavors.",
-        "inventory" : "low",
-          "THC" : "21",
-          "taste" : "71",
-          "aroma" : "70",
-          "pain" : "64",
-          "insomnia" : "60",
-          "appetite" : "85",
-          "overall" : "74", 
-    "soldOut" : "sold out",
-    "opacity" : "0.3"
-
-    },
-
-    {
-      "id" : "25",
 
       "name" : "Nuken",
       "src" : "../images/dukeNuken.JPG",
@@ -603,7 +580,7 @@
     
 
     {
-      "id" : "26",
+      "id" : "25",
 
       "name" : "Rockstar",
       "src" : "../images/rockstar.JPG",
@@ -629,7 +606,7 @@
        
     {
       "name" : "Gorilla Glue",
-      "id" : "27",
+      "id" : "26",
       "src" : "../images/gorillaGlue.JPG",
       "type" : "hybrid",
       "isNew" : "none",
@@ -653,7 +630,7 @@
        
     {
       "name" : "Larry OG",
-      "id" : "28",
+      "id" : "27",
       "src" : "../images/larryOG.JPG",
       "type" : "indica",
       "isNew" : "none",
@@ -676,7 +653,7 @@
 
     {
       "name" : "Candy Apple",
-      "id" : "29",
+      "id" : "28",
       "src" : "../images/candyApple.JPG",
       "type" : "indica",
       "isNew" : "none",
@@ -702,7 +679,7 @@
     
 {
       "name" : "Nam",
-      "id" : "30",
+      "id" : "29",
       "src" : "../images/nam.JPG",
       "type" : "hybrid",
       "isNew" : "none",
@@ -726,7 +703,7 @@
        
     {
       "name" : "Hindu Dub",
-      "id" : "31",
+      "id" : "30",
       "src" : "../images/hinduDub.JPG",
       "type" : "indica",
       "isNew" : "none",
