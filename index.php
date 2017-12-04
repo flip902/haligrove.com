@@ -17,8 +17,6 @@
               <li data-target="#myCarousel" data-slide-to="1"></li>
               <li data-target="#myCarousel" data-slide-to="2"></li>
               <li data-target="#myCarousel" data-slide-to="3"></li>
-	      <li data-target="#myCarousel" data-slide-to="4"></li>
-	      <li data-target="#myCarousel" data-slide-to="5"></li>
 
 
 
@@ -28,10 +26,10 @@
           <div class="carousel-inner">
 
 	    <div class="item active">
-              <a href="content/strains.php"><img src="images/spaceCookies.JPG" alt="">
+              <a href="content/strains.php"><img src="images/platnumBubba.JPG" alt="">
 
                 <div class="carousel-caption">
-                    <h3>New Indica: Space Cookies</h3>
+                    <h3>New! Platinum Bubba</h3>
                     <p>5g for $45<br>
 	            10 for $80<br>
 		     28 for $225</p>
@@ -40,11 +38,11 @@
             </div>
 
 	     <div class="item">
-		<a href="content/strains.php"><img src="images/mkUltra.JPG" alt="">
+		<a href="content/strains.php"><img src="images/pinkKandyKush.JPG" alt="">
                 
                 <div class="carousel-caption">
                     <h3>Picks Of The Week:</h3>
-                    <p>Rockstar & <br>MK Ultra<br>
+                    <p>Pink Kandy Kush & <br>Lemon OG<br>
 			              10g for $70<br>28g for $190</p>
                 </div>
               </a>
@@ -60,30 +58,7 @@
 		     28 for $180</p>
                 </div>
               </a>
-            </div>
-
-
-	     <div class="item">
-              <a href="content/extracts.php"><img src="images/emAd.JPG" alt="">
-
-                <div class="carousel-caption">
-                    <h3>New!</h3>
-                    <p>Emerald Extracts</p>
-                </div>
-              </a>
-            </div>
-
-	   
-
-	   <div class="item">
-		<a href="content/hash.php"><img src="images/romeoAd.JPG" alt="">
-                
-                <div class="carousel-caption">
-                    <h3>New Romeo & Juliet</h3>
-		    <p>3 for $40<br>5 for $65<br>10 for $125</p>
-                </div>
-              </a>
-             </div>
+            </div>  
 
 	   
 

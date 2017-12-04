@@ -17,7 +17,6 @@
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
                         <div class="hybrid">hybrid</div>
-			<div class="new">new</div>
                         <img src= "../images/gorillaGlueEm.JPG" style="height: 100%">
                     </div>
                     <div class="extractsItemTitle" id="">Gorilla Glue</div>
@@ -40,7 +39,6 @@
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
                         <div class="hybrid">hybrid</div>
-			<div class="new">new</div>
                         <img src= "../images/couchPotatoEm.JPG" style="height: 100%">
                     </div>
                     <div class="extractsItemTitle" id="">Couch Potato</div>
@@ -63,7 +61,6 @@
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
                         <div class="indica">indica</div>
-			<div class="new">new</div>
                         <img src= "../images/purpleUrkleEm.JPG" style="height: 100%">
                     </div>
                     <div class="extractsItemTitle" id="">Purple Urkle</div>
@@ -86,7 +83,6 @@
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
                         <div class="hybrid">hybrid</div>
-			<div class="new">new</div>
                         <img src= "../images/nardiusHazeEm.JPG" style="height: 100%">
                     </div>
                     <div class="extractsItemTitle" id="">Nardius Haze</div>
@@ -109,7 +105,6 @@
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
                         <div class="sativa">sativa</div>
-			<div class="new">new</div>
                         <img src= "../images/goombaSmashEm.JPG" style="height: 100%">
                     </div>
                     <div class="extractsItemTitle" id="">Goombasmash</div>
@@ -132,7 +127,6 @@
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
                         <div class="hybrid">hybrid</div>
-			<div class="new">new</div>
                         <img src= "../images/girlScoutCookiesEm.JPG" style="height: 100%">
                     </div>
                     <div class="extractsItemTitle" id="">Girl Scout Cookies</div>

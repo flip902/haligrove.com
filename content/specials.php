@@ -21,7 +21,7 @@
         <br/>
         <h1 class="pickOTW">This Week:</h1>
 	
-	<a href="strains.php#" class="pink">Rockstar</a> <a href="strains.php#" class="pink">& MK Ultra</a>
+	<a href="strains.php#" class="pink">Pink Kandy Kush</a> <a href="strains.php#" class="pink">& Lemon OG <br>(while supplies last!)</a>
         <ui>
             <li>10 for $70</li>
             <li>28 for $190</li>

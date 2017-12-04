@@ -1,8 +1,56 @@
 {
-  "images" : [
+    "images" : [
 
 {
       "id" : "1",
+
+        "name" : "Platinum Bubba",
+        "src" : "../images/platnumBubba.JPG",
+        "type" : "indica",
+        "isNew" : "new",
+        "sale" : "none",
+        "pricePerGram" : "$10",
+        "pricePerOunce" : "$225",
+        "description" : "Platinum Bubba Kush is a platinum level indica strain for those who are looking for strong medicine. Best for strong body relaxation, pain relief, sleepiness and appetite stimulation, Pbk is AAAA grade strain. Floral and full of kush spiciness in aroma, the flowers of this strain will have a surprisingly sweet flavor that is a patient favorite. A cross between Platinum OG kush and Bubba Kush, this indica finishes flowering in 8 to 9 weeks. These dense, purple-hued nugs are popular in California and BC and are gaining popularity around the world. ",
+        "inventory" : "full",
+          "THC" : "27",
+          "taste" : "88",
+          "aroma" : "88",
+          "pain" : "88",
+          "insomnia" : "88",
+          "appetite" : "85",
+          "overall" : "88", 
+    "soldOut" : "none",
+    "opacity" : "1"
+},
+
+
+{
+      "id" : "2",
+
+        "name" : "Organic Sour Tangerine",
+        "src" : "../images/organicSourTangerine.JPG",
+        "type" : "sativa",
+        "isNew" : "new",
+        "sale" : "none",
+        "pricePerGram" : "$10",
+        "pricePerOunce" : "$210",
+        "description" : "A cross between East Coast Sour Diesel and Tangie, this sativa is a creative and energetic strain with a strong citrus aroma. Patients will find excellent focus and energy.",
+        "inventory" : "full",
+          "THC" : "26",
+          "taste" : "86",
+          "aroma" : "86",
+          "pain" : "78",
+          "insomnia" : "77",
+          "appetite" : "85",
+          "overall" : "85", 
+    "soldOut" : "none",
+    "opacity" : "1"
+},
+
+
+{
+      "id" : "3",
 
         "name" : "Space Cookies",
         "src" : "../images/spaceCookies.JPG",
@@ -26,13 +74,13 @@
 
 
 {
-      "id" : "2",
+      "id" : "4",
 
         "name" : "MK Ultra",
         "src" : "../images/mkUltra.JPG",
         "type" : "indica",
         "isNew" : "new",
-        "sale" : "sale",
+        "sale" : "none",
         "pricePerGram" : "$10",
         "pricePerOunce" : "$200",
         "description" : "MK Ultra is an indica dominant strain that has ultra-strong cerebral effects. It is created by crossing the indica variety G-13 and OG Kush. MK Ultra is an incredibly hard-hitting strain with a strong and strange odour.",
@@ -49,7 +97,7 @@
 },
 
 {
-      "id" : "3",
+      "id" : "5",
 
         "name" : "King Kush",
         "src" : "../images/kingKush.JPG",
@@ -73,7 +121,7 @@
 
 
 {
-      "id" : "4",
+      "id" : "6",
 
         "name" : "Jack Herer",
         "src" : "../images/jackHerer.JPG",
@@ -96,7 +144,7 @@
 },
 
 {
-      "id" : "5",
+      "id" : "7",
 
         "name" : "Death Star",
         "src" : "../images/deathStar.JPG",
@@ -120,7 +168,7 @@
 
 
 {
-      "id" : "6",
+      "id" : "8",
 
         "name" : "House Blend (Mix)",
         "src" : "../images/houseBlend.JPG",
@@ -143,7 +191,7 @@
 },
 
 {
-      "id" : "7",
+      "id" : "9",
 
         "name" : "Sour Kosher",
         "src" : "../images/sourKosher.JPG",
@@ -166,7 +214,7 @@
 },
 
 {
-      "id" : "8",
+      "id" : "10",
 
         "name" : "Phantom OG",
         "src" : "../images/phantomOG.JPG",
@@ -189,7 +237,7 @@
 },
 
 {
-      "id" : "9",
+      "id" : "11",
 
         "name" : "Yellowfin Tuna",
         "src" : "../images/yellowfinTuna.JPG",
@@ -212,7 +260,7 @@
     },
 
 {
-      "id" : "10",
+      "id" : "12",
 
         "name" : "Blue Dream",
         "src" : "../images/blueDream.JPG",
@@ -235,7 +283,7 @@
     },
 
 {
-      "id" : "11",
+      "id" : "13",
 
         "name" : "Sour Diesel",
         "src" : "../images/sourDiesel.JPG",
@@ -263,13 +311,13 @@
 
     {
 
-      "id" : "12",
+      "id" : "14",
 
         "name" : "Pink Kandy Kush",
         "src" : "../images/pinkKandyKush.JPG",
         "type" : "indica",
         "isNew" : "none",
-        "sale" : "none",
+        "sale" : "sale",
         "pricePerGram" : "$10",
         "pricePerOunce" : "$210",
         "description" : "Pink hairs burst from bright green buds barely visible under a blanket of sugar-like trichomes, with traces of a sweet vanilla and candy perfume. The potency of this strain could be considered overpowering, and even small doses are known to eliminate pain, insomnia, and appetite loss.",
@@ -286,7 +334,7 @@
     },
 
 {
-      "id" : "13",
+      "id" : "15",
 
         "name" : "Pink God",
         "src" : "../images/pinkGod.JPG",
@@ -309,7 +357,7 @@
     },
 
     {
-      "id" : "14",
+      "id" : "16",
 
         "name" : "Tuna",
         "src" : "../images/newTuna.JPG",
@@ -332,7 +380,7 @@
     },
 
     {
-      "id" : "15",
+      "id" : "17",
 
         "name" : "White Widow Sup.",
         "src" : "../images/whiteWidowSupreme.JPG",
@@ -357,7 +405,7 @@
     
 
     {
-      "id" : "16",
+      "id" : "18",
 
         "name" : "Island Pink Kush",
         "src" : "../images/islandPink.JPG",
@@ -382,7 +430,7 @@
     
 
     {
-      "id" : "17",
+      "id" : "19",
 
         "name" : "S Lemon Rockstar",
         "src" : "../images/superLemonRockstar.JPG",
@@ -406,7 +454,7 @@
     },
 
     {
-      "id" : "18",
+      "id" : "20",
 
         "name" : "Deep Purple",
         "src" : "../images/deepPurple.JPG",
@@ -430,7 +478,7 @@
     },
 
     {
-      "id" : "19",
+      "id" : "21",
 
         "name" : "Monster Bud",
         "src" : "../images/monsterBud.JPG",
@@ -456,7 +504,7 @@
     
 
     {
-      "id" : "20",
+      "id" : "22",
 
       "name" : "Atomic Trainwreck",
       "src" : "../images/atomicTrainwreck.JPG",
@@ -480,7 +528,7 @@
     },
 
     {
-      "id" : "21",
+      "id" : "23",
 
       "name" : "BC Chemo",
       "src" : "../images/bcChemo.JPG",
@@ -504,13 +552,13 @@
     },
 
     {
-      "id" : "22",
+      "id" : "24",
 
       "name" : "Lemon OG",
       "src" : "../images/lemonOG.JPG",
       "type" : "indica",
       "isNew" : "none",
-      "sale" : "none",
+      "sale" : "sale",
       "pricePerGram" : "$10",
       "pricePerOunce" : "$210",
       "description" : "What this skunky indica lacks in longevity it makes up for in speed. A cross between the mythical Las Vegas Lemon Skunk and The OG #18, Lemon OG provides users with a quick-acting sleepy head sensation. While Lemon OG has inherited a skunky aroma from its kush relatives, this particular strain is mild tasting and pleasant smelling with fruity undertones. Lemon OG tends to feel more psychoactive than other members of the kush family, but still offers a heavy, medicated feel.",
@@ -528,7 +576,7 @@
     },
 
     {
-      "id" : "23",
+      "id" : "25",
 
         "name" : "Deadhead OG",
         "src" : "../images/deadHead.JPG",
@@ -554,7 +602,7 @@
     
 
     {
-      "id" : "24",
+      "id" : "26",
 
       "name" : "Nuken",
       "src" : "../images/dukeNuken.JPG",
@@ -580,13 +628,13 @@
     
 
     {
-      "id" : "25",
+      "id" : "27",
 
       "name" : "Rockstar",
       "src" : "../images/rockstar.JPG",
       "type" : "hybrid",
       "isNew" : "none",
-      "sale" : "sale",
+      "sale" : "none",
       "pricePerGram" : "$10",
       "pricePerOunce" : "$200",
       "description" : "Rockstars potent effects are said to be perfect for treating chronic pain, muscle spasms or tremors, inflammation, and mild to moderate cases of depression. This bud has an aroma of spicy grapey earth with a hint of skunky pungent herbs and a taste of spiced mulled wine with a pungent slightly skunky exhale. Rockstar buds have medium-sized dense and lumpy dark olive green spade-shaped nugs with rich purple undertones, fiery orange hairs, and frosty trichome covered purple leaves.",
@@ -606,7 +654,7 @@
        
     {
       "name" : "Gorilla Glue",
-      "id" : "26",
+      "id" : "28",
       "src" : "../images/gorillaGlue.JPG",
       "type" : "hybrid",
       "isNew" : "none",
@@ -630,7 +678,7 @@
        
     {
       "name" : "Larry OG",
-      "id" : "27",
+      "id" : "29",
       "src" : "../images/larryOG.JPG",
       "type" : "indica",
       "isNew" : "none",
@@ -653,7 +701,7 @@
 
     {
       "name" : "Candy Apple",
-      "id" : "28",
+      "id" : "30",
       "src" : "../images/candyApple.JPG",
       "type" : "indica",
       "isNew" : "none",
@@ -679,7 +727,7 @@
     
 {
       "name" : "Nam",
-      "id" : "29",
+      "id" : "31",
       "src" : "../images/nam.JPG",
       "type" : "hybrid",
       "isNew" : "none",
@@ -703,7 +751,7 @@
        
     {
       "name" : "Hindu Dub",
-      "id" : "30",
+      "id" : "32",
       "src" : "../images/hinduDub.JPG",
       "type" : "indica",
       "isNew" : "none",
@@ -733,4 +781,4 @@
 
   
   ]
-}
+}	
