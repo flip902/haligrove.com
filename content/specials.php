@@ -83,16 +83,28 @@
 
         <!-- <img class="arrow" src="https://cdn3.iconfinder.com/data/icons/google-material-design-icons/48/ic_keyboard_arrow_down_48px-128.png" /> -->
 
-        <a href="strains.php">All Strains (excluding Space Cookies)<br> sell as follows:</a><br>
+        <a href="strains.php">All Strains (except strains below)<br> sell as follows:</a><br>
         <ui>
             <li>5g for $40</li>
             <li>10 for $80</li>
             <li>20 for $160</li>
-            <li>28 for $155 - $225</li>
+            <li>28 for $155 - $280</li>
         </ul>
         <br>
 	
-	
+        <a href="strains.php">Platinum Bubba</a>
+	<ui>
+	    <li>$10 per gram accross the board</li>
+	</ul>
+	<br>
+
+	<a href="strains.php">Space Cookies and Organic Sour Tangerine</a>
+	<ui>
+     	     <li>5g for $45</li>
+	    <li>10 for $80</li>
+	    <li>28 for $225</li>
+	</ul>
+	<br>	
 	
 	<a href="/content/hash.php" class="pinkChalk">Romeo & Juliet and Trident Hash</a>
         <ui>

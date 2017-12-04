@@ -30,9 +30,8 @@
 
                 <div class="carousel-caption">
                     <h3>New! Platinum Bubba</h3>
-                    <p>5g for $45<br>
-	            10 for $80<br>
-		     28 for $225</p>
+                    <p>10 dollars across the board<br>
+				
                 </div>
               </a>
             </div>
