@@ -88,7 +88,7 @@
             <li>5g for $40</li>
             <li>10 for $80</li>
             <li>20 for $160</li>
-            <li>28 for $155 - $280</li>
+            <li>28 for $155 - $250</li>
         </ul>
         <br>
 	

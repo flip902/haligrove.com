@@ -17,7 +17,7 @@
               <li data-target="#myCarousel" data-slide-to="1"></li>
               <li data-target="#myCarousel" data-slide-to="2"></li>
               <li data-target="#myCarousel" data-slide-to="3"></li>
-
+	      <li data-target="#myCarousel" data-slide-to="4"></li>
 
 
           </ol>
@@ -26,6 +26,17 @@
           <div class="carousel-inner">
 
 	    <div class="item active">
+              <a href="content/extracts.php"><img src="images/foreverPhoenixAd.JPG" alt="">
+
+                <div class="carousel-caption">
+                    <h3>New! Forever Phoenix Shatter</h3>
+                    <p>only $45 per gram<br>availible while supplies last!</p>
+				
+                </div>
+              </a>
+            </div>
+
+	    <div class="item">
               <a href="content/strains.php"><img src="images/platnumBubba.JPG" alt="">
 
                 <div class="carousel-caption">

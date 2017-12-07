@@ -39,7 +39,7 @@
 
 #ogKushInventory > div {
   background-color: #C9DF78;
-  width: 20%; /* Adjust with JavaScript */
+  width: 0%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -54,7 +54,7 @@
 
 #purpleKushInventory > div {
   background-color: #C9DF78;
-  width: 30%; /* Adjust with JavaScript */
+  width: 0%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -86,7 +86,7 @@
 
 #chemoInventory > div {
   background-color: #C9DF78;
-  width: 20%; /* Adjust with JavaScript */
+  width: 0%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -274,6 +274,22 @@
 #gorillaGlue > div {
   background-color: #C9DF78;
   width: 90%; /* Adjust with JavaScript */
+  height: 20px;
+  border-radius: 10px;
+}
+
+
+#foreverPhoenix {
+  width: 80%;
+  background-color: black;
+  border-radius: 13px; /* (height of inner div) / 2 + padding */
+  padding: 3px;
+  margin: 0 auto 0 auto;
+}
+
+#foreverPhoenix > div {
+  background-color: #C9DF78;
+  width: 100%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }

@@ -13,6 +13,30 @@
     <div class="extractsPositioning">
         <div class="row width extractWidth">
 
+	   <div class="extractsBox col-lg-6 col-md-6">
+                <div class="extractsThumbnail">
+                    <div class="extractsImageDiv">
+		        <div class="new">new</div>
+                        <div class="hybrid">hybrid</div>
+                        <img src= "../images/foreverPhoenix.JPG" style="height: 100%">
+                    </div>
+                    <div class="extractsItemTitle" id="">Growers Blend</div>
+                    <div class="extractsPrice">
+                        <span>$45 Per </span><br>
+                        <h3>Forever Phoenix</h3>
+                        <p class="descriptionP">Earthy, pungent taste.
+                        Forever Phoenix is one of the monst popular brands of shatter around .
+                        </p>
+                    </div>
+                       <br> 
+                    <div id="foreverPhoenix">
+                        <div></div>
+                    </div>
+                    <p class="inventoryPTag">inventory</p>
+                </div>
+            </div>
+
+
 	  <div class="extractsBox col-lg-6 col-md-6">
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
@@ -312,83 +336,15 @@
                     </div>
                     <p class="inventoryPTag">inventory</p>
                 </div>
-            </div>
-
-
-          
-
-            
-
-            
-            <div class="extractsBox col-lg-6 col-md-6">
-                <div class="extractsThumbnail">
-
-                    <div class="extractsImageDiv">
-                    <div class="indica">indica</div>
-                        <img src= "../images/eastcoastChemo.JPG" style="height: 100%">
-                    </div>
-
-                    <div class="extractsItemTitle" id="">Chemo</div>
-                    <div class="extractsPrice">
-                    <span>$40 per<br> 2 for $70</span><br>
-                        <h3>East Coast Concentrates</h3>
-                        <p class="descriptionP">Best known for it's subtle woody aroma and potent medical effects
-                        perfect for nausea, appitite loss, pain, sleeplessness.
-                        </p>
-                    </div>
-                    <div id="chemoInventory">
-                        <div></div>
-                    </div>
-                    <p class="inventoryPTag">inventory</p>
-                </div>
-            </div>
+            </div> 
 
             
 
             
 
-            <div class="extractsBox col-lg-6 col-md-6">
-                <div class="extractsThumbnail">
+            
 
-                    <div class="extractsImageDiv">
-                        <img src= "../images/sorcerer.JPG" style="height: 100%">
-                    </div>
-
-                    <div class="extractsItemTitle" id="">Og Kush</div>
-                    <div class="extractsPrice">
-                    <span>$40 per<br> 2 for $70</span><br>
-                        <h3>Sorcerer Shatter</h3>
-                        <p class="descriptionP">Flowery, Earthy, pungent taste.
-                            Good for depression, headaches, and pain. One of the highest THC counts availible at 73%
-                        </p>
-                    </div>
-                    <div id="ogKushInventory">
-                        <div></div>
-                    </div>
-                    <p class="inventoryPTag">inventory</p>
-                </div>
-            </div>
-
-            <div class="extractsBox col-lg-6 col-md-6">
-                <div class="extractsThumbnail">
-                    <div class="extractsImageDiv">
-                        <img src= "../images/purpleKushShat.JPG" style="height: 100%">
-                    </div>
-                    <div class="extractsItemTitle" id="">Purple Kush</div>
-                    <div class="extractsPrice">
-                        <span>$40 Per <br>2 for $70</span><br>
-                        <h3>Sorcerer Shatter</h3>
-                        <p class="descriptionP">Skunky, earthy, pungent, taste.
-                            Great for insomnia, stress, pain, loss of appetite.
-                        </p>
-                    </div>
-                        
-                    <div id="purpleKushInventory">
-                        <div></div>
-                    </div>
-                    <p class="inventoryPTag">inventory</p>
-                </div>
-            </div>
+            
                 
         
             
