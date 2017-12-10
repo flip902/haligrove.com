@@ -16,13 +16,13 @@
       <div class="paraphernaliaBox col-lg-6 col-md-6">
         <div class="paraphernaliaThumbnail">
           <div class="paraphernaliaImageDiv">
-            <img src="../images/soapStone.JPG" alt="Soapstone Pipe" style="height:300px">
+            <img src="../images/juicyWatermelon.JPG" alt="watermelon" style="height:300px">
           </div>
-          <h3 class="paraphernaliaItemTitle">Soapstone Pipe</h3>
+          <h3 class="paraphernaliaItemTitle">Watermelon</h3>
           <div class="paraphernaliaPrice">
-            $40<span> Per</span>
-            <p>Hand Crafted Mahogany + Soapstone<br>
-            Made in Jamaica</p>
+            $3<span> Per</span>
+            <p>Juicy Jay's<br>
+           1 1\4 size</p>
           </div>
         </div>
       </div>
@@ -30,13 +30,13 @@
       <div class="paraphernaliaBox col-lg-6 col-md-6">
         <div class="paraphernaliaThumbnail">
           <div class="paraphernaliaImageDiv">
-            <img src="../images/mohoganyGrinder.JPG" alt="Mahogany Grinder" style="height:300px">
+            <img src="../images/juicyRootbeer.JPG" alt="rootbeer" style="height:300px">
           </div>
-          <h3 class="paraphernaliaItemTitle">Mahogany Grinder</h3>
+          <h3 class="paraphernaliaItemTitle">Root Beer</h3>
           <div class="paraphernaliaPrice">
-            $40<span> Per</span>
-            <p>Beautifully hand Crafted Mahogany grinders <br>
-            Made in Jamaica<p>
+            $3<span> Per</span>
+            <p>Juicy Jay's<br>
+            1 1\4 size<p>
           </div>
         </div>
       </div>        
@@ -44,13 +44,13 @@
       <div class="paraphernaliaBox col-lg-6 col-md-6">
         <div class="paraphernaliaThumbnail">
           <div class="paraphernaliaImageDiv">
-            <img src="../images/mohoganyPipe.JPG" alt="Mahogany Pipe" style="height:300px">
+            <img src="../images/juicyStrawberry.JPG" alt="strawberry" style="height:300px">
           </div>
-          <h3 class="paraphernaliaItemTitle">Mahogany Pipe</h3>
+          <h3 class="paraphernaliaItemTitle">Strawberry</h3>
           <div class="paraphernaliaPrice">
-            $35<span> Per</span>
-            <p>Hand Crafted Mahogany<br>
-            Made in Jamaica</p>
+            $3<span> Per</span>
+            <p>Juicy Jay's<br>
+            1 1\4 size</p>
           </div>
         </div>
       </div>

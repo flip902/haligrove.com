@@ -30,18 +30,19 @@
 
                 <div class="carousel-caption">
                     <h3>New! Forever Phoenix Shatter</h3>
-                    <p>only $45 per gram<br>availible while supplies last!</p>
+                    <p>only $45 per gram<br></p>
 				
                 </div>
               </a>
             </div>
 
 	    <div class="item">
-              <a href="content/strains.php"><img src="images/platnumBubba.JPG" alt="">
+              <a href="content/paraphernalia.php"><img src="images/juicyAd.JPG" alt="">
 
                 <div class="carousel-caption">
-                    <h3>New! Platinum Bubba</h3>
-                    <p>10 dollars across the board<br>
+                    <h3>New! Juicy Jay's</h3>
+                    <p>Flavored Rolling Papers<br>
+		    $3</p>
 				
                 </div>
               </a>
