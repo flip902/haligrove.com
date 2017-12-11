@@ -4,6 +4,30 @@
 {
       "id" : "1",
 
+        "name" : "Purple OG",
+        "src" : "../images/purpleOG.JPG",
+        "type" : "indica",
+        "isNew" : "new",
+        "sale" : "none",
+        "pricePerGram" : "$10",
+        "pricePerOunce" : "$210",
+        "description" : "Have some snacks ready before testing out this extremely potent indica. Providing users with both an intense head and body heavy sensation, Purple OG Kush is one of the more popular medical strains. With a thick aroma of musty berries and pine, the smell and taste of this strain are as strong as the effects themselves. Purple OG Kush may cause you to feel sleepy, cloudy, and unfocused, making this strain perfect for nighttime use.",
+        "inventory" : "full",
+          "THC" : "25",
+          "taste" : "85",
+          "aroma" : "84",
+          "pain" : "85",
+          "insomnia" : "84",
+          "appetite" : "85",
+          "overall" : "85", 
+    "soldOut" : "none",
+    "opacity" : "1"
+},
+
+
+{
+      "id" : "2",
+
         "name" : "Platinum Bubba",
         "src" : "../images/platnumBubba.JPG",
         "type" : "indica",
@@ -26,7 +50,7 @@
 
 
 {
-      "id" : "2",
+      "id" : "3",
 
         "name" : "Org.Sour Tangerine",
         "src" : "../images/organicSourTangerine.JPG",
@@ -50,12 +74,12 @@
 
 
 {
-      "id" : "3",
+      "id" : "4",
 
         "name" : "Space Cookies",
         "src" : "../images/spaceCookies.JPG",
         "type" : "indica",
-        "isNew" : "new",
+        "isNew" : "none",
         "sale" : "none",
         "pricePerGram" : "5 for $45 $10",
         "pricePerOunce" : "$225",
@@ -74,7 +98,7 @@
 
 
 {
-      "id" : "4",
+      "id" : "5",
 
         "name" : "MK Ultra",
         "src" : "../images/mkUltra.JPG",
@@ -84,7 +108,7 @@
         "pricePerGram" : "$10",
         "pricePerOunce" : "$200",
         "description" : "MK Ultra is an indica dominant strain that has ultra-strong cerebral effects. It is created by crossing the indica variety G-13 and OG Kush. MK Ultra is an incredibly hard-hitting strain with a strong and strange odour.",
-        "inventory" : "full",
+        "inventory" : "low",
           "THC" : "23",
           "taste" : "80",
           "aroma" : "80",
@@ -97,7 +121,7 @@
 },
 
 {
-      "id" : "5",
+      "id" : "6",
 
         "name" : "King Kush",
         "src" : "../images/kingKush.JPG",
@@ -121,7 +145,7 @@
 
 
 {
-      "id" : "6",
+      "id" : "7",
 
         "name" : "Jack Herer",
         "src" : "../images/jackHerer.JPG",
@@ -131,7 +155,7 @@
         "pricePerGram" : "$7",
         "pricePerOunce" : "$170",
         "description" : "Jack Herer captures both the cerebral elevation associated with sativas and the heavy resin production of indicas. Its rich genetic background gives rise to several different variations of Jack Herer, each phenotype bearing its own unique features and effects. However, consumers typically describe this 55% sativa hybrid as blissful, clear-headed, and creative.",
-        "inventory" : "full",
+        "inventory" : "med",
           "THC" : "21",
           "taste" : "72",
           "aroma" : "73",
@@ -144,7 +168,7 @@
 },
 
 {
-      "id" : "7",
+      "id" : "8",
 
         "name" : "Death Star",
         "src" : "../images/deathStar.JPG",
@@ -170,7 +194,7 @@
 
 
 {
-      "id" : "8",
+      "id" : "9",
 
         "name" : "Sour Kosher",
         "src" : "../images/sourKosher.JPG",
@@ -193,7 +217,7 @@
 },
 
 {
-      "id" : "9",
+      "id" : "10",
 
         "name" : "Phantom OG",
         "src" : "../images/phantomOG.JPG",
@@ -216,7 +240,7 @@
 },
 
 {
-      "id" : "10",
+      "id" : "11",
 
         "name" : "Yellowfin Tuna",
         "src" : "../images/yellowfinTuna.JPG",
@@ -226,7 +250,7 @@
         "pricePerGram" : "$10",
         "pricePerOunce" : "$210",
         "description" : "Yellowfin Tuna gives patients a potent punch of THC that is ideal for chronic pain relief. This Herijuana and Lamb's Bread cross has gained quite a bit of fame in Canada for both its strong narcotic effect and its whimsical marketing - prepackaged meds were sold in sealed tuna cans. Flowers will be compact, trichome-covered and have a strong smell. ",
-        "inventory" : "med",
+        "inventory" : "low",
           "THC" : "23",
           "taste" : "80",
           "aroma" : "78",
@@ -239,7 +263,7 @@
     },
 
 {
-      "id" : "11",
+      "id" : "12",
 
         "name" : "Blue Dream",
         "src" : "../images/blueDream.JPG",
@@ -262,7 +286,7 @@
     },
 
 {
-      "id" : "12",
+      "id" : "13",
 
         "name" : "Sour Diesel",
         "src" : "../images/sourDiesel.JPG",
@@ -290,13 +314,13 @@
 
     {
 
-      "id" : "13",
+      "id" : "14",
 
         "name" : "Pink Kandy Kush",
         "src" : "../images/pinkKandyKush.JPG",
         "type" : "indica",
         "isNew" : "none",
-        "sale" : "sale",
+        "sale" : "none",
         "pricePerGram" : "$10",
         "pricePerOunce" : "$210",
         "description" : "Pink hairs burst from bright green buds barely visible under a blanket of sugar-like trichomes, with traces of a sweet vanilla and candy perfume. The potency of this strain could be considered overpowering, and even small doses are known to eliminate pain, insomnia, and appetite loss.",
@@ -313,7 +337,7 @@
     },
 
 {
-      "id" : "14",
+      "id" : "15",
 
         "name" : "Pink God",
         "src" : "../images/pinkGod.JPG",
@@ -336,7 +360,7 @@
     },
 
     {
-      "id" : "15",
+      "id" : "16",
 
         "name" : "Tuna",
         "src" : "../images/newTuna.JPG",
@@ -359,7 +383,7 @@
     },
 
     {
-      "id" : "16",
+      "id" : "17",
 
         "name" : "White Widow Sup.",
         "src" : "../images/whiteWidowSupreme.JPG",
@@ -384,7 +408,7 @@
     
 
     {
-      "id" : "17",
+      "id" : "18",
 
         "name" : "Island Pink Kush",
         "src" : "../images/islandPink.JPG",
@@ -394,7 +418,7 @@
         "pricePerGram" : "$10",
         "pricePerOunce" : "$210",
         "description" : "Island Pink has a nice skunky aroma with a sweet grapefruit fragrance. Its 20:80 sativa-indica has strong physical effects giving an ultimate high and intense euphoria leaving you with a powerful case of the munchies. This is great for those who suffer with mood disorders, chronic pain and helps with appetite.",
-        "inventory" : "med",
+        "inventory" : "low",
           "THC" : "25",
           "taste" : "81",
           "aroma" : "84",
@@ -409,7 +433,7 @@
     
 
     {
-      "id" : "18",
+      "id" : "19",
 
         "name" : "S Lemon Rockstar",
         "src" : "../images/superLemonRockstar.JPG",
@@ -433,7 +457,7 @@
     },
 
     {
-      "id" : "19",
+      "id" : "20",
 
         "name" : "Deep Purple",
         "src" : "../images/deepPurple.JPG",
@@ -456,29 +480,7 @@
 
     },
 
-    {
-      "id" : "20",
-
-        "name" : "Monster Bud",
-        "src" : "../images/monsterBud.JPG",
-        "type" : "indica",
-        "isNew" : "none",
-        "sale" : "none",
-        "pricePerGram" : "$10",
-        "pricePerOunce" : "$210",
-        "description" : "With a THC profile that can stretch past 26 percent, Monster OG's effects come on strong to relax muscles, soothe pains, relieve stress, increase the appetite, and promote rest. Stout plants produce tights resin-packed buds that carry a blend of deep, earthy diesel and subtle burnt spice notes.",
-        "inventory" : "low",
-          "THC" : "24",
-          "taste" : "78",
-          "aroma" : "78",
-          "pain" : "78",
-          "insomnia" : "78",
-          "appetite" : "78",
-          "overall" : "78", 
-    "soldOut" : "sold out",
-    "opacity" : "1"
-
-    },
+    
 
     
 
@@ -530,32 +532,10 @@
 
     },
 
+    
+
     {
       "id" : "23",
-
-      "name" : "Lemon OG",
-      "src" : "../images/lemonOG.JPG",
-      "type" : "indica",
-      "isNew" : "none",
-      "sale" : "sale",
-      "pricePerGram" : "$10",
-      "pricePerOunce" : "$210",
-      "description" : "What this skunky indica lacks in longevity it makes up for in speed. A cross between the mythical Las Vegas Lemon Skunk and The OG #18, Lemon OG provides users with a quick-acting sleepy head sensation. While Lemon OG has inherited a skunky aroma from its kush relatives, this particular strain is mild tasting and pleasant smelling with fruity undertones. Lemon OG tends to feel more psychoactive than other members of the kush family, but still offers a heavy, medicated feel.",
-      "inventory" : "low",
-        "THC" : "23",
-        "taste" : "78",
-        "aroma" : "79",
-        "pain" : "81",
-        "insomnia" : "78",
-        "appetite" : "79",
-        "overall" : "78", 
-    "soldOut" : "sold out",
-    "opacity" : "0.3"
-
-    },
-
-    {
-      "id" : "24",
 
         "name" : "Deadhead OG",
         "src" : "../images/deadHead.JPG",
@@ -581,7 +561,7 @@
     
 
     {
-      "id" : "25",
+      "id" : "24",
 
       "name" : "Nuken",
       "src" : "../images/dukeNuken.JPG",
@@ -607,7 +587,7 @@
     
 
     {
-      "id" : "26",
+      "id" : "25",
 
       "name" : "Rockstar",
       "src" : "../images/rockstar.JPG",
@@ -617,7 +597,7 @@
       "pricePerGram" : "$10",
       "pricePerOunce" : "$200",
       "description" : "Rockstars potent effects are said to be perfect for treating chronic pain, muscle spasms or tremors, inflammation, and mild to moderate cases of depression. This bud has an aroma of spicy grapey earth with a hint of skunky pungent herbs and a taste of spiced mulled wine with a pungent slightly skunky exhale. Rockstar buds have medium-sized dense and lumpy dark olive green spade-shaped nugs with rich purple undertones, fiery orange hairs, and frosty trichome covered purple leaves.",
-      "inventory" : "med",
+      "inventory" : "low",
         "THC" : "23",
         "taste" : "80",
         "aroma" : "81",
@@ -631,37 +611,15 @@
     },
    
        
-    {
-      "name" : "Gorilla Glue",
-      "id" : "27",
-      "src" : "../images/gorillaGlue.JPG",
-      "type" : "hybrid",
-      "isNew" : "none",
-      "sale" : "none",
-      "pricePerGram" : "$10",
-      "pricePerOunce" : "$210",
-      "description" : "Back again! Gorilla Glue, is a potent hybrid strain that delivers heavy-handed euphoria and relaxation, leaving you feeling glued to the couch. Earthy, pungent, piney taste. Good for stress, pain, depression, insomnia, and headaches.",
-      "inventory" : "low",
-        "THC" : "25",
-        "taste" : "81",
-        "aroma" : "83",
-        "pain" : "74",
-        "insomnia" : "83",
-        "appetite" : "81",
-        "overall" : "82", 
-    "soldOut" : "sold out",
-    "opacity" : "0.3"
-
-    },
-   
+       
        
     {
       "name" : "Larry OG",
-      "id" : "28",
+      "id" : "26",
       "src" : "../images/larryOG.JPG",
       "type" : "indica",
       "isNew" : "none",
-      "sale" : "none",
+      "sale" : "sale",
       "pricePerGram" : "$10",
       "pricePerOunce" : "$210",
       "description" : "Larry OG, also called Lemon Larry, is yet another member of the famous ocean-grown family. Originally created in Orange County, this indica is a cross between OG Kush and SFV OG. Larry OG produces a potent yet easy body buzz that will allow you to relax while getting things done. The effects are happy but not overwhelming. Like other members of the OG family, this strain has a very clean and piney aroma. The nugs tend to be dense and feature distinct burnt orange hairs that are longer than average.",
@@ -680,11 +638,11 @@
 
     {
       "name" : "Candy Apple",
-      "id" : "29",
+      "id" : "27",
       "src" : "../images/candyApple.JPG",
       "type" : "indica",
       "isNew" : "none",
-      "sale" : "none",
+      "sale" : "sale",
       "pricePerGram" : "$10",
       "pricePerOunce" : "$210",
       "description" : "Expect to pucker up, because this strain will send your tastebuds a-tinglin’. Bright green in color with a distinct sour apple candy aroma, Candy Apple lives up to its name. You won’t get a sugar rush from this strain, however, but it may leave you stuck on the couch. This indica is good for after work or on a lazy afternoon. Candy Apple at its best is extremely potent and full-bodied. Try this strain if you’re looking to relax and ease stress.",
@@ -706,7 +664,7 @@
     
 {
       "name" : "Nam",
-      "id" : "30",
+      "id" : "28",
       "src" : "../images/nam.JPG",
       "type" : "hybrid",
       "isNew" : "none",
@@ -730,7 +688,7 @@
        
     {
       "name" : "Hindu Dub",
-      "id" : "31",
+      "id" : "29",
       "src" : "../images/hinduDub.JPG",
       "type" : "indica",
       "isNew" : "none",
