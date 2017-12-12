@@ -18,6 +18,9 @@
               <li data-target="#myCarousel" data-slide-to="2"></li>
               <li data-target="#myCarousel" data-slide-to="3"></li>
 	      <li data-target="#myCarousel" data-slide-to="4"></li>
+	      <li data-target="#myCarousel" data-slide-to="5"></li>
+	      <li data-target="#myCarousel" data-slide-to="6"></li>
+
 
 
           </ol>
@@ -25,7 +28,19 @@
           <!-- Wrapper for slides -->
           <div class="carousel-inner">
 
-	    <div class="item active">
+            <div class="item active">
+              <a href="content/paraphernalia.php"><img src="images/gpenBlueAd.JPG" alt="">
+
+                <div class="carousel-caption">
+                    <h3>New Snoop Dogg G Pen</h3>
+                    <p>Herbal Vaporizor<br>
+	            $60<br>
+                </div>
+              </a>
+            </div>
+
+
+	    <div class="item">
               <a href="content/strains.php"><img src="images/purpleOG.JPG" alt="">
 
                 <div class="carousel-caption">
