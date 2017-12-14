@@ -155,7 +155,7 @@
         "pricePerGram" : "$7",
         "pricePerOunce" : "$170",
         "description" : "Jack Herer captures both the cerebral elevation associated with sativas and the heavy resin production of indicas. Its rich genetic background gives rise to several different variations of Jack Herer, each phenotype bearing its own unique features and effects. However, consumers typically describe this 55% sativa hybrid as blissful, clear-headed, and creative.",
-        "inventory" : "med",
+        "inventory" : "low",
           "THC" : "21",
           "taste" : "72",
           "aroma" : "73",
@@ -204,7 +204,7 @@
         "pricePerGram" : "$10",
         "pricePerOunce" : "$210",
         "description" : "The insanely trichome encrusted and hard hitting, Sour Kosher is a rock solid Sativa dominant hybrid that was bred to perfection by the award winning crew at the one and only DNA Genetics. This cross between an old school legend and new school powerhouse brings forth large amount of extremely frosty and colorful buds that absolutely reek in the process. She most commonly churns out medium sized plants with a large Christmas tree-like structure that explodes with growth as they quickly fill in with heavy amounts of big, thick and ridiculously resinous flowers  it has a unique yet familiar smell reminiscent of rich earth and fruit, and is considered by many to be one of the tastiest smokes around.",
-        "inventory" : "full",
+        "inventory" : "med",
           "THC" : "28",
           "taste" : "86",
           "aroma" : "86",
@@ -680,8 +680,8 @@
         "insomnia" : "77",
         "appetite" : "77",
         "overall" : "76", 
-    "soldOut" : "none",
-    "opacity" : "1"
+    "soldOut" : "sold out",
+    "opacity" : "0.3"
 
     },
 
