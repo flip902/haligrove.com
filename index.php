@@ -28,7 +28,43 @@
           <!-- Wrapper for slides -->
           <div class="carousel-inner">
 
-            <div class="item active">
+	    <div class="item active">
+              <a href="content/extracts.php"><img src="images/wolfAd.JPG" alt="">
+
+                <div class="carousel-caption">
+                    <h3>New! Wolf Extracts</h3>
+                    <p>only $40 per gram<br></p>
+				
+                </div>
+              </a>
+            </div>
+
+
+	    <div class="item">
+		<a href="content/strains.php"><img src="images/bcChemo.JPG" alt="">
+                
+                <div class="carousel-caption">
+                    <h3>Picks Of The Week:</h3>
+                    <p>BC Chemo & <br>Pink Kandy Kush<br>
+			              10g for $70<br>28g for $190</p>
+                </div>
+              </a>
+             </div>
+
+	    
+	    <div class="item">
+              <a href="content/strains.php"><img src="images/blueDiamond.JPG" alt="">
+
+                <div class="carousel-caption">
+                    <h3>New Blue Diamond!</h3>
+                    <p>5g for $40<br>
+	            10 for $80<br>
+                </div>
+              </a>
+            </div>
+
+
+            <div class="item">
               <a href="content/paraphernalia.php"><img src="images/gpenBlueAd.JPG" alt="">
 
                 <div class="carousel-caption">
@@ -40,38 +76,11 @@
             </div>
 
 
-	    <div class="item">
-              <a href="content/strains.php"><img src="images/purpleOG.JPG" alt="">
+	    
 
-                <div class="carousel-caption">
-                    <h3>New Purple OG</h3>
-                    <p>5g for $40<br>
-	            10 for $80<br>
-                </div>
-              </a>
-            </div>
+	     
 
-	     <div class="item">
-		<a href="content/strains.php"><img src="images/candyApple.JPG" alt="">
-                
-                <div class="carousel-caption">
-                    <h3>Picks Of The Week:</h3>
-                    <p>Candy Apple & <br>Larry OG<br>
-			              10g for $70<br>28g for $190</p>
-                </div>
-              </a>
-             </div>
-
-	    <div class="item">
-              <a href="content/extracts.php"><img src="images/foreverPhoenixAd.JPG" alt="">
-
-                <div class="carousel-caption">
-                    <h3>New! Forever Phoenix Shatter</h3>
-                    <p>only $45 per gram<br></p>
-				
-                </div>
-              </a>
-            </div>
+	    
 
 	    <div class="item">
               <a href="content/paraphernalia.php"><img src="images/juicyAd.JPG" alt="">

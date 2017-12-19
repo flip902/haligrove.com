@@ -13,10 +13,104 @@
     <div class="extractsPositioning">
         <div class="row width extractWidth">
 
+
+	    <div class="extractsBox col-lg-6 col-md-6">
+                <div class="extractsThumbnail">
+                    <div class="extractsImageDiv">
+                        <div class="hybrid">hybrid</div>
+			<div class="new">new</div>
+                        <img src= "../images/wolfCheeze.JPG" style="height: 100%">
+                    </div>
+                    <div class="extractsItemTitle" id="">Cheese</div>
+                    <div class="extractsPrice">
+                        <span>$40 Per </span><br>
+                        <h3>Wolf Extracts</h3>
+                        <p class="descriptionP">A sharp sour aroma known for it's unique flavour.
+			Relaxed, blissful, happy effects.
+                        </p>
+                    </div>
+                       <br> 
+                    <div id="cheese">
+                        <div></div>
+                    </div>
+                    <p class="inventoryPTag">inventory</p>
+                </div>
+            </div>
+
+
+	    <div class="extractsBox col-lg-6 col-md-6">
+                <div class="extractsThumbnail">
+                    <div class="extractsImageDiv">
+                        <div class="sativa">sativa</div>
+			<div class="new">new</div>
+                        <img src= "../images/wolfBlueDream.JPG" style="height: 100%">
+                    </div>
+                    <div class="extractsItemTitle" id="">Blue Dream</div>
+                    <div class="extractsPrice">
+                        <span>$40 Per </span><br>
+                        <h3>Wolf Extracts</h3>
+                        <p class="descriptionP">Sweet berry aroma. High THC content.
+                        Great for pain, depression and nausea
+                        </p>
+                    </div>
+                       <br> 
+                    <div id="blueDream">
+                        <div></div>
+                    </div>
+                    <p class="inventoryPTag">inventory</p>
+                </div>
+            </div>
+
+
+	    <div class="extractsBox col-lg-6 col-md-6">
+                <div class="extractsThumbnail">
+                    <div class="extractsImageDiv">
+                        <div class="hybrid">hybrid</div>
+			<div class="new">new</div>
+                        <img src= "../images/wolfBlueberry.JPG" style="height: 100%">
+                    </div>
+                    <div class="extractsItemTitle" id="">Blueberry</div>
+                    <div class="extractsPrice">
+                        <span>$40 Per </span><br>
+                        <h3>Wolf Extracts</h3>
+                        <p class="descriptionP">Sweet flavours and high THC content.
+                        Great for pain, stress, and relaxation.
+                        </p>
+                    </div>
+                       <br> 
+                    <div id="blueberry">
+                        <div></div>
+                    </div>
+                    <p class="inventoryPTag">inventory</p>
+                </div>
+            </div>
+
+	    <div class="extractsBox col-lg-6 col-md-6">
+                <div class="extractsThumbnail">
+                    <div class="extractsImageDiv">
+                        <div class="indica">indica</div>
+			<div class="new">new</div>
+                        <img src= "../images/wolfHashPlant.JPG" style="height: 100%">
+                    </div>
+                    <div class="extractsItemTitle" id="">Hash Plant</div>
+                    <div class="extractsPrice">
+                        <span>$40 Per </span><br>
+                        <h3>Wolf Extracts</h3>
+                        <p class="descriptionP">Spicy, herbal taste.
+                        Great for Pain, depression and insomnia.
+                        </p>
+                    </div>
+                       <br> 
+                    <div id="hashplant">
+                        <div></div>
+                    </div>
+                    <p class="inventoryPTag">inventory</p>
+                </div>
+            </div>
+
 	   <div class="extractsBox col-lg-6 col-md-6">
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
-		        <div class="new">new</div>
                         <div class="hybrid">hybrid</div>
                         <img src= "../images/foreverPhoenix.JPG" style="height: 100%">
                     </div>
@@ -262,10 +356,10 @@
                     </div>
                     <div class="extractsItemTitle" id="">Kushy Chews</div><p class="extractsPrice">(edibles 40mg)</p>
                     <div class="extractsPrice">
-                        $15<span> per</span><br>3 <span>for </span>$40
+                        $15<span> per</span><br>
                  <br>   <p>Great tasting chews. each gummy is infused with 40mg of thc, great for pain and insomnia.<br> 4 gummies in pack</p><br>
                     </div>
-                    <div id="kushyInventory">
+                    <div id="kushy40Inventory">
                         <div></div>
                     </div>
                     <p class="inventoryPTag">inventory</p>

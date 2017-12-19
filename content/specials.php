@@ -10,8 +10,20 @@
         
 
 
-    <div contenteditable="false" class="chalkboardbody">
-    
+    <div contenteditable="false" class="chalkboardbody" style="z-index: 5">
+    <a href="http://haligrove.com/images/bitcoin.png" style="hieght: 120px; width: 120px; z-index: 5">
+        <div class="bitcoin">
+	  <img src="../images/bitcoinAccepted.png" style="hieght: 120px; width: 120px">
+        </div>
+        </a>
+       <br> 
+	<a href="http://haligrove.com/images/etherAdd.png" style="hieght: 120px; width: 120px">
+        <div class="ether">
+	  <img src="../images/ether.png" style="hieght: 150px; width: 150px">
+        </div>
+        </a>
+	
+
 	
 	<br>
        <h1 class="pickOTW">Picks Of The Week:</h1>
@@ -21,7 +33,7 @@
         <br/>
         <h1 class="pickOTW">This Week:</h1>
 	
-	<a href="strains.php#" class="pink">Candy Apple</a> <a href="strains.php#" class="pink">& Larry OG<br>(while supplies last!)</a>
+	<a href="strains.php#" class="pink">BC Chemo</a> <a href="strains.php#" class="pink">& Pink Kandy Kush<br>(while supplies last!)</a>
         <ui>
             <li>10 for $70</li>
             <li>28 for $190</li>
@@ -50,15 +62,7 @@
        <br>
 	<br> 
 
-	
-
-        <a href="strains.php#1">Nam</a>
-	  <ui>
-	      <li>5g for $35</li>
-              <li>10 for $60</li>
-	      <li>28 for $165</li>
-	  </ul>
-	  <br>
+      
 	
 	<a href="strains.php#1">Hindu</a>
 	  <ui>
@@ -121,19 +125,7 @@
         </ul>
         <br>
 	
-	<a href="http://haligrove.com/images/bitcoin.png" style="hieght: 120px; width: 120px">
-        <div class="bitcoin">
-	  <img src="../images/bitcoinAccepted.png" style="hieght: 120px; width: 120px">
-        </div>
-        </a>
-       <br> 
-	<a href="http://haligrove.com/images/etherAdd.png" style="hieght: 120px; width: 120px">
-        <div class="ether">
-	  <img src="../images/ether.png" style="hieght: 150px; width: 150px">
-        </div>
-        </a>
-	<br>
-        
+	        
 	
 	
         
