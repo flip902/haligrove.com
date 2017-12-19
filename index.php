@@ -32,8 +32,8 @@
               <a href="content/extracts.php"><img src="images/wolfAd.JPG" alt="">
 
                 <div class="carousel-caption">
-                    <h3>New! Wolf Extracts</h3>
-                    <p>only $40 per gram<br></p>
+                    <h3>New Wolf Extracts!</h3>
+                    <p>only $35 per gram<br></p>
 				
                 </div>
               </a>
@@ -68,7 +68,7 @@
               <a href="content/paraphernalia.php"><img src="images/gpenBlueAd.JPG" alt="">
 
                 <div class="carousel-caption">
-                    <h3>New Snoop Dogg G Pen</h3>
+                    <h3>New Snoop Dogg G Pen!</h3>
                     <p>Herbal Vaporizor<br>
 	            $60<br>
                 </div>
@@ -76,17 +76,11 @@
             </div>
 
 
-	    
-
-	     
-
-	    
-
-	    <div class="item">
+	   <div class="item">
               <a href="content/paraphernalia.php"><img src="images/juicyAd.JPG" alt="">
 
                 <div class="carousel-caption">
-                    <h3>New! Juicy Jay's</h3>
+                    <h3>New Juicy Jay's!</h3>
                     <p>Flavored Rolling Papers<br>
 		    $3</p>
 				

@@ -23,7 +23,7 @@
                     </div>
                     <div class="extractsItemTitle" id="">Cheese</div>
                     <div class="extractsPrice">
-                        <span>$40 Per </span><br>
+                        <span>$35 Per </span><br>
                         <h3>Wolf Extracts</h3>
                         <p class="descriptionP">A sharp sour aroma known for it's unique flavour.
 			Relaxed, blissful, happy effects.
@@ -47,7 +47,7 @@
                     </div>
                     <div class="extractsItemTitle" id="">Blue Dream</div>
                     <div class="extractsPrice">
-                        <span>$40 Per </span><br>
+                        <span>$35 Per </span><br>
                         <h3>Wolf Extracts</h3>
                         <p class="descriptionP">Sweet berry aroma. High THC content.
                         Great for pain, depression and nausea
@@ -71,7 +71,7 @@
                     </div>
                     <div class="extractsItemTitle" id="">Blueberry</div>
                     <div class="extractsPrice">
-                        <span>$40 Per </span><br>
+                        <span>$35 Per </span><br>
                         <h3>Wolf Extracts</h3>
                         <p class="descriptionP">Sweet flavours and high THC content.
                         Great for pain, stress, and relaxation.
@@ -94,7 +94,7 @@
                     </div>
                     <div class="extractsItemTitle" id="">Hash Plant</div>
                     <div class="extractsPrice">
-                        <span>$40 Per </span><br>
+                        <span>$35 Per </span><br>
                         <h3>Wolf Extracts</h3>
                         <p class="descriptionP">Spicy, herbal taste.
                         Great for Pain, depression and insomnia.
