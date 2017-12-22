@@ -42,7 +42,7 @@
 
 	<h1 class="pickOTW">New Cheaper Strain:</h1>
 	
-	<a href="strains.php#" class="pink">Jack Herer</a>
+	<a href="strains.php#" class="pink">Amnesia Haze</a>
         <ui>
             <li>5g for $35</li>
             <li>10 for $60</li>
@@ -64,13 +64,7 @@
 
       
 	
-	<a href="strains.php#1">Hindu</a>
-	  <ui>
-	      <li>5g for $35</li>
-              <li>10 for $65</li>
-	      <li>28 for $170</li>
-	  </ul>
-	  <br>
+	
        
 	<a href="strains.php#1">Tuna</a>
 	  <ui>

@@ -29,6 +29,16 @@
           <div class="carousel-inner">
 
 	    <div class="item active">
+              <a href="content/strains.php"><img src="images/romainRockstar.JPG" alt="">
+
+                <div class="carousel-caption">
+                    <h3>New Romain Rockstar &<br>Amnesia Haze!</h3>
+                </div>
+              </a>
+            </div>
+
+
+	    <div class="item">
               <a href="content/extracts.php"><img src="images/wolfAd.JPG" alt="">
 
                 <div class="carousel-caption">
@@ -52,16 +62,7 @@
              </div>
 
 	    
-	    <div class="item">
-              <a href="content/strains.php"><img src="images/blueDiamond.JPG" alt="">
-
-                <div class="carousel-caption">
-                    <h3>New Blue Diamond!</h3>
-                    <p>5g for $40<br>
-	            10 for $80<br>
-                </div>
-              </a>
-            </div>
+	    
 
 
             <div class="item">

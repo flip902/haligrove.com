@@ -4,6 +4,54 @@
 {
       "id" : "1",
 
+        "name" : "Romain Rockstar",
+        "src" : "../images/romainRockstar.JPG",
+        "type" : "hybrid",
+        "isNew" : "new",
+        "sale" : "none",
+        "pricePerGram" : "$10",
+        "pricePerOunce" : "$200",
+        "description" : "Romain Rockstar is a potent indica-dominant hybrid that delivers strong effects without debilitating sedation. With aromatic notes of spice and grape, Rockstar is a favorite medicine for headaches, pain, and sleep disorders.",
+        "inventory" : "full",
+          "THC" : "24",
+          "taste" : "80",
+          "aroma" : "80",
+          "pain" : "79",
+          "insomnia" : "73",
+          "appetite" : "78",
+          "overall" : "79", 
+    "soldOut" : "none",
+    "opacity" : "1"
+},
+
+
+{
+      "id" : "2",
+
+        "name" : "Amnesia Haze",
+        "src" : "../images/amnesiaHaze.JPG",
+        "type" : "hybrid",
+        "isNew" : "new",
+        "sale" : "sale",
+        "pricePerGram" : "$7",
+        "pricePerOunce" : "$170",
+        "description" : "This sativa-dominant hybrid is a descendant of a Jamaican sativa, a Laotian sativa, and the indica-dominant Afghani Hawaiian. The ratio of sativa to indica is about 80:20, meaning this is a great strain for daytime use and clearheaded thinking.",
+        "inventory" : "full",
+          "THC" : "21",
+          "taste" : "73",
+          "aroma" : "72",
+          "pain" : "70",
+          "insomnia" : "70",
+          "appetite" : "75",
+          "overall" : "71", 
+    "soldOut" : "none",
+    "opacity" : "1"
+},
+
+
+{
+      "id" : "3",
+
         "name" : "Blue Diamond",
         "src" : "../images/blueDiamond.JPG",
         "type" : "hybrid",
@@ -25,7 +73,7 @@
 },
 
 {
-      "id" : "2",
+      "id" : "4",
 
         "name" : "Purple OG",
         "src" : "../images/purpleOG.JPG",
@@ -49,12 +97,12 @@
 
 
 {
-      "id" : "3",
+      "id" : "5",
 
         "name" : "Platinum Bubba",
         "src" : "../images/platnumBubba.JPG",
         "type" : "indica",
-        "isNew" : "new",
+        "isNew" : "none",
         "sale" : "none",
         "pricePerGram" : "$10",
         "pricePerOunce" : "$250",
@@ -73,12 +121,12 @@
 
 
 {
-      "id" : "4",
+      "id" : "6",
 
         "name" : "Org.Sour Tangerine",
         "src" : "../images/organicSourTangerine.JPG",
         "type" : "sativa",
-        "isNew" : "new",
+        "isNew" : "none",
         "sale" : "none",
         "pricePerGram" : "5 for $45 $10",
         "pricePerOunce" : "$225",
@@ -97,7 +145,7 @@
 
 
 {
-      "id" : "5",
+      "id" : "7",
 
         "name" : "Space Cookies",
         "src" : "../images/spaceCookies.JPG",
@@ -107,7 +155,7 @@
         "pricePerGram" : "5 for $45 $10",
         "pricePerOunce" : "$225",
         "description" : "Among Cannasseurs (connoisseurs of cannabis), Space Cookies is known for its ability to launch users into another realm of time and space, while creating feelings of intense euphoria and full body relaxation. Its effects make the strand popular among those who suffer from chronic stress, anxiety, migraines, physical pain, depression and insomnia.",
-        "inventory" : "med",
+        "inventory" : "low",
           "THC" : "25",
           "taste" : "86",
           "aroma" : "85",
@@ -121,7 +169,7 @@
 
 
 {
-      "id" : "6",
+      "id" : "8",
 
         "name" : "MK Ultra",
         "src" : "../images/mkUltra.JPG",
@@ -144,7 +192,7 @@
 },
 
 {
-      "id" : "7",
+      "id" : "9",
 
         "name" : "King Kush",
         "src" : "../images/kingKush.JPG",
@@ -168,7 +216,7 @@
 
 
 {
-      "id" : "8",
+      "id" : "10",
 
         "name" : "Jack Herer",
         "src" : "../images/jackHerer.JPG",
@@ -191,7 +239,7 @@
 },
 
 {
-      "id" : "9",
+      "id" : "11",
 
         "name" : "Death Star",
         "src" : "../images/deathStar.JPG",
@@ -217,7 +265,7 @@
 
 
 {
-      "id" : "10",
+      "id" : "12",
 
         "name" : "Sour Kosher",
         "src" : "../images/sourKosher.JPG",
@@ -240,7 +288,7 @@
 },
 
 {
-      "id" : "11",
+      "id" : "13",
 
         "name" : "Phantom OG",
         "src" : "../images/phantomOG.JPG",
@@ -250,7 +298,7 @@
         "pricePerGram" : "$10",
         "pricePerOunce" : "$210",
         "description" : "Phantom OG begins with heightened energy and ends with a crash of full-body relaxation. Its aroma is a rich combination of pine and lemon accented by a subtle menthol flavor. The initial euporic jolt launches you into a happy, dreamy state of mind with fits of giggles and fixated concentration. Over time, you may notice some mental jamming, absent-mindedness, and impending sleepiness. Phantom OG is a great choice for patients treating insomnia, pain, appetite loss, and arthritis.",
-        "inventory" : "med",
+        "inventory" : "low",
           "THC" : "25",
           "taste" : "82",
           "aroma" : "82",
@@ -258,12 +306,12 @@
           "insomnia" : "81",
           "appetite" : "81",
           "overall" : "81", 
-    "soldOut" : "none",
-    "opacity" : "1"
+    "soldOut" : "sold out",
+    "opacity" : "0.3"
 },
 
 {
-      "id" : "12",
+      "id" : "14",
 
         "name" : "Yellowfin Tuna",
         "src" : "../images/yellowfinTuna.JPG",
@@ -286,7 +334,7 @@
     },
 
 {
-      "id" : "13",
+      "id" : "15",
 
         "name" : "Blue Dream",
         "src" : "../images/blueDream.JPG",
@@ -296,7 +344,7 @@
         "pricePerGram" : "$10",
         "pricePerOunce" : "$210",
         "description" : "Blue Dream, a sativa-dominant hybrid originating in California, has achieved legendary status among West Coast strains. Crossing a Blueberry indica with the sativa Haze, Blue Dream balances full-body relaxation with gentle cerebral invigoration. Novice and veteran consumers alike enjoy the level effects of Blue Dream, which ease you gently into a calm euphoria.",
-        "inventory" : "full",
+        "inventory" : "med",
           "THC" : "26",
           "taste" : "84",
           "aroma" : "85",
@@ -309,7 +357,7 @@
     },
 
 {
-      "id" : "14",
+      "id" : "16",
 
         "name" : "Sour Diesel",
         "src" : "../images/sourDiesel.JPG",
@@ -327,8 +375,8 @@
           "insomnia" : "70",
           "appetite" : "79",
           "overall" : "79", 
-    "soldOut" : "none",
-    "opacity" : "1"
+    "soldOut" : "sold out",
+    "opacity" : "0.3"
     },
 
 
@@ -337,7 +385,7 @@
 
     {
 
-      "id" : "15",
+      "id" : "17",
 
         "name" : "Pink Kandy Kush",
         "src" : "../images/pinkKandyKush.JPG",
@@ -360,7 +408,7 @@
     },
 
 {
-      "id" : "16",
+      "id" : "18",
 
         "name" : "Pink God",
         "src" : "../images/pinkGod.JPG",
@@ -383,7 +431,7 @@
     },
 
     {
-      "id" : "17",
+      "id" : "19",
 
         "name" : "Tuna",
         "src" : "../images/newTuna.JPG",
@@ -406,7 +454,7 @@
     },
 
     {
-      "id" : "18",
+      "id" : "20",
 
         "name" : "White Widow Sup.",
         "src" : "../images/whiteWidowSupreme.JPG",
@@ -416,7 +464,7 @@
         "pricePerGram" : "$10",
         "pricePerOunce" : "$210",
         "description" : "This strain holds a pretty balanced 60:40 sativa/indica ratio ( Brazil Sativa x South Indian Indica) that leads one to a cognitive driven high with a relaxing undertone. Patients will opt for White Widow if they're seeking a strain that allows them to unwind and relax while still maintaining a sense of mental awareness. This strain is especially good for depression, stress, pain, and PTSD. White Widow gets its name from the fact that it is literally blanketed in white crystals. Beware though, this sweet sugary smoke starts out light but expands dramatically which can lead to heavy coughing; especially if you're a novice smoker. When it comes to smell, you can expect a citrus and peppery scent that is accompanied by a lemony aftertaste. This strain is perfect for outdoor activities like hanging out at the beach or taking a nice walk",
-        "inventory" : "med",
+        "inventory" : "low",
           "THC" : "26",
           "taste" : "81",
           "aroma" : "81",
@@ -431,7 +479,7 @@
     
 
     {
-      "id" : "19",
+      "id" : "21",
 
         "name" : "Island Pink Kush",
         "src" : "../images/islandPink.JPG",
@@ -456,7 +504,7 @@
     
 
     {
-      "id" : "20",
+      "id" : "22",
 
         "name" : "S Lemon Rockstar",
         "src" : "../images/superLemonRockstar.JPG",
@@ -480,7 +528,7 @@
     },
 
     {
-      "id" : "21",
+      "id" : "23",
 
         "name" : "Deep Purple",
         "src" : "../images/deepPurple.JPG",
@@ -508,7 +556,7 @@
     
 
     {
-      "id" : "22",
+      "id" : "24",
 
       "name" : "Atomic Trainwreck",
       "src" : "../images/atomicTrainwreck.JPG",
@@ -532,7 +580,7 @@
     },
 
     {
-      "id" : "23",
+      "id" : "25",
 
       "name" : "BC Chemo",
       "src" : "../images/bcChemo.JPG",
@@ -542,7 +590,7 @@
       "pricePerGram" : "$10",
       "pricePerOunce" : "$210",
       "description" : "It's Back! This strain originates from British Columbia and was primarily developed to treat cancer patients without having to undergo the disastrous side effects of chemotherapy, hence the name.Considering its potent high, you may be tempted to overdo it at times. The strain will give you the munchies in no time, which is perfect for patients suffering from a loss appetite. Additionally, it has also been used by patients suffering from panic attacks and paranoia.",
-      "inventory" : "full",
+      "inventory" : "low",
         "THC" : "25",
         "taste" : "80",
         "aroma" : "80",
@@ -558,7 +606,7 @@
     
 
     {
-      "id" : "24",
+      "id" : "26",
 
         "name" : "Deadhead OG",
         "src" : "../images/deadHead.JPG",
@@ -576,15 +624,15 @@
           "insomnia" : "52",
           "appetite" : "64",
           "overall" : "78", 
-    "soldOut" : "none",
-    "opacity" : "1"
+    "soldOut" : "sold out",
+    "opacity" : "0.3"
 
     },
 
     
 
     {
-      "id" : "25",
+      "id" : "27",
 
       "name" : "Nuken",
       "src" : "../images/dukeNuken.JPG",
@@ -609,113 +657,28 @@
    
     
 
-    {
-      "id" : "26",
-
-      "name" : "Rockstar",
-      "src" : "../images/rockstar.JPG",
-      "type" : "hybrid",
-      "isNew" : "none",
-      "sale" : "none",
-      "pricePerGram" : "$10",
-      "pricePerOunce" : "$200",
-      "description" : "Rockstars potent effects are said to be perfect for treating chronic pain, muscle spasms or tremors, inflammation, and mild to moderate cases of depression. This bud has an aroma of spicy grapey earth with a hint of skunky pungent herbs and a taste of spiced mulled wine with a pungent slightly skunky exhale. Rockstar buds have medium-sized dense and lumpy dark olive green spade-shaped nugs with rich purple undertones, fiery orange hairs, and frosty trichome covered purple leaves.",
-      "inventory" : "low",
-        "THC" : "23",
-        "taste" : "80",
-        "aroma" : "81",
-        "pain" : "81",
-        "insomnia" : "74",
-        "appetite" : "78",
-        "overall" : "78", 
-    "soldOut" : "sold out",
-    "opacity" : "0.3"
-
-    },
+    
    
        
        
        
-    {
-      "name" : "Larry OG",
-      "id" : "27",
-      "src" : "../images/larryOG.JPG",
-      "type" : "indica",
-      "isNew" : "none",
-      "sale" : "none",
-      "pricePerGram" : "$10",
-      "pricePerOunce" : "$210",
-      "description" : "Larry OG, also called Lemon Larry, is yet another member of the famous ocean-grown family. Originally created in Orange County, this indica is a cross between OG Kush and SFV OG. Larry OG produces a potent yet easy body buzz that will allow you to relax while getting things done. The effects are happy but not overwhelming. Like other members of the OG family, this strain has a very clean and piney aroma. The nugs tend to be dense and feature distinct burnt orange hairs that are longer than average.",
-      "inventory" : "low",
-        "THC" : "23",
-        "taste" : "83",
-        "aroma" : "80",
-        "pain" : "71",
-        "insomnia" : "75",
-        "appetite" : "74",
-        "overall" : "79", 
-    "soldOut" : "sold out",
-    "opacity" : "0.3"
+    
 
-    },
-
-    {
-      "name" : "Candy Apple",
-      "id" : "28",
-      "src" : "../images/candyApple.JPG",
-      "type" : "indica",
-      "isNew" : "none",
-      "sale" : "none",
-      "pricePerGram" : "$10",
-      "pricePerOunce" : "$210",
-      "description" : "Expect to pucker up, because this strain will send your tastebuds a-tinglin’. Bright green in color with a distinct sour apple candy aroma, Candy Apple lives up to its name. You won’t get a sugar rush from this strain, however, but it may leave you stuck on the couch. This indica is good for after work or on a lazy afternoon. Candy Apple at its best is extremely potent and full-bodied. Try this strain if you’re looking to relax and ease stress.",
-      "inventory" : "low",
-        "THC" : "23",
-        "taste" : "82",
-        "aroma" : "81",
-        "pain" : "70",
-        "insomnia" : "74",
-        "appetite" : "76",
-        "overall" : "79", 
-    "soldOut" : "sold out",
-    "opacity" : "0.3"
-
-    },
+    
    
 
    
     
-{
-      "name" : "Nam",
-      "id" : "29",
-      "src" : "../images/nam.JPG",
-      "type" : "hybrid",
-      "isNew" : "none",
-      "sale" : "none",
-      "pricePerGram" : "$7",
-      "pricePerOunce" : "$170",
-      "description" : "Nam is a Vietnamese, Sativa dominant hybrid Created and distributed by SoCal Seed Co. Nam is like most of Asian bred Sativas out there now-a-days, growing big, fast and tall, with a long flowering time, rather large yields that bring a happy head high which asian strains are known for.",
-      "inventory" : "low",
-        "THC" : "21",
-        "taste" : "76",
-        "aroma" : "76",
-        "pain" : "76",
-        "insomnia" : "77",
-        "appetite" : "77",
-        "overall" : "76", 
-    "soldOut" : "sold out",
-    "opacity" : "0.3"
 
-    },
 
        
     {
       "name" : "Hindu Dub",
-      "id" : "30",
+      "id" : "28",
       "src" : "../images/hinduDub.JPG",
       "type" : "indica",
       "isNew" : "none",
-      "sale" : "sale",
+      "sale" : "none",
       "pricePerGram" : "$7",
       "pricePerOunce" : "$170",
       "description" : "Hindu Kush is a pure indica strain named after the mountain range stretching 500 miles between Pakistan and Afghanistan where it originated. If you are looking for a strain that cost less but still want good quality this is the strain for you. Although, Hindu may be \"milder\" than our top brands, it's taste and effects are certainly NOT lacking.",
@@ -727,8 +690,8 @@
         "insomnia" : "71",
         "appetite" : "78",
         "overall" : "73", 
-    "soldOut" : "none",
-    "opacity" : "1"
+    "soldOut" : "sold out",
+    "opacity" : "0.3"
 
     }
    
