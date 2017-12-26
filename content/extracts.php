@@ -352,7 +352,8 @@
 	    <div class="extractsBox col-lg-6 col-md-6">
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
-                        <img src= "../images/kushyChews.png" style="height: 100%">
+		        <div class="sold out" style="z-index: 1">sold out</div>
+                        <img src= "../images/kushyChews.png" style="height: 100%; opacity: 0.3">
                     </div>
                     <div class="extractsItemTitle" id="">Kushy Chews</div><p class="extractsPrice">(edibles 40mg)</p>
                     <div class="extractsPrice">

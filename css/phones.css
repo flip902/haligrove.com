@@ -180,7 +180,7 @@
 
 #kushy40Inventory > div {
   background-color: #C9DF78;
-  width: 15%; /* Adjust with JavaScript */
+  width: 0%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -317,7 +317,7 @@
 
 #hashplant > div {
   background-color: #C9DF78;
-  width: 90%; /* Adjust with JavaScript */
+  width: 20%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -347,7 +347,7 @@
 
 #blueDream > div {
   background-color: #C9DF78;
-  width: 50%; /* Adjust with JavaScript */
+  width: 20%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -362,7 +362,7 @@
 
 #cheese > div {
   background-color: #C9DF78;
-  width: 90%; /* Adjust with JavaScript */
+  width: 50%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -379,7 +379,7 @@
 
 #bubbleInventory > div {
   background-color: #C9DF78;
-  width: 10%; /* Adjust with JavaScript */
+  width: 0%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }

@@ -128,7 +128,8 @@
                 <div class="hashBox col-lg-6 col-md-6">
                     <div class="hashThumbnail">
                         <div class="hashImageDiv">
-                            <img src= "../images/hash.jpg" style="opacity:1">
+			    <div class="sold out" style="z-index: 1">sold out</div>
+                            <img src= "../images/hash.jpg" style="opacity:0.3">
                         </div>
                         <h3 class="hashItemTitle" id="">Bubble</h3>
                         <div class="hashPrice">
