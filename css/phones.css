@@ -517,7 +517,7 @@ div h1.shatterDeal {
         width: 100%;
         height: 100%;
         padding: 0px;
-        background-image: url("../images/xmasBackground2.jpg");
+        background-image: url("../images/background.png");
         background-repeat: repeat;
         background-position: center;
         background-color: #C9DF78;
@@ -527,7 +527,7 @@ div h1.shatterDeal {
     position: relative;
     height: 370px; 
     width: 100%;
-    background: url(../images/xmasBackgroundHeader.jpg) repeat;
+    background: url(../images/header.jpg) repeat;
     background-position: top center;
     background-attachment: scroll;
     margin: 0 0 0 0;
@@ -552,7 +552,7 @@ div h1.shatterDeal {
   .plant {
     width: 450px;
     height: 430px;
-    background-image: url(../images/xmasPlantLgPhone.gif);
+    background-image: url(../images/plantLgPhone.png);
     background-repeat: no-repeat;
     background-position: right bottom;
     position: absolute;
@@ -565,7 +565,7 @@ div h1.shatterDeal {
   .leaf {
     width: 280px;
     height: 400px;
-    background-image: url(../images/xmasLeafLandscape.png);
+    background-image: url(../images/leafLandscape.png);
     background-repeat: no-repeat;
     background-position: fixed;
     position: absolute;
@@ -2070,7 +2070,7 @@ div h1.shatterDeal {
     width: 100%;
     height: 100%;
     padding: 0px;
-    background-image: url("../images/xmasBackground2.jpg");
+    background-image: url("../images/background.png");
     background-repeat: repeat;
     background-position: center;
     background-color: #C9DF78;
@@ -2079,7 +2079,7 @@ div h1.shatterDeal {
     position: relative;
     height: 370px; 
     width: 100%;
-    background: url(../images/xmasBackgroundHeader.jpg) repeat;
+    background: url(../images/header.jpg) repeat;
     background-position: top center;
     background-attachment: scroll;
     margin: 0 0 0 0;
@@ -2104,7 +2104,7 @@ div h1.shatterDeal {
 .plant {
     width: 319px;
     height: 350px;
-    background-image: url(../images/xmasPlantMedPhone.gif);
+    background-image: url(../images/plantPhoneMed.png);
     background-repeat: no-repeat;
     background-position: right bottom;
     position: absolute;
@@ -2116,7 +2116,7 @@ div h1.shatterDeal {
   .leaf {
     width: 280px;
     height: 400px;
-    background-image: url(../images/xmasLeafLgPhone.png);
+    background-image: url(../images/leafLgPhone.png);
     background-repeat: no-repeat;
     background-position: fixed;
     position: absolute;
@@ -3625,7 +3625,7 @@ div h1.shatterDeal {
     width: 100%;
     height: 100%;
     padding: 0px;
-    background-image: url("../images/xmasBackground2.jpg");
+    background-image: url("../images/background.png");
     background-repeat: repeat;
     background-position: center;
     background-color: #C9DF78;
@@ -3634,7 +3634,7 @@ div h1.shatterDeal {
     position: relative;
     height: 370px; 
     width: 100%;
-    background: url(../images/xmasBackgroundHeader.jpg) repeat;
+    background: url(../images/header.jpg) repeat;
     background-position: top center;
     background-attachment: scroll;
     margin: 0 0 0 0;
@@ -3659,7 +3659,7 @@ div h1.shatterDeal {
 .plant {
     width: 319px;
     height: 350px;
-    background-image: url(../images/xmasPlantMedPhone.gif);
+    background-image: url(../images/plantPhoneMed.png);
     background-repeat: no-repeat;
     background-position: right bottom;
     position: absolute;
@@ -3671,7 +3671,7 @@ div h1.shatterDeal {
   .leaf {
     width: 280px;
     height: 400px;
-    background-image: url(../images/xmasLeafLgPhone.png);
+    background-image: url(../images/leafLgPhone.png);
     background-repeat: no-repeat;
     background-position: fixed;
     position: absolute;
@@ -5192,7 +5192,7 @@ div h1.shatterDeal {
     width: 100%;
     height: 100%;
     padding: 0px;
-    background-image: url("../images/xmasBackground2.jpg");
+    background-image: url("../images/background.png");
     background-repeat: repeat;
     background-position: center;
     background-color: #C9DF78;
@@ -5201,7 +5201,7 @@ div h1.shatterDeal {
     position: relative;
     height: 280px; 
     width: 100%;
-    background: url(../images/xmasBackgroundHeader.jpg) repeat;
+    background: url(../images/header.jpg) repeat;
     background-position: top center;
     background-attachment: scroll;
     margin: 0 0 0 0;
@@ -5226,7 +5226,7 @@ div h1.shatterDeal {
 .plant {
     width: 240px;
     height: 300px;
-    background-image: url(../images/xmasPlantSmPhone.gif);
+    background-image: url(../images/plantPhoneMed.png);
     background-repeat: no-repeat;
     background-position: right bottom;
     position: absolute;
@@ -5238,7 +5238,7 @@ div h1.shatterDeal {
   .leaf {
     width: 200px;
     height: 300px;
-    background-image: url(../images/xmasLeafLgPhone.png);
+    background-image: url(../images/leafLgPhone.png);
     background-repeat: no-repeat;
     background-position: fixed;
     position: absolute;
