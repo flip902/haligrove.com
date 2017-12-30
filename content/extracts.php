@@ -394,7 +394,8 @@
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
                         <div class="hybrid">hybrid</div>
-                        <img src= "../images/alienOG.JPG" style="height: 100%">
+			<div class="sold out" style="z-index: 1">sold out</div>
+                        <img src= "../images/alienOG.JPG" style="height: 100%; opacity: 0.3">
                     </div>
                     <div class="extractsItemTitle" id="">Alien OG</div>
                     <div class="extractsPrice">

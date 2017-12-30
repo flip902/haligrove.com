@@ -12,6 +12,7 @@
 
     <div contenteditable="false" class="chalkboardbody" style="z-index: 5">
     <a href="http://haligrove.com/images/bitcoin.png" style="hieght: 120px; width: 120px; z-index: 5">
+	<br>
         <div class="bitcoin">
 	  <img src="../images/bitcoinAccepted.png" style="hieght: 120px; width: 120px">
         </div>
@@ -33,7 +34,7 @@
         <br/>
         <h1 class="pickOTW">This Week:</h1>
 	
-	<a href="strains.php#" class="pink">BC Chemo</a> <a href="strains.php#" class="pink">& Pink Kandy Kush<br>(while supplies last!)</a>
+	<a href="strains.php#" class="pink"></a> <a href="strains.php#" class="pink">Romain Rockstar<br>& Yellowfin Tuna<br>(while supplies last!)</a>
         <ui>
             <li>10 for $70</li>
             <li>28 for $190</li>

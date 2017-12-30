@@ -29,10 +29,11 @@
           <div class="carousel-inner">
 
 	    <div class="item active">
-              <a href="content/strains.php"><img src="images/romainRockstar.JPG" alt="">
+              <a href="content/strains.php"><img src="images/obama.JPG" alt="">
 
                 <div class="carousel-caption">
-                    <h3>New Romain Rockstar &<br>Amnesia Haze!</h3>
+                    <h3>New Obama</h3>
+		    <p>5 for $45</p>
                 </div>
               </a>
             </div>
@@ -51,11 +52,11 @@
 
 
 	    <div class="item">
-		<a href="content/strains.php"><img src="images/bcChemo.JPG" alt="">
+		<a href="content/strains.php"><img src="images/yellowfinTuna.JPG" alt="">
                 
                 <div class="carousel-caption">
                     <h3>Picks Of The Week:</h3>
-                    <p>BC Chemo & <br>Pink Kandy Kush<br>
+                    <p>Romain Rockstar & <br>Yellowfin Tuna<br>
 			              10g for $70<br>28g for $190</p>
                 </div>
               </a>
@@ -81,7 +82,7 @@
               <a href="content/paraphernalia.php"><img src="images/juicyAd.JPG" alt="">
 
                 <div class="carousel-caption">
-                    <h3>New Juicy Jay's!</h3>
+                    <h3>Juicy Jay's!</h3>
                     <p>Flavored Rolling Papers<br>
 		    $3</p>
 				

@@ -125,24 +125,7 @@
 
                 
 
-                <div class="hashBox col-lg-6 col-md-6">
-                    <div class="hashThumbnail">
-                        <div class="hashImageDiv">
-			    <div class="sold out" style="z-index: 1">sold out</div>
-                            <img src= "../images/hash.jpg" style="opacity:0.3">
-                        </div>
-                        <h3 class="hashItemTitle" id="">Bubble</h3>
-                        <div class="hashPrice">
-                            $12<span> Gram</span>
-                            <p>soft, gooey, sticky</p>
-                        </div>
-                        
-                        <div id="bubbleInventory">
-                            <div></div>
-                        </div>
-                        <p class="inventoryPTag">inventory</p>
-                    </div>
-                </div>
+                
 
                 
             </div>

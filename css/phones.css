@@ -44,20 +44,7 @@
   border-radius: 10px;
 }
 
-#purpleKushInventory {
-  width: 80%;
-  background-color: black;
-  border-radius: 13px; /* (height of inner div) / 2 + padding */
-  padding: 3px;
-  margin: 0 auto 0 auto;
-}
 
-#purpleKushInventory > div {
-  background-color: #C9DF78;
-  width: 0%; /* Adjust with JavaScript */
-  height: 20px;
-  border-radius: 10px;
-}
 
 
 
@@ -76,20 +63,7 @@
   border-radius: 10px;
 }
 
-#chemoInventory {
-  width: 80%;
-  background-color: black;
-  border-radius: 13px; /* (height of inner div) / 2 + padding */
-  padding: 3px;
-  margin: 0 auto 0 auto;
-}
 
-#chemoInventory > div {
-  background-color: #C9DF78;
-  width: 0%; /* Adjust with JavaScript */
-  height: 20px;
-  border-radius: 10px;
-}
 
 
 
@@ -108,20 +82,7 @@
   border-radius: 10px;
 }
 
-#godzillaInventory {
-  width: 80%;
-  background-color: black;
-  border-radius: 13px; /* (height of inner div) / 2 + padding */
-  padding: 3px;
-  margin: 0 auto 0 auto;
-}
 
-#godzillaInventory > div {
-  background-color: #C9DF78;
-  width: 0%; /* Adjust with JavaScript */
-  height: 20px;
-  border-radius: 10px;
-}
 
 
 
@@ -135,7 +96,7 @@
 
 #alienOGInventory > div {
   background-color: #C9DF78;
-  width: 20%; /* Adjust with JavaScript */
+  width: 0%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -150,7 +111,7 @@
 
 #popRocksInventory > div {
   background-color: #C9DF78;
-  width: 30%; /* Adjust with JavaScript */
+  width: 10%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -165,7 +126,7 @@
 
 #kushyInventory > div {
   background-color: #C9DF78;
-  width: 50%; /* Adjust with JavaScript */
+  width: 40%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -211,7 +172,7 @@
 
 #girlScout > div {
   background-color: #C9DF78;
-  width: 90%; /* Adjust with JavaScript */
+  width: 30%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -226,7 +187,7 @@
 
 #goombaSmash > div {
   background-color: #C9DF78;
-  width: 90%; /* Adjust with JavaScript */
+  width: 30%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -241,7 +202,7 @@
 
 #nardiusHaze > div {
   background-color: #C9DF78;
-  width: 90%; /* Adjust with JavaScript */
+  width: 30%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -256,7 +217,7 @@
 
 #purpleUrkle > div {
   background-color: #C9DF78;
-  width: 90%; /* Adjust with JavaScript */
+  width: 30%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -271,7 +232,7 @@
 
 #couchPotato > div {
   background-color: #C9DF78;
-  width: 90%; /* Adjust with JavaScript */
+  width: 30%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -286,7 +247,7 @@
 
 #gorillaGlue > div {
   background-color: #C9DF78;
-  width: 90%; /* Adjust with JavaScript */
+  width: 30%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -302,7 +263,7 @@
 
 #foreverPhoenix > div {
   background-color: #C9DF78;
-  width: 80%; /* Adjust with JavaScript */
+  width: 60%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -332,7 +293,7 @@
 
 #blueberry > div {
   background-color: #C9DF78;
-  width: 50%; /* Adjust with JavaScript */
+  width: 20%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -347,7 +308,7 @@
 
 #blueDream > div {
   background-color: #C9DF78;
-  width: 20%; /* Adjust with JavaScript */
+  width: 10%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -362,32 +323,13 @@
 
 #cheese > div {
   background-color: #C9DF78;
-  width: 50%; /* Adjust with JavaScript */
+  width: 20%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
 
 
 /* Hash inventory */
-#bubbleInventory {
-  width: 80%;
-  background-color: black;
-  border-radius: 13px; /* (height of inner div) / 2 + padding */
-  padding: 3px;
-  margin: 0 auto 0 auto;
-}
-
-#bubbleInventory > div {
-  background-color: #C9DF78;
-  width: 0%; /* Adjust with JavaScript */
-  height: 20px;
-  border-radius: 10px;
-}
-
-
-
-
-
 #malaysianInventory {
   width: 80%;
   background-color: black;
@@ -458,7 +400,7 @@
 
 #shetral > div {
   background-color: #C9DF78;
-  width: 90%; /* Adjust with JavaScript */
+  width: 50%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -473,7 +415,7 @@
 
 #trident > div {
   background-color: #C9DF78;
-  width: 70%; /* Adjust with JavaScript */
+  width: 50%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -488,7 +430,7 @@
 
 #romeo > div {
   background-color: #C9DF78;
-  width: 50%; /* Adjust with JavaScript */
+  width: 10%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
