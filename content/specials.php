@@ -97,7 +97,10 @@
 	</ul>
 	<br>
 
-	<a href="strains.php">Space Cookies and Organic Sour Tangerine</a>
+	<a href="strains.php">
+	Space Cookies,<br>
+	 Obama <br>
+	and Organic Sour Tangerine</a>
 	<ui>
      	     <li>5g for $45</li>
 	    <li>10 for $80</li>

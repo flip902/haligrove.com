@@ -29,6 +29,17 @@
           <div class="carousel-inner">
 
 	    <div class="item active">
+              <a href="content/strains.php"><img src="images/stickieIcky.JPG" alt="">
+
+                <div class="carousel-caption">
+                    <h3>New Sticky Icky!!</h3>
+		    <p>5 for $40</p>
+                </div>
+              </a>
+            </div>
+
+
+	    <div class="item">
               <a href="content/strains.php"><img src="images/obama.JPG" alt="">
 
                 <div class="carousel-caption">
@@ -39,16 +50,7 @@
             </div>
 
 
-	    <div class="item">
-              <a href="content/extracts.php"><img src="images/wolfAd.JPG" alt="">
-
-                <div class="carousel-caption">
-                    <h3>New Wolf Extracts!</h3>
-                    <p>only $35 per gram<br></p>
-				
-                </div>
-              </a>
-            </div>
+	    
 
 
 	    <div class="item">

@@ -4,6 +4,30 @@
 {
       "id" : "1",
 
+        "name" : "Sticky Icky",
+        "src" : "../images/stickieIcky.JPG",
+        "type" : "indica",
+        "isNew" : "new",
+        "sale" : "none",
+        "pricePerGram" : "$10",
+        "pricePerOunce" : "$210",
+        "description" : "If you are looking to kick back and unwind after a long day, Sticky Icky is there to give you a hand. This indica is pure relaxation with a euphoric twist. Providing users with a moderate strong heavy body sensation and a sense of spiritual uplift, Sticky Icky is a great nighttime strain and works well for users who suffer from pain, stress, and depression. This is a sweet tasting strain and has a piney, floral smell.",
+        "inventory" : "full",
+          "THC" : "26",
+          "taste" : "82",
+          "aroma" : "81",
+          "pain" : "80",
+          "insomnia" : "80",
+          "appetite" : "83",
+          "overall" : "82", 
+    "soldOut" : "none",
+    "opacity" : "1"
+},
+
+
+{
+      "id" : "2",
+
         "name" : "Obama",
         "src" : "../images/obama.JPG",
         "type" : "indica",
@@ -26,7 +50,7 @@
 
 
 {
-      "id" : "2",
+      "id" : "3",
 
         "name" : "Romain Rockstar",
         "src" : "../images/romainRockstar.JPG",
@@ -50,7 +74,7 @@
 
 
 {
-      "id" : "3",
+      "id" : "4",
 
         "name" : "Amnesia Haze",
         "src" : "../images/amnesiaHaze.JPG",
@@ -74,7 +98,7 @@
 
 
 {
-      "id" : "4",
+      "id" : "5",
 
         "name" : "Blue Diamond",
         "src" : "../images/blueDiamond.JPG",
@@ -97,7 +121,7 @@
 },
 
 {
-      "id" : "5",
+      "id" : "6",
 
         "name" : "Purple OG",
         "src" : "../images/purpleOG.JPG",
@@ -121,7 +145,7 @@
 
 
 {
-      "id" : "6",
+      "id" : "7",
 
         "name" : "Platinum Bubba",
         "src" : "../images/platnumBubba.JPG",
@@ -145,7 +169,7 @@
 
 
 {
-      "id" : "7",
+      "id" : "8",
 
         "name" : "Org.Sour Tangerine",
         "src" : "../images/organicSourTangerine.JPG",
@@ -169,7 +193,7 @@
 
 
 {
-      "id" : "8",
+      "id" : "9",
 
         "name" : "Space Cookies",
         "src" : "../images/spaceCookies.JPG",
@@ -193,7 +217,7 @@
 
 
 {
-      "id" : "9",
+      "id" : "10",
 
         "name" : "MK Ultra",
         "src" : "../images/mkUltra.JPG",
@@ -216,7 +240,7 @@
 },
 
 {
-      "id" : "10",
+      "id" : "11",
 
         "name" : "King Kush",
         "src" : "../images/kingKush.JPG",
@@ -240,7 +264,7 @@
 
 
 {
-      "id" : "11",
+      "id" : "12",
 
         "name" : "Jack Herer",
         "src" : "../images/jackHerer.JPG",
@@ -263,7 +287,7 @@
 },
 
 {
-      "id" : "12",
+      "id" : "13",
 
         "name" : "Death Star",
         "src" : "../images/deathStar.JPG",
@@ -289,7 +313,7 @@
 
 
 {
-      "id" : "13",
+      "id" : "14",
 
         "name" : "Sour Kosher",
         "src" : "../images/sourKosher.JPG",
@@ -314,7 +338,7 @@
 
 
 {
-      "id" : "14",
+      "id" : "15",
 
         "name" : "Yellowfin Tuna",
         "src" : "../images/yellowfinTuna.JPG",
@@ -337,7 +361,7 @@
     },
 
 {
-      "id" : "15",
+      "id" : "16",
 
         "name" : "Blue Dream",
         "src" : "../images/blueDream.JPG",
@@ -367,7 +391,7 @@
 
     {
 
-      "id" : "16",
+      "id" : "17",
 
         "name" : "Pink Kandy Kush",
         "src" : "../images/pinkKandyKush.JPG",
@@ -390,7 +414,7 @@
     },
 
 {
-      "id" : "17",
+      "id" : "18",
 
         "name" : "Pink God",
         "src" : "../images/pinkGod.JPG",
@@ -413,7 +437,7 @@
     },
 
     {
-      "id" : "18",
+      "id" : "19",
 
         "name" : "Tuna",
         "src" : "../images/newTuna.JPG",
@@ -436,7 +460,7 @@
     },
 
     {
-      "id" : "19",
+      "id" : "20",
 
         "name" : "White Widow Sup.",
         "src" : "../images/whiteWidowSupreme.JPG",
@@ -465,7 +489,7 @@
     
 
     {
-      "id" : "20",
+      "id" : "21",
 
         "name" : "S Lemon Rockstar",
         "src" : "../images/superLemonRockstar.JPG",
@@ -489,7 +513,7 @@
     },
 
     {
-      "id" : "21",
+      "id" : "22",
 
         "name" : "Deep Purple",
         "src" : "../images/deepPurple.JPG",
@@ -517,7 +541,7 @@
     
 
     {
-      "id" : "22",
+      "id" : "23",
 
       "name" : "Atomic Trainwreck",
       "src" : "../images/atomicTrainwreck.JPG",
@@ -549,7 +573,7 @@
     
 
     {
-      "id" : "23",
+      "id" : "24",
 
       "name" : "Nuken",
       "src" : "../images/dukeNuken.JPG",
