@@ -18,7 +18,6 @@
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
                         <div class="hybrid">hybrid</div>
-			<div class="new">new</div>
                         <img src= "../images/wolfCheeze.JPG" style="height: 100%">
                     </div>
                     <div class="extractsItemTitle" id="">Cheese</div>
@@ -42,7 +41,6 @@
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
                         <div class="sativa">sativa</div>
-			<div class="new">new</div>
                         <img src= "../images/wolfBlueDream.JPG" style="height: 100%">
                     </div>
                     <div class="extractsItemTitle" id="">Blue Dream</div>
@@ -66,7 +64,6 @@
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
                         <div class="hybrid">hybrid</div>
-			<div class="new">new</div>
                         <img src= "../images/wolfBlueberry.JPG" style="height: 100%">
                     </div>
                     <div class="extractsItemTitle" id="">Blueberry</div>
@@ -89,7 +86,6 @@
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
                         <div class="indica">indica</div>
-			<div class="new">new</div>
                         <img src= "../images/wolfHashPlant.JPG" style="height: 100%">
                     </div>
                     <div class="extractsItemTitle" id="">Hash Plant</div>
@@ -266,8 +262,9 @@
 	    <div class="extractsBox col-lg-6 col-md-6">
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
+			<div class="sold out" style="z-index: 1">sold out</div>
                         <div class="sativa">sativa</div>
-                        <img src= "../images/littleFarmSourTangie.JPG" style="height: 100%">
+                        <img src= "../images/littleFarmSourTangie.JPG" style="height: 100%; opacity: 0.3">
                     </div>
                     <div class="extractsItemTitle" id="">Sour Tangie</div>
                     <div class="extractsPrice">

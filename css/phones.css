@@ -157,7 +157,7 @@
 
 #sourTangieInventory > div {
   background-color: #C9DF78;
-  width: 20%; /* Adjust with JavaScript */
+  width: 0%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }

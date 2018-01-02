@@ -73,32 +73,11 @@
 },
 
 
+
+
+
 {
       "id" : "4",
-
-        "name" : "Amnesia Haze",
-        "src" : "../images/amnesiaHaze.JPG",
-        "type" : "hybrid",
-        "isNew" : "none",
-        "sale" : "sale",
-        "pricePerGram" : "$7",
-        "pricePerOunce" : "$170",
-        "description" : "This sativa-dominant hybrid is a descendant of a Jamaican sativa, a Laotian sativa, and the indica-dominant Afghani Hawaiian. The ratio of sativa to indica is about 80:20, meaning this is a great strain for daytime use and clearheaded thinking.",
-        "inventory" : "full",
-          "THC" : "21",
-          "taste" : "73",
-          "aroma" : "72",
-          "pain" : "70",
-          "insomnia" : "70",
-          "appetite" : "75",
-          "overall" : "71", 
-    "soldOut" : "none",
-    "opacity" : "1"
-},
-
-
-{
-      "id" : "5",
 
         "name" : "Blue Diamond",
         "src" : "../images/blueDiamond.JPG",
@@ -121,7 +100,7 @@
 },
 
 {
-      "id" : "6",
+      "id" : "5",
 
         "name" : "Purple OG",
         "src" : "../images/purpleOG.JPG",
@@ -145,7 +124,7 @@
 
 
 {
-      "id" : "7",
+      "id" : "6",
 
         "name" : "Platinum Bubba",
         "src" : "../images/platnumBubba.JPG",
@@ -169,7 +148,7 @@
 
 
 {
-      "id" : "8",
+      "id" : "7",
 
         "name" : "Org.Sour Tangerine",
         "src" : "../images/organicSourTangerine.JPG",
@@ -193,7 +172,7 @@
 
 
 {
-      "id" : "9",
+      "id" : "8",
 
         "name" : "Space Cookies",
         "src" : "../images/spaceCookies.JPG",
@@ -217,7 +196,7 @@
 
 
 {
-      "id" : "10",
+      "id" : "9",
 
         "name" : "MK Ultra",
         "src" : "../images/mkUltra.JPG",
@@ -240,7 +219,7 @@
 },
 
 {
-      "id" : "11",
+      "id" : "10",
 
         "name" : "King Kush",
         "src" : "../images/kingKush.JPG",
@@ -263,31 +242,10 @@
 },
 
 
-{
-      "id" : "12",
 
-        "name" : "Jack Herer",
-        "src" : "../images/jackHerer.JPG",
-        "type" : "hybrid",
-        "isNew" : "none",
-        "sale" : "sale",
-        "pricePerGram" : "$7",
-        "pricePerOunce" : "$170",
-        "description" : "Jack Herer captures both the cerebral elevation associated with sativas and the heavy resin production of indicas. Its rich genetic background gives rise to several different variations of Jack Herer, each phenotype bearing its own unique features and effects. However, consumers typically describe this 55% sativa hybrid as blissful, clear-headed, and creative.",
-        "inventory" : "low",
-          "THC" : "21",
-          "taste" : "72",
-          "aroma" : "73",
-          "pain" : "70",
-          "insomnia" : "70",
-          "appetite" : "75",
-          "overall" : "71", 
-    "soldOut" : "none",
-    "opacity" : "1"
-},
 
 {
-      "id" : "13",
+      "id" : "11",
 
         "name" : "Death Star",
         "src" : "../images/deathStar.JPG",
@@ -313,7 +271,7 @@
 
 
 {
-      "id" : "14",
+      "id" : "12",
 
         "name" : "Sour Kosher",
         "src" : "../images/sourKosher.JPG",
@@ -338,7 +296,7 @@
 
 
 {
-      "id" : "15",
+      "id" : "13",
 
         "name" : "Yellowfin Tuna",
         "src" : "../images/yellowfinTuna.JPG",
@@ -361,7 +319,7 @@
     },
 
 {
-      "id" : "16",
+      "id" : "14",
 
         "name" : "Blue Dream",
         "src" : "../images/blueDream.JPG",
@@ -391,7 +349,7 @@
 
     {
 
-      "id" : "17",
+      "id" : "15",
 
         "name" : "Pink Kandy Kush",
         "src" : "../images/pinkKandyKush.JPG",
@@ -414,7 +372,7 @@
     },
 
 {
-      "id" : "18",
+      "id" : "16",
 
         "name" : "Pink God",
         "src" : "../images/pinkGod.JPG",
@@ -436,31 +394,10 @@
     "opacity" : "1"
     },
 
-    {
-      "id" : "19",
-
-        "name" : "Tuna",
-        "src" : "../images/newTuna.JPG",
-        "type" : "indica",
-        "isNew" : "none",
-        "sale" : "sale",
-        "pricePerGram" : "$10",
-        "pricePerOunce" : "$185",
-        "description" : "Tuna Kush is a BC legend that is now surfacing in North American medical cannabis markets. This strain has been deemed one of the most potent available, producing small, dense nuggets that are hard-caked with resin. ",
-        "inventory" : "med",
-          "THC" : "22",
-          "taste" : "78",
-          "aroma" : "78",
-          "pain" : "75",
-          "insomnia" : "76",
-          "appetite" : "77",
-          "overall" : "78", 
-    "soldOut" : "none",
-    "opacity" : "1"
-    },
+    
 
     {
-      "id" : "20",
+      "id" : "17",
 
         "name" : "White Widow Sup.",
         "src" : "../images/whiteWidowSupreme.JPG",
@@ -489,7 +426,7 @@
     
 
     {
-      "id" : "21",
+      "id" : "18",
 
         "name" : "S Lemon Rockstar",
         "src" : "../images/superLemonRockstar.JPG",
@@ -513,7 +450,7 @@
     },
 
     {
-      "id" : "22",
+      "id" : "19",
 
         "name" : "Deep Purple",
         "src" : "../images/deepPurple.JPG",
@@ -541,7 +478,7 @@
     
 
     {
-      "id" : "23",
+      "id" : "20",
 
       "name" : "Atomic Trainwreck",
       "src" : "../images/atomicTrainwreck.JPG",
@@ -573,7 +510,7 @@
     
 
     {
-      "id" : "24",
+      "id" : "21",
 
       "name" : "Nuken",
       "src" : "../images/dukeNuken.JPG",
@@ -594,7 +531,80 @@
     "soldOut" : "none",
     "opacity" : "1"
 
-    }
+    },
+
+{
+      "id" : "22",
+
+        "name" : "Tuna",
+        "src" : "../images/newTuna.JPG",
+        "type" : "indica",
+        "isNew" : "none",
+        "sale" : "sale",
+        "pricePerGram" : "$10",
+        "pricePerOunce" : "$185",
+        "description" : "Tuna Kush is a BC legend that is now surfacing in North American medical cannabis markets. This strain has been deemed one of the most potent available, producing small, dense nuggets that are hard-caked with resin. ",
+        "inventory" : "med",
+          "THC" : "22",
+          "taste" : "78",
+          "aroma" : "78",
+          "pain" : "75",
+          "insomnia" : "76",
+          "appetite" : "77",
+          "overall" : "78", 
+    "soldOut" : "none",
+    "opacity" : "1"
+    },
+
+
+{
+      "id" : "23",
+
+        "name" : "Jack Herer",
+        "src" : "../images/jackHerer.JPG",
+        "type" : "hybrid",
+        "isNew" : "none",
+        "sale" : "sale",
+        "pricePerGram" : "$7",
+        "pricePerOunce" : "$170",
+        "description" : "Jack Herer captures both the cerebral elevation associated with sativas and the heavy resin production of indicas. Its rich genetic background gives rise to several different variations of Jack Herer, each phenotype bearing its own unique features and effects. However, consumers typically describe this 55% sativa hybrid as blissful, clear-headed, and creative.",
+        "inventory" : "low",
+          "THC" : "21",
+          "taste" : "72",
+          "aroma" : "73",
+          "pain" : "70",
+          "insomnia" : "70",
+          "appetite" : "75",
+          "overall" : "71", 
+    "soldOut" : "none",
+    "opacity" : "1"
+},
+
+
+{
+      "id" : "24",
+
+        "name" : "Amnesia Haze",
+        "src" : "../images/amnesiaHaze.JPG",
+        "type" : "hybrid",
+        "isNew" : "none",
+        "sale" : "sale",
+        "pricePerGram" : "$7",
+        "pricePerOunce" : "$170",
+        "description" : "This sativa-dominant hybrid is a descendant of a Jamaican sativa, a Laotian sativa, and the indica-dominant Afghani Hawaiian. The ratio of sativa to indica is about 80:20, meaning this is a great strain for daytime use and clearheaded thinking.",
+        "inventory" : "full",
+          "THC" : "21",
+          "taste" : "73",
+          "aroma" : "72",
+          "pain" : "70",
+          "insomnia" : "70",
+          "appetite" : "75",
+          "overall" : "71", 
+    "soldOut" : "none",
+    "opacity" : "1"
+}
+
+
    
   ]
 }	
