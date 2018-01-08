@@ -37,34 +37,13 @@
             </div>
 
 
-	    <div class="extractsBox col-lg-6 col-md-6">
-                <div class="extractsThumbnail">
-                    <div class="extractsImageDiv">
-                        <div class="sativa">sativa</div>
-                        <img src= "../images/wolfBlueDream.JPG" style="height: 100%">
-                    </div>
-                    <div class="extractsItemTitle" id="">Blue Dream</div>
-                    <div class="extractsPrice">
-                        <span>$35 Per </span><br>
-                        <h3>Wolf Extracts</h3>
-                        <p class="descriptionP">Sweet berry aroma. High THC content.
-                        Great for pain, depression and nausea
-                        </p>
-                    </div>
-                       <br> 
-                    <div id="blueDream">
-                        <div></div>
-                    </div>
-                    <p class="inventoryPTag">inventory</p>
-                </div>
-            </div>
-
 
 	    <div class="extractsBox col-lg-6 col-md-6">
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
+		        <div class="sold out" style="z-index: 1">sold out</div>
                         <div class="hybrid">hybrid</div>
-                        <img src= "../images/wolfBlueberry.JPG" style="height: 100%">
+                        <img src= "../images/wolfBlueberry.JPG" style="height: 100%; opacity: 0.3">
                     </div>
                     <div class="extractsItemTitle" id="">Blueberry</div>
                     <div class="extractsPrice">
@@ -218,8 +197,9 @@
 	  <div class="extractsBox col-lg-6 col-md-6">
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
+			<div class="sold out" style="z-index: 1">sold out</div>
                         <div class="sativa">sativa</div>
-                        <img src= "../images/goombaSmashEm.JPG" style="height: 100%">
+                        <img src= "../images/goombaSmashEm.JPG" style="height: 100%; opacity: 0.3">
                     </div>
                     <div class="extractsItemTitle" id="">Goombasmash</div>
                     <div class="extractsPrice">
@@ -259,28 +239,6 @@
                 </div>
             </div>
 
-	    <div class="extractsBox col-lg-6 col-md-6">
-                <div class="extractsThumbnail">
-                    <div class="extractsImageDiv">
-			<div class="sold out" style="z-index: 1">sold out</div>
-                        <div class="sativa">sativa</div>
-                        <img src= "../images/littleFarmSourTangie.JPG" style="height: 100%; opacity: 0.3">
-                    </div>
-                    <div class="extractsItemTitle" id="">Sour Tangie</div>
-                    <div class="extractsPrice">
-                        <span>$40 Per </span><br>
-                        <h3>Little Farma</h3>
-                        <p class="descriptionP">Citrus Orange taste.
-                        Great for depression and stress.
-                        </p>
-                    </div>
-                       <br> 
-                    <div id="sourTangieInventory">
-                        <div></div>
-                    </div>
-                    <p class="inventoryPTag">inventory</p>
-                </div>
-            </div>
 
 
 	    <!-- <div class="extractsBox col-lg-6 col-md-6">
@@ -346,23 +304,7 @@
                 </div>
             </div>
 
-	    <div class="extractsBox col-lg-6 col-md-6">
-                <div class="extractsThumbnail">
-                    <div class="extractsImageDiv">
-		        <div class="sold out" style="z-index: 1">sold out</div>
-                        <img src= "../images/kushyChews.png" style="height: 100%; opacity: 0.3">
-                    </div>
-                    <div class="extractsItemTitle" id="">Kushy Chews</div><p class="extractsPrice">(edibles 40mg)</p>
-                    <div class="extractsPrice">
-                        $15<span> per</span><br>
-                 <br>   <p>Great tasting chews. each gummy is infused with 40mg of thc, great for pain and insomnia.<br> 4 gummies in pack</p><br>
-                    </div>
-                    <div id="kushy40Inventory">
-                        <div></div>
-                    </div>
-                    <p class="inventoryPTag">inventory</p>
-                </div>
-            </div>
+	
 
 
 	  <div class="extractsBox col-lg-6 col-md-6">
@@ -387,34 +329,14 @@
                 </div>
             </div>
 
-	<div class="extractsBox col-lg-6 col-md-6">
-                <div class="extractsThumbnail">
-                    <div class="extractsImageDiv">
-                        <div class="hybrid">hybrid</div>
-			<div class="sold out" style="z-index: 1">sold out</div>
-                        <img src= "../images/alienOG.JPG" style="height: 100%; opacity: 0.3">
-                    </div>
-                    <div class="extractsItemTitle" id="">Alien OG</div>
-                    <div class="extractsPrice">
-                        <span>$40 Per </span><br>
-                        <h3>Phyto Extractions</h3>
-                        <p class="descriptionP">flowery, earthy, lemon.
-                        Great for stress, pain, and depression
-                        </p>
-                    </div>
-                        
-                    <div id="alienOGInventory">
-                        <div></div>
-                    </div>
-                    <p class="inventoryPTag">inventory</p>
-                </div>
-            </div>
+
 
         <div class="extractsBox col-lg-6 col-md-6">
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
                         <div class="sativa">sativa</div>
-                        <img src= "../images/incredibleHulk.JPG" style="height: 100%">
+			<div class="sold out" style="z-index: 1">sold out</div>
+                        <img src= "../images/incredibleHulk.JPG" style="height: 100%; opacity: 0.3">
                     </div>
                     <div class="extractsItemTitle" id="">Incredible Hulk</div>
                     <div class="extractsPrice">

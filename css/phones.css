@@ -187,7 +187,7 @@
 
 #goombaSmash > div {
   background-color: #C9DF78;
-  width: 30%; /* Adjust with JavaScript */
+  width: 0%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -202,7 +202,7 @@
 
 #nardiusHaze > div {
   background-color: #C9DF78;
-  width: 30%; /* Adjust with JavaScript */
+  width: 60%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -232,7 +232,7 @@
 
 #couchPotato > div {
   background-color: #C9DF78;
-  width: 30%; /* Adjust with JavaScript */
+  width: 60%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -293,7 +293,7 @@
 
 #blueberry > div {
   background-color: #C9DF78;
-  width: 20%; /* Adjust with JavaScript */
+  width: 0%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -308,7 +308,7 @@
 
 #blueDream > div {
   background-color: #C9DF78;
-  width: 10%; /* Adjust with JavaScript */
+  width: 0%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -370,7 +370,7 @@
 
 #mercedesInventory > div {
   background-color: #C9DF78;
-  width: 30%; /* Adjust with JavaScript */
+  width: 0%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }

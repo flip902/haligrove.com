@@ -19,7 +19,6 @@
               <li data-target="#myCarousel" data-slide-to="3"></li>
 	      <li data-target="#myCarousel" data-slide-to="4"></li>
 	      <li data-target="#myCarousel" data-slide-to="5"></li>
-	      <li data-target="#myCarousel" data-slide-to="6"></li>
 
 
 
@@ -28,44 +27,33 @@
           <!-- Wrapper for slides -->
           <div class="carousel-inner">
 
+
+
 	    <div class="item active">
-              <a href="content/strains.php"><img src="images/stickieIcky.JPG" alt="">
-
-                <div class="carousel-caption">
-                    <h3>New Sticky Icky!!</h3>
-		    <p>5 for $40</p>
-                </div>
-              </a>
-            </div>
-
-
-	    <div class="item">
-              <a href="content/strains.php"><img src="images/obama.JPG" alt="">
-
-                <div class="carousel-caption">
-                    <h3>New Obama</h3>
-		    <p>5 for $45</p>
-                </div>
-              </a>
-            </div>
-
-
-	    
-
-
-	    <div class="item">
-		<a href="content/strains.php"><img src="images/yellowfinTuna.JPG" alt="">
+		<a href="content/strains.php"><img src="images/bcChemo.JPG" alt="">
                 
                 <div class="carousel-caption">
                     <h3>Picks Of The Week:</h3>
-                    <p>Romain Rockstar & <br>Yellowfin Tuna<br>
+                    <p>BC Chemo & <br>Deep Purple<br>
 			              10g for $70<br>28g for $190</p>
                 </div>
               </a>
              </div>
 
-	    
-	    
+
+
+
+	    <div class="item">
+              <a href="content/specials.php"><img src="images/broke.jpg" alt="">
+
+                <div class="carousel-caption">
+                    <p>After Christmas Special!</p>
+		    <p>Jack Herer & Amnesia Haze</p>
+		    <p>15g for $80 & <br>20+ grams for $5 per</p>
+                </div>
+              </a>
+            </div>
+
 
 
             <div class="item">

@@ -1,8 +1,33 @@
 {
     "images" : [
 
+
 {
       "id" : "1",
+
+        "name" : "Pure Pineapple",
+        "src" : "../images/purePineapple.JPG",
+        "type" : "hybrid",
+        "isNew" : "new",
+        "sale" : "none",
+        "pricePerGram" : "$10",
+        "pricePerOunce" : "$250",
+        "description" : "It all started with an Idea a few years back, Create a kush line that represents The complete wheel of fruit flavours. For our Pineapple Kush we carefully started searching for a fast flowering and an actual Pineapple flavoured bouquet. After a long and diligent search for the most similar flavored cannabis plant in existence we carefully settled with an increbible Mendo Pineapple and Crossed her with Banana Dream To make the smell Jump out at you in a very pungent fashion.Thus the result The Aficionado's have created Pure Pineapple, (Mendo Pineapple X Banana Dream) to create a Pure Pineapple kush with a dank fruit bouquet with a 55-65 day finish. High yielding and abundant in flavour and strength.",
+        "inventory" : "full",
+          "THC" : "26",
+          "taste" : "86",
+          "aroma" : "86",
+          "pain" : "80",
+          "insomnia" : "80",
+          "appetite" : "84",
+          "overall" : "86", 
+    "soldOut" : "none",
+    "opacity" : "1"
+},
+
+
+{
+      "id" : "2",
 
         "name" : "Sticky Icky",
         "src" : "../images/stickieIcky.JPG",
@@ -14,19 +39,19 @@
         "description" : "If you are looking to kick back and unwind after a long day, Sticky Icky is there to give you a hand. This indica is pure relaxation with a euphoric twist. Providing users with a moderate strong heavy body sensation and a sense of spiritual uplift, Sticky Icky is a great nighttime strain and works well for users who suffer from pain, stress, and depression. This is a sweet tasting strain and has a piney, floral smell.",
         "inventory" : "full",
           "THC" : "26",
-          "taste" : "82",
+          "taste" : "81",
           "aroma" : "81",
           "pain" : "80",
           "insomnia" : "80",
           "appetite" : "83",
-          "overall" : "82", 
+          "overall" : "81", 
     "soldOut" : "none",
     "opacity" : "1"
 },
 
 
 {
-      "id" : "2",
+      "id" : "3",
 
         "name" : "Obama",
         "src" : "../images/obama.JPG",
@@ -50,13 +75,13 @@
 
 
 {
-      "id" : "3",
+      "id" : "4",
 
         "name" : "Romain Rockstar",
         "src" : "../images/romainRockstar.JPG",
         "type" : "hybrid",
         "isNew" : "none",
-        "sale" : "sale",
+        "sale" : "none",
         "pricePerGram" : "$10",
         "pricePerOunce" : "$200",
         "description" : "Romain Rockstar is a potent indica-dominant hybrid that delivers strong effects without debilitating sedation. With aromatic notes of spice and grape, Rockstar is a favorite medicine for headaches, pain, and sleep disorders.",
@@ -77,7 +102,7 @@
 
 
 {
-      "id" : "4",
+      "id" : "5",
 
         "name" : "Blue Diamond",
         "src" : "../images/blueDiamond.JPG",
@@ -100,7 +125,7 @@
 },
 
 {
-      "id" : "5",
+      "id" : "6",
 
         "name" : "Purple OG",
         "src" : "../images/purpleOG.JPG",
@@ -124,7 +149,7 @@
 
 
 {
-      "id" : "6",
+      "id" : "7",
 
         "name" : "Platinum Bubba",
         "src" : "../images/platnumBubba.JPG",
@@ -148,7 +173,7 @@
 
 
 {
-      "id" : "7",
+      "id" : "8",
 
         "name" : "Org.Sour Tangerine",
         "src" : "../images/organicSourTangerine.JPG",
@@ -172,7 +197,7 @@
 
 
 {
-      "id" : "8",
+      "id" : "9",
 
         "name" : "Space Cookies",
         "src" : "../images/spaceCookies.JPG",
@@ -190,13 +215,13 @@
           "insomnia" : "86",
           "appetite" : "85",
           "overall" : "86", 
-    "soldOut" : "none",
-    "opacity" : "1"
+    "soldOut" : "sold out",
+    "opacity" : "0.3"
 },
 
 
 {
-      "id" : "9",
+      "id" : "10",
 
         "name" : "MK Ultra",
         "src" : "../images/mkUltra.JPG",
@@ -219,7 +244,7 @@
 },
 
 {
-      "id" : "10",
+      "id" : "11",
 
         "name" : "King Kush",
         "src" : "../images/kingKush.JPG",
@@ -245,7 +270,7 @@
 
 
 {
-      "id" : "11",
+      "id" : "12",
 
         "name" : "Death Star",
         "src" : "../images/deathStar.JPG",
@@ -271,7 +296,7 @@
 
 
 {
-      "id" : "12",
+      "id" : "13",
 
         "name" : "Sour Kosher",
         "src" : "../images/sourKosher.JPG",
@@ -296,17 +321,17 @@
 
 
 {
-      "id" : "13",
+      "id" : "14",
 
         "name" : "Yellowfin Tuna",
         "src" : "../images/yellowfinTuna.JPG",
         "type" : "indica",
         "isNew" : "none",
-        "sale" : "sale",
-        "pricePerGram" : "$10",
-        "pricePerOunce" : "$210",
+        "sale" : "none",
+        "pricePerGram" : "$9",
+        "pricePerOunce" : "$200",
         "description" : "Yellowfin Tuna gives patients a potent punch of THC that is ideal for chronic pain relief. This Herijuana and Lamb's Bread cross has gained quite a bit of fame in Canada for both its strong narcotic effect and its whimsical marketing - prepackaged meds were sold in sealed tuna cans. Flowers will be compact, trichome-covered and have a strong smell. ",
-        "inventory" : "low",
+        "inventory" : "full",
           "THC" : "23",
           "taste" : "80",
           "aroma" : "78",
@@ -319,7 +344,7 @@
     },
 
 {
-      "id" : "14",
+      "id" : "15",
 
         "name" : "Blue Dream",
         "src" : "../images/blueDream.JPG",
@@ -349,7 +374,7 @@
 
     {
 
-      "id" : "15",
+      "id" : "16",
 
         "name" : "Pink Kandy Kush",
         "src" : "../images/pinkKandyKush.JPG",
@@ -359,7 +384,7 @@
         "pricePerGram" : "$10",
         "pricePerOunce" : "$210",
         "description" : "Pink hairs burst from bright green buds barely visible under a blanket of sugar-like trichomes, with traces of a sweet vanilla and candy perfume. The potency of this strain could be considered overpowering, and even small doses are known to eliminate pain, insomnia, and appetite loss.",
-        "inventory" : "low",
+        "inventory" : "full",
           "THC" : "26",
           "taste" : "82",
           "aroma" : "81",
@@ -372,7 +397,7 @@
     },
 
 {
-      "id" : "16",
+      "id" : "17",
 
         "name" : "Pink God",
         "src" : "../images/pinkGod.JPG",
@@ -397,7 +422,7 @@
     
 
     {
-      "id" : "17",
+      "id" : "18",
 
         "name" : "White Widow Sup.",
         "src" : "../images/whiteWidowSupreme.JPG",
@@ -415,8 +440,8 @@
           "insomnia" : "71",
           "appetite" : "79",
           "overall" : "81", 
-    "soldOut" : "none",
-    "opacity" : "1"
+    "soldOut" : "sold out",
+    "opacity" : "0.3"
     },
 
     
@@ -426,7 +451,7 @@
     
 
     {
-      "id" : "18",
+      "id" : "19",
 
         "name" : "S Lemon Rockstar",
         "src" : "../images/superLemonRockstar.JPG",
@@ -450,13 +475,13 @@
     },
 
     {
-      "id" : "19",
+      "id" : "20",
 
         "name" : "Deep Purple",
         "src" : "../images/deepPurple.JPG",
         "type" : "indica",
         "isNew" : "none",
-        "sale" : "none",
+        "sale" : "sale",
         "pricePerGram" : "$10",
         "pricePerOunce" : "$210",
         "description" : "This bud boasts a moderately high THC level at 22-23% and a soothing mix of cerebral and body highs. This strain is made to chill you out, yet still leave you functional. Deep Purple is usually prescribed to patients who suffer from chronic pain from long term illnesses.",
@@ -478,7 +503,7 @@
     
 
     {
-      "id" : "20",
+      "id" : "21",
 
       "name" : "Atomic Trainwreck",
       "src" : "../images/atomicTrainwreck.JPG",
@@ -510,7 +535,7 @@
     
 
     {
-      "id" : "21",
+      "id" : "22",
 
       "name" : "Nuken",
       "src" : "../images/dukeNuken.JPG",
@@ -534,7 +559,7 @@
     },
 
 {
-      "id" : "22",
+      "id" : "23",
 
         "name" : "Tuna",
         "src" : "../images/newTuna.JPG",
@@ -556,9 +581,32 @@
     "opacity" : "1"
     },
 
+{
+      "id" : "24",
+
+        "name" : "BC Chemo",
+        "src" : "../images/bcChemo.JPG",
+        "type" : "indica",
+        "isNew" : "none",
+        "sale" : "sale",
+        "pricePerGram" : "$10",
+        "pricePerOunce" : "$210",
+        "description" : "",
+        "inventory" : "full",
+          "THC" : "23",
+          "taste" : "79",
+          "aroma" : "78",
+          "pain" : "78",
+          "insomnia" : "77",
+          "appetite" : "77",
+          "overall" : "78", 
+    "soldOut" : "none",
+    "opacity" : "1"
+    },
+
 
 {
-      "id" : "23",
+      "id" : "25",
 
         "name" : "Jack Herer",
         "src" : "../images/jackHerer.JPG",
@@ -568,7 +616,7 @@
         "pricePerGram" : "$7",
         "pricePerOunce" : "$170",
         "description" : "Jack Herer captures both the cerebral elevation associated with sativas and the heavy resin production of indicas. Its rich genetic background gives rise to several different variations of Jack Herer, each phenotype bearing its own unique features and effects. However, consumers typically describe this 55% sativa hybrid as blissful, clear-headed, and creative.",
-        "inventory" : "low",
+        "inventory" : "full",
           "THC" : "21",
           "taste" : "72",
           "aroma" : "73",
@@ -582,7 +630,7 @@
 
 
 {
-      "id" : "24",
+      "id" : "26",
 
         "name" : "Amnesia Haze",
         "src" : "../images/amnesiaHaze.JPG",

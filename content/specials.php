@@ -34,20 +34,20 @@
         <br/>
         <h1 class="pickOTW">This Week:</h1>
 	
-	<a href="strains.php#" class="pink"></a> <a href="strains.php#" class="pink">Romain Rockstar<br>& Yellowfin Tuna<br>(while supplies last!)</a>
+	<a href="strains.php#" class="pink"></a> <a href="strains.php#" class="pink">BC Chemo<br>& Deep Purple<br>(while supplies last!)</a>
         <ui>
             <li>10 for $70</li>
             <li>28 for $190</li>
         </ul>
         <br>
 
-	<h1 class="pickOTW">New Cheaper Strain:</h1>
+	<h1 class="pickOTW">After Christmas Special!!</h1>
 	
-	<a href="strains.php#" class="pink">Amnesia Haze</a>
+	<a href="strains.php#" class="pink">Jack Herer & Amnesia Haze</a>
         <ui>
-            <li>5g for $35</li>
-            <li>10 for $60</li>
-	    <li>28 for $155</li>
+            <li>15 grams for $80</li>
+            <li>20 grams and over: $5 per gram</li>
+
         </ul>
         <br>
 	<br>
@@ -91,16 +91,17 @@
         </ul>
         <br>
 	
-        <a href="strains.php">Platinum Bubba</a>
+        <a href="strains.php">Platinum Bubba & Pure Pineapple</a>
 	<ui>
 	    <li>$10 per gram accross the board</li>
+	    <li>$250 per Oz</li>
 	</ul>
 	<br>
 
 	<a href="strains.php">
-	Space Cookies,<br>
-	 Obama <br>
-	and Organic Sour Tangerine</a>
+
+	 Obama and<br>
+	 Organic Sour Tangerine</a>
 	<ui>
      	     <li>5g for $45</li>
 	    <li>10 for $80</li>
@@ -108,7 +109,7 @@
 	</ul>
 	<br>	
 	
-	<a href="/content/hash.php" class="pinkChalk">Romeo & Juliet and Trident Hash</a>
+	<a href="/content/hash.php" class="pinkChalk">Trident Hash</a>
         <ui>
 	    <li>3 for $40</li>
             <li>5 for $65</li>
