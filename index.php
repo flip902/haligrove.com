@@ -27,9 +27,34 @@
           <!-- Wrapper for slides -->
           <div class="carousel-inner">
 
-
-
 	    <div class="item active">
+              <a href="content/extracts.php"><img src="images/suckersAd.JPG" alt="">
+
+                <div class="carousel-caption">
+                    <h3>New Shatter Suckers!</h3>
+                    <p>Assorted Flavors<br>
+	            $12 per<br>or 2 for $20</p>
+                </div>
+              </a>
+            </div>
+
+
+
+	    <div class="item">
+              <a href="content/extracts.php"><img src="images/resinAd.JPG" alt="">
+
+                <div class="carousel-caption">
+                    <h3>New Live Resin</h3>
+                    <p>White Shark<br>
+	            $80 per gram<br></p>
+                </div>
+              </a>
+            </div>
+
+
+
+
+	    <div class="item">
 		<a href="content/strains.php"><img src="images/bcChemo.JPG" alt="">
                 
                 <div class="carousel-caption">
@@ -56,16 +81,7 @@
 
 
 
-            <div class="item">
-              <a href="content/paraphernalia.php"><img src="images/gpenBlueAd.JPG" alt="">
-
-                <div class="carousel-caption">
-                    <h3>New Snoop Dogg G Pen!</h3>
-                    <p>Herbal Vaporizor<br>
-	            $60<br>
-                </div>
-              </a>
-            </div>
+            
 
 
 	   <div class="item">
@@ -95,18 +111,6 @@
             </div>  
 
 	   
-
-	    
-          
-            <div class="item">
-              <img src="images/referral.png" alt="referral">
-                
-                <div class="carousel-caption">
-                    <h3>Ask about our referral program</h3>
-                    <p>gain rewards!</p>
-                </div>
-              </a>
-            </div>
           
           </div><!-- carosel inner -->
 
