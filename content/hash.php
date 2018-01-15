@@ -18,6 +18,26 @@
 		<div class="hashBox col-lg-6 col-md-6">
                     <div class="hashThumbnail">
                         <div class="hashImageDiv">
+				<div class="new">new</div>
+                                <img src= "../images/habibiBlonde.JPG" alt="Blonde">
+                        </div>
+                        <h3 class="hashItemTitle" id="">Habibi Blonde</h3>
+                        <div class="hashPrice">
+                            $15<span> Gram</span> 
+                            <p>sweet, good taste, golden brown</p>
+                        </div>
+                        <div id="habibi">
+                            <div></div>
+                        </div>
+                        <p class="inventoryPTag">inventory</p>
+                    </div>
+                </div>
+
+
+
+		<div class="hashBox col-lg-6 col-md-6">
+                    <div class="hashThumbnail">
+                        <div class="hashImageDiv">
                                 <img src= "../images/romeo.JPG" alt="Romeo">
                         </div>
                         <h3 class="hashItemTitle" id="">Romeo & Juliet</h3>
@@ -106,23 +126,7 @@
 
                 
 
-                <div class="hashBox col-lg-6 col-md-6">
-                    <div class="hashThumbnail">
-                        <div class="hashImageDiv">
-		            <div class="sold out" style="z-index: 1">sold out</div>
-                                <img src= "../images/mercedes.JPG" alt="Mercedes" style="opacity: 0.3">
-                        </div>
-                        <h3 class="hashItemTitle" id="">Mercedes</h3>
-                        <div class="hashPrice">
-                            $8<span> Gram</span> / 10 <span>for</span> $75
-                            <p>soft, brown</p>
-                        </div>
-                        <div id="mercedesInventory">
-                            <div></div>
-                        </div>
-                        <p class="inventoryPTag">inventory</p>
-                    </div>
-                </div>
+               
 
                 
 

@@ -34,7 +34,7 @@
         <br/>
         <h1 class="pickOTW">This Week:</h1>
 	
-	<a href="strains.php#" class="pink"></a> <a href="strains.php#" class="pink">BC Chemo<br>& Deep Purple<br>(while supplies last!)</a>
+	<a href="strains.php#" class="pink"></a> <a href="strains.php#" class="pink">Atomic Trainwreck<br>& MK Ultra<br>(while supplies last!)</a>
         <ui>
             <li>10 for $70</li>
             <li>28 for $190</li>
@@ -91,7 +91,7 @@
         </ul>
         <br>
 	
-        <a href="strains.php">Platinum Bubba & Pure Pineapple</a>
+        <a href="strains.php">Platinum Bubba, Pure Pineapple<br>& Sour Grapefruit</a>
 	<ui>
 	    <li>$10 per gram accross the board</li>
 	    <li>$250 per Oz</li>
@@ -109,7 +109,7 @@
 	</ul>
 	<br>	
 	
-	<a href="/content/hash.php" class="pinkChalk">Trident Hash</a>
+	<a href="/content/hash.php" class="pinkChalk">Romeo & Juliet and Trident Hash</a>
         <ui>
 	    <li>3 for $40</li>
             <li>5 for $65</li>
@@ -117,7 +117,7 @@
         </ul>
         <br>
 	
-	<a href="/content/hash.php" class="pinkChalk">Red Lebanese & Shetral Hash</a>
+	<a href="/content/hash.php" class="pinkChalk">Habibi, Red Lebanese & Shetral Hash</a>
         <ui>
             <li>5 for $70</li>
             <li>10 for $135</li>

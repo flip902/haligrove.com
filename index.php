@@ -19,6 +19,7 @@
               <li data-target="#myCarousel" data-slide-to="3"></li>
 	      <li data-target="#myCarousel" data-slide-to="4"></li>
 	      <li data-target="#myCarousel" data-slide-to="5"></li>
+	      <li data-target="#myCarousel" data-slide-to="6"></li>
 
 
 
@@ -28,8 +29,31 @@
           <div class="carousel-inner">
 
 	    <div class="item active">
-              <a href="content/extracts.php"><img src="images/suckersAd.JPG" alt="">
+		<a href="content/strains.php"><img src="images/atomicTrainwreck.JPG" alt="">
+                
+                <div class="carousel-caption">
+                    <h3>Picks Of The Week:</h3>
+                    <p>Atomic Trainwreck & <br>MK Ultra<br>
+			              10g for $70<br>28g for $190</p>
+                </div>
+              </a>
+             </div>
 
+	    
+
+	    <div class="item">
+              <a href="content/hash.php"><img src="images/habibiAd.JPG" alt="">
+
+                <div class="carousel-caption">
+                    <h3>New Habibi Blonde Hash</h3>
+                    <p>sweet taste!<br>
+	            $15 per gram<br></p>
+                </div>
+              </a>
+            </div>
+
+	    <div class="item">
+              <a href="content/extracts.php"><img src="images/suckersAd.JPG" alt="">
                 <div class="carousel-caption">
                     <h3>New Shatter Suckers!</h3>
                     <p>Assorted Flavors<br>
@@ -54,16 +78,7 @@
 
 
 
-	    <div class="item">
-		<a href="content/strains.php"><img src="images/bcChemo.JPG" alt="">
-                
-                <div class="carousel-caption">
-                    <h3>Picks Of The Week:</h3>
-                    <p>BC Chemo & <br>Deep Purple<br>
-			              10g for $70<br>28g for $190</p>
-                </div>
-              </a>
-             </div>
+	    
 
 
 

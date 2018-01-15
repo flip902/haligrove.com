@@ -111,7 +111,7 @@
 
 #popRocksInventory > div {
   background-color: #C9DF78;
-  width: 10%; /* Adjust with JavaScript */
+  width: 0%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -126,7 +126,7 @@
 
 #kushyInventory > div {
   background-color: #C9DF78;
-  width: 40%; /* Adjust with JavaScript */
+  width: 0%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -293,7 +293,7 @@
 
 #blueberry > div {
   background-color: #C9DF78;
-  width: 0%; /* Adjust with JavaScript */
+  width: 40%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -357,6 +357,24 @@
   height: 20px;
   border-radius: 10px;
 }
+
+
+#RSO {
+  width: 80%;
+  background-color: black;
+  border-radius: 13px; /* (height of inner div) / 2 + padding */
+  padding: 3px;
+  margin: 0 auto 0 auto;
+}
+
+#RSO > div {
+  background-color: #C9DF78;
+  width: 100%; /* Adjust with JavaScript */
+  height: 20px;
+  border-radius: 10px;
+}
+
+
 
 
 /* Hash inventory */
@@ -464,6 +482,23 @@
   height: 20px;
   border-radius: 10px;
 }
+
+#habibi {
+  width: 75%;
+  background-color: black;
+  border-radius: 13px; /* (height of inner div) / 2 + padding */
+  padding: 3px;
+  margin: 0 auto 0 auto;
+}
+
+#habibi > div {
+  background-color: #C9DF78;
+  width: 100%; /* Adjust with JavaScript */
+  height: 20px;
+  border-radius: 10px;
+}
+
+
 
 div h1.pickOTW {
   color: #DE28A9;

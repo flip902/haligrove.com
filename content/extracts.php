@@ -13,6 +13,31 @@
     <div class="extractsPositioning">
         <div class="row width extractWidth">
 
+	     <div class="extractsBox col-lg-6 col-md-6">
+                <div class="extractsThumbnail">
+                    <div class="extractsImageDiv">
+			<div class="new">new</div>
+                        <img src= "../images/hashOil.JPG" style="height: 100%">
+                    </div>
+                    <div class="extractsItemTitle" id="">Rick Simpson Oil</div>
+                    <div class="extractsPrice">
+                        <span>$200 Per</span>
+                        <h3>10 gram vials</h3>
+                        <p class="descriptionP">
+			Rick Simpson is the creator of this cannabis oil. RSO has amazing medical benefits, and is renowned by cannabis connoisseurs around the globe.
+                        </p>
+                    </div>
+                        
+                    <div id="RSO">
+                        <div></div>
+                    </div>
+                    <p class="inventoryPTag">inventory</p>
+                </div>
+            </div>
+
+
+
+
 	    <div class="extractsBox col-lg-6 col-md-6">
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
@@ -89,9 +114,8 @@
 	    <div class="extractsBox col-lg-6 col-md-6">
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
-		        <div class="sold out" style="z-index: 1">sold out</div>
                         <div class="hybrid">hybrid</div>
-                        <img src= "../images/wolfBlueberry.JPG" style="height: 100%; opacity: 0.3">
+                        <img src= "../images/wolfBlueberry.JPG" style="height: 100%">
                     </div>
                     <div class="extractsItemTitle" id="">Blueberry</div>
                     <div class="extractsPrice">
@@ -242,28 +266,6 @@
                 </div>
             </div>
 
-	  <div class="extractsBox col-lg-6 col-md-6">
-                <div class="extractsThumbnail">
-                    <div class="extractsImageDiv">
-			<div class="sold out" style="z-index: 1">sold out</div>
-                        <div class="sativa">sativa</div>
-                        <img src= "../images/goombaSmashEm.JPG" style="height: 100%; opacity: 0.3">
-                    </div>
-                    <div class="extractsItemTitle" id="">Goombasmash</div>
-                    <div class="extractsPrice">
-                        <span>$40 Per </span><br>
-                        <h3>Emerald Extracts</h3>
-                        <p class="descriptionP">Strawberry, sweet, berry taste.
-                        Happy, euphoric, Uplifting buzz.
-                        </p>
-                    </div>
-                       <br> 
-                    <div id="goombaSmash">
-                        <div></div>
-                    </div>
-                    <p class="inventoryPTag">inventory</p>
-                </div>
-            </div>
 
 	   <div class="extractsBox col-lg-6 col-md-6">
                 <div class="extractsThumbnail">
@@ -338,7 +340,8 @@
 	  <div class="extractsBox col-lg-6 col-md-6">
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
-                        <img src= "../images/kushyChews20.JPG" style="height: 100%">
+			<div class="sold out" style="z-index: 1">sold out</div>
+                        <img src= "../images/kushyChews20.JPG" style="height: 100%; opacity: 0.3">
                     </div>
                     <div class="extractsItemTitle" id="">Kushy Chews</div><p class="extractsPrice">(edibles 20mg)</p>
                     <div class="extractsPrice">
@@ -359,7 +362,8 @@
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
                         <div class="hybrid">hybrid</div>
-                        <img src= "../images/popRocks.JPG" style="height: 100%">
+			<div class="sold out" style="z-index: 1">sold out</div>
+                        <img src= "../images/popRocks.JPG" style="height: 100%; opacity: 0.3">
                     </div>
                     <div class="extractsItemTitle" id="">Pop Rox</div>
                     <div class="extractsPrice">
@@ -378,39 +382,7 @@
             </div>
 
 
-
-        <div class="extractsBox col-lg-6 col-md-6">
-                <div class="extractsThumbnail">
-                    <div class="extractsImageDiv">
-                        <div class="sativa">sativa</div>
-			<div class="sold out" style="z-index: 1">sold out</div>
-                        <img src= "../images/incredibleHulk.JPG" style="height: 100%; opacity: 0.3">
-                    </div>
-                    <div class="extractsItemTitle" id="">Incredible Hulk</div>
-                    <div class="extractsPrice">
-                        <span>$40 Per </span><br>
-                        <h3>Phyto Extractions</h3>
-                        <p class="descriptionP">citrus, sweet, earthy.
-                        Effective for Stress, pain, lack of appetite                        </p>
-                    </div>
-                        
-                    <div id="HulkInventory">
-                        <div></div>
-                    </div>
-                    <p class="inventoryPTag">inventory</p>
-                </div>
-            </div> 
-
-            
-
-            
-
-            
-
-            
-                
-        
-            
+     
 
             <div class="extractsBox col-lg-6 col-md-6">
                 <div class="extractsThumbnail">
