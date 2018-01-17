@@ -13,6 +13,107 @@
     <div class="extractsPositioning">
         <div class="row width extractWidth">
 
+
+	    <div class="extractsBox col-lg-6 col-md-6">
+                <div class="extractsThumbnail">
+                    <div class="extractsImageDiv">
+                        <div class="hybrid">hybrid</div>
+			<div class="new">new</div>
+                        <img src= "../images/whiteGorilla.JPG" style="height: 100%">
+                    </div>
+                    <div class="extractsItemTitle" id="">White Gorilla</div>
+                    <div class="extractsPrice">
+                        <span>$40 Per </span><br>
+                        <h3>Emerald Extracts</h3>
+                        <p class="descriptionP">Earthy, sweet, pungent taste.
+                        Great for depression, euphoric happy high.
+                        </p>
+                    </div>
+                       <br> 
+                    <div id="whiteGorilla">
+                        <div></div>
+                    </div>
+                    <p class="inventoryPTag">inventory</p>
+                </div>
+            </div>
+
+
+
+	    <div class="extractsBox col-lg-6 col-md-6">
+                <div class="extractsThumbnail">
+                    <div class="extractsImageDiv">
+                        <div class="hybrid">hybrid</div>
+		    	<div class="new">new</div>
+                        <img src= "../images/godBud.JPG" style="height: 100%">
+                    </div>
+                    <div class="extractsItemTitle" id="">God Bud</div>
+                    <div class="extractsPrice">
+                        <span>$40 Per </span><br>
+                        <h3>Wolf Extracts</h3>
+                        <p class="descriptionP">Tropical berry/piney taste.
+                        Indica dominant strain. good night-time medication.
+                        </p>
+                    </div>
+                       <br> 
+                    <div id="godBud">
+                        <div></div>
+                    </div>
+                    <p class="inventoryPTag">inventory</p>
+                </div>
+            </div>
+
+
+
+	    <div class="extractsBox col-lg-6 col-md-6">
+                <div class="extractsThumbnail">
+                    <div class="extractsImageDiv">
+                        <div class="sativa">sativa</div>
+		    	<div class="new">new</div>
+                        <img src= "../images/greenCrackWolf.JPG" style="height: 100%">
+                    </div>
+                    <div class="extractsItemTitle" id="">Green Crack</div>
+                    <div class="extractsPrice">
+                        <span>$40 Per </span><br>
+                        <h3>Wolf Extracts</h3>
+                        <p class="descriptionP">Tangy, fruity, mango.
+                        Great daytime strain. Helps mental alertness.
+                        </p>
+                    </div>
+                       <br> 
+                    <div id="greenCrack">
+                        <div></div>
+                    </div>
+                    <p class="inventoryPTag">inventory</p>
+                </div>
+            </div>
+
+
+
+	    <div class="extractsBox col-lg-6 col-md-6">
+                <div class="extractsThumbnail">
+                    <div class="extractsImageDiv">
+                        <div class="indica">indica</div>
+		    	<div class="new">new</div>
+                        <img src= "../images/northernLights.JPG" style="height: 100%">
+                    </div>
+                    <div class="extractsItemTitle" id="">Northern Lights</div>
+                    <div class="extractsPrice">
+                        <span>$40 Per </span><br>
+                        <h3>Wolf Extracts</h3>
+                        <p class="descriptionP">Pungent, sweet, spicey.
+                        Great for relaxing muscles.
+                        </p>
+                    </div>
+                       <br> 
+                    <div id="northernLights">
+                        <div></div>
+                    </div>
+                    <p class="inventoryPTag">inventory</p>
+                </div>
+            </div>
+
+
+
 	     <div class="extractsBox col-lg-6 col-md-6">
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
@@ -337,49 +438,11 @@
                 </div>
             </div> -->
 
-	  <div class="extractsBox col-lg-6 col-md-6">
-                <div class="extractsThumbnail">
-                    <div class="extractsImageDiv">
-			<div class="sold out" style="z-index: 1">sold out</div>
-                        <img src= "../images/kushyChews20.JPG" style="height: 100%; opacity: 0.3">
-                    </div>
-                    <div class="extractsItemTitle" id="">Kushy Chews</div><p class="extractsPrice">(edibles 20mg)</p>
-                    <div class="extractsPrice">
-                        $10<span> per</span><br>
-                 <br>   <p>Great tasting chews. each gummy is infused with 20mg of thc, great for pain and insomnia.<br> 4 gummies in pack</p><br>
-                    </div>
-                    <div id="kushyInventory">
-                        <div></div>
-                    </div>
-                    <p class="inventoryPTag">inventory</p>
-                </div>
-            </div>
+	  
 
 	
 
 
-	  <div class="extractsBox col-lg-6 col-md-6">
-                <div class="extractsThumbnail">
-                    <div class="extractsImageDiv">
-                        <div class="hybrid">hybrid</div>
-			<div class="sold out" style="z-index: 1">sold out</div>
-                        <img src= "../images/popRocks.JPG" style="height: 100%; opacity: 0.3">
-                    </div>
-                    <div class="extractsItemTitle" id="">Pop Rox</div>
-                    <div class="extractsPrice">
-                        <span>$40 Per </span><br>
-                        <h3>Phyto Extractions</h3>
-                        <p class="descriptionP">citrus, grape, lemon.
-                        Great for appitite, stress, and fatique.
-                        </p>
-                    </div>
-                        
-                    <div id="popRocksInventory">
-                        <div></div>
-                    </div>
-                    <p class="inventoryPTag">inventory</p>
-                </div>
-            </div>
 
 
      

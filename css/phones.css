@@ -24,7 +24,7 @@
 
 #oilInventory > div {
   background-color: #C9DF78;
-  width: 40%; /* Adjust with JavaScript */
+  width: 10%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -202,7 +202,7 @@
 
 #nardiusHaze > div {
   background-color: #C9DF78;
-  width: 60%; /* Adjust with JavaScript */
+  width: 10%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -278,7 +278,7 @@
 
 #hashplant > div {
   background-color: #C9DF78;
-  width: 20%; /* Adjust with JavaScript */
+  width: 50%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -375,6 +375,65 @@
 }
 
 
+#northernLights {
+  width: 80%;
+  background-color: black;
+  border-radius: 13px; /* (height of inner div) / 2 + padding */
+  padding: 3px;
+  margin: 0 auto 0 auto;
+}
+
+#northernLights > div {
+  background-color: #C9DF78;
+  width: 100%; /* Adjust with JavaScript */
+  height: 20px;
+  border-radius: 10px;
+}
+
+#greenCrack {
+  width: 80%;
+  background-color: black;
+  border-radius: 13px; /* (height of inner div) / 2 + padding */
+  padding: 3px;
+  margin: 0 auto 0 auto;
+}
+
+#greenCrack > div {
+  background-color: #C9DF78;
+  width: 100%; /* Adjust with JavaScript */
+  height: 20px;
+  border-radius: 10px;
+}
+
+#godBud {
+  width: 80%;
+  background-color: black;
+  border-radius: 13px; /* (height of inner div) / 2 + padding */
+  padding: 3px;
+  margin: 0 auto 0 auto;
+}
+
+#godBud > div {
+  background-color: #C9DF78;
+  width: 100%; /* Adjust with JavaScript */
+  height: 20px;
+  border-radius: 10px;
+}
+
+#whiteGorilla {
+  width: 80%;
+  background-color: black;
+  border-radius: 13px; /* (height of inner div) / 2 + padding */
+  padding: 3px;
+  margin: 0 auto 0 auto;
+}
+
+#whiteGorilla > div {
+  background-color: #C9DF78;
+  width: 100%; /* Adjust with JavaScript */
+  height: 20px;
+  border-radius: 10px;
+}
 
 
 /* Hash inventory */

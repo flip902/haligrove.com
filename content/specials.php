@@ -34,7 +34,7 @@
         <br/>
         <h1 class="pickOTW">This Week:</h1>
 	
-	<a href="strains.php#" class="pink"></a> <a href="strains.php#" class="pink">Atomic Trainwreck<br>& MK Ultra<br>(while supplies last!)</a>
+	<a href="strains.php#" class="pink"></a> <a href="strains.php#" class="pink">Yellowfin Tuna<br>& MK Ultra<br>(while supplies last!)</a>
         <ui>
             <li>10 for $70</li>
             <li>28 for $190</li>

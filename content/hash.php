@@ -23,7 +23,7 @@
                         </div>
                         <h3 class="hashItemTitle" id="">Habibi Blonde</h3>
                         <div class="hashPrice">
-                            $15<span> Gram</span> 
+                            $15<span> Gram</span> / 5 <span>for</span> $70
                             <p>sweet, good taste, golden brown</p>
                         </div>
                         <div id="habibi">
