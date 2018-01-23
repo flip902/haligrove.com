@@ -34,7 +34,7 @@
         <br/>
         <h1 class="pickOTW">This Week:</h1>
 	
-	<a href="strains.php#" class="pink"></a> <a href="strains.php#" class="pink">Yellowfin Tuna<br>& MK Ultra<br>(while supplies last!)</a>
+	<a href="strains.php#" class="pink"></a> <a href="strains.php#" class="pink">Super Lemon Rockstar<br>& Deep Purple<br>(while supplies last!)</a>
         <ui>
             <li>10 for $70</li>
             <li>28 for $190</li>
@@ -54,7 +54,7 @@
 
   
        <h1 class="pickOTW">Overstock Sale: </h1>
-	<a href="strains.php">Pink God</a>
+	<a href="strains.php">Pink God & Yellowfin tuna</a>
 	<ui>
 	    <li>5g for $35</li>
 	    <li>10 for $65</li>

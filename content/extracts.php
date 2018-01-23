@@ -13,6 +13,84 @@
     <div class="extractsPositioning">
         <div class="row width extractWidth">
 
+
+	    <div class="extractsBox col-lg-6 col-md-6">
+                <div class="extractsThumbnail">
+                    <div class="extractsImageDiv">
+
+			<div class="new">new</div>
+                        <div class="hybrid">hybrid</div>
+                        <img src= "../images/vampirePink.JPG" style="height: 100%">
+                    </div>
+                    <div class="extractsItemTitle" id="">Vampire Pink</div>
+                    <div class="extractsPrice">
+                        <span>$40 Per </span><br>
+                        <h3>Emerald Extracts</h3>
+                        <p class="descriptionP">Pungent earthy, berry taste.
+                        Great for Pain, stress and insomnia.
+                        </p>
+                    </div>
+                       <br> 
+                    <div id="vampirePink">
+                        <div></div>
+                    </div>
+                    <p class="inventoryPTag">inventory</p>
+                </div>
+            </div>
+
+
+	    <div class="extractsBox col-lg-6 col-md-6">
+                <div class="extractsThumbnail">
+                    <div class="extractsImageDiv">
+
+			<div class="new">new</div>
+                        <div class="indica">indica</div>
+                        <img src= "../images/lightningSkunk.JPG" style="height: 100%">
+                    </div>
+                    <div class="extractsItemTitle" id="">Lightning Skunk</div>
+                    <div class="extractsPrice">
+                        <span>$40 Per </span><br>
+                        <h3>Emerald Extracts</h3>
+                        <p class="descriptionP">Sweet grape berry taste.
+                        Great for Pain, stress and insomnia.
+                        </p>
+                    </div>
+                       <br> 
+                    <div id="lightningSkunk">
+                        <div></div>
+                    </div>
+                    <p class="inventoryPTag">inventory</p>
+                </div>
+            </div>
+
+
+
+	    <div class="extractsBox col-lg-6 col-md-6">
+                <div class="extractsThumbnail">
+                    <div class="extractsImageDiv">
+
+			<div class="new">new</div>
+                        <div class="sativa">sativa</div>
+                        <img src= "../images/goombaSmash.JPG" style="height: 100%">
+                    </div>
+                    <div class="extractsItemTitle" id="">Goomba Smash</div>
+                    <div class="extractsPrice">
+                        <span>$40 Per </span><br>
+                        <h3>Emerald Extracts</h3>
+                        <p class="descriptionP">Strawberry, sweet berry taste.
+                        Great for Pain, stress and depression.
+                        </p>
+                    </div>
+                       <br> 
+                    <div id="goombaSmash">
+                        <div></div>
+                    </div>
+                    <p class="inventoryPTag">inventory</p>
+                </div>
+            </div>
+
+
+
 	    <div class="extractsBox col-lg-6 col-md-6">
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
@@ -85,13 +163,29 @@
                 </div>
             </div>
 
+	    <div class="extractsBox col-lg-6 col-md-6">
+                <div class="extractsThumbnail">
+                    <div class="extractsImageDiv">
+                        <img src= "../images/kushyChews.png" style="height: 100%">
+                    </div>
+                    <div class="extractsItemTitle" id="">Kushy Chews</div>
+                    <div class="extractsPrice">
+                        $10<span> per</span><br>
+                 <br>   <p>Great tasting chews. each gummy is infused with 20mg of thc, great for pain and insomnia.</p><br>
+                    </div>
+                    <div id="kushyInventory">
+                        <div></div>
+                    </div>
+                    <p class="inventoryPTag">inventory</p>
+                </div>
+            </div>
+
 
 
 	    <div class="extractsBox col-lg-6 col-md-6">
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
                         <div class="hybrid">hybrid</div>
-			<div class="new">new</div>
                         <img src= "../images/whiteGorilla.JPG" style="height: 100%">
                     </div>
                     <div class="extractsItemTitle" id="">White Gorilla</div>
@@ -116,7 +210,6 @@
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
                         <div class="hybrid">hybrid</div>
-		    	<div class="new">new</div>
                         <img src= "../images/godBud.JPG" style="height: 100%">
                     </div>
                     <div class="extractsItemTitle" id="">God Bud</div>
@@ -141,7 +234,6 @@
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
                         <div class="sativa">sativa</div>
-		    	<div class="new">new</div>
                         <img src= "../images/greenCrackWolf.JPG" style="height: 100%">
                     </div>
                     <div class="extractsItemTitle" id="">Green Crack</div>
@@ -166,7 +258,6 @@
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
                         <div class="indica">indica</div>
-		    	<div class="new">new</div>
                         <img src= "../images/northernLights.JPG" style="height: 100%">
                     </div>
                     <div class="extractsItemTitle" id="">Northern Lights</div>
@@ -375,7 +466,8 @@
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
                         <div class="hybrid">hybrid</div>
-                        <img src= "../images/girlScoutCookiesEm.JPG" style="height: 100%">
+		        <div class="sold out" style="z-index: 1">sold out</div>
+                        <img src= "../images/girlScoutCookiesEm.JPG" style="height: 100%; opacity: 0.3">
                     </div>
                     <div class="extractsItemTitle" id="">Girl Scout Cookies</div>
                     <div class="extractsPrice">
@@ -498,12 +590,12 @@
             <div class="extractsBox col-lg-6 col-md-6">
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
-                        <img src= "../images/oilSyringe.jpg" style="height: 100%">
+                        <img src= "../images/oilSyringe.JPG" style="height: 100%">
                     </div>
                     <div class="extractsItemTitle" id="">Oil Syringe</div>
                     <div class="extractsPrice">
-                        $25<span> per</span><br>
-                        <p>Great tasting mild pineapple flavor. Taken orally or can be used for dabs. Great taste and long lasting effects. This extract has many medical benefits such as relief for seizures, pain, lack of appetite and more</p><br>
+                        $30<span> per</span><br>
+                        <p>RSO Oil. Taken orally or can be used for dabs. This oil has long lasting effects and many medical benefits such as relief for seizures, pain, lack of appetite and more</p><br>
                     </div>
                     <div id="oilInventory">
                         <div></div>

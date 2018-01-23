@@ -4,6 +4,54 @@
 {
       "id" : "1",
 
+        "name" : "Strawberry Cough",
+        "src" : "../images/strawberryCough.JPG",
+        "type" : "sativa",
+        "isNew" : "new",
+        "sale" : "none",
+        "pricePerGram" : "$10",
+        "pricePerOunce" : "$250",
+        "description" : "Known for its sweet smell of fresh strawberries and an expanding sensation that can make even the most seasoned consumer cough, Strawberry Cough is a potent sativa blend with mysterious genetic origins. The skunky, berry flavors will capture your senses while the cerebral, uplifting effects provide an aura of euphoria that is sure to leave a smile on your face. Strawberry Cough is a great solution for managing social anxieties and to balance yourself in times of elevated stress.",
+        "inventory" : "low",
+          "THC" : "27",
+          "taste" : "86",
+          "aroma" : "86",
+          "pain" : "86",
+          "insomnia" : "80",
+          "appetite" : "86",
+          "overall" : "86", 
+    "soldOut" : "none",
+    "opacity" : "1"
+},
+
+
+{
+      "id" : "2",
+
+        "name" : "Citrus Bliss",
+        "src" : "../images/citrusBliss.JPG",
+        "type" : "indica",
+        "isNew" : "new",
+        "sale" : "none",
+        "pricePerGram" : "$10",
+        "pricePerOunce" : "$210",
+        "description" : "Citrus Bliss, also known as Tangerine Bliss, is an Indica dominant hybrid (75% indica/25% sativa) strain with unknown parentage, although it is thought to be a blend of a Swiss Bliss with another indica strain. The Bliss flavor is extremely delicious and can often lead to some users smoking too much at once without realizing it. With an earthy tropical sweet flavor that is accented by berries and sour citrus, you will want to taste more after just one toke.",
+        "inventory" : "full",
+          "THC" : "26",
+          "taste" : "81",
+          "aroma" : "80",
+          "pain" : "76",
+          "insomnia" : "76",
+          "appetite" : "80",
+          "overall" : "80", 
+    "soldOut" : "none",
+    "opacity" : "1"
+},
+
+
+{
+      "id" : "3",
+
         "name" : "Sour Grapefruit",
         "src" : "../images/sourGrapefruit.JPG",
         "type" : "sativa",
@@ -12,7 +60,7 @@
         "pricePerGram" : "$10",
         "pricePerOunce" : "$250",
         "description" : "This potent sativa was developed by crossing Cinderella 99 with a fast-flowering sativa selected for its rich grapefruit flavor. The tropical, citrus smell of Grapefruit mixes with energetic effects to give you a happy stress-reliever that also works well for battling migraine headaches.",
-        "inventory" : "full",
+        "inventory" : "low",
           "THC" : "26",
           "taste" : "86",
           "aroma" : "86",
@@ -26,7 +74,7 @@
 
 
 {
-      "id" : "2",
+      "id" : "4",
 
         "name" : "PK",
         "src" : "../images/pk.JPG",
@@ -51,7 +99,7 @@
 
 
 {
-      "id" : "3",
+      "id" : "5",
 
         "name" : "Richie Rich",
         "src" : "../images/richieRich.JPG",
@@ -76,7 +124,7 @@
 
 
 {
-      "id" : "4",
+      "id" : "6",
 
         "name" : "Blueberry Cheesecake",
         "src" : "../images/blueberryCheesecake.JPG",
@@ -85,15 +133,15 @@
         "sale" : "none",
         "pricePerGram" : "$10",
         "pricePerOunce" : "$210",
-        "description" : "Blueberry Cheesecake is a rather popular cross of Big Buddha Cheese and the eminent Blueberry. It's a sativa-dominant hybrid with a sativa/indica ratio of at least 70:30. Not surprisingly, then, this strain produces mostly mental effects that are calming but euphoric, happy and creative. Its best medical uses include treatment of low mood, lack of appetite, chronic pain, insomnia, and ordinary stress.",
-        "inventory" : "med",
-          "THC" : "25",
-          "taste" : "84",
+        "description" : "It's Back!! Blueberry Cheesecake is a rather popular cross of Big Buddha Cheese and the eminent Blueberry. It's a sativa-dominant hybrid with a sativa/indica ratio of at least 70:30. Not surprisingly, then, this strain produces mostly mental effects that are calming but euphoric, happy and creative. Its best medical uses include treatment of low mood, lack of appetite, chronic pain, insomnia, and ordinary stress.",
+        "inventory" : "full",
+          "THC" : "26",
+          "taste" : "86",
           "aroma" : "86",
           "pain" : "76",
           "insomnia" : "75",
           "appetite" : "80",
-          "overall" : "82", 
+          "overall" : "85", 
     "soldOut" : "none",
     "opacity" : "1"
 },
@@ -101,7 +149,7 @@
 
 
 {
-      "id" : "5",
+      "id" : "7",
 
         "name" : "Pure Pineapple",
         "src" : "../images/purePineapple.JPG",
@@ -125,7 +173,7 @@
 
 
 {
-      "id" : "6",
+      "id" : "8",
 
         "name" : "Sticky Icky",
         "src" : "../images/stickieIcky.JPG",
@@ -149,7 +197,7 @@
 
 
 {
-      "id" : "7",
+      "id" : "9",
 
         "name" : "Obama",
         "src" : "../images/obama.JPG",
@@ -173,7 +221,7 @@
 
 
 {
-      "id" : "8",
+      "id" : "10",
 
         "name" : "Romain Rockstar",
         "src" : "../images/romainRockstar.JPG",
@@ -200,7 +248,7 @@
 
 
 {
-      "id" : "9",
+      "id" : "11",
 
         "name" : "Blue Diamond",
         "src" : "../images/blueDiamond.JPG",
@@ -223,7 +271,7 @@
 },
 
 {
-      "id" : "10",
+      "id" : "12",
 
         "name" : "Purple OG",
         "src" : "../images/purpleOG.JPG",
@@ -247,7 +295,7 @@
 
 
 {
-      "id" : "11",
+      "id" : "13",
 
         "name" : "Platinum Bubba",
         "src" : "../images/platnumBubba.JPG",
@@ -271,7 +319,7 @@
 
 
 {
-      "id" : "12",
+      "id" : "14",
 
         "name" : "Org.Sour Tangerine",
         "src" : "../images/organicSourTangerine.JPG",
@@ -281,7 +329,7 @@
         "pricePerGram" : "5 for $45 $10",
         "pricePerOunce" : "$225",
         "description" : "A cross between East Coast Sour Diesel and Tangie, this beautiful sativa is a creative and energetic strain with a strong citrus aroma. Patients will find excellent focus and energy. Perfect for treating chronic fatigue, depression, and muscle spasms.",
-        "inventory" : "med",
+        "inventory" : "low",
           "THC" : "26",
           "taste" : "86",
           "aroma" : "86",
@@ -298,13 +346,13 @@
 
 
 {
-      "id" : "13",
+      "id" : "15",
 
         "name" : "MK Ultra",
         "src" : "../images/mkUltra.JPG",
         "type" : "indica",
         "isNew" : "none",
-        "sale" : "sale",
+        "sale" : "none",
         "pricePerGram" : "$10",
         "pricePerOunce" : "$200",
         "description" : "MK Ultra is an indica dominant strain that has ultra-strong cerebral effects. It is created by crossing the indica variety G-13 and OG Kush. MK Ultra is an incredibly hard-hitting strain with a strong and strange odour.",
@@ -321,7 +369,7 @@
 },
 
 {
-      "id" : "14",
+      "id" : "16",
 
         "name" : "King Kush",
         "src" : "../images/kingKush.JPG",
@@ -347,7 +395,7 @@
 
 
 {
-      "id" : "15",
+      "id" : "17",
 
         "name" : "Death Star",
         "src" : "../images/deathStar.JPG",
@@ -357,7 +405,7 @@
         "pricePerGram" : "$10",
         "pricePerOunce" : "$210",
         "description" : "Death Star is an Indica dominant hybrid strain of marijuana known for it's potency and having a creeping onset. While you may be eying this strain in particular as a Star Wars fan, it's got a lot more going for it than just a cool name. Death Star is a cross of the infamous Sour Diesel and Sensi Star. This cross breeding results in Death Star having a mix of both indica and sativa effects, giving it a nice balance. This strain is renowned for having high THC Content with potent effects. The buds are thick, fat, and sticky.",
-        "inventory" : "med",
+        "inventory" : "low",
           "THC" : "25",
           "taste" : "80",
           "aroma" : "81",
@@ -372,33 +420,11 @@
 
 
 
-{
-      "id" : "16",
-
-        "name" : "Sour Kosher",
-        "src" : "../images/sourKosher.JPG",
-        "type" : "sativa",
-        "isNew" : "none",
-        "sale" : "none",
-        "pricePerGram" : "$10",
-        "pricePerOunce" : "$210",
-        "description" : "The insanely trichome encrusted and hard hitting, Sour Kosher is a rock solid Sativa dominant hybrid that was bred to perfection by the award winning crew at the one and only DNA Genetics. This cross between an old school legend and new school powerhouse brings forth large amount of extremely frosty and colorful buds that absolutely reek in the process. She most commonly churns out medium sized plants with a large Christmas tree-like structure that explodes with growth as they quickly fill in with heavy amounts of big, thick and ridiculously resinous flowers  it has a unique yet familiar smell reminiscent of rich earth and fruit, and is considered by many to be one of the tastiest smokes around.",
-        "inventory" : "low",
-          "THC" : "28",
-          "taste" : "87",
-          "aroma" : "87",
-          "pain" : "76",
-          "insomnia" : "81",
-          "appetite" : "82",
-          "overall" : "87", 
-    "soldOut" : "sold out",
-    "opacity" : "0.3"
-},
 
 
 
 {
-      "id" : "17",
+      "id" : "18",
 
         "name" : "Yellowfin Tuna",
         "src" : "../images/yellowfinTuna.JPG",
@@ -421,7 +447,7 @@
     },
 
 {
-      "id" : "18",
+      "id" : "19",
 
         "name" : "Blue Dream",
         "src" : "../images/blueDream.JPG",
@@ -451,7 +477,7 @@
 
     {
 
-      "id" : "19",
+      "id" : "20",
 
         "name" : "Pink Kandy Kush",
         "src" : "../images/pinkKandyKush.JPG",
@@ -474,7 +500,7 @@
     },
 
 {
-      "id" : "20",
+      "id" : "21",
 
         "name" : "Pink God",
         "src" : "../images/pinkGod.JPG",
@@ -502,13 +528,13 @@
     
 
     {
-      "id" : "21",
+      "id" : "22",
 
         "name" : "S Lemon Rockstar",
         "src" : "../images/superLemonRockstar.JPG",
         "type" : "hybrid",
         "isNew" : "none",
-        "sale" : "none",
+        "sale" : "sale",
         "pricePerGram" : "$10",
         "pricePerOunce" : "$210",
         "description" : "As the name states this strain has real lemony characteristics. The smell is zesty, citrusy, and a little sweet. As for the taste, it's everything one would expect from the namesake; tart and sweet like lemonheads candy - not quite as sharp as one might expect. The effects are uniquely energetic and lively, may not be the best strain for those of us that are naturally wound-up tight.",
@@ -526,13 +552,13 @@
     },
 
     {
-      "id" : "22",
+      "id" : "23",
 
         "name" : "Deep Purple",
         "src" : "../images/deepPurple.JPG",
         "type" : "indica",
         "isNew" : "none",
-        "sale" : "none",
+        "sale" : "sale",
         "pricePerGram" : "$10",
         "pricePerOunce" : "$210",
         "description" : "This bud boasts a moderately high THC level at 22-23% and a soothing mix of cerebral and body highs. This strain is made to chill you out, yet still leave you functional. Deep Purple is usually prescribed to patients who suffer from chronic pain from long term illnesses.",
@@ -553,30 +579,7 @@
 
     
 
-    {
-      "id" : "23",
-
-      "name" : "Atomic Trainwreck",
-      "src" : "../images/atomicTrainwreck.JPG",
-      "type" : "indica",
-      "isNew" : "none",
-      "sale" : "none",
-      "pricePerGram" : "$10",
-      "pricePerOunce" : "$210",
-      "description" : "Don't confuse this strain with regular Trainwreck, this is an Indica strain that has amazing taste and hard hitting, longlasting effects great for pain, insomnia, and headaches",
-      "inventory" : "low",
-        "THC" : "25",
-        "taste" : "86",
-        "aroma" : "81",
-        "pain" : "83",
-        "insomnia" : "82",
-        "appetite" : "77",
-        "overall" : "82", 
-      "soldOut" : "sold out",
-      "opacity" : "0.3"
-
-    },
-
+    
     
 
     

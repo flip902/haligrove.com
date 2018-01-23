@@ -24,7 +24,7 @@
 
 #oilInventory > div {
   background-color: #C9DF78;
-  width: 10%; /* Adjust with JavaScript */
+  width: 80%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -126,7 +126,7 @@
 
 #kushyInventory > div {
   background-color: #C9DF78;
-  width: 0%; /* Adjust with JavaScript */
+  width: 40%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -172,7 +172,7 @@
 
 #girlScout > div {
   background-color: #C9DF78;
-  width: 30%; /* Adjust with JavaScript */
+  width: 0%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -187,7 +187,7 @@
 
 #goombaSmash > div {
   background-color: #C9DF78;
-  width: 0%; /* Adjust with JavaScript */
+  width: 100%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -202,7 +202,7 @@
 
 #nardiusHaze > div {
   background-color: #C9DF78;
-  width: 10%; /* Adjust with JavaScript */
+  width: 25%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -338,7 +338,7 @@
 
 #resinInventory > div {
   background-color: #C9DF78;
-  width: 100%; /* Adjust with JavaScript */
+  width: 80%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -353,7 +353,7 @@
 
 #suckersInventory > div {
   background-color: #C9DF78;
-  width: 100%; /* Adjust with JavaScript */
+  width: 80%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -369,7 +369,7 @@
 
 #RSO > div {
   background-color: #C9DF78;
-  width: 100%; /* Adjust with JavaScript */
+  width: 80%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -385,7 +385,7 @@
 
 #northernLights > div {
   background-color: #C9DF78;
-  width: 100%; /* Adjust with JavaScript */
+  width: 80%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -400,7 +400,7 @@
 
 #greenCrack > div {
   background-color: #C9DF78;
-  width: 100%; /* Adjust with JavaScript */
+  width: 10%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -415,7 +415,7 @@
 
 #godBud > div {
   background-color: #C9DF78;
-  width: 100%; /* Adjust with JavaScript */
+  width: 80%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -429,6 +429,38 @@
 }
 
 #whiteGorilla > div {
+  background-color: #C9DF78;
+  width: 80%; /* Adjust with JavaScript */
+  height: 20px;
+  border-radius: 10px;
+}
+
+
+#lightningSkunk {
+  width: 80%;
+  background-color: black;
+  border-radius: 13px; /* (height of inner div) / 2 + padding */
+  padding: 3px;
+  margin: 0 auto 0 auto;
+}
+
+#lightningSkunk > div {
+  background-color: #C9DF78;
+  width: 100%; /* Adjust with JavaScript */
+  height: 20px;
+  border-radius: 10px;
+}
+
+
+#vampirePink {
+  width: 80%;
+  background-color: black;
+  border-radius: 13px; /* (height of inner div) / 2 + padding */
+  padding: 3px;
+  margin: 0 auto 0 auto;
+}
+
+#vampirePink > div {
   background-color: #C9DF78;
   width: 100%; /* Adjust with JavaScript */
   height: 20px;
@@ -537,7 +569,7 @@
 
 #romeo > div {
   background-color: #C9DF78;
-  width: 10%; /* Adjust with JavaScript */
+  width: 0%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -552,7 +584,7 @@
 
 #habibi > div {
   background-color: #C9DF78;
-  width: 100%; /* Adjust with JavaScript */
+  width: 80%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -5290,14 +5322,14 @@ div h1.shatterDeal {
   }
 
 .plant {
-    width: 240px;
+    width: 300px;
     height: 300px;
     background-image: url(../images/plantPhoneMed.png);
     background-repeat: no-repeat;
     background-position: right bottom;
     position: absolute;
-    left: 50%;
-    top: 120px;
+    left: 40%;
+    top: 140px;
     pointer-events: none;
     
   }

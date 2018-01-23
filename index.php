@@ -20,7 +20,6 @@
 	      <li data-target="#myCarousel" data-slide-to="4"></li>
 	      <li data-target="#myCarousel" data-slide-to="5"></li>
 	      <li data-target="#myCarousel" data-slide-to="6"></li>
-	      <li data-target="#myCarousel" data-slide-to="7"></li>
 
 
 
@@ -30,11 +29,11 @@
           <div class="carousel-inner">
 
 	    <div class="item active">
-		<a href="content/extracts.php"><img src="images/extractsAd.JPG" alt="">
+		<a href="content/extracts.php"><img src="images/lightningSkunkAd.JPG" alt="">
                 
                 <div class="carousel-caption">
-                    <h3>New Extracts in!</h3>
-                    <p>Wolf & Emerald <br>
+                    <h3>New Emerald Extracts in!</h3>
+                    <p>
 			              $40 per</p>
                 </div>
               </a>
@@ -43,11 +42,11 @@
 
 
 	    <div class="item">
-		<a href="content/strains.php"><img src="images/yellowfinTuna.JPG" alt="">
+		<a href="content/strains.php"><img src="images/deepPurple.JPG" alt="">
                 
                 <div class="carousel-caption">
                     <h3>Picks Of The Week:</h3>
-                    <p>Yellowfin Tuna & <br>MK Ultra<br>
+                    <p>Super Lemon Rockstar & <br>Deep Purple<br>
 			              10g for $70<br>28g for $190</p>
                 </div>
               </a>
@@ -108,22 +107,6 @@
               </a>
             </div>
 
-
-
-            
-
-
-	   <div class="item">
-              <a href="content/paraphernalia.php"><img src="images/juicyAd.JPG" alt="">
-
-                <div class="carousel-caption">
-                    <h3>Juicy Jay's!</h3>
-                    <p>Flavored Rolling Papers<br>
-		    $3</p>
-				
-                </div>
-              </a>
-            </div>
 
 	     
 
