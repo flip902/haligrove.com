@@ -116,27 +116,7 @@
 
 
 
-	    <div class="extractsBox col-lg-6 col-md-6">
-                <div class="extractsThumbnail">
-                    <div class="extractsImageDiv">
-			<div class="new">new</div>
-                        <img src= "../images/suckers.JPG" style="height: 100%">
-                    </div>
-                    <div class="extractsItemTitle" id="">Shatter Suckers</div>
-                    <div class="extractsPrice">
-                        <span>$12 Per</span><br> 2 for $20<br>
-                        <h3>Assorted Flavors</h3>
-                        <p class="descriptionP">
-				Shatter suckers are infused with 60mg of shatter.
-                        </p>
-                    </div>
-                       <br> 
-                    <div id="suckersInventory">
-                        <div></div>
-                    </div>
-                    <p class="inventoryPTag">inventory</p>
-                </div>
-            </div>
+	    
 
 
 
@@ -163,23 +143,7 @@
                 </div>
             </div>
 
-	    <div class="extractsBox col-lg-6 col-md-6">
-                <div class="extractsThumbnail">
-                    <div class="extractsImageDiv">
-                        <img src= "../images/kushyChews.png" style="height: 100%">
-                    </div>
-                    <div class="extractsItemTitle" id="">Kushy Chews</div>
-                    <div class="extractsPrice">
-                        $10<span> per</span><br>
-                 <br>   <p>Great tasting chews. each gummy is infused with 20mg of thc, great for pain and insomnia.</p><br>
-                    </div>
-                    <div id="kushyInventory">
-                        <div></div>
-                    </div>
-                    <p class="inventoryPTag">inventory</p>
-                </div>
-            </div>
-
+	    
 
 
 	    <div class="extractsBox col-lg-6 col-md-6">

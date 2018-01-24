@@ -1478,6 +1478,18 @@
     float: center;
     z-index: 3;   
   }
+
+  .edibles {
+    background-image: url(../images/ediblesTitleTablet.png);
+    background-repeat: no-repeat;
+    height: 250px;
+    width: 400px;
+    position: absolute;
+    top: -40px;
+    left: -120px;
+    float: center;
+    z-index: 3;   
+  }
   
   .paraphernaliaSpace {
     height: auto;
@@ -2986,6 +2998,20 @@
     float: center;
     z-index: 3;   
   }
+
+  .edibles {
+    background-image: url(../images/ediblesTitleTablet.png);
+    background-repeat: no-repeat;
+    height: 250px;
+    width: 400px;
+    position: absolute;
+    top: -40px;
+    left: -120px;
+    float: center;
+    z-index: 3;   
+  }
+
+
   
   .paraphernaliaSpace {
     height: auto;

@@ -2113,6 +2113,19 @@ div h1.shatterDeal {
     z-index: 3;   
   }
 
+  .edibles {
+    background-image: url(../images/ediblesTitleTablet.png);
+    background-repeat: no-repeat;
+    height: 250px;
+    width: 400px;
+    position: absolute;
+    top: -40px;
+    left: -120px;
+    float: center;
+    z-index: 3;   
+  }
+
+
   .paraphernaliaWidth {
     width: 100%;
   }
@@ -3669,7 +3682,17 @@ div h1.shatterDeal {
     z-index: 3;   
   }
 
-  
+  .edibles {
+    background-image: url(../images/ediblesTitlePhone.png);
+    background-repeat: no-repeat;
+    height: 180px;
+    width: 300px;
+    position: absolute;
+    top: -30px;
+    left: -90px;
+    float: center;
+    z-index: 3;   
+  }
   
   .paraphernaliaSpace {
     height: auto;
@@ -5235,7 +5258,17 @@ div h1.shatterDeal {
     z-index: 3;   
   }
 
-  
+  .edibles {
+    background-image: url(../images/ediblesTitlePhone.png);
+    background-repeat: no-repeat;
+    height: 180px;
+    width: 300px;
+    position: absolute;
+    top: -40px;
+    left: -100px;
+    float: center;
+    z-index: 3;   
+  }
   
   .paraphernaliaSpace {
     height: auto;
@@ -6823,7 +6856,17 @@ div h1.shatterDeal {
     z-index: 3;   
   }
 
-  
+  .edibles {
+    background-image:url(../images/ediblesTitlePhone.png);
+    background-repeat: no-repeat;
+    height: 180px;
+    width: 280px;
+    position: absolute;
+    top: -40px;
+    left: -100px;
+    float: center;
+    z-index: 3;   
+  }
   
   .paraphernaliaSpace {
     height: auto;

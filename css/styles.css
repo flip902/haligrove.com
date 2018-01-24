@@ -1395,6 +1395,18 @@
     float: center;
     z-index: 3;   
   }
+
+  .edibles {
+    background-image: url(../images/ediblesTitle.png);
+    background-repeat: no-repeat;
+    height: 250px;
+    width: 600px;
+    position: absolute;
+    top: -70px;
+    left: -180px;
+    float: center;
+    z-index: 3;   
+  }
   
   .paraphernaliaSpace {
     height: auto;
@@ -2981,6 +2993,19 @@
     float: center;
     z-index: 3;   
   }
+
+  .edibles {
+    background-image: url(../images/ediblesTitleMed.png);
+    background-repeat: no-repeat;
+    height: 250px;
+    width: 600px;
+    position: absolute;
+    top: -50px;
+    left: -150px;
+    float: center;
+    z-index: 3;   
+  }
+
   
   .paraphernaliaSpace {
     height: auto;
