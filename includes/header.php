@@ -33,6 +33,7 @@
           <a href="../content/strains.php">Strains<img src="images/leafIcon.png" class="menuIcon"></a>
           <a href="../content/hash.php">Hash<img src="images/hashIcon.png" class="menuIcon"></a>
           <a href="../content/extracts.php">Extracts<img src="images/extractsIcon.png" class="menuIcon"></a>
+	  <a href="../content/edibles.php">Edibles<img src="images/edibles.png" class="menuIcon" style="margin-left: 4px"></a>
           <a href="../content/specials.php">Specials<img src="images/specialsIcon.png" class="menuIcon"></a>
           <a href="../content/paraphernalia.php">Paraphernalia<img src="images/paraphernalia.png" class="menuIcon"></a>
         </div>

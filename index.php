@@ -60,7 +60,7 @@
                 <div class="carousel-caption">
                     <h3>New Habibi Blonde Hash</h3>
                     <p>sweet taste!<br>
-	            $15 per gram<br></p>
+	            $15 per gram<br>5g for $70</p>
                 </div>
               </a>
             </div>

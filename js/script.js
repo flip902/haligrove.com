@@ -118,15 +118,22 @@ if(window.location.pathname == '/content/strains.php' || window.location.pathnam
         "pointer-events" : "none",
         "cursor" : "default"
     });
-}else if(window.location.pathname == '/content/specials.php' || window.location.pathname == '/haligrovev2/content/specials.php') {
+}else if(window.location.pathname == '/content/edibles.php' || window.location.pathname == '/haligrovev2/content/edibles.php') {
     $("#myDropdown a:nth-child(4)").css({
         "background-color" : "#C9DF78",
         "color" : "#DE28A9",
         "pointer-events" : "none",
         "cursor" : "default"
     });
-} else if(window.location.pathname == '/content/paraphernalia.php' || window.location.pathname == '/haligroveV2/content/paraphernalia.php') {
+}else if(window.location.pathname == '/content/specials.php' || window.location.pathname == '/haligrovev2/content/specials.php') {
     $("#myDropdown a:nth-child(5)").css({
+        "background-color" : "#C9DF78",
+        "color" : "#DE28A9",
+        "pointer-events" : "none",
+        "cursor" : "default"
+    });
+} else if(window.location.pathname == '/content/paraphernalia.php' || window.location.pathname == '/haligroveV2/content/paraphernalia.php') {
+    $("#myDropdown a:nth-child(6)").css({
         "background-color" : "#C9DF78",
         "color" : "#DE28A9",
         "pointer-events" : "none",
