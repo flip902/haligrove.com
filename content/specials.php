@@ -91,7 +91,7 @@
         </ul>
         <br>
 	
-        <a href="strains.php">Platinum Bubba, Pure Pineapple<br>& Sour Grapefruit</a>
+        <a href="strains.php">Platinum Bubba, Pure Pineapple,<br>Sour Grapefruit & Strawberry Cough</a>
 	<ui>
 	    <li>$10 per gram accross the board</li>
 	    <li>$250 per Oz</li>
@@ -109,13 +109,6 @@
 	</ul>
 	<br>	
 	
-	<a href="/content/hash.php" class="pinkChalk">Romeo & Juliet and Trident Hash</a>
-        <ui>
-	    <li>3 for $40</li>
-            <li>5 for $65</li>
-            <li>10 for $125</li>
-        </ul>
-        <br>
 	
 	<a href="/content/hash.php" class="pinkChalk">Habibi, Red Lebanese & Shetral Hash</a>
         <ui>

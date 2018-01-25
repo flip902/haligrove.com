@@ -21,6 +21,7 @@
 	      <li data-target="#myCarousel" data-slide-to="5"></li>
 	      <li data-target="#myCarousel" data-slide-to="6"></li>
 
+	      <li data-target="#myCarousel" data-slide-to="7"></li>
 
 
           </ol>
@@ -28,7 +29,44 @@
           <!-- Wrapper for slides -->
           <div class="carousel-inner">
 
+
 	    <div class="item active">
+		<a href="content/edibles.php"><img src="images/ediblesAd.JPG" alt="">
+                
+                <div class="carousel-caption">
+                    <h3>Check out our New Edibles page!!</h3><p>link is in the menu button(or Click Here)</p>
+
+                </div>
+              </a>
+             </div>
+
+
+	    <div class="item">
+              <a href="content/hash.php"><img src="images/afghaniBlackAd.JPG" alt="">
+
+                <div class="carousel-caption">
+                    <h3>New Afghani Black Hash</h3>
+                    <p>Good Quality!<br>
+	            $12 per gram<br>5g for $50</p>
+                </div>
+              </a>
+            </div>
+
+
+
+	     <div class="item">
+		<a href="content/extracts.php"><img src="images/budderAd.JPG" alt="">
+                
+                <div class="carousel-caption">
+                    <h3>New Budder Extracts in!</h3>
+                    <p>
+			              $80 per</p>
+                </div>
+              </a>
+             </div>
+
+
+	    <div class="item">
 		<a href="content/extracts.php"><img src="images/lightningSkunkAd.JPG" alt="">
                 
                 <div class="carousel-caption">
@@ -65,35 +103,6 @@
               </a>
             </div>
 
-	    <div class="item">
-              <a href="content/extracts.php"><img src="images/suckersAd.JPG" alt="">
-                <div class="carousel-caption">
-                    <h3>New Shatter Suckers!</h3>
-                    <p>Assorted Flavors<br>
-	            $12 per<br>or 2 for $20</p>
-                </div>
-              </a>
-            </div>
-
-
-
-	    <div class="item">
-              <a href="content/extracts.php"><img src="images/resinAd.JPG" alt="">
-
-                <div class="carousel-caption">
-                    <h3>New Live Resin</h3>
-                    <p>White Shark<br>
-	            $80 per gram<br></p>
-                </div>
-              </a>
-            </div>
-
-
-
-
-	    
-
-
 
 
 	    <div class="item">
@@ -114,7 +123,7 @@
               <a href="content/strains.php"><img src="images/pinkGod.JPG" alt="">
 
                 <div class="carousel-caption">
-                    <h3>Overstock of Pink God</h3>
+                    <h3>Overstock of Pink God & Yellowfin Tuna</h3>
                     <p>5g for $35<br>
 	            10 for $65<br>
 		     28 for $180</p>

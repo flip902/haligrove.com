@@ -468,6 +468,39 @@
 }
 
 
+#lemonSourDiesel {
+  width: 80%;
+  background-color: black;
+  border-radius: 13px; /* (height of inner div) / 2 + padding */
+  padding: 3px;
+  margin: 0 auto 0 auto;
+}
+
+#lemonSourDiesel > div {
+  background-color: #C9DF78;
+  width: 100%; /* Adjust with JavaScript */
+  height: 20px;
+  border-radius: 10px;
+}
+
+
+#watermelonHaze {
+  width: 80%;
+  background-color: black;
+  border-radius: 13px; /* (height of inner div) / 2 + padding */
+  padding: 3px;
+  margin: 0 auto 0 auto;
+}
+
+#watermelonHaze > div {
+  background-color: #C9DF78;
+  width: 100%; /* Adjust with JavaScript */
+  height: 20px;
+  border-radius: 10px;
+}
+
+
+
 /* Hash inventory */
 #malaysianInventory {
   width: 80%;
@@ -585,6 +618,22 @@
 #habibi > div {
   background-color: #C9DF78;
   width: 80%; /* Adjust with JavaScript */
+  height: 20px;
+  border-radius: 10px;
+}
+
+
+#afghaniBlack {
+  width: 75%;
+  background-color: black;
+  border-radius: 13px; /* (height of inner div) / 2 + padding */
+  padding: 3px;
+  margin: 0 auto 0 auto;
+}
+
+#afghaniBlack > div {
+  background-color: #C9DF78;
+  width: 100%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }

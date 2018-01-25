@@ -56,7 +56,7 @@
           </div>
           <h3 class="paraphernaliaItemTitle">Raspberry Flavor</h3>
           <div class="paraphernaliaPrice">
-	     <p>Chocolate Bar<br>
+	     <p>Chocolate Bar (may contain nuts)<br>
             $20<span> Per</span><br>
             
            Contains 200mg winterized BHO, all natural, great for pain and insomnia.</p>
@@ -73,7 +73,7 @@
           </div>
           <h3 class="paraphernaliaItemTitle">Orange Flavor</h3>
           <div class="paraphernaliaPrice">
-	     <p>Chocolate Bar<br>
+	     <p>Chocolate Bar (may contain nuts)<br>
             $20<span> Per</span><br>
             
            Contains 200mg winterized BHO, all natural, great for pain and insomnia.</p>
@@ -90,7 +90,7 @@
           </div>
           <h3 class="paraphernaliaItemTitle">Strawberry Flavor</h3>
           <div class="paraphernaliaPrice">
-	     <p>White Chocolate Bar<br>
+	     <p>White Chocolate Bar (may contain nuts)<br>
             $20<span> Per</span><br>
             
            Contains 200mg winterized BHO, all natural, great for pain and insomnia.</p>
@@ -109,7 +109,7 @@
           <h3 class="paraphernaliaItemTitle">Salted Caramel</h3>
           <div class="paraphernaliaPrice">
 	     <p style="max-width: 85%; margin-left: 15px">Enhanced Hot Cocoa<br>
-            $10<span> Per</span><br>
+            $12<span> Per</span> / 2 for $20<br>
             
            Contains 50mg winterized BHO, all natural, great for pain and insomnia.</p>
           </div>
@@ -125,7 +125,7 @@
           <h3 class="paraphernaliaItemTitle">Candy Cane</h3>
           <div class="paraphernaliaPrice">
 	     <p style="max-width: 85%; margin-left: 15px">Enhanced Hot Cocoa<br>
-            $10<span> Per</span><br>
+            $12<span> Per</span> / 2 for $20<br>
             
            Contains 50mg winterized BHO, all natural, great for pain and insomnia.</p>
           </div>
@@ -142,7 +142,7 @@
           <h3 class="paraphernaliaItemTitle">Chai Latte</h3>
           <div class="paraphernaliaPrice">
 	     <p style="max-width: 85%; margin-left: 15px">Enhanced Hot Cocoa<br>
-            $10<span> Per</span><br>
+            $12<span> Per</span> / 2 for $20<br>
             
            Contains 50mg winterized BHO, all natural, great for pain and insomnia</p>
           </div>
@@ -159,7 +159,7 @@
           <h3 class="paraphernaliaItemTitle">Raspberry</h3>
           <div class="paraphernaliaPrice">
 	     <p style="max-width: 85%; margin-left: 15px">Enhanced Hot Cocoa<br>
-            $10<span> Per</span><br>
+            $12<span> Per</span> / 2 for $20<br>
             
            Contains 50mg winterized BHO, all natural, great for pain and insomnia.</p>
           </div>
@@ -176,7 +176,7 @@
           <h3 class="paraphernaliaItemTitle">Original</h3>
           <div class="paraphernaliaPrice">
 	     <p style="max-width: 85%; margin-left: 15px">Enhanced Hot Cocoa<br>
-            $10<span> Per</span><br>
+            $12<span> Per</span> / 2 for $20<br>
             
            Contains 50mg winterized BHO, all natural, great for pain and insomnia.</p>
           </div>
