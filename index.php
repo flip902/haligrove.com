@@ -31,6 +31,18 @@
 
 
 	    <div class="item active">
+		<a href="content/strains.php"><img src="images/monsterCookies.JPG" alt="">
+                
+                <div class="carousel-caption">
+                    <h3>New Strain!</h3>
+                    <p>Monster Cookies
+			              </p>
+                </div>
+              </a>
+             </div>
+
+
+	    <div class="item">
 		<a href="content/edibles.php"><img src="images/ediblesAd.JPG" alt="">
                 
                 <div class="carousel-caption">
@@ -66,25 +78,16 @@
              </div>
 
 
-	    <div class="item">
-		<a href="content/extracts.php"><img src="images/lightningSkunkAd.JPG" alt="">
-                
-                <div class="carousel-caption">
-                    <h3>New Emerald Extracts in!</h3>
-                    <p>
-			              $40 per</p>
-                </div>
-              </a>
-             </div>
+	    
 
 
 
 	    <div class="item">
-		<a href="content/strains.php"><img src="images/deepPurple.JPG" alt="">
+		<a href="content/strains.php"><img src="images/citrusBliss.JPG" alt="">
                 
                 <div class="carousel-caption">
                     <h3>Picks Of The Week:</h3>
-                    <p>Super Lemon Rockstar & <br>Deep Purple<br>
+                    <p>Romain Rockstar & <br>Citrus Bliss<br>
 			              10g for $70<br>28g for $190</p>
                 </div>
               </a>
@@ -212,6 +215,24 @@
             </div>
           </div>
 
+
+	  <div class="col-lg-6 col-md-6">
+            <div class="ediblesContainer">
+              <div class="ediblesSquare">
+                <img src="images/ediblesAd.JPG" alt="Edibles">
+                <a href="content/edibles.php" class="touch">
+                  <div class="ediblesButton">
+
+                      <p>Edibles</p>
+                      <img src="images/edibles.png">
+
+                  </div>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+
             
           <div class="col-lg-6 col-md-6">
             <div class="specialsContainer">
@@ -243,7 +264,6 @@
             </a>
           </div>
         </div>
-
 
 
       </div>

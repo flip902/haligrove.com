@@ -4,12 +4,86 @@
 {
       "id" : "1",
 
+        "name" : "Monster Cookies",
+        "src" : "../images/monsterCookies.JPG",
+        "type" : "indica",
+        "isNew" : "new",
+        "sale" : "none",
+        "pricePerGram" : "$10",
+        "pricePerOunce" : "$210",
+        "description" : "Monster Cookies is an 80% indica cross between Girl Scout Cookies and Granddaddy Purple that delivers a jarring dose of euphoria and relaxation. Its aroma is dominated by earthy notes, enriched by a grape and berry scent passed on by Granddaddy Purple. Hues of purple and green weave together under a silver blanket of crystal trichomes, colors that continue to darken with maturation. Calming sedation wells up over time, making this strain ideal for late night use.",
+        "inventory" : "full",
+          "THC" : "27",
+          "taste" : "86",
+          "aroma" : "85",
+          "pain" : "84",
+          "insomnia" : "83",
+          "appetite" : "82",
+          "overall" : "86", 
+    "soldOut" : "none",
+    "opacity" : "1"
+},
+
+
+{
+      "id" : "2",
+
+        "name" : "Death Wish",
+        "src" : "../images/deathWish.JPG",
+        "type" : "indica",
+        "isNew" : "new",
+        "sale" : "none",
+        "pricePerGram" : "$10",
+        "pricePerOunce" : "$210",
+        "description" : "This dank bud boasts an insanely high THC level that ranges between 25-27% and effects that can end in an almost death-like sleep. Almost immediately after smoking, you'll feel a wave of rushing focused energy wash over you that leaves you uplifted and motivated with tendencies towards having psychoactive experiences. As the high continues, you will be eased into a state of utter relaxation with deep introspection and spaciness that can cause you to become distant in social situations. Upon the comedown from the high, Death Wish pulls you into a deep and peaceful undisturbed sleep that lasts for hours on end, giving you the appearance of being unwakeable.",
+        "inventory" : "full",
+          "THC" : "27",
+          "taste" : "85",
+          "aroma" : "85",
+          "pain" : "84",
+          "insomnia" : "86",
+          "appetite" : "82",
+          "overall" : "85", 
+    "soldOut" : "none",
+    "opacity" : "1"
+},
+
+
+
+{
+      "id" : "3",
+
+        "name" : "Mango",
+        "src" : "../images/mango.JPG",
+        "type" : "hybrid",
+        "isNew" : "new",
+        "sale" : "none",
+        "pricePerGram" : "$9",
+        "pricePerOunce" : "$195",
+        "description" : "This strain is true to her name, she delights the senses with delicious flavour of mango. This herb is very potent with THC levels reaching up to 26%. Beginners should be mindful of the dose to avoid sedative stupor and overwhelming couchlock. Mango marijuana strain is perfect for evening and nighttime medicinal and recreational use due to strong sedative properties.",
+        "inventory" : "full",
+          "THC" : "25",
+          "taste" : "80",
+          "aroma" : "79",
+          "pain" : "80",
+          "insomnia" : "81",
+          "appetite" : "80",
+          "overall" : "80", 
+    "soldOut" : "none",
+    "opacity" : "1"
+},
+
+
+
+{
+      "id" : "4",
+
         "name" : "Strawberry Cough",
         "src" : "../images/strawberryCough.JPG",
         "type" : "sativa",
         "isNew" : "new",
         "sale" : "none",
-        "pricePerGram" : "$10",
+        "pricePerGram" : "5 for $50 $10",
         "pricePerOunce" : "$250",
         "description" : "Known for its sweet smell of fresh strawberries and an expanding sensation that can make even the most seasoned consumer cough, Strawberry Cough is a potent sativa blend with mysterious genetic origins. The skunky, berry flavors will capture your senses while the cerebral, uplifting effects provide an aura of euphoria that is sure to leave a smile on your face. Strawberry Cough is a great solution for managing social anxieties and to balance yourself in times of elevated stress.",
         "inventory" : "low",
@@ -26,13 +100,13 @@
 
 
 {
-      "id" : "2",
+      "id" : "5",
 
         "name" : "Citrus Bliss",
         "src" : "../images/citrusBliss.JPG",
         "type" : "indica",
         "isNew" : "new",
-        "sale" : "none",
+        "sale" : "sale",
         "pricePerGram" : "$10",
         "pricePerOunce" : "$210",
         "description" : "Citrus Bliss, also known as Tangerine Bliss, is an Indica dominant hybrid (75% indica/25% sativa) strain with unknown parentage, although it is thought to be a blend of a Swiss Bliss with another indica strain. The Bliss flavor is extremely delicious and can often lead to some users smoking too much at once without realizing it. With an earthy tropical sweet flavor that is accented by berries and sour citrus, you will want to taste more after just one toke.",
@@ -50,14 +124,14 @@
 
 
 {
-      "id" : "3",
+      "id" : "6",
 
         "name" : "Sour Grapefruit",
         "src" : "../images/sourGrapefruit.JPG",
         "type" : "sativa",
         "isNew" : "new",
         "sale" : "none",
-        "pricePerGram" : "$10",
+        "pricePerGram" : "5 for $50 $10",
         "pricePerOunce" : "$250",
         "description" : "This potent sativa was developed by crossing Cinderella 99 with a fast-flowering sativa selected for its rich grapefruit flavor. The tropical, citrus smell of Grapefruit mixes with energetic effects to give you a happy stress-reliever that also works well for battling migraine headaches.",
         "inventory" : "low",
@@ -74,12 +148,12 @@
 
 
 {
-      "id" : "4",
+      "id" : "7",
 
         "name" : "PK",
         "src" : "../images/pk.JPG",
         "type" : "indica",
-        "isNew" : "new",
+        "isNew" : "none",
         "sale" : "none",
         "pricePerGram" : "$9",
         "pricePerOunce" : "$200",
@@ -99,12 +173,12 @@
 
 
 {
-      "id" : "5",
+      "id" : "8",
 
         "name" : "Richie Rich",
         "src" : "../images/richieRich.JPG",
         "type" : "indica",
-        "isNew" : "new",
+        "isNew" : "none",
         "sale" : "none",
         "pricePerGram" : "$10",
         "pricePerOunce" : "$210",
@@ -124,12 +198,12 @@
 
 
 {
-      "id" : "6",
+      "id" : "9",
 
-        "name" : "Blueberry Cheesecake",
+        "name" : "BlueberryCheesecake",
         "src" : "../images/blueberryCheesecake.JPG",
         "type" : "hybrid",
-        "isNew" : "new",
+        "isNew" : "none",
         "sale" : "none",
         "pricePerGram" : "$10",
         "pricePerOunce" : "$210",
@@ -149,14 +223,14 @@
 
 
 {
-      "id" : "7",
+      "id" : "10",
 
         "name" : "Pure Pineapple",
         "src" : "../images/purePineapple.JPG",
         "type" : "hybrid",
         "isNew" : "none",
         "sale" : "none",
-        "pricePerGram" : "$10",
+        "pricePerGram" : "5 for $50 $10",
         "pricePerOunce" : "$250",
         "description" : "It all started with an Idea a few years back, Create a kush line that represents The complete wheel of fruit flavours. For our Pineapple Kush we carefully started searching for a fast flowering and an actual Pineapple flavoured bouquet. After a long and diligent search for the most similar flavored cannabis plant in existence we carefully settled with an increbible Mendo Pineapple and Crossed her with Banana Dream To make the smell Jump out at you in a very pungent fashion.Thus the result The Aficionado's have created Pure Pineapple, (Mendo Pineapple X Banana Dream) to create a Pure Pineapple kush with a dank fruit bouquet with a 55-65 day finish. High yielding and abundant in flavour and strength.",
         "inventory" : "med",
@@ -173,7 +247,7 @@
 
 
 {
-      "id" : "8",
+      "id" : "11",
 
         "name" : "Sticky Icky",
         "src" : "../images/stickieIcky.JPG",
@@ -197,7 +271,7 @@
 
 
 {
-      "id" : "9",
+      "id" : "12",
 
         "name" : "Obama",
         "src" : "../images/obama.JPG",
@@ -221,13 +295,13 @@
 
 
 {
-      "id" : "10",
+      "id" : "13",
 
         "name" : "Romain Rockstar",
         "src" : "../images/romainRockstar.JPG",
         "type" : "hybrid",
         "isNew" : "none",
-        "sale" : "none",
+        "sale" : "sale",
         "pricePerGram" : "$10",
         "pricePerOunce" : "$200",
         "description" : "Romain Rockstar is a potent indica-dominant hybrid that delivers strong effects without debilitating sedation. With aromatic notes of spice and grape, Rockstar is a favorite medicine for headaches, pain, and sleep disorders.",
@@ -248,7 +322,7 @@
 
 
 {
-      "id" : "11",
+      "id" : "14",
 
         "name" : "Blue Diamond",
         "src" : "../images/blueDiamond.JPG",
@@ -271,7 +345,7 @@
 },
 
 {
-      "id" : "12",
+      "id" : "15",
 
         "name" : "Purple OG",
         "src" : "../images/purpleOG.JPG",
@@ -295,14 +369,14 @@
 
 
 {
-      "id" : "13",
+      "id" : "16",
 
         "name" : "Platinum Bubba",
         "src" : "../images/platnumBubba.JPG",
         "type" : "indica",
         "isNew" : "none",
         "sale" : "none",
-        "pricePerGram" : "$10",
+        "pricePerGram" : "5 for $50 $10",
         "pricePerOunce" : "$250",
         "description" : "Platinum Bubba Kush is a platinum level indica strain for those who are looking for strong medicine. Best for strong body relaxation, pain relief, sleepiness and appetite stimulation, Pbk is AAAA grade strain. Floral and full of kush spiciness in aroma, the flowers of this strain will have a surprisingly sweet flavor that is a patient favorite. A cross between Platinum OG kush and Bubba Kush, this indica finishes flowering in 8 to 9 weeks. These dense, pink-hued nugs are popular in California and BC and are gaining popularity around the world. ",
         "inventory" : "full",
@@ -319,7 +393,7 @@
 
 
 {
-      "id" : "14",
+      "id" : "17",
 
         "name" : "Org.Sour Tangerine",
         "src" : "../images/organicSourTangerine.JPG",
@@ -346,7 +420,7 @@
 
 
 {
-      "id" : "15",
+      "id" : "18",
 
         "name" : "MK Ultra",
         "src" : "../images/mkUltra.JPG",
@@ -369,7 +443,7 @@
 },
 
 {
-      "id" : "16",
+      "id" : "19",
 
         "name" : "King Kush",
         "src" : "../images/kingKush.JPG",
@@ -395,7 +469,7 @@
 
 
 {
-      "id" : "17",
+      "id" : "20",
 
         "name" : "Death Star",
         "src" : "../images/deathStar.JPG",
@@ -424,7 +498,7 @@
 
 
 {
-      "id" : "18",
+      "id" : "21",
 
         "name" : "Yellowfin Tuna",
         "src" : "../images/yellowfinTuna.JPG",
@@ -447,7 +521,7 @@
     },
 
 {
-      "id" : "19",
+      "id" : "22",
 
         "name" : "Blue Dream",
         "src" : "../images/blueDream.JPG",
@@ -477,7 +551,7 @@
 
     {
 
-      "id" : "20",
+      "id" : "23",
 
         "name" : "Pink Kandy Kush",
         "src" : "../images/pinkKandyKush.JPG",
@@ -500,7 +574,7 @@
     },
 
 {
-      "id" : "21",
+      "id" : "24",
 
         "name" : "Pink God",
         "src" : "../images/pinkGod.JPG",
@@ -528,13 +602,13 @@
     
 
     {
-      "id" : "22",
+      "id" : "25",
 
         "name" : "S Lemon Rockstar",
         "src" : "../images/superLemonRockstar.JPG",
         "type" : "hybrid",
         "isNew" : "none",
-        "sale" : "sale",
+        "sale" : "none",
         "pricePerGram" : "$10",
         "pricePerOunce" : "$210",
         "description" : "As the name states this strain has real lemony characteristics. The smell is zesty, citrusy, and a little sweet. As for the taste, it's everything one would expect from the namesake; tart and sweet like lemonheads candy - not quite as sharp as one might expect. The effects are uniquely energetic and lively, may not be the best strain for those of us that are naturally wound-up tight.",
@@ -552,13 +626,13 @@
     },
 
     {
-      "id" : "23",
+      "id" : "26",
 
         "name" : "Deep Purple",
         "src" : "../images/deepPurple.JPG",
         "type" : "indica",
         "isNew" : "none",
-        "sale" : "sale",
+        "sale" : "none",
         "pricePerGram" : "$10",
         "pricePerOunce" : "$210",
         "description" : "This bud boasts a moderately high THC level at 22-23% and a soothing mix of cerebral and body highs. This strain is made to chill you out, yet still leave you functional. Deep Purple is usually prescribed to patients who suffer from chronic pain from long term illnesses.",
@@ -589,7 +663,7 @@
     
 
     {
-      "id" : "24",
+      "id" : "27",
 
       "name" : "Nuken",
       "src" : "../images/dukeNuken.JPG",
@@ -613,7 +687,7 @@
     },
 
 {
-      "id" : "25",
+      "id" : "28",
 
         "name" : "Tuna",
         "src" : "../images/newTuna.JPG",
@@ -636,7 +710,7 @@
     },
 
 {
-      "id" : "26",
+      "id" : "29",
 
         "name" : "BC Chemo",
         "src" : "../images/bcChemo.JPG",
@@ -660,7 +734,7 @@
 
 
 {
-      "id" : "27",
+      "id" : "30",
 
         "name" : "Jack Herer",
         "src" : "../images/jackHerer.JPG",
@@ -684,7 +758,7 @@
 
 
 {
-      "id" : "28",
+      "id" : "31",
 
         "name" : "Amnesia Haze",
         "src" : "../images/amnesiaHaze.JPG",

@@ -170,7 +170,6 @@
 	    <div class="extractsBox col-lg-6 col-md-6">
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
-			<div class="new">new</div>
                         <img src= "../images/resin.JPG" style="height: 100%">
                     </div>
                     <div class="extractsItemTitle" id="">Live Resin</div>
@@ -244,7 +243,8 @@
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
                         <div class="sativa">sativa</div>
-                        <img src= "../images/greenCrackWolf.JPG" style="height: 100%">
+			<div class="sold out" style="z-index: 1">sold out</div>
+                        <img src= "../images/greenCrackWolf.JPG" style="height: 100%; opacity: 0.3">
                     </div>
                     <div class="extractsItemTitle" id="">Green Crack</div>
                     <div class="extractsPrice">

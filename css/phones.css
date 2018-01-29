@@ -293,7 +293,7 @@
 
 #blueberry > div {
   background-color: #C9DF78;
-  width: 40%; /* Adjust with JavaScript */
+  width: 1%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -400,7 +400,7 @@
 
 #greenCrack > div {
   background-color: #C9DF78;
-  width: 10%; /* Adjust with JavaScript */
+  width: 0%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -512,40 +512,13 @@
 
 #malaysianInventory > div {
   background-color: #C9DF78;
-  width: 10%; /* Adjust with JavaScript */
-  height: 20px;
-  border-radius: 10px;
-}
-
-#moroccanInventory {
-  width: 80%;
-  background-color: black;
-  border-radius: 13px; /* (height of inner div) / 2 + padding */
-  padding: 3px;
-  margin: 0 auto 0 auto;
-}
-
-#moroccanInventory > div {
-  background-color: #C9DF78;
-  width: 00%; /* Adjust with JavaScript */
-  height: 20px;
-  border-radius: 10px;
-}
-
-#mercedesInventory {
-  width: 80%;
-  background-color: black;
-  border-radius: 13px; /* (height of inner div) / 2 + padding */
-  padding: 3px;
-  margin: 0 auto 0 auto;
-}
-
-#mercedesInventory > div {
-  background-color: #C9DF78;
   width: 0%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
+
+
+
 
 #redLeb {
   width: 75%;
@@ -587,7 +560,7 @@
 
 #trident > div {
   background-color: #C9DF78;
-  width: 50%; /* Adjust with JavaScript */
+  width: 0%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -1184,7 +1157,69 @@ div h1.shatterDeal {
   }
   /* end */
 
+ .ediblesContainer {
+    overflow: hidden;
+    height: 200px;
+    width: 400px;
+    border: 5px solid #532924;
+    border-radius: 15px;
+    margin: 50px auto 0 auto;
+    box-shadow: 20px 20px 5px rgba(43, 41, 41, 0.76);
+  }
 
+  .ediblesSquare {
+    position: relative;
+    height: 100%;
+    width: 100%;
+    background-color: #75AEDC;
+    border-bottom-right-radius: 10px;
+  }
+
+  .ediblesSquare img {
+    top:0;
+    left:0;
+    height: 100%;
+    width: 100%;
+    opacity: 0.4;
+    border-radius: 15px;
+    z-index: 1;
+  }
+
+  .ediblesButton {
+    position: absolute;
+    top: 60px;
+    right: 130px;
+    height: 70px;
+    width: 140px;
+    border: 3px solid #532924;
+    border-radius: 15px;
+    background-color: #75AEDC;
+    box-shadow: 3px 3px 5px rgba(210, 65, 168, 0.85);
+    opacity: 1;
+  }
+
+  .ediblesButton:active {
+    box-shadow: 0px 0px 0px #532924;
+    top: 65px;
+    right: 125px;
+  }
+
+
+  .ediblesButton p {
+    display: inline-block;
+    font-size: 18px;
+    font-weight: bold;
+    color: #294135;
+    margin: 20px 0 5px 20px;
+    
+  }
+
+  .ediblesButton img {
+    display: inline-block;
+    height: 30px;
+    width: 30px;
+    opacity: 1;
+  } 
 
   /* specials */
   .specialsContainer {
@@ -1321,7 +1356,7 @@ div h1.shatterDeal {
   }
 
   .indexHeight {
-    height: 1780px;
+    height: 2000px;
   }
 
   
@@ -2756,7 +2791,69 @@ div h1.shatterDeal {
   }
   /* end */
 
+ .ediblesContainer {
+    overflow: hidden;
+    height: 200px;
+    width: 350px;
+    border: 5px solid #532924;
+    border-radius: 15px;
+    margin: 50px auto 0 auto;
+    box-shadow: 20px 20px 5px rgba(43, 41, 41, 0.76);
+  }
 
+  .ediblesSquare {
+    position: relative;
+    height: 100%;
+    width: 100%;
+    background-color: #75AEDC;
+    border-bottom-right-radius: 10px;
+  }
+
+  .ediblesSquare img {
+    top:0;
+    left:0;
+    height: 100%;
+    width: 100%;
+    opacity: 0.4;
+    border-radius: 15px;
+    z-index: 1;
+  }
+
+  .ediblesButton {
+    position: absolute;
+    top: 60px;
+    right: 100px;
+    height: 70px;
+    width: 140px;
+    border: 3px solid #532924;
+    border-radius: 15px;
+    background-color: #75AEDC;
+    box-shadow: 3px 3px 5px rgba(210, 65, 168, 0.85);
+    opacity: 1;
+  }
+
+  .ediblesButton:active {
+    box-shadow: 0px 0px 0px #532924;
+    top: 65px;
+    right: 95px;
+  }
+
+
+  .ediblesButton p {
+    display: inline-block;
+    font-size: 18px;
+    font-weight: bold;
+    color: #294135;
+    margin: 20px 0 5px 20px;
+    
+  }
+
+  .ediblesButton img {
+    display: inline-block;
+    height: 30px;
+    width: 30px;
+    opacity: 1;
+  } 
 
   /* specials */
   .specialsContainer {
@@ -2893,7 +2990,7 @@ div h1.shatterDeal {
   }
 
   .indexHeight {
-    height: 1620px;
+    height: 1900px;
   }
 
   
@@ -4326,7 +4423,69 @@ div h1.shatterDeal {
   }
   /* end */
 
+  .ediblesContainer {
+    overflow: hidden;
+    height: 150px;
+    width: 300px;
+    border: 5px solid #532924;
+    border-radius: 15px;
+    margin: 40px auto 0 auto;
+    box-shadow: 20px 20px 5px rgba(43, 41, 41, 0.76);
+  }
 
+  .ediblesSquare {
+    position: relative;
+    height: 100%;
+    width: 100%;
+    background-color: #75AEDC;
+    border-bottom-right-radius: 10px;
+  }
+
+  .ediblesSquare img {
+    top:0;
+    left:0;
+    height: 100%;
+    width: 100%;
+    opacity: 0.4;
+    border-radius: 15px;
+    z-index: 1;
+  }
+
+  .ediblesButton {
+    position: absolute;
+    top: 45px;
+    right: 90px;
+    height: 50px;
+    width: 110px;
+    border: 3px solid #532924;
+    border-radius: 15px;
+    background-color: #75AEDC;
+    box-shadow: 3px 3px 5px rgba(210, 65, 168, 0.85);
+    opacity: 1;
+  }
+
+  .ediblesButton:active {
+    box-shadow: 0px 0px 0px #532924;
+    top: 48px;
+    right: 87px;
+  }
+
+
+  .ediblesButton p {
+    display: inline-block;
+    font-size: 17px;
+    font-weight: bold;
+    color: #294135;
+    margin: 10px 2px 0px 6px;
+    
+  }
+
+  .ediblesButton img {
+    display: inline-block;
+    height: 20px;
+    width: 18px;
+    opacity: 1;
+  }
 
   /* specials */
   .specialsContainer {
@@ -4467,7 +4626,7 @@ div h1.shatterDeal {
   }
 
   .indexHeight {
-    height: 1270px;
+    height: 1470px;
   }
 
   
@@ -5913,7 +6072,69 @@ div h1.shatterDeal {
   }
   /* end */
 
+  .ediblesContainer {
+    overflow: hidden;
+    height: 140px;
+    width: 250px;
+    border: 5px solid #532924;
+    border-radius: 15px;
+    margin: 30px auto 0 auto;
+    box-shadow: 20px 20px 5px rgba(43, 41, 41, 0.76);
+  }
 
+  .ediblesSquare {
+    position: relative;
+    height: 100%;
+    width: 100%;
+    background-color: #75AEDC;
+    border-bottom-right-radius: 10px;
+  }
+
+  .ediblesSquare img {
+    top:0;
+    left:0;
+    height: 100%;
+    width: 100%;
+    opacity: 0.4;
+    border-radius: 15px;
+    z-index: 1;
+  }
+
+  .ediblesButton {
+    position: absolute;
+    top: 40px;
+    right: 65px;
+    height: 50px;
+    width: 110px;
+    border: 3px solid #532924;
+    border-radius: 15px;
+    background-color: #75AEDC;
+    box-shadow: 3px 3px 5px rgba(210, 65, 168, 0.85);
+    opacity: 1;
+  }
+
+  .ediblesButton:active {
+    box-shadow: 0px 0px 0px #532924;
+    top: 43px;
+    right: 62px;
+  }
+
+
+  .ediblesButton p {
+    display: inline-block;
+    font-size: 17px;
+    font-weight: bold;
+    color: #294135;
+    margin: 10px 2px 0px 6px;
+    
+  }
+
+  .ediblesButton img {
+    display: inline-block;
+    height: 20px;
+    width: 18px;
+    opacity: 1;
+  }
 
   /* specials */
   .specialsContainer {
@@ -6054,7 +6275,7 @@ div h1.shatterDeal {
   }
 
   .indexHeight {
-    height: 1130px;
+    height: 1430px;
   }
 
   

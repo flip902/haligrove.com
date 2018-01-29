@@ -77,7 +77,9 @@
 		<div class="hashBox col-lg-6 col-md-6">
                     <div class="hashThumbnail">
                         <div class="hashImageDiv">
-                                <img src= "../images/trident.JPG" alt="trident">
+                                <img src= "../images/trident.JPG" alt="trident" style="opacity: 0.3">
+
+				<div class="sold out" style="z-index: 1">sold out</div>
                         </div>
                         <h3 class="hashItemTitle" id="">Trident</h3>
                         <div class="hashPrice">
@@ -130,7 +132,8 @@
                 <div class="hashBox col-lg-6 col-md-6">
                     <div class="hashThumbnail">
                         <div class="hashImageDiv">
-                                <img src= "../images/malaysianCream.JPG" alt="Malaysian Cream">
+				<div class="sold out" style="z-index: 1">sold out</div>
+                                <img src= "../images/malaysianCream.JPG" alt="Malaysian Cream" style="opacity: 0.3">
                         </div>
                         <h3 class="hashItemTitle" id="">Malaysian Cream</h3>
                         <div class="hashPrice">
