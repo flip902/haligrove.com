@@ -58,6 +58,122 @@
             </div>
 
 
+	    <div class="extractsBox col-lg-6 col-md-6">
+                <div class="extractsThumbnail">
+                    <div class="extractsImageDiv">
+                        <img src= "../images/resin.JPG" style="height: 100%">
+                    </div>
+                    <div class="extractsItemTitle" id="">Live Resin</div>
+                    <div class="extractsPrice">
+                        <span>$70 Per gram</span><br>
+                        <h3>White Shark</h3><br>
+                        <p class="descriptionP">
+				Use With caution...extremely potent. 
+                        </p>
+                    </div>
+                       <br> 
+                    <div id="resinInventory">
+                        <div></div>
+                    </div>
+                    <p class="inventoryPTag">inventory</p>
+                </div>
+            </div>
+
+
+
+
+	     <div class="extractsBox col-lg-6 col-md-6">
+                <div class="extractsThumbnail">
+                    <div class="extractsImageDiv">
+			<div class="new">new</div>
+                        <img src= "../images/hashOil.JPG" style="height: 100%">
+                    </div>
+                    <div class="extractsItemTitle" id="">Rick Simpson Oil</div>
+                    <div class="extractsPrice">
+                        <span>$200 Per</span>
+                        <h3>10 gram vials</h3>
+                        <p class="descriptionP">
+			Rick Simpson is the creator of this cannabis oil. RSO has amazing medical benefits, and is renowned by cannabis connoisseurs around the globe.
+                        </p>
+                    </div>
+                        
+                    <div id="RSO">
+                        <div></div>
+                    </div>
+                    <p class="inventoryPTag">inventory</p>
+                </div>
+            </div>
+
+
+
+
+	     
+
+
+
+
+	    <div class="extractsBox col-lg-6 col-md-6">
+                <div class="extractsThumbnail">
+                    <div class="extractsImageDiv">
+                        <img src= "../images/oilPen.JPG" alt="Oil Pen" style="height:100%">
+                            
+                    </div>
+                    <div class="extractsItemTitle" id="">Phoenix Oil Pen</div>
+                    <div class="extractsPrice">
+                        $35<span> per</span><br>
+                        <p class="penDescription">These pens are different from our shatter pens. They function the same as the shatter pens but are 
+                            infused with phoenix oil instead of the shatter. Phoenix oil is high in cbd's as well as thc, and has many medical benefits.
+                        </p>
+                    </div>
+                    <div id="oilPenInventory">
+                        <div></div>
+                    </div>
+                    <p class="inventoryPTag">inventory</p>
+                </div>
+            </div>
+                
+
+            <div class="extractsBox col-lg-6 col-md-6">
+                <div class="extractsThumbnail">
+                    <div class="extractsImageDiv">
+                        <img src= "../images/pen.JPG" alt="Pen" style="height:100%">
+                            
+                    </div>
+                    <div class="extractsItemTitle" id="">Shatter Pen</div>
+                    <div class="extractsPrice">
+                        $40<span> per</span><br>
+                        <p class="penDescription">These pens are made from an OG Kush
+                        indica relative. Perfect for when on the go or have to be discreet
+                        or even at work. These are pre-loaded and ready
+                        to go, just puff and toss in the trash when
+                        done. Good for up to 300 puffs. (Depending on many factors such as: length of puffs, storage, temp., etc) No 
+                        charging required.
+                        </p>
+                    </div>
+                    <div id="penInventory">
+                        <div></div>
+                    </div>
+                    <p class="inventoryPTag">inventory</p>
+                </div>
+            </div>
+
+            <div class="extractsBox col-lg-6 col-md-6">
+                <div class="extractsThumbnail">
+                    <div class="extractsImageDiv">
+                        <img src= "../images/oilSyringe.JPG" style="height: 100%">
+                    </div>
+                    <div class="extractsItemTitle" id="">Oil Syringe</div>
+                    <div class="extractsPrice">
+                        $30<span> per</span><br>
+                        <p>RSO Oil. Taken orally or can be used for dabs. This oil has long lasting effects and many medical benefits such as relief for seizures, pain, lack of appetite and more</p><br>
+                    </div>
+                    <div id="oilInventory">
+                        <div></div>
+                    </div>
+                    <p class="inventoryPTag">inventory</p>
+                </div>
+            </div>
+
 
 
 	    <div class="extractsBox col-lg-6 col-md-6">
@@ -65,6 +181,58 @@
                     <div class="extractsImageDiv">
 
 			<div class="new">new</div>
+                        <div class="indica">indica</div>
+                        <img src= "../images/grapeDrink.JPG" style="height: 100%">
+                    </div>
+                    <div class="extractsItemTitle" id="">Grape Drink</div>
+                    <div class="extractsPrice">
+                        <span>$40 Per </span><br>
+                        <h3>Wonka Extracts</h3>
+                        <p class="descriptionP">Grape, berry, pungent taste.
+                        Great for Pain, stress and fatigue.
+                        </p>
+                    </div>
+                       <br> 
+                    <div id="vampirePink">
+                        <div></div>
+                    </div>
+                    <p class="inventoryPTag">inventory</p>
+                </div>
+            </div>
+
+
+
+	    <div class="extractsBox col-lg-6 col-md-6">
+                <div class="extractsThumbnail">
+                    <div class="extractsImageDiv">
+
+			<div class="new">new</div>
+                        <div class="sativa">sativa</div>
+                        <img src= "../images/strawberryMango.JPG" style="height: 100%">
+                    </div>
+                    <div class="extractsItemTitle" id="">Strawberry Mango</div>
+                    <div class="extractsPrice">
+                        <span>$40 Per </span><br>
+                        <h3>Firerock Extracts</h3>
+                        <p class="descriptionP">Strawberry mango, berry taste.
+                        Great for Pain, stress and depression.
+                        </p>
+                    </div>
+                       <br> 
+                    <div id="vampirePink">
+                        <div></div>
+                    </div>
+                    <p class="inventoryPTag">inventory</p>
+                </div>
+            </div>
+
+
+
+
+	    <div class="extractsBox col-lg-6 col-md-6">
+                <div class="extractsThumbnail">
+                    <div class="extractsImageDiv">
+
                         <div class="hybrid">hybrid</div>
                         <img src= "../images/vampirePink.JPG" style="height: 100%">
                     </div>
@@ -89,7 +257,6 @@
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
 
-			<div class="new">new</div>
                         <div class="indica">indica</div>
                         <img src= "../images/lightningSkunk.JPG" style="height: 100%">
                     </div>
@@ -115,7 +282,6 @@
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
 
-			<div class="new">new</div>
                         <div class="sativa">sativa</div>
                         <img src= "../images/goombaSmash.JPG" style="height: 100%">
                     </div>
@@ -137,56 +303,7 @@
 
 
 
-	    <div class="extractsBox col-lg-6 col-md-6">
-                <div class="extractsThumbnail">
-                    <div class="extractsImageDiv">
-			<div class="new">new</div>
-                        <img src= "../images/hashOil.JPG" style="height: 100%">
-                    </div>
-                    <div class="extractsItemTitle" id="">Rick Simpson Oil</div>
-                    <div class="extractsPrice">
-                        <span>$200 Per</span>
-                        <h3>10 gram vials</h3>
-                        <p class="descriptionP">
-			Rick Simpson is the creator of this cannabis oil. RSO has amazing medical benefits, and is renowned by cannabis connoisseurs around the globe.
-                        </p>
-                    </div>
-                        
-                    <div id="RSO">
-                        <div></div>
-                    </div>
-                    <p class="inventoryPTag">inventory</p>
-                </div>
-            </div>
-
-
-
-
-	    
-
-
-
-
-	    <div class="extractsBox col-lg-6 col-md-6">
-                <div class="extractsThumbnail">
-                    <div class="extractsImageDiv">
-                        <img src= "../images/resin.JPG" style="height: 100%">
-                    </div>
-                    <div class="extractsItemTitle" id="">Live Resin</div>
-                    <div class="extractsPrice">
-                        <span>$80 Per gram</span><br>
-                        <h3>White Shark</h3><br>
-                        <p class="descriptionP">
-				Use With caution...extremely potent. 
-                        </p>
-                    </div>
-                       <br> 
-                    <div id="resinInventory">
-                        <div></div>
-                    </div>
-                    <p class="inventoryPTag">inventory</p>
-                </div>
-            </div>
+	   
 
 	    
 
@@ -207,6 +324,119 @@
                     </div>
                        <br> 
                     <div id="whiteGorilla">
+                        <div></div>
+                    </div>
+                    <p class="inventoryPTag">inventory</p>
+                </div>
+            </div>
+
+
+	     <div class="extractsBox col-lg-6 col-md-6">
+                <div class="extractsThumbnail">
+                    <div class="extractsImageDiv">
+                        <div class="hybrid">hybrid</div>
+                        <img src= "../images/gorillaGlueEm.JPG" style="height: 100%">
+                    </div>
+                    <div class="extractsItemTitle" id="">Gorilla Glue</div>
+                    <div class="extractsPrice">
+                        <span>$40 Per </span><br>
+                        <h3>Emerald Extracts</h3>
+                        <p class="descriptionP">Earthy, pine, pungent taste.
+                        Great for Pain, appetite and insomnia.
+                        </p>
+                    </div>
+                       <br> 
+                    <div id="gorillaGlue">
+                        <div></div>
+                    </div>
+                    <p class="inventoryPTag">inventory</p>
+                </div>
+            </div>
+
+	  <div class="extractsBox col-lg-6 col-md-6">
+                <div class="extractsThumbnail">
+                    <div class="extractsImageDiv">
+                        <div class="hybrid">hybrid</div>
+                        <img src= "../images/couchPotatoEm.JPG" style="height: 100%">
+                    </div>
+                    <div class="extractsItemTitle" id="">Couch Potato</div>
+                    <div class="extractsPrice">
+                        <span>$40 Per </span><br>
+                        <h3>Emerald Extracts</h3>
+                        <p class="descriptionP">Earthy, woody, pungent taste.
+                        Great for Pain, inflamation and insomnia.
+                        </p>
+                    </div>
+                       <br> 
+                    <div id="couchPotato">
+                        <div></div>
+                    </div>
+                    <p class="inventoryPTag">inventory</p>
+                </div>
+            </div>
+
+	  <div class="extractsBox col-lg-6 col-md-6">
+                <div class="extractsThumbnail">
+                    <div class="extractsImageDiv">
+                        <div class="indica">indica</div>
+                        <img src= "../images/purpleUrkleEm.JPG" style="height: 100%">
+                    </div>
+                    <div class="extractsItemTitle" id="">Purple Urkle</div>
+                    <div class="extractsPrice">
+                        <span>$40 Per </span><br>
+                        <h3>Emerald Extracts</h3>
+                        <p class="descriptionP">Sweet, grape, berry taste.
+                        Great for Pain, stress and insomnia.
+                        </p>
+                    </div>
+                       <br> 
+                    <div id="purpleUrkle">
+                        <div></div>
+                    </div>
+                    <p class="inventoryPTag">inventory</p>
+                </div>
+            </div>
+
+	  <div class="extractsBox col-lg-6 col-md-6">
+                <div class="extractsThumbnail">
+                    <div class="extractsImageDiv">
+                        <div class="hybrid">hybrid</div>
+                        <img src= "../images/nardiusHazeEm.JPG" style="height: 100%">
+                    </div>
+                    <div class="extractsItemTitle" id="">Nardius Haze</div>
+                    <div class="extractsPrice">
+                        <span>$40 Per </span><br>
+                        <h3>Emerald Extracts</h3>
+                        <p class="descriptionP">Pungent, earthy, flowery taste.
+                        Great for Pain, stress and relaxation.
+                        </p>
+                    </div>
+                       <br> 
+                    <div id="nardiusHaze">
+                        <div></div>
+                    </div>
+                    <p class="inventoryPTag">inventory</p>
+                </div>
+            </div>
+
+
+	   <div class="extractsBox col-lg-6 col-md-6">
+                <div class="extractsThumbnail">
+                    <div class="extractsImageDiv">
+                        <div class="hybrid">hybrid</div>
+		        <div class="sold out" style="z-index: 1">sold out</div>
+                        <img src= "../images/girlScoutCookiesEm.JPG" style="height: 100%; opacity: 0.3">
+                    </div>
+                    <div class="extractsItemTitle" id="">Girl Scout Cookies</div>
+                    <div class="extractsPrice">
+                        <span>$40 Per </span><br>
+                        <h3>Emerald Extracts</h3>
+                        <p class="descriptionP">Earthy, pungent, sweet taste.
+                        Great for depression, stress and pain.
+                        </p>
+                    </div>
+                       <br> 
+                    <div id="girlScout">
                         <div></div>
                     </div>
                     <p class="inventoryPTag">inventory</p>
@@ -383,117 +613,7 @@
             </div>
 
 
-	  <div class="extractsBox col-lg-6 col-md-6">
-                <div class="extractsThumbnail">
-                    <div class="extractsImageDiv">
-                        <div class="hybrid">hybrid</div>
-                        <img src= "../images/gorillaGlueEm.JPG" style="height: 100%">
-                    </div>
-                    <div class="extractsItemTitle" id="">Gorilla Glue</div>
-                    <div class="extractsPrice">
-                        <span>$40 Per </span><br>
-                        <h3>Emerald Extracts</h3>
-                        <p class="descriptionP">Earthy, pine, pungent taste.
-                        Great for Pain, appetite and insomnia.
-                        </p>
-                    </div>
-                       <br> 
-                    <div id="gorillaGlue">
-                        <div></div>
-                    </div>
-                    <p class="inventoryPTag">inventory</p>
-                </div>
-            </div>
-
-	  <div class="extractsBox col-lg-6 col-md-6">
-                <div class="extractsThumbnail">
-                    <div class="extractsImageDiv">
-                        <div class="hybrid">hybrid</div>
-                        <img src= "../images/couchPotatoEm.JPG" style="height: 100%">
-                    </div>
-                    <div class="extractsItemTitle" id="">Couch Potato</div>
-                    <div class="extractsPrice">
-                        <span>$40 Per </span><br>
-                        <h3>Emerald Extracts</h3>
-                        <p class="descriptionP">Earthy, woody, pungent taste.
-                        Great for Pain, inflamation and insomnia.
-                        </p>
-                    </div>
-                       <br> 
-                    <div id="couchPotato">
-                        <div></div>
-                    </div>
-                    <p class="inventoryPTag">inventory</p>
-                </div>
-            </div>
-
-	  <div class="extractsBox col-lg-6 col-md-6">
-                <div class="extractsThumbnail">
-                    <div class="extractsImageDiv">
-                        <div class="indica">indica</div>
-                        <img src= "../images/purpleUrkleEm.JPG" style="height: 100%">
-                    </div>
-                    <div class="extractsItemTitle" id="">Purple Urkle</div>
-                    <div class="extractsPrice">
-                        <span>$40 Per </span><br>
-                        <h3>Emerald Extracts</h3>
-                        <p class="descriptionP">Sweet, grape, berry taste.
-                        Great for Pain, stress and insomnia.
-                        </p>
-                    </div>
-                       <br> 
-                    <div id="purpleUrkle">
-                        <div></div>
-                    </div>
-                    <p class="inventoryPTag">inventory</p>
-                </div>
-            </div>
-
-	  <div class="extractsBox col-lg-6 col-md-6">
-                <div class="extractsThumbnail">
-                    <div class="extractsImageDiv">
-                        <div class="hybrid">hybrid</div>
-                        <img src= "../images/nardiusHazeEm.JPG" style="height: 100%">
-                    </div>
-                    <div class="extractsItemTitle" id="">Nardius Haze</div>
-                    <div class="extractsPrice">
-                        <span>$40 Per </span><br>
-                        <h3>Emerald Extracts</h3>
-                        <p class="descriptionP">Pungent, earthy, flowery taste.
-                        Great for Pain, stress and relaxation.
-                        </p>
-                    </div>
-                       <br> 
-                    <div id="nardiusHaze">
-                        <div></div>
-                    </div>
-                    <p class="inventoryPTag">inventory</p>
-                </div>
-            </div>
-
-
-	   <div class="extractsBox col-lg-6 col-md-6">
-                <div class="extractsThumbnail">
-                    <div class="extractsImageDiv">
-                        <div class="hybrid">hybrid</div>
-		        <div class="sold out" style="z-index: 1">sold out</div>
-                        <img src= "../images/girlScoutCookiesEm.JPG" style="height: 100%; opacity: 0.3">
-                    </div>
-                    <div class="extractsItemTitle" id="">Girl Scout Cookies</div>
-                    <div class="extractsPrice">
-                        <span>$40 Per </span><br>
-                        <h3>Emerald Extracts</h3>
-                        <p class="descriptionP">Earthy, pungent, sweet taste.
-                        Great for depression, stress and pain.
-                        </p>
-                    </div>
-                       <br> 
-                    <div id="girlScout">
-                        <div></div>
-                    </div>
-                    <p class="inventoryPTag">inventory</p>
-                </div>
-            </div>
+	 
 
 
 
@@ -552,67 +672,7 @@
 
      
 
-            <div class="extractsBox col-lg-6 col-md-6">
-                <div class="extractsThumbnail">
-                    <div class="extractsImageDiv">
-                        <img src= "../images/oilPen.JPG" alt="Oil Pen" style="height:100%">
-                            
-                    </div>
-                    <div class="extractsItemTitle" id="">Phoenix Oil Pen</div>
-                    <div class="extractsPrice">
-                        $35<span> per</span><br>
-                        <p class="penDescription">These pens are different from our shatter pens. They function the same as the shatter pens but are 
-                            infused with phoenix oil instead of the shatter. Phoenix oil is high in cbd's as well as thc, and has many medical benefits.
-                        </p>
-                    </div>
-                    <div id="oilPenInventory">
-                        <div></div>
-                    </div>
-                    <p class="inventoryPTag">inventory</p>
-                </div>
-            </div>
-                
-
-            <div class="extractsBox col-lg-6 col-md-6">
-                <div class="extractsThumbnail">
-                    <div class="extractsImageDiv">
-                        <img src= "../images/pen.JPG" alt="Pen" style="height:100%">
-                            
-                    </div>
-                    <div class="extractsItemTitle" id="">Shatter Pen</div>
-                    <div class="extractsPrice">
-                        $40<span> per</span><br>
-                        <p class="penDescription">These pens are made from an OG Kush
-                        indica relative. Perfect for when on the go or have to be discreet
-                        or even at work. These are pre-loaded and ready
-                        to go, just puff and toss in the trash when
-                        done. Good for up to 300 puffs. (Depending on many factors such as: length of puffs, storage, temp., etc) No 
-                        charging required.
-                        </p>
-                    </div>
-                    <div id="penInventory">
-                        <div></div>
-                    </div>
-                    <p class="inventoryPTag">inventory</p>
-                </div>
-            </div>
-
-            <div class="extractsBox col-lg-6 col-md-6">
-                <div class="extractsThumbnail">
-                    <div class="extractsImageDiv">
-                        <img src= "../images/oilSyringe.JPG" style="height: 100%">
-                    </div>
-                    <div class="extractsItemTitle" id="">Oil Syringe</div>
-                    <div class="extractsPrice">
-                        $30<span> per</span><br>
-                        <p>RSO Oil. Taken orally or can be used for dabs. This oil has long lasting effects and many medical benefits such as relief for seizures, pain, lack of appetite and more</p><br>
-                    </div>
-                    <div id="oilInventory">
-                        <div></div>
-                    </div>
-                    <p class="inventoryPTag">inventory</p>
-                </div>
-            </div>
+            
 
 
             

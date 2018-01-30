@@ -19,9 +19,7 @@
               <li data-target="#myCarousel" data-slide-to="3"></li>
 	      <li data-target="#myCarousel" data-slide-to="4"></li>
 	      <li data-target="#myCarousel" data-slide-to="5"></li>
-	      <li data-target="#myCarousel" data-slide-to="6"></li>
 
-	      <li data-target="#myCarousel" data-slide-to="7"></li>
 
 
           </ol>
@@ -31,6 +29,18 @@
 
 
 	    <div class="item active">
+		<a href="content/extracts.php"><img src="images/grapeDrinkAd.JPG" alt="">
+                
+                <div class="carousel-caption">
+                    <h3>New Premium Extracts!</h3>
+                    <p>Grape Drink & Strawberry Mango<br>
+			              $40 per</p>
+                </div>
+              </a>
+             </div>
+
+
+	    <div class="item">
 		<a href="content/strains.php"><img src="images/monsterCookies.JPG" alt="">
                 
                 <div class="carousel-caption">
@@ -42,15 +52,7 @@
              </div>
 
 
-	    <div class="item">
-		<a href="content/edibles.php"><img src="images/ediblesAd.JPG" alt="">
-                
-                <div class="carousel-caption">
-                    <h3>Check out our New Edibles page!!</h3><p>link is in the menu button(or Click Here)</p>
-
-                </div>
-              </a>
-             </div>
+	   
 
 
 	    <div class="item">
@@ -95,29 +97,8 @@
 
 	    
 
-	    <div class="item">
-              <a href="content/hash.php"><img src="images/habibiAd.JPG" alt="">
-
-                <div class="carousel-caption">
-                    <h3>New Habibi Blonde Hash</h3>
-                    <p>sweet taste!<br>
-	            $15 per gram<br>5g for $70</p>
-                </div>
-              </a>
-            </div>
 
 
-
-	    <div class="item">
-              <a href="content/specials.php"><img src="images/broke.jpg" alt="">
-
-                <div class="carousel-caption">
-                    <p>After Christmas Special!</p>
-		    <p>Jack Herer & Amnesia Haze</p>
-		    <p>15g for $80 & <br>20+ grams for $5 per</p>
-                </div>
-              </a>
-            </div>
 
 
 	     
@@ -234,34 +215,38 @@
         </div>
 
             
+          <div class="row width">
           <div class="col-lg-6 col-md-6">
             <div class="specialsContainer">
               <div class="specialsSquare">
                 <img src="images/dealsBig.png" alt="Specials">
                 <a href="content/specials.php" class="touch">
                   <div class="specialsButton">
-
+                    
                       <p>Specials</p>
                       <img src="images/specialsIcon.png">
-
+                    
                   </div>
                 </a>
               </div>
             </div>
           </div>
-        </div>
 
-        <div class="paraphernaliaContainer">
-          <div class="paraphernaliaSquare">
-            <img src="images/mohoganyGrinder.JPG" alt="Paraphernalia">
-            <a href="content/paraphernalia.php" class="touch">
-              <div class="paraphernaliaButton">
 
-                <p>Paraphernalia</p>
-                <img src="images/paraphernalia.png" alt="icon">
+	  <div class="col-lg-6 col-md-6">
+            <div class="paraphernaliaContainer">
+              <div class="paraphernaliaSquare">
+                <img src="images/mohoganyGrinder.JPG" alt="Paraphernalia">
+                <a href="content/paraphernalia.php" class="touch">
+                  <div class="paraphernaliaButton">
 
+                      <p>Paraphernalia</p>
+                      <img src="images/paraphernalia.png">
+
+                  </div>
+                </a>
               </div>
-            </a>
+            </div>
           </div>
         </div>
 

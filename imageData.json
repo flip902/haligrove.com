@@ -36,7 +36,7 @@
         "pricePerGram" : "$10",
         "pricePerOunce" : "$210",
         "description" : "This dank bud boasts an insanely high THC level that ranges between 25-27% and effects that can end in an almost death-like sleep. Almost immediately after smoking, you'll feel a wave of rushing focused energy wash over you that leaves you uplifted and motivated with tendencies towards having psychoactive experiences. As the high continues, you will be eased into a state of utter relaxation with deep introspection and spaciness that can cause you to become distant in social situations. Upon the comedown from the high, Death Wish pulls you into a deep and peaceful undisturbed sleep that lasts for hours on end, giving you the appearance of being unwakeable.",
-        "inventory" : "full",
+        "inventory" : "med",
           "THC" : "27",
           "taste" : "85",
           "aroma" : "85",
@@ -107,8 +107,8 @@
         "type" : "indica",
         "isNew" : "new",
         "sale" : "sale",
-        "pricePerGram" : "$10",
-        "pricePerOunce" : "$210",
+        "pricePerGram" : "$9",
+        "pricePerOunce" : "$195",
         "description" : "Citrus Bliss, also known as Tangerine Bliss, is an Indica dominant hybrid (75% indica/25% sativa) strain with unknown parentage, although it is thought to be a blend of a Swiss Bliss with another indica strain. The Bliss flavor is extremely delicious and can often lead to some users smoking too much at once without realizing it. With an earthy tropical sweet flavor that is accented by berries and sour citrus, you will want to taste more after just one toke.",
         "inventory" : "full",
           "THC" : "26",
@@ -333,7 +333,7 @@
         "pricePerOunce" : "$210",
         "description" : "Blue Diamond is a mostly indica hybrid. It's buds are big, dense, and tight. The flowers of this plant will give off a sweet and hashy smell that is similar to that of blueberries. The flavor of this strain will also be hashy and could be compared to roasted peanuts. This strain is known for giving the users physical and mental relaxation. This is also known to be a good mood elevator and is recommended for conditions like depression.",
         "inventory" : "full",
-          "THC" : "25",
+          "THC" : "26",
           "taste" : "85",
           "aroma" : "85",
           "pain" : "80",
@@ -438,8 +438,8 @@
           "insomnia" : "77",
           "appetite" : "78",
           "overall" : "80", 
-    "soldOut" : "none",
-    "opacity" : "1"
+    "soldOut" : "sold out",
+    "opacity" : "0.3"
 },
 
 {

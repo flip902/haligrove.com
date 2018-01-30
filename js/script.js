@@ -78,6 +78,14 @@ $(function() {
         $('.extractsSquare').css('background-color', '#947826');
     });
 
+    $('.ediblesButton').hover(function() {
+        $('.ediblesSquare').css('background-color', '#a5e1ff');
+    }, function() {
+        // on mouseout, reset the background colour
+        $('.ediblesSquare').css('background-color', '#75aedc');
+    });
+	
+
     $('.specialsButton').hover(function() {
         $('.specialsSquare').css('background-color', '#68A586');
     }, function() {
