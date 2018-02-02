@@ -16,12 +16,13 @@
       <div class="paraphernaliaBox col-lg-6 col-md-6">
         <div class="paraphernaliaThumbnail">
           <div class="paraphernaliaImageDiv">
+	    <div class="sale">sale</div>
             <img src="../images/gpenWhite.JPG" alt="Gpen" style="height:300px">
           </div>
           <h3 class="paraphernaliaItemTitle">Snoop Dogg G Pen</h3>
           <div class="paraphernaliaPrice">
 	     <p>HERBAL VAPORIZER (WHITE)<br>
-            $60<span> Per</span><br>
+            <span style="text-decoration: line-through">$60 Per</span> sale $50<br>
             
            No need for rolling anymore with this stylish herbal vaporizer. Just load bud into the glass bowl, press the L.E.D button and puff away! USB rechargable.</p>
           </div>
@@ -32,12 +33,13 @@
 <div class="paraphernaliaBox col-lg-6 col-md-6">
         <div class="paraphernaliaThumbnail">
           <div class="paraphernaliaImageDiv">
+	    <div class="sale">sale</div>
             <img src="../images/gpenGreen.JPG" alt="Gpen" style="height:300px">
           </div>
           <h3 class="paraphernaliaItemTitle">Snoop Dogg G Pen</h3>
           <div class="paraphernaliaPrice">
 	     <p>HERBAL VAPORIZER (GREEN)<br>
-            $60<span> Per</span><br>
+            <span style="text-decoration: line-through">$60 Per</span> sale $50<br>
             
            No need for rolling anymore with this stylish herbal vaporizer. Just load bud into the glass bowl, press the L.E.D button and puff away! USB rechargable.</p>
           </div>
@@ -47,12 +49,13 @@
       <div class="paraphernaliaBox col-lg-6 col-md-6">
         <div class="paraphernaliaThumbnail">
           <div class="paraphernaliaImageDiv">
+	    <div class="sale">sale</div>
             <img src="../images/gpenBlue.JPG" alt="Gpen" style="height:300px">
           </div>
           <h3 class="paraphernaliaItemTitle">Snoop Dogg G Pen</h3>
           <div class="paraphernaliaPrice">
 	     <p>HERBAL VAPORIZER (BLUE)<br>
-            $60<span> Per</span><br>
+            <span style="text-decoration: line-through">$60 Per</span> sale $50<br>
             
            No need for rolling anymore with this stylish herbal vaporizer. Just load bud into the glass bowl, press the L.E.D button and puff away! USB rechargable.</p>
           </div>

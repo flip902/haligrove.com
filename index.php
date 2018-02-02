@@ -19,6 +19,7 @@
               <li data-target="#myCarousel" data-slide-to="3"></li>
 	      <li data-target="#myCarousel" data-slide-to="4"></li>
 	      <li data-target="#myCarousel" data-slide-to="5"></li>
+	      <li data-target="#myCarousel" data-slide-to="6"></li>
 
 
 
@@ -27,8 +28,59 @@
           <!-- Wrapper for slides -->
           <div class="carousel-inner">
 
-
 	    <div class="item active">
+		<a href="content/strains.php"><img src="images/gorillaGlue2.JPG" alt="">
+                
+                <div class="carousel-caption">
+                    <h3>Newest Strain!</h3>
+                    <p>Gorilla Glue #2<br>5 for $40<br>10 for $80
+			              </p>
+                </div>
+              </a>
+             </div>
+
+
+
+	    <div class="item">
+              <a href="content/paraphernalia.php"><img src="images/GpenAd.JPG" alt="">
+
+                <div class="carousel-caption">
+                    <h3>February Sale!</h3>
+                    <p>Snoop Dogg Gpens<br>
+	            $50 per <br>2 for $90</p>
+                </div>
+              </a>
+            </div>
+
+	    <div class="item">
+		<a href="content/edibles.php"><img src="images/hotChocolatAd.JPG" alt="">
+                
+                <div class="carousel-caption">
+                    <h3>Check out our 50mg Hot Chocolate!</h3>
+                    <p>sweetened with sugar cane<br>
+			              $12 per 2 for $20</p>
+                </div>
+              </a>
+             </div>
+
+
+
+	    <div class="item">
+		<a href="content/strains.php"><img src="images/monsterTruck.JPG" alt="">
+                
+                <div class="carousel-caption">
+                    <h3>New Strains!</h3>
+                    <p>Monster Truck & Monster Cookies
+			              </p>
+                </div>
+              </a>
+             </div>
+
+
+
+
+
+	    <div class="item">
 		<a href="content/extracts.php"><img src="images/grapeDrinkAd.JPG" alt="">
                 
                 <div class="carousel-caption">
@@ -40,44 +92,11 @@
              </div>
 
 
-	    <div class="item">
-		<a href="content/strains.php"><img src="images/monsterCookies.JPG" alt="">
-                
-                <div class="carousel-caption">
-                    <h3>New Strain!</h3>
-                    <p>Monster Cookies
-			              </p>
-                </div>
-              </a>
-             </div>
+	    
 
 
 	   
-
-
-	    <div class="item">
-              <a href="content/hash.php"><img src="images/afghaniBlackAd.JPG" alt="">
-
-                <div class="carousel-caption">
-                    <h3>New Afghani Black Hash</h3>
-                    <p>Good Quality!<br>
-	            $12 per gram<br>5g for $50</p>
-                </div>
-              </a>
-            </div>
-
-
-
-	     <div class="item">
-		<a href="content/extracts.php"><img src="images/budderAd.JPG" alt="">
-                
-                <div class="carousel-caption">
-                    <h3>New Budder Extracts in!</h3>
-                    <p>
-			              $80 per</p>
-                </div>
-              </a>
-             </div>
+	     
 
 
 	    
@@ -136,7 +155,7 @@
           <h2>About Us</h2>
           <hr class="pinkRule">
           <p>  
-            Welcome to Haligrove. We are Halifax's top Medical Marijuana delivery service. We offer same day service for HRM. All you need to do is look through our products, call or text with your order and location, and that day your order will be delivered. Check our site daily for new products and specials. Our base prices are 5g for $40, 10g for $80. You must be 19+. If you have any questions or concerns please email us at <a href="mailto:info@haligrove.com"> info@haligrove.com</a>. 
+            Welcome to Haligrove. We are Halifax's top Medical Marijuana delivery service. We offer same day service for HRM. All you need to do is look through our products, call or text with your order and location, and that day your order will be delivered. Check our site daily for new products and specials. Our base prices are 5g for $40, 10g for $80. <a href="" style="pointer-events: none; cursor: default">You must be 19+</a> If you have any questions or concerns please email us at <a href="mailto:info@haligrove.com"> info@haligrove.com</a>. 
 
           <!-- <img class="arrow" src="https://cdn3.iconfinder.com/data/icons/google-material-design-icons/48/ic_keyboard_arrow_down_48px-128.png" /> -->
         </div>

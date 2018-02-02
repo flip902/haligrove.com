@@ -41,7 +41,18 @@
         </ul>
         <br>
 
-	<h1 class="pickOTW">After Christmas Special!!</h1>
+	<h1 class="pickOTW">February Sale!</h1>
+	
+	<a href="strains.php#" class="pink">Snoop Dogg G Pens</a>
+        <ui>
+            <li>$50 per</li>
+            <li>2 for $90</li>
+
+        </ul>
+        <br>
+
+
+	<h1 class="pickOTW">ClearOut Special!!</h1>
 	
 	<a href="strains.php#" class="pink">Jack Herer & Amnesia Haze</a>
         <ui>
@@ -61,7 +72,6 @@
 	    <li>28 for $180</li>
 	</ul> 
        <br>
-	<br> 
 
       
 	
@@ -81,7 +91,7 @@
         to make sure we have on hand for you!! ......Thank you!</p><br>
 
         <!-- <img class="arrow" src="https://cdn3.iconfinder.com/data/icons/google-material-design-icons/48/ic_keyboard_arrow_down_48px-128.png" /> -->
-
+	<br>
         <a href="strains.php">All Strains (except strains below)<br> sell as follows:</a><br>
         <ui>
             <li>5g for $40</li>
@@ -91,7 +101,7 @@
         </ul>
         <br>
 	
-        <a href="strains.php">Platinum Bubba, Pure Pineapple,<br>Sour Grapefruit & Strawberry Cough</a>
+        <a href="strains.php">Platinum Bubba, Pure Pineapple, Monster Truck<br>Sour Grapefruit & Strawbrry Cough</a>
 	<ui>
 	    <li>$10 per gram accross the board</li>
 	    <li>$250 per Oz</li>
@@ -114,6 +124,15 @@
         <ui>
             <li>5 for $70</li>
             <li>10 for $135</li>
+        </ul>
+        <br>
+
+
+	<a href="/content/hash.php" class="pinkChalk">Afghani Black</a>
+        <ui>
+            <li>5 for $55</li>
+            <li>10 for $100</li>
+	    <li>28 for $265</li>
         </ul>
         <br>
 	

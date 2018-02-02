@@ -24,7 +24,7 @@
                         </div>
                         <h3 class="hashItemTitle" id="">Afghani Black</h3>
                         <div class="hashPrice">
-                            $12<span> Gram</span> / 5 <span>for</span> $50
+                            $12<span> Gram</span> / 5 <span>for</span> $55
                             <p>Good Quality for a good price!</p>
                         </div>
                         <div id="afghaniBlack">

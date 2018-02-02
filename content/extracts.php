@@ -424,8 +424,7 @@
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
                         <div class="hybrid">hybrid</div>
-		        <div class="sold out" style="z-index: 1">sold out</div>
-                        <img src= "../images/girlScoutCookiesEm.JPG" style="height: 100%; opacity: 0.3">
+                        <img src= "../images/girlScoutCookiesEm.JPG" style="height: 100%; opacity: 1">
                     </div>
                     <div class="extractsItemTitle" id="">Girl Scout Cookies</div>
                     <div class="extractsPrice">
@@ -469,28 +468,7 @@
 
 
 
-	    <div class="extractsBox col-lg-6 col-md-6">
-                <div class="extractsThumbnail">
-                    <div class="extractsImageDiv">
-                        <div class="sativa">sativa</div>
-			<div class="sold out" style="z-index: 1">sold out</div>
-                        <img src= "../images/greenCrackWolf.JPG" style="height: 100%; opacity: 0.3">
-                    </div>
-                    <div class="extractsItemTitle" id="">Green Crack</div>
-                    <div class="extractsPrice">
-                        <span>$40 Per </span><br>
-                        <h3>Wolf Extracts</h3>
-                        <p class="descriptionP">Tangy, fruity, mango.
-                        Great daytime strain. Helps mental alertness.
-                        </p>
-                    </div>
-                       <br> 
-                    <div id="greenCrack">
-                        <div></div>
-                    </div>
-                    <p class="inventoryPTag">inventory</p>
-                </div>
-            </div>
+	    
 
 
 
