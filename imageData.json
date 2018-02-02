@@ -4,6 +4,31 @@
 {
       "id" : "1",
 
+        "name" : "Durban Poison",
+        "src" : "../images/durbanPoison.JPG",
+        "type" : "sativa",
+        "isNew" : "new",
+        "sale" : "none",
+        "pricePerGram" : "$10",
+        "pricePerOunce" : "$210 Ounce",
+        "description" : "This pure sativa originates from the South African port city of Durban. It has gained notoriety worldwide for its sweet smell and energetic, uplifting effects. Durban Poison is the perfect strain to help you stay productive through a busy day, when exploring the outdoors, or to lend a spark of creativity. Growers and concentrate enthusiasts will both enjoy the over-sized resin glands which make this strain a quality choice for concentrate extraction. The buds are round and chunky, and leave a thick coating of trichomes on almost all areas of the plant.",
+        "inventory" : "full",
+          "THC" : "26",
+          "taste" : "85",
+          "aroma" : "85",
+          "pain" : "78",
+          "insomnia" : "73",
+          "appetite" : "74",
+          "overall" : "85", 
+    "soldOut" : "none",
+    "opacity" : "1"
+},
+
+
+
+{
+      "id" : "2",
+
         "name" : "Gorilla Glue #2",
         "src" : "../images/gorillaGlue2.JPG",
         "type" : "hybrid",
@@ -28,7 +53,7 @@
 
 
 {
-      "id" : "2",
+      "id" : "3",
 
         "name" : "Monster Truck",
         "src" : "../images/monsterTruck.JPG",
@@ -53,7 +78,7 @@
 
 
 {
-      "id" : "3",
+      "id" : "4",
 
         "name" : "Monster Cookies",
         "src" : "../images/monsterCookies.JPG",
@@ -77,7 +102,7 @@
 
 
 {
-      "id" : "4",
+      "id" : "5",
 
         "name" : "Death Wish",
         "src" : "../images/deathWish.JPG",
@@ -102,7 +127,7 @@
 
 
 {
-      "id" : "5",
+      "id" : "6",
 
         "name" : "Mango",
         "src" : "../images/mango.JPG",
@@ -127,7 +152,7 @@
 
 
 {
-      "id" : "6",
+      "id" : "7",
 
         "name" : "Strawberry Cough",
         "src" : "../images/strawberryCough.JPG",
@@ -151,7 +176,7 @@
 
 
 {
-      "id" : "7",
+      "id" : "8",
 
         "name" : "Citrus Bliss",
         "src" : "../images/citrusBliss.JPG",
@@ -175,7 +200,7 @@
 
 
 {
-      "id" : "8",
+      "id" : "9",
 
         "name" : "Sour Grapefruit",
         "src" : "../images/sourGrapefruit.JPG",
@@ -199,7 +224,7 @@
 
 
 {
-      "id" : "9",
+      "id" : "10",
 
         "name" : "PK",
         "src" : "../images/pk.JPG",
@@ -224,7 +249,7 @@
 
 
 {
-      "id" : "10",
+      "id" : "11",
 
         "name" : "Richie Rich",
         "src" : "../images/richieRich.JPG",
@@ -249,7 +274,7 @@
 
 
 {
-      "id" : "11",
+      "id" : "12",
 
         "name" : "BlueberryCheesecake",
         "src" : "../images/blueberryCheesecake.JPG",
@@ -274,7 +299,7 @@
 
 
 {
-      "id" : "12",
+      "id" : "13",
 
         "name" : "Pure Pineapple",
         "src" : "../images/purePineapple.JPG",
@@ -298,7 +323,7 @@
 
 
 {
-      "id" : "13",
+      "id" : "14",
 
         "name" : "Sticky Icky",
         "src" : "../images/stickieIcky.JPG",
@@ -322,7 +347,7 @@
 
 
 {
-      "id" : "14",
+      "id" : "15",
 
         "name" : "Obama",
         "src" : "../images/obama.JPG",
@@ -346,7 +371,7 @@
 
 
 {
-      "id" : "15",
+      "id" : "16",
 
         "name" : "Romain Rockstar",
         "src" : "../images/romainRockstar.JPG",
@@ -373,7 +398,7 @@
 
 
 {
-      "id" : "16",
+      "id" : "17",
 
         "name" : "Blue Diamond",
         "src" : "../images/blueDiamond.JPG",
@@ -396,7 +421,7 @@
 },
 
 {
-      "id" : "17",
+      "id" : "18",
 
         "name" : "Purple OG",
         "src" : "../images/purpleOG.JPG",
@@ -420,7 +445,7 @@
 
 
 {
-      "id" : "18",
+      "id" : "19",
 
         "name" : "Platinum Bubba",
         "src" : "../images/platnumBubba.JPG",
@@ -444,7 +469,7 @@
 
 
 {
-      "id" : "19",
+      "id" : "20",
 
         "name" : "Org.Sour Tangerine",
         "src" : "../images/organicSourTangerine.JPG",
@@ -473,7 +498,7 @@
 
 
 {
-      "id" : "20",
+      "id" : "21",
 
         "name" : "King Kush",
         "src" : "../images/kingKush.JPG",
@@ -499,7 +524,7 @@
 
 
 {
-      "id" : "21",
+      "id" : "22",
 
         "name" : "Death Star",
         "src" : "../images/deathStar.JPG",
@@ -528,7 +553,7 @@
 
 
 {
-      "id" : "22",
+      "id" : "23",
 
         "name" : "Yellowfin Tuna",
         "src" : "../images/yellowfinTuna.JPG",
@@ -551,7 +576,7 @@
     },
 
 {
-      "id" : "23",
+      "id" : "24",
 
         "name" : "Blue Dream",
         "src" : "../images/blueDream.JPG",
@@ -581,7 +606,7 @@
 
     {
 
-      "id" : "24",
+      "id" : "25",
 
         "name" : "Pink Kandy Kush",
         "src" : "../images/pinkKandyKush.JPG",
@@ -604,7 +629,7 @@
     },
 
 {
-      "id" : "25",
+      "id" : "26",
 
         "name" : "Pink God",
         "src" : "../images/pinkGod.JPG",
@@ -632,7 +657,7 @@
     
 
     {
-      "id" : "26",
+      "id" : "27",
 
         "name" : "S Lemon Rockstar",
         "src" : "../images/superLemonRockstar.JPG",
@@ -656,7 +681,7 @@
     },
 
     {
-      "id" : "27",
+      "id" : "28",
 
         "name" : "Deep Purple",
         "src" : "../images/deepPurple.JPG",
@@ -685,7 +710,7 @@
 
     
     {
-      "id" : "28",
+      "id" : "29",
 
       "name" : "Nuken",
       "src" : "../images/dukeNuken.JPG",
@@ -709,7 +734,7 @@
     },
 
 {
-      "id" : "29",
+      "id" : "30",
 
         "name" : "Tuna",
         "src" : "../images/newTuna.JPG",
@@ -732,7 +757,7 @@
     },
 
 {
-      "id" : "30",
+      "id" : "31",
 
         "name" : "BC Chemo",
         "src" : "../images/bcChemo.JPG",
@@ -756,7 +781,7 @@
 
 
 {
-      "id" : "31",
+      "id" : "32",
 
         "name" : "Jack Herer",
         "src" : "../images/jackHerer.JPG",
@@ -780,7 +805,7 @@
 
 
 {
-      "id" : "32",
+      "id" : "33",
 
         "name" : "Amnesia Haze",
         "src" : "../images/amnesiaHaze.JPG",
@@ -804,7 +829,7 @@
 
 
 {
-      "id" : "33",
+      "id" : "34",
 
         "name" : "Bottoms",
         "src" : "../images/bottoms.JPG",

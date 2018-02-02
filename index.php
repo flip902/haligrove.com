@@ -29,11 +29,11 @@
           <div class="carousel-inner">
 
 	    <div class="item active">
-		<a href="content/strains.php"><img src="images/gorillaGlue2.JPG" alt="">
+		<a href="content/strains.php"><img src="images/durbanPoison.JPG" alt="">
                 
                 <div class="carousel-caption">
-                    <h3>Newest Strain!</h3>
-                    <p>Gorilla Glue #2<br>5 for $40<br>10 for $80
+                    <h3>Newest Strains!</h3>
+                    <p>Gorilla Glue #2 <br>& Durban Poison<br>5 for $40<br>10 for $80
 			              </p>
                 </div>
               </a>
