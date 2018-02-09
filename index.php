@@ -29,15 +29,73 @@
           <div class="carousel-inner">
 
 	    <div class="item active">
-		<a href="content/strains.php"><img src="images/durbanPoison.JPG" alt="">
+		<a href="content/strains.php"><img src="images/LAGrape.JPG" alt="">
                 
                 <div class="carousel-caption">
-                    <h3>Newest Strains!</h3>
-                    <p>Gorilla Glue #2 <br>& Durban Poison<br>5 for $40<br>10 for $80
+                    <h3>New Strain!</h3>
+                    <p>L.A. Grape<br>5 for $50
 			              </p>
                 </div>
               </a>
              </div>
+
+
+
+	    <div class="item">
+		<a href="content/edibles.php"><img src="images/peanutButterAd.JPG" alt="">
+                
+                <div class="carousel-caption">
+                    <h3>Check out our Peanut Butter Filled Chocolate!</h3>
+                    <p>
+			              $6 per</p>
+                </div>
+              </a>
+             </div>
+
+
+
+
+	    <div class="item">
+		<a href="content/extracts.php"><img src="images/bigBangAd.JPG" alt="">
+                
+                <div class="carousel-caption">
+                    <h3>New Premium Extracts!</h3>
+                    <p>Outer Space & Purple Afghani<br>
+			              $40 per</p>
+                </div>
+              </a>
+             </div>
+
+
+
+	    <div class="item">
+		<a href="content/extracts.php"><img src="images/tripleBerrySugarWaxAd.JPG" alt="">
+                
+                <div class="carousel-caption">
+                    <h3>New Sugar Wax!</h3>
+                    <p>$70 per gram
+			              </p>
+                </div>
+              </a>
+             </div>
+
+
+	     
+
+	    <div class="item">
+		<a href="content/strains.php"><img src="images/mango.JPG" alt="">
+                
+                <div class="carousel-caption">
+                    <h3>Picks Of The Week:</h3>
+                    <p>Mango & <br>BC Chemo<br>
+			              10g for $70<br>28g for $190</p>
+                </div>
+              </a>
+             </div>
+
+
+
+	    
 
 
 
@@ -52,77 +110,12 @@
               </a>
             </div>
 
-	    <div class="item">
-		<a href="content/edibles.php"><img src="images/hotChocolatAd.JPG" alt="">
-                
-                <div class="carousel-caption">
-                    <h3>Check out our 50mg Hot Chocolate!</h3>
-                    <p>sweetened with sugar cane<br>
-			              $12 per 2 for $20</p>
-                </div>
-              </a>
-             </div>
-
-
-
-	    <div class="item">
-		<a href="content/strains.php"><img src="images/monsterTruck.JPG" alt="">
-                
-                <div class="carousel-caption">
-                    <h3>New Strains!</h3>
-                    <p>Monster Truck & Monster Cookies
-			              </p>
-                </div>
-              </a>
-             </div>
-
-
-
-
-
-	    <div class="item">
-		<a href="content/extracts.php"><img src="images/grapeDrinkAd.JPG" alt="">
-                
-                <div class="carousel-caption">
-                    <h3>New Premium Extracts!</h3>
-                    <p>Grape Drink & Strawberry Mango<br>
-			              $40 per</p>
-                </div>
-              </a>
-             </div>
-
-
-	    
-
-
-	   
-	     
-
-
 	    
 
 
 
-	    <div class="item">
-		<a href="content/strains.php"><img src="images/citrusBliss.JPG" alt="">
-                
-                <div class="carousel-caption">
-                    <h3>Picks Of The Week:</h3>
-                    <p>Romain Rockstar & <br>Citrus Bliss<br>
-			              10g for $70<br>28g for $190</p>
-                </div>
-              </a>
-             </div>
-
 	    
-
-
-
-
-
-	     
-
-	   <div class="item">
+            <div class="item">
               <a href="content/strains.php"><img src="images/pinkGod.JPG" alt="">
 
                 <div class="carousel-caption">

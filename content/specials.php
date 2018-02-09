@@ -34,7 +34,8 @@
         <br/>
         <h1 class="pickOTW">This Week:</h1>
 	
-	<a href="strains.php#" class="pink"></a> <a href="strains.php#" class="pink">Romain Rockstar<br>& Citrus Bliss<br>(while supplies last!)</a>
+	<a href="strains.php#" class="pink"></a> <a href="strains.php#" class="pink">Mango<br>& 
+BC Chemo<br>(while supplies last!)</a>
         <ui>
             <li>10 for $70</li>
             <li>28 for $190</li>
@@ -101,7 +102,7 @@
         </ul>
         <br>
 	
-        <a href="strains.php">Platinum Bubba, Pure Pineapple, Monster Truck<br>Sour Grapefruit & Strawbrry Cough</a>
+        <a href="strains.php">Platinum Bubba, Pure Pineapple, <br>Monster Truck & Sour Grapefruit</a>
 	<ui>
 	    <li>$10 per gram accross the board</li>
 	    <li>$250 per Oz</li>
@@ -110,8 +111,8 @@
 
 	<a href="strains.php">
 
-	 Obama and<br>
-	 Organic Sour Tangerine</a>
+	 Obama<br>
+	 </a>
 	<ui>
      	     <li>5g for $45</li>
 	    <li>10 for $80</li>

@@ -19,7 +19,6 @@
 	        <div class="hashBox col-lg-6 col-md-6">
                     <div class="hashThumbnail">
                         <div class="hashImageDiv">
-				<div class="new">new</div>
                                 <img src= "../images/afghaniBlack.JPG" alt="Afghani">
                         </div>
                         <h3 class="hashItemTitle" id="">Afghani Black</h3>

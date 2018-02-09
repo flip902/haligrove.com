@@ -17,7 +17,50 @@
 	    <div class="extractsBox col-lg-6 col-md-6">
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
-			<div class="new">new</div>
+	            <div class="new">new</div>
+                        <img src= "../images/tripleBerrySugarWax.JPG" style="height: 100%">
+                    </div>
+                    <div class="extractsItemTitle" id="">Triple Berry</div>
+                    <div class="extractsPrice">
+                        <h3>1g Sugar Wax ($70 per)</h3>
+                        <p class="descriptionP">
+                        Sugar wax is a marijuana concentrate with full flavor and a slightly grainy texture. It's a little less messy than some of the other types of concentrates as it's a bit thicker and not quite as sticky. Many people prefer sugar wax for its richer, more complex flavor profile.</p>
+                    </div>
+                        
+                    <div id="tripleBerry">
+                        <div></div>
+                    </div>
+                    <p class="inventoryPTag">inventory</p>
+                </div>
+            </div>
+
+
+
+	    <div class="extractsBox col-lg-6 col-md-6">
+                <div class="extractsThumbnail">
+                    <div class="extractsImageDiv">
+	            <div class="new">new</div>
+                        <img src= "../images/rockstarSugarWax.JPG" style="height: 100%">
+                    </div>
+                    <div class="extractsItemTitle" id="">Rockstar</div>
+                    <div class="extractsPrice">
+                        <h3>1g Sugar Wax ($70 per)</h3>
+                        <p class="descriptionP">
+                        highly potent concentrated cannabis extract made from Rockstar cannabis. Recommended for patients with a higher tolerance requiring a stronger medication. </p>
+                    </div>
+                        
+                    <div id="rockstarSugarWax">
+                        <div></div>
+                    </div>
+                    <p class="inventoryPTag">inventory</p>
+                </div>
+            </div>
+
+
+
+	    <div class="extractsBox col-lg-6 col-md-6">
+                <div class="extractsThumbnail">
+                    <div class="extractsImageDiv">
                         <img src= "../images/lemonSourDiesel.JPG" style="height: 100%">
                     </div>
                     <div class="extractsItemTitle" id="">Lemon Sour Diesel</div>
@@ -38,7 +81,6 @@
 	    <div class="extractsBox col-lg-6 col-md-6">
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
-			<div class="new">new</div>
                         <img src= "../images/watermelon.JPG" style="height: 100%">
                     </div>
                     <div class="extractsItemTitle" id="">Watermelon Haze</div>
@@ -173,6 +215,59 @@
                     <p class="inventoryPTag">inventory</p>
                 </div>
             </div>
+
+
+	<div class="extractsBox col-lg-6 col-md-6">
+                <div class="extractsThumbnail">
+                    <div class="extractsImageDiv">
+
+			<div class="new">new</div>
+                        <div class="sativa">sativa</div>
+                        <img src= "../images/bigBang.JPG" style="height: 100%">
+                    </div>
+                    <div class="extractsItemTitle" id="">Outer Space</div>
+                    <div class="extractsPrice">
+                        <span>$40 Per </span><br>
+                        <h3>Big Bang Extracts</h3>
+                        <p class="descriptionP">Earthy, pine, lemon taste.
+                        Energetic, happy, uplifting high.
+                        </p>
+                    </div>
+                       <br> 
+                    <div id="bigBang">
+                        <div></div>
+                    </div>
+                    <p class="inventoryPTag">inventory</p>
+                </div>
+            </div>
+
+
+
+
+          <div class="extractsBox col-lg-6 col-md-6">
+                <div class="extractsThumbnail">
+                    <div class="extractsImageDiv">
+
+			<div class="new">new</div>
+                        <div class="indica">indica</div>
+                        <img src= "../images/purpleAfghani.JPG" style="height: 100%">
+                    </div>
+                    <div class="extractsItemTitle" id="">Purple Afghani</div>
+                    <div class="extractsPrice">
+                        <span>$40 Per </span><br>
+                        <h3>Firerock Extracts</h3>
+                        <p class="descriptionP">Medical Grade Indica.
+                        Great for Pain, stress and inflamation.
+                        </p>
+                    </div>
+                       <br> 
+                    <div id="purpleAfghani">
+                        <div></div>
+                    </div>
+                    <p class="inventoryPTag">inventory</p>
+                </div>
+            </div>
+
 
 
 
