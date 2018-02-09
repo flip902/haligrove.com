@@ -24,7 +24,7 @@
                     <div class="extractsPrice">
                         <h3>1g Sugar Wax ($70 per)</h3>
                         <p class="descriptionP">
-                        Sugar wax is a marijuana concentrate with full flavor and a slightly grainy texture. It's a little less messy than some of the other types of concentrates as it's a bit thicker and not quite as sticky. Many people prefer sugar wax for its richer, more complex flavor profile.</p>
+                        Sugar wax is a marijuana concentrate with full flavor and a slightly grainy texture. Many people prefer sugar wax for its richer, more complex flavor profile.</p>
                     </div>
                         
                     <div id="tripleBerry">

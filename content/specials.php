@@ -102,7 +102,7 @@ BC Chemo<br>(while supplies last!)</a>
         </ul>
         <br>
 	
-        <a href="strains.php">Platinum Bubba, Pure Pineapple, <br>Monster Truck & Sour Grapefruit</a>
+        <a href="strains.php">LA Grape, Platinum Bubba, Pure Pineapple, <br>Monster Truck & Sour Grapefruit</a>
 	<ui>
 	    <li>$10 per gram accross the board</li>
 	    <li>$250 per Oz</li>

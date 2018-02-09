@@ -61,7 +61,57 @@
         </div>
       </div>
 
+      <div class="paraphernaliaBox col-lg-6 col-md-6">
+        <div class="paraphernaliaThumbnail">
+          <div class="paraphernaliaImageDiv">
+	    <div class="new">new</div>
+            <img src="../images/chocolateBar.jpg" alt="" style="height:300px">
+          </div>
+          <h3 class="paraphernaliaItemTitle">Toffe Coffee</h3>
+          <div class="paraphernaliaPrice">
+	     <p>Chocolate Bar (may contain nuts)<br>
+            $20<span> Per</span><br>
+            
+           Contains 200mg winterized BHO, all natural, great for pain and insomnia.</p>
+          </div>
+        </div>
+      </div>
 
+
+
+      <div class="paraphernaliaBox col-lg-6 col-md-6">
+        <div class="paraphernaliaThumbnail">
+          <div class="paraphernaliaImageDiv">
+	    <div class="new">new</div>
+            <img src="../images/chocolateBar.jpg" alt="" style="height:300px">
+          </div>
+          <h3 class="paraphernaliaItemTitle">Fruit and Nut</h3>
+          <div class="paraphernaliaPrice">
+	     <p>Chocolate Bar (may contain nuts)<br>
+            $20<span> Per</span><br>
+            
+           Contains 200mg winterized BHO, all natural, great for pain and insomnia.</p>
+          </div>
+        </div>
+      </div>
+
+
+
+      <div class="paraphernaliaBox col-lg-6 col-md-6">
+        <div class="paraphernaliaThumbnail">
+          <div class="paraphernaliaImageDiv">
+	    <div class="new">new</div>
+            <img src="../images/chocolateBar.jpg" alt="" style="height:300px">
+          </div>
+          <h3 class="paraphernaliaItemTitle">Hazelnut</h3>
+          <div class="paraphernaliaPrice">
+	     <p>Chocolate Bar (may contain nuts)<br>
+            $20<span> Per</span><br>
+            
+           Contains 200mg winterized BHO, all natural, great for pain and insomnia.</p>
+          </div>
+        </div>
+      </div>
 
 
 

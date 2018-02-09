@@ -40,6 +40,18 @@
              </div>
 
 
+	    <div class="item">
+		<a href="content/edibles.php"><img src="images/barAd.JPG" alt="">
+                
+                <div class="carousel-caption">
+                    <h3>New Chocolate Bar Flavors!</h3>
+                    <p>$20 per
+			              </p>
+                </div>
+              </a>
+             </div>
+
+
 
 	    <div class="item">
 		<a href="content/edibles.php"><img src="images/peanutButterAd.JPG" alt="">
@@ -68,16 +80,7 @@
 
 
 
-	    <div class="item">
-		<a href="content/extracts.php"><img src="images/tripleBerrySugarWaxAd.JPG" alt="">
-                
-                <div class="carousel-caption">
-                    <h3>New Sugar Wax!</h3>
-                    <p>$70 per gram
-			              </p>
-                </div>
-              </a>
-             </div>
+	    
 
 
 	     
