@@ -1,8 +1,36 @@
 {
     "images" : [
 
+
 {
       "id" : "1",
+
+        "name" : "The Board",
+        "src" : "../images/board.JPG",
+        "type" : "indica",
+        "isNew" : "new",
+        "sale" : "none",
+        "pricePerGram" : "5 for $50 $12",
+        "pricePerOunce" : "$280 Ounce",
+        "description" : "This rare indica is unmatched in strength. Board has a sweet taste and an intensified  high that lasts longer then any other strain on the market, it is a must try! The bud on our signature strain is extremely dense and sticky a blender (coffee grinder) is a must!",
+        "inventory" : "full",
+          "THC" : "28",
+          "taste" : "94",
+          "aroma" : "92",
+          "pain" : "97",
+          "insomnia" : "98",
+          "appetite" : "94",
+          "overall" : "96", 
+    "soldOut" : "none",
+    "opacity" : "1"
+},
+
+
+
+
+
+{
+      "id" : "2",
 
         "name" : "L.A. Grape",
         "src" : "../images/LAGrape.JPG",
@@ -26,7 +54,7 @@
 
 
 {
-      "id" : "2",
+      "id" : "3",
 
         "name" : "Kush Darling",
         "src" : "../images/kushDarling.JPG",
@@ -51,13 +79,13 @@
 
 
 {
-      "id" : "3",
+      "id" : "4",
 
         "name" : "Durban Poison",
         "src" : "../images/durbanPoison.JPG",
         "type" : "sativa",
         "isNew" : "new",
-        "sale" : "none",
+        "sale" : "sale",
         "pricePerGram" : "$10",
         "pricePerOunce" : "$210 Ounce",
         "description" : "This pure sativa originates from the South African port city of Durban. It has gained notoriety worldwide for its sweet smell and energetic, uplifting effects. Durban Poison is the perfect strain to help you stay productive through a busy day, when exploring the outdoors, or to lend a spark of creativity. Growers and concentrate enthusiasts will both enjoy the over-sized resin glands which make this strain a quality choice for concentrate extraction. The buds are round and chunky, and leave a thick coating of trichomes on almost all areas of the plant.",
@@ -76,7 +104,7 @@
 
 
 {
-      "id" : "4",
+      "id" : "5",
 
         "name" : "Gorilla Glue #2",
         "src" : "../images/gorillaGlue2.JPG",
@@ -101,28 +129,7 @@
 
 
 
-{
-      "id" : "5",
 
-        "name" : "Monster Truck",
-        "src" : "../images/monsterTruck.JPG",
-        "type" : "hybrid",
-        "isNew" : "new",
-        "sale" : "none",
-        "pricePerGram" : "5 for $50/$12",
-        "pricePerOunce" : "$250 Ounce",
-        "description" : "Monster Truck is an extremely rare indica dominant hybrid strain with unknown parentage due to a high level of breeder secrecy and a general lack of information about the product. Regardless of its heritage, Monster Truck is one potent bud that is perfect for any indica lover, especially given its powerful 22-29% average THC level and heavy effects. The high starts with an energized effect that hits you fast and hard, infusing you with a clear-headed sense of focus that leaves you motivated and ready to hit back at anything that comes your way. A relaxing body buzz comes next, washing over you in calming waves of slight numbness without weighing you down. With these long-lasting effects, Monster Truck is one bud that would be perfect for treating conditions such as chronic fatigue, depression, headaches or migraines, and ADD or ADHD. This bud has dense grape-shaped olive green nugs with dark leaves, long thin orange hairs and a frosty thick coating of tiny lavender colored crystal trichomes. Monster Truck has a super strong pungent and rich spicy smooth flavor and an aroma to match.",
-        "inventory" : "low",
-          "THC" : "29",
-          "taste" : "87",
-          "aroma" : "87",
-          "pain" : "85",
-          "insomnia" : "85",
-          "appetite" : "85",
-          "overall" : "87", 
-    "soldOut" : "none",
-    "opacity" : "1"
-},
 
 
 
@@ -169,8 +176,8 @@
           "insomnia" : "86",
           "appetite" : "82",
           "overall" : "85", 
-    "soldOut" : "none",
-    "opacity" : "1"
+    "soldOut" : "sold out",
+    "opacity" : "0.3"
 },
 
 
@@ -210,7 +217,7 @@
         "src" : "../images/citrusBliss.JPG",
         "type" : "indica",
         "isNew" : "none",
-        "sale" : "none",
+        "sale" : "sale",
         "pricePerGram" : "$9",
         "pricePerOunce" : "$195 Ounce",
         "description" : "Citrus Bliss, also known as Tangerine Bliss, is an Indica dominant hybrid (75% indica/25% sativa) strain with unknown parentage, although it is thought to be a blend of a Swiss Bliss with another indica strain. The Bliss flavor is extremely delicious and can often lead to some users smoking too much at once without realizing it. With an earthy tropical sweet flavor that is accented by berries and sour citrus, you will want to taste more after just one toke.",
@@ -227,32 +234,11 @@
 },
 
 
+
+
+
 {
       "id" : "10",
-
-        "name" : "Sour Grapefruit",
-        "src" : "../images/sourGrapefruit.JPG",
-        "type" : "sativa",
-        "isNew" : "none",
-        "sale" : "none",
-        "pricePerGram" : "5 for $50 $10",
-        "pricePerOunce" : "$250 Ounce",
-        "description" : "This potent sativa was developed by crossing Cinderella 99 with a fast-flowering sativa selected for its rich grapefruit flavor. The tropical, citrus smell of Grapefruit mixes with energetic effects to give you a happy stress-reliever that also works well for battling migraine headaches.",
-        "inventory" : "low",
-          "THC" : "26",
-          "taste" : "86",
-          "aroma" : "86",
-          "pain" : "83",
-          "insomnia" : "76",
-          "appetite" : "83",
-          "overall" : "86", 
-    "soldOut" : "none",
-    "opacity" : "1"
-},
-
-
-{
-      "id" : "11",
 
         "name" : "PK",
         "src" : "../images/pk.JPG",
@@ -277,7 +263,7 @@
 
 
 {
-      "id" : "12",
+      "id" : "11",
 
         "name" : "Richie Rich",
         "src" : "../images/richieRich.JPG",
@@ -302,7 +288,7 @@
 
 
 {
-      "id" : "13",
+      "id" : "12",
 
         "name" : "BlueberryCheesecake",
         "src" : "../images/blueberryCheesecake.JPG",
@@ -327,7 +313,7 @@
 
 
 {
-      "id" : "14",
+      "id" : "13",
 
         "name" : "Pure Pineapple",
         "src" : "../images/purePineapple.JPG",
@@ -351,7 +337,7 @@
 
 
 {
-      "id" : "15",
+      "id" : "14",
 
         "name" : "Sticky Icky",
         "src" : "../images/stickieIcky.JPG",
@@ -375,7 +361,7 @@
 
 
 {
-      "id" : "16",
+      "id" : "15",
 
         "name" : "Obama",
         "src" : "../images/obama.JPG",
@@ -399,13 +385,13 @@
 
 
 {
-      "id" : "17",
+      "id" : "16",
 
         "name" : "Romain Rockstar",
         "src" : "../images/romainRockstar.JPG",
         "type" : "hybrid",
         "isNew" : "none",
-        "sale" : "none",
+        "sale" : "sale",
         "pricePerGram" : "$10",
         "pricePerOunce" : "$200 Ounce",
         "description" : "Romain Rockstar is a potent indica-dominant hybrid that delivers strong effects without debilitating sedation. With aromatic notes of spice and grape, Rockstar is a favorite medicine for headaches, pain, and sleep disorders.",
@@ -426,7 +412,7 @@
 
 
 {
-      "id" : "18",
+      "id" : "17",
 
         "name" : "Blue Diamond",
         "src" : "../images/blueDiamond.JPG",
@@ -449,7 +435,7 @@
 },
 
 {
-      "id" : "19",
+      "id" : "18",
 
         "name" : "Purple OG",
         "src" : "../images/purpleOG.JPG",
@@ -473,7 +459,7 @@
 
 
 {
-      "id" : "20",
+      "id" : "19",
 
         "name" : "Platinum Bubba",
         "src" : "../images/platnumBubba.JPG",
@@ -505,7 +491,7 @@
 
 
 {
-      "id" : "21",
+      "id" : "20",
 
         "name" : "King Kush",
         "src" : "../images/kingKush.JPG",
@@ -531,7 +517,7 @@
 
 
 {
-      "id" : "22",
+      "id" : "21",
 
         "name" : "Death Star",
         "src" : "../images/deathStar.JPG",
@@ -560,7 +546,7 @@
 
 
 {
-      "id" : "23",
+      "id" : "22",
 
         "name" : "Yellowfin Tuna",
         "src" : "../images/yellowfinTuna.JPG",
@@ -583,7 +569,7 @@
     },
 
 {
-      "id" : "24",
+      "id" : "23",
 
         "name" : "Blue Dream",
         "src" : "../images/blueDream.JPG",
@@ -613,13 +599,13 @@
 
     {
 
-      "id" : "25",
+      "id" : "24",
 
         "name" : "Pink Kandy Kush",
         "src" : "../images/pinkKandyKush.JPG",
         "type" : "indica",
         "isNew" : "none",
-        "sale" : "none",
+        "sale" : "sale",
         "pricePerGram" : "$10",
         "pricePerOunce" : "$210 Ounce",
         "description" : "Pink hairs burst from bright green buds barely visible under a blanket of sugar-like trichomes, with traces of a sweet vanilla and candy perfume. The potency of this strain could be considered overpowering, and even small doses are known to eliminate pain, insomnia, and appetite loss.",
@@ -636,7 +622,7 @@
     },
 
 {
-      "id" : "26",
+      "id" : "25",
 
         "name" : "Pink God",
         "src" : "../images/pinkGod.JPG",
@@ -664,7 +650,7 @@
     
 
     {
-      "id" : "27",
+      "id" : "26",
 
         "name" : "S Lemon Rockstar",
         "src" : "../images/superLemonRockstar.JPG",
@@ -695,7 +681,7 @@
 
     
     {
-      "id" : "28",
+      "id" : "27",
 
       "name" : "Nuken",
       "src" : "../images/dukeNuken.JPG",
@@ -719,7 +705,7 @@
     },
 
 {
-      "id" : "29",
+      "id" : "28",
 
         "name" : "Tuna",
         "src" : "../images/newTuna.JPG",
@@ -742,7 +728,7 @@
     },
 
 {
-      "id" : "30",
+      "id" : "29",
 
         "name" : "BC Chemo",
         "src" : "../images/bcChemo.JPG",
@@ -766,7 +752,7 @@
 
 
 {
-      "id" : "31",
+      "id" : "30",
 
         "name" : "Jack Herer",
         "src" : "../images/jackHerer.JPG",
@@ -790,7 +776,7 @@
 
 
 {
-      "id" : "32",
+      "id" : "31",
 
         "name" : "Amnesia Haze",
         "src" : "../images/amnesiaHaze.JPG",
@@ -808,13 +794,13 @@
           "insomnia" : "70",
           "appetite" : "75",
           "overall" : "71", 
-    "soldOut" : "none",
-    "opacity" : "1"
+    "soldOut" : "sold out",
+    "opacity" : "0.3"
 },
 
 
 {
-      "id" : "33",
+      "id" : "32",
 
         "name" : "Bottoms",
         "src" : "../images/bottoms.JPG",

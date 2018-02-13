@@ -19,7 +19,6 @@
               <li data-target="#myCarousel" data-slide-to="3"></li>
 	      <li data-target="#myCarousel" data-slide-to="4"></li>
 	      <li data-target="#myCarousel" data-slide-to="5"></li>
-	      <li data-target="#myCarousel" data-slide-to="6"></li>
 
 
 
@@ -29,6 +28,18 @@
           <div class="carousel-inner">
 
 	    <div class="item active">
+		<a href="content/specials.php"><img src="images/blowout.jpg" alt="">
+                
+                <div class="carousel-caption">
+                    <h3>Blowout Sale on numerous Strains!</h3>
+                    <p>Tap Here to go to specials</p>
+                </div>
+              </a>
+             </div>
+
+
+
+	    <div class="item">
 		<a href="content/strains.php"><img src="images/LAGrape.JPG" alt="">
                 
                 <div class="carousel-caption">
@@ -85,16 +96,7 @@
 
 	     
 
-	    <div class="item">
-		<a href="content/strains.php"><img src="images/mango.JPG" alt="">
-                
-                <div class="carousel-caption">
-                    <h3>Picks Of The Week:</h3>
-                    <p>Mango & <br>BC Chemo<br>
-			              10g for $70<br>28g for $190</p>
-                </div>
-              </a>
-             </div>
+	    
 
 
 
@@ -118,17 +120,7 @@
 
 
 	    
-            <div class="item">
-              <a href="content/strains.php"><img src="images/pinkGod.JPG" alt="">
-
-                <div class="carousel-caption">
-                    <h3>Overstock of Pink God & Yellowfin Tuna</h3>
-                    <p>5g for $35<br>
-	            10 for $65<br>
-		     28 for $180</p>
-                </div>
-              </a>
-            </div>  
+              
 
 	   
           
