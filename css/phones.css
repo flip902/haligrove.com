@@ -187,7 +187,7 @@
 
 #goombaSmash > div {
   background-color: #C9DF78;
-  width: 100%; /* Adjust with JavaScript */
+  width: 80%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -232,7 +232,7 @@
 
 #couchPotato > div {
   background-color: #C9DF78;
-  width: 60%; /* Adjust with JavaScript */
+  width: 40%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -338,7 +338,7 @@
 
 #resinInventory > div {
   background-color: #C9DF78;
-  width: 80%; /* Adjust with JavaScript */
+  width: 40%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -415,7 +415,7 @@
 
 #godBud > div {
   background-color: #C9DF78;
-  width: 80%; /* Adjust with JavaScript */
+  width: 40%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -446,7 +446,7 @@
 
 #lightningSkunk > div {
   background-color: #C9DF78;
-  width: 100%; /* Adjust with JavaScript */
+  width: 80%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -462,7 +462,7 @@
 
 #vampirePink > div {
   background-color: #C9DF78;
-  width: 100%; /* Adjust with JavaScript */
+  width: 50%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -556,6 +556,68 @@
 }
 
 #rockstarSugarWax > div {
+  background-color: #C9DF78;
+  width: 100%; /* Adjust with JavaScript */
+  height: 20px;
+  border-radius: 10px;
+}
+
+
+#goldenGoat {
+  width: 80%;
+  background-color: black;
+  border-radius: 13px; /* (height of inner div) / 2 + padding */
+  padding: 3px;
+  margin: 0 auto 0 auto;
+}
+
+#goldenGoat > div {
+  background-color: #C9DF78;
+  width: 100%; /* Adjust with JavaScript */
+  height: 20px;
+  border-radius: 10px;
+}
+
+#deathStarInventory {
+  width: 80%;
+  background-color: black;
+  border-radius: 13px; /* (height of inner div) / 2 + padding */
+  padding: 3px;
+  margin: 0 auto 0 auto;
+}
+
+#deathStarInventory > div {
+  background-color: #C9DF78;
+  width: 100%; /* Adjust with JavaScript */
+  height: 20px;
+  border-radius: 10px;
+}
+
+
+#masterKushInventory {
+  width: 80%;
+  background-color: black;
+  border-radius: 13px; /* (height of inner div) / 2 + padding */
+  padding: 3px;
+  margin: 0 auto 0 auto;
+}
+
+#masterKushInventory > div {
+  background-color: #C9DF78;
+  width: 100%; /* Adjust with JavaScript */
+  height: 20px;
+  border-radius: 10px;
+}
+
+#godsGiftInventory {
+  width: 80%;
+  background-color: black;
+  border-radius: 13px; /* (height of inner div) / 2 + padding */
+  padding: 3px;
+  margin: 0 auto 0 auto;
+}
+
+#godsGiftInventory > div {
   background-color: #C9DF78;
   width: 100%; /* Adjust with JavaScript */
   height: 20px;
@@ -669,7 +731,7 @@
 
 #afghaniBlack > div {
   background-color: #C9DF78;
-  width: 100%; /* Adjust with JavaScript */
+  width: 80%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }

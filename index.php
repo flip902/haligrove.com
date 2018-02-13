@@ -28,6 +28,44 @@
           <div class="carousel-inner">
 
 	    <div class="item active">
+		<a href="content/strains.php"><img src="images/board.JPG" alt="">
+                
+                <div class="carousel-caption">
+                    <h3>We now have a signature strain!</h3>
+                    <p>"The Board"<br>5 for $50
+			              </p>
+                </div>
+              </a>
+             </div>
+
+
+	    <div class="item">
+		<a href="content/strains.php"><img src="images/superSourStrawberryBanana.JPG" alt="">
+                
+                <div class="carousel-caption">
+                    <h3>new sativa!</h3>
+                    <p>Super Sour Strawberry Banana
+			              </p>
+                </div>
+              </a>
+             </div>
+
+
+
+	    <div class="item">
+		<a href="content/extracts.php"><img src="images/masterKushShatterAd.JPG" alt="">
+                
+                <div class="carousel-caption">
+                    <h3>New Extracts!</h3>
+                    <p>2 Emerald Extracts and 2 new premium
+			              </p>
+                </div>
+              </a>
+             </div>
+
+
+
+	    <div class="item">
 		<a href="content/specials.php"><img src="images/blowout.jpg" alt="">
                 
                 <div class="carousel-caption">
@@ -39,28 +77,6 @@
 
 
 
-	    <div class="item">
-		<a href="content/strains.php"><img src="images/LAGrape.JPG" alt="">
-                
-                <div class="carousel-caption">
-                    <h3>New Strain!</h3>
-                    <p>L.A. Grape<br>5 for $50
-			              </p>
-                </div>
-              </a>
-             </div>
-
-
-	    <div class="item">
-		<a href="content/edibles.php"><img src="images/barAd.JPG" alt="">
-                
-                <div class="carousel-caption">
-                    <h3>New Chocolate Bar Flavors!</h3>
-                    <p>$20 per
-			              </p>
-                </div>
-              </a>
-             </div>
 
 
 
@@ -78,29 +94,6 @@
 
 
 
-	    <div class="item">
-		<a href="content/extracts.php"><img src="images/bigBangAd.JPG" alt="">
-                
-                <div class="carousel-caption">
-                    <h3>New Premium Extracts!</h3>
-                    <p>Outer Space & Purple Afghani<br>
-			              $40 per</p>
-                </div>
-              </a>
-             </div>
-
-
-
-	    
-
-
-	     
-
-	    
-
-
-
-	    
 
 
 

@@ -18,6 +18,51 @@
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
 	            <div class="new">new</div>
+                        <img src= "../images/godsGiftShatter.JPG" style="height: 100%">
+                    </div>
+                    <div class="extractsItemTitle" id="">Gods Gift</div>
+                    <div class="extractsPrice">
+                        <h3>1g Shatter ($55 per)</h3>
+                        <p class="descriptionP">
+                        Gods Gift Shatter offers soothing physical relief and a surge of mental relaxation and euphoria. With swirling flavors of berry and sweet citrus, God's Gift boasts subtle aromas and powerful pain-relieving properties.</p>
+                    </div>
+                        
+                    <div id="godsGiftInventory">
+                        <div></div>
+                    </div>
+                    <p class="inventoryPTag">inventory</p>
+                </div>
+            </div>
+
+
+
+
+	    <div class="extractsBox col-lg-6 col-md-6">
+                <div class="extractsThumbnail">
+                    <div class="extractsImageDiv">
+	            <div class="new">new</div>
+                        <img src= "../images/masterKushShatter.JPG" style="height: 100%">
+                    </div>
+                    <div class="extractsItemTitle" id="">Master Kush</div>
+                    <div class="extractsPrice">
+                        <h3>1g Shatter ($55 per)</h3>
+                        <p class="descriptionP">
+                        Master Kush Shatter is considered to be a heavy strain that helps most with chronic aches and pains, appetite stimulation, arthritis/inflammation, insomnia, PTSD, and depression.</p>
+                    </div>
+                        
+                    <div id="masterKushInventory">
+                        <div></div>
+                    </div>
+                    <p class="inventoryPTag">inventory</p>
+                </div>
+            </div>
+
+
+
+	    <div class="extractsBox col-lg-6 col-md-6">
+                <div class="extractsThumbnail">
+                    <div class="extractsImageDiv">
+	            <div class="new">new</div>
                         <img src= "../images/tripleBerrySugarWax.JPG" style="height: 100%">
                     </div>
                     <div class="extractsItemTitle" id="">Triple Berry</div>
@@ -65,7 +110,7 @@
                     </div>
                     <div class="extractsItemTitle" id="">Lemon Sour Diesel</div>
                     <div class="extractsPrice">
-                        <h3>1g Budder ($80 per)</h3>
+                        <h3>1g Budder ($70 per)</h3>
                         <p class="descriptionP">
                         One gram contains approximately 40 hits. Each hit is the equivalent of 1-2 full joints, making this product dollar-for-dollar the most economical way to experience the full medical benefits of cannabis.</p>
                     </div>
@@ -86,7 +131,7 @@
                     <div class="extractsItemTitle" id="">Watermelon Haze</div>
                     <div class="extractsPrice">
                         
-                        <h3>1g Budder ($80 per)</h3>
+                        <h3>1g Budder ($70 per)</h3>
                         <p class="descriptionP">
 			It takes 28 grams of premium buds (not leaf or shake) to make 3 grams of Budder. Budder is the result of adding light heat and agitation to BHO. Budder is totally opaque and known for its easy-to-use consistency.	
                         </p>
@@ -315,6 +360,55 @@
                     </div>
                        <br> 
                     <div id="vampirePink">
+                        <div></div>
+                    </div>
+                    <p class="inventoryPTag">inventory</p>
+                </div>
+            </div>
+
+	    <div class="extractsBox col-lg-6 col-md-6">
+                <div class="extractsThumbnail">
+                    <div class="extractsImageDiv">
+                        <div class="new">new</div>
+                        <div class="hybrid">hybrid</div>
+                        <img src= "../images/goldenGoat.JPG" style="height: 100%">
+                    </div>
+                    <div class="extractsItemTitle" id="">Golden Goat</div>
+                    <div class="extractsPrice">
+                        <span>$40 Per </span><br>
+                        <h3>Emerald Extracts</h3>
+                        <p class="descriptionP">Earthy, citrus, sweet taste.
+                        Great for Pain, stress and depression.
+                        </p>
+                    </div>
+                       <br> 
+                    <div id="goldenGoat">
+                        <div></div>
+                    </div>
+                    <p class="inventoryPTag">inventory</p>
+                </div>
+            </div>
+
+
+
+
+	    <div class="extractsBox col-lg-6 col-md-6">
+                <div class="extractsThumbnail">
+                    <div class="extractsImageDiv">
+                        <div class="new">new</div>
+                        <div class="indica">indica</div>
+                        <img src= "../images/deathStarExtract.JPG" style="height: 100%">
+                    </div>
+                    <div class="extractsItemTitle" id="">Death Star</div>
+                    <div class="extractsPrice">
+                        <span>$40 Per </span><br>
+                        <h3>Emerald Extracts</h3>
+                        <p class="descriptionP">Pungent earthy, diesel taste.
+                        Great for Pain, stress and insomnia.
+                        </p>
+                    </div>
+                       <br> 
+                    <div id="deathStarInventory">
                         <div></div>
                     </div>
                     <p class="inventoryPTag">inventory</p>

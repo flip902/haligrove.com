@@ -12,7 +12,7 @@
         "sale" : "none",
         "pricePerGram" : "5 for $50 $12",
         "pricePerOunce" : "$280 Ounce",
-        "description" : "This rare indica is unmatched in strength. Board has a sweet taste and an intensified  high that lasts longer then any other strain on the market, it is a must try! The bud on our signature strain is extremely dense and sticky a blender (coffee grinder) is a must!",
+        "description" : "This rare indica is unmatched in strength. Board has a sweet taste and an intensified  high that lasts longer then any other strain on the market, it is a must try! The bud on our signature strain is extremely dense and sticky. A blender (coffee grinder) is a must!",
         "inventory" : "full",
           "THC" : "28",
           "taste" : "94",
@@ -26,11 +26,35 @@
 },
 
 
+{
+      "id" : "2",
+
+        "name" : "S.S.S.B",
+        "src" : "../images/superSourStrawberryBanana.JPG",
+        "type" : "sativa",
+        "isNew" : "new",
+        "sale" : "none",
+        "pricePerGram" : "5 for $50 $12",
+        "pricePerOunce" : "$250 Ounce",
+        "description" : "Super Sour Strawberry Banana",
+        "inventory" : "full",
+          "THC" : "27",
+          "taste" : "87",
+          "aroma" : "87",
+          "pain" : "80",
+          "insomnia" : "80",
+          "appetite" : "88",
+          "overall" : "87", 
+    "soldOut" : "none",
+    "opacity" : "1"
+},
+
+
 
 
 
 {
-      "id" : "2",
+      "id" : "3",
 
         "name" : "L.A. Grape",
         "src" : "../images/LAGrape.JPG",
@@ -40,7 +64,7 @@
         "pricePerGram" : "5 for $50 $12",
         "pricePerOunce" : "$250 Ounce",
         "description" : "DNA Genetics, LA Grape is an above average yielding Indica heavy hybrid that was recently released on DNAs Limited line and will quickly become a hard to find variety. This tasty and stoney hybrid is comprised of a hard hitting Grapefruit hybrid from their very first catalogue and their flagship Afghani Indica hybrid, the LA Confidential. This created a very strong and stout Indica that has a fairly high bud to leaf ratio and produces rather large yields of massive buds just dripping with crystal clear resin glands. Combining those two amazing DNA favorites produced a very tasty Indica dominant hybrid thats flowers exude a sweet coffee flavor and aroma that can easily compete with even the funkiest of OG Kushs out there. Following the mouthwatering flavor palette of this wonderful hybrid is a very relaxing and somewhat sedative Indica heavy body stone that quickly soothes your entire body while a bit of a nice cerebral head buzz comes in to stimulate your mind as well. This makes LA Grape a great smoke to chill with at the end of a crazy busy day or even just something to help you get one of the best nights sleep youve had in a long time.",
-        "inventory" : "full",
+        "inventory" : "low",
           "THC" : "27",
           "taste" : "87",
           "aroma" : "87",
@@ -54,7 +78,7 @@
 
 
 {
-      "id" : "3",
+      "id" : "4",
 
         "name" : "Kush Darling",
         "src" : "../images/kushDarling.JPG",
@@ -79,7 +103,7 @@
 
 
 {
-      "id" : "4",
+      "id" : "5",
 
         "name" : "Durban Poison",
         "src" : "../images/durbanPoison.JPG",
@@ -104,7 +128,7 @@
 
 
 {
-      "id" : "5",
+      "id" : "6",
 
         "name" : "Gorilla Glue #2",
         "src" : "../images/gorillaGlue2.JPG",
@@ -134,7 +158,7 @@
 
 
 {
-      "id" : "6",
+      "id" : "7",
 
         "name" : "Monster Cookies",
         "src" : "../images/monsterCookies.JPG",
@@ -157,28 +181,6 @@
 },
 
 
-{
-      "id" : "7",
-
-        "name" : "Death Wish",
-        "src" : "../images/deathWish.JPG",
-        "type" : "indica",
-        "isNew" : "none",
-        "sale" : "none",
-        "pricePerGram" : "$10",
-        "pricePerOunce" : "$210 Ounce",
-        "description" : "This dank bud boasts an insanely high THC level that ranges between 25-27% and effects that can end in an almost death-like sleep. Almost immediately after smoking, you'll feel a wave of rushing focused energy wash over you that leaves you uplifted and motivated with tendencies towards having psychoactive experiences. As the high continues, you will be eased into a state of utter relaxation with deep introspection and spaciness that can cause you to become distant in social situations. Upon the comedown from the high, Death Wish pulls you into a deep and peaceful undisturbed sleep that lasts for hours on end, giving you the appearance of being unwakeable.",
-        "inventory" : "low",
-          "THC" : "27",
-          "taste" : "85",
-          "aroma" : "85",
-          "pain" : "84",
-          "insomnia" : "86",
-          "appetite" : "82",
-          "overall" : "85", 
-    "soldOut" : "sold out",
-    "opacity" : "0.3"
-},
 
 
 
@@ -273,7 +275,7 @@
         "pricePerGram" : "$10",
         "pricePerOunce" : "$210 Ounce",
         "description" : "Richie Rich cannabis is a Northern Lights #5 crossed with Skunk #1 hybrid.  This weed provides a nice body stone that is a favorite among medicinal users suffering from pain.",
-        "inventory" : "full",
+        "inventory" : "med",
           "THC" : "26",
           "taste" : "84",
           "aroma" : "84",
@@ -422,7 +424,7 @@
         "pricePerGram" : "$10",
         "pricePerOunce" : "$210 Ounce",
         "description" : "Blue Diamond is a mostly indica hybrid. It's buds are big, dense, and tight. The flowers of this plant will give off a sweet and hashy smell that is similar to that of blueberries. The flavor of this strain will also be hashy and could be compared to roasted peanuts. This strain is known for giving the users physical and mental relaxation. This is also known to be a good mood elevator and is recommended for conditions like depression.",
-        "inventory" : "full",
+        "inventory" : "med",
           "THC" : "26",
           "taste" : "85",
           "aroma" : "85",
@@ -556,7 +558,7 @@
         "pricePerGram" : "$9",
         "pricePerOunce" : "$195 Ounce",
         "description" : "Yellowfin Tuna gives patients a potent punch of THC that is ideal for chronic pain relief. This Herijuana and Lamb's Bread cross has gained quite a bit of fame in Canada for both its strong narcotic effect and its whimsical marketing - prepackaged meds were sold in sealed tuna cans. Flowers will be compact, trichome-covered and have a strong smell. ",
-        "inventory" : "full",
+        "inventory" : "med",
           "THC" : "23",
           "taste" : "80",
           "aroma" : "78",
@@ -762,7 +764,7 @@
         "pricePerGram" : "$6",
         "pricePerOunce" : "$160 Ounce",
         "description" : "Jack Herer captures both the cerebral elevation associated with sativas and the heavy resin production of indicas. Its rich genetic background gives rise to several different variations of Jack Herer, each phenotype bearing its own unique features and effects. However, consumers typically describe this 55% sativa hybrid as blissful, clear-headed, and creative.",
-        "inventory" : "full",
+        "inventory" : "med",
           "THC" : "21",
           "taste" : "72",
           "aroma" : "73",
@@ -775,32 +777,10 @@
 },
 
 
+
+
 {
       "id" : "31",
-
-        "name" : "Amnesia Haze",
-        "src" : "../images/amnesiaHaze.JPG",
-        "type" : "hybrid",
-        "isNew" : "none",
-        "sale" : "sale",
-        "pricePerGram" : "$6",
-        "pricePerOunce" : "$160 Ounce",
-        "description" : "This sativa-dominant hybrid is a descendant of a Jamaican sativa, a Laotian sativa, and the indica-dominant Afghani Hawaiian. The ratio of sativa to indica is about 80:20, meaning this is a great strain for daytime use and clearheaded thinking.",
-        "inventory" : "low",
-          "THC" : "21",
-          "taste" : "73",
-          "aroma" : "72",
-          "pain" : "70",
-          "insomnia" : "70",
-          "appetite" : "75",
-          "overall" : "71", 
-    "soldOut" : "sold out",
-    "opacity" : "0.3"
-},
-
-
-{
-      "id" : "32",
 
         "name" : "Bottoms",
         "src" : "../images/bottoms.JPG",
