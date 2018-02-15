@@ -49,7 +49,7 @@
       <div class="paraphernaliaBox col-lg-6 col-md-6">
         <div class="paraphernaliaThumbnail">
           <div class="paraphernaliaImageDiv">
-            <img src="../images/kushyChews.png" alt="Chews" style="height:300px">
+            <img src="../images/kushyChews20.JPG" alt="Chews" style="height:300px">
           </div>
           <h3 class="paraphernaliaItemTitle">Kushy Chews</h3>
           <div class="paraphernaliaPrice">

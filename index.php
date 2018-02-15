@@ -19,6 +19,7 @@
               <li data-target="#myCarousel" data-slide-to="3"></li>
 	      <li data-target="#myCarousel" data-slide-to="4"></li>
 	      <li data-target="#myCarousel" data-slide-to="5"></li>
+	      <li data-target="#myCarousel" data-slide-to="6"></li>
 
 
 
@@ -33,6 +34,18 @@
                 <div class="carousel-caption">
                     <h3>We now have a signature strain!</h3>
                     <p>"The Board"<br>5 for $50
+			              </p>
+                </div>
+              </a>
+             </div>
+
+
+	     <div class="item">
+		<a href="content/hash.php"><img src="images/templeAd.JPG" alt="">
+                
+                <div class="carousel-caption">
+                    <h3>Try our new Temple Hash</h3>
+                    <p>3 for $40<br>5 for $65
 			              </p>
                 </div>
               </a>
