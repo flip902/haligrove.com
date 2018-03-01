@@ -2,6 +2,11 @@
     "images" : [
 
 
+
+
+
+
+
 {
       "id" : "1",
 
@@ -29,15 +34,188 @@
 {
       "id" : "2",
 
+        "name" : "Girlscout Cookies",
+        "src" : "../images/girlscoutCookies.JPG",
+        "type" : "hybrid",
+        "isNew" : "new",
+        "sale" : "none",
+        "pricePerGram" : "5 for $50 $10",
+        "pricePerOunce" : "$250 Ounce",
+        "description" : "GSC, formerly known as Girl Scout Cookies, is an OG Kush and Durban Poison hybrid cross whose reputation grew too large to stay within the borders of its California homeland. With a sweet and earthy aroma, GSC launches you to euphoria’s top floor where full-body relaxation meets a time-bending cerebral space. A little goes a long way with this hybrid, whose THC heights have won GSC numerous Cannabis Cup awards. Patients needing a strong dose of relief, however, may look to GSC for severe pain, nausea, and appetite loss.",
+        "inventory" : "full",
+          "THC" : "27",
+          "taste" : "87",
+          "aroma" : "87",
+          "pain" : "86",
+          "insomnia" : "86",
+          "appetite" : "85",
+          "overall" : "87", 
+    "soldOut" : "none",
+    "opacity" : "1"
+},
+
+
+{
+      "id" : "3",
+
+        "name" : "Sugar Lemon Kush",
+        "src" : "../images/sugarLemonKush.JPG",
+        "type" : "indica",
+        "isNew" : "new",
+        "sale" : "none",
+        "pricePerGram" : "5 for $40 $10",
+        "pricePerOunce" : "$210 Ounce",
+        "description" : "Sugar Lemon Kush is a cross between Kandy Kush and Lemon OG. The sweet flavors of lemon and citrus mix exceptionally well with the earthy kush undertones.",
+        "inventory" : "full",
+          "THC" : "27",
+          "taste" : "87",
+          "aroma" : "87",
+          "pain" : "82",
+          "insomnia" : "81",
+          "appetite" : "84",
+          "overall" : "87", 
+    "soldOut" : "none",
+    "opacity" : "1"
+},
+
+
+{
+      "id" : "4",
+
+        "name" : "Ice Wreck",
+        "src" : "../images/iceWreck.JPG",
+        "type" : "hybrid",
+        "isNew" : "new",
+        "sale" : "none",
+        "pricePerGram" : "5 for $40 $10",
+        "pricePerOunce" : "$210 Ounce",
+        "description" : "By combining two high-potency strains, Ice and Trainwreck, Crop King Seeds has created a real knockout of a hybrid that has tested at over 27% THC. Ice Wreck blends the cerebral high of a sativa with the deep body stone of an indica into one great package.",
+        "inventory" : "full",
+          "THC" : "26",
+          "taste" : "83",
+          "aroma" : "81",
+          "pain" : "82",
+          "insomnia" : "81",
+          "appetite" : "84",
+          "overall" : "82", 
+    "soldOut" : "none",
+    "opacity" : "1"
+},
+
+
+
+{
+      "id" : "5",
+
+        "name" : "Death Bubba",
+        "src" : "../images/deathBubb.JPG",
+        "type" : "indica",
+        "isNew" : "new",
+        "sale" : "none",
+        "pricePerGram" : "5 for $50 $10",
+        "pricePerOunce" : "$250 Ounce",
+        "description" : "",
+        "inventory" : "full",
+          "THC" : "27",
+          "taste" : "87",
+          "aroma" : "85",
+          "pain" : "85",
+          "insomnia" : "85",
+          "appetite" : "84",
+          "overall" : "86", 
+    "soldOut" : "none",
+    "opacity" : "1"
+},
+
+
+{
+      "id" : "6",
+
+        "name" : "White Bubblegum",
+        "src" : "../images/whiteBubbleGum.JPG",
+        "type" : "hybrid",
+        "isNew" : "new",
+        "sale" : "none",
+        "pricePerGram" : "5 for $50 $10",
+        "pricePerOunce" : "$250 Ounce",
+        "description" : "White Bubblegum by THClones is a sweet and sedative cross of frosty phenotypes.  Bred by crossing Snow White and Bubble Gum, White Bubblegum (aka Big League Chew) is slightly earthy but primarily sweet in aroma and flavor. Notes of fruit and earth blossom into a tangy cotton candy medley on the tongue.",
+        "inventory" : "full",
+          "THC" : "27",
+          "taste" : "86",
+          "aroma" : "87",
+          "pain" : "82",
+          "insomnia" : "80",
+          "appetite" : "81",
+          "overall" : "87", 
+    "soldOut" : "none",
+    "opacity" : "1"
+},
+
+
+
+
+{
+      "id" : "7",
+
+        "name" : "Bruce Banner",
+        "src" : "../images/bruceBanner.JPG",
+        "type" : "indica",
+        "isNew" : "new",
+        "sale" : "none",
+        "pricePerGram" : "5 for $40 $10",
+        "pricePerOunce" : "$210 Ounce",
+        "description" : "Bruce Banner might be best known as the alter-ego of comic book hero The Incredible Hulk, but maybe he wouldn’t be such a stressed out ball of anger if he just had some of his namesake strain. This green monster also has hidden strength and features dense nugs that pack the power of very high THC content. It’s a powerful strain whose effects come on quickly and strong and then tend to settle into a euphoric and creative buzz. ",
+        "inventory" : "full",
+          "THC" : "26",
+          "taste" : "82",
+          "aroma" : "83",
+          "pain" : "80",
+          "insomnia" : "79",
+          "appetite" : "80",
+          "overall" : "83", 
+    "soldOut" : "none",
+    "opacity" : "1"
+},
+
+
+
+{
+      "id" : "8",
+
+        "name" : "Hardcore OG",
+        "src" : "../images/hardcoreOg.JPG",
+        "type" : "indica",
+        "isNew" : "none",
+        "sale" : "none",
+        "pricePerGram" : "5 for $40 $10",
+        "pricePerOunce" : "$210 Ounce",
+        "description" : "An indica-dominant cross between Big Bud and DJ Short Blueberry, Hardcore OG is a California strain bred with the stalwart cannabis veteran in mind. Its dense, pungent buds produce thick coats of resin that can be extracted for potent (and we mean potent) concentrates. The weight of this sedating indica sinks throughout the body, submerging stress, pain, and other ailments under its crushing THC content.",
+        "inventory" : "full",
+          "THC" : "27",
+          "taste" : "85",
+          "aroma" : "86",
+          "pain" : "84",
+          "insomnia" : "83",
+          "appetite" : "84",
+          "overall" : "85", 
+    "soldOut" : "none",
+    "opacity" : "1"
+},
+
+
+
+{
+      "id" : "9",
+
         "name" : "S.S.S.B",
         "src" : "../images/superSourStrawberryBanana.JPG",
         "type" : "sativa",
-        "isNew" : "new",
+        "isNew" : "none",
         "sale" : "none",
-        "pricePerGram" : "5 for $50 $12",
+        "pricePerGram" : "5 for $45 $10",
         "pricePerOunce" : "$250 Ounce",
-        "description" : "Super Sour Strawberry Banana",
-        "inventory" : "full",
+        "description" : "Super Sour Strawberry Banana inherits a sweet fruity flavor that earned this Sativa her name. Known for its heavy resin production and high THC content, Strawberry Banana produces happy, peaceful effects that sharpen creativity and sensory awareness.",
+        "inventory" : "med",
           "THC" : "27",
           "taste" : "87",
           "aroma" : "87",
@@ -54,12 +232,12 @@
 
 
 {
-      "id" : "3",
+      "id" : "10",
 
         "name" : "L.A. Grape",
         "src" : "../images/LAGrape.JPG",
         "type" : "hybrid",
-        "isNew" : "new",
+        "isNew" : "none",
         "sale" : "none",
         "pricePerGram" : "5 for $50 $12",
         "pricePerOunce" : "$250 Ounce",
@@ -78,14 +256,14 @@
 
 
 {
-      "id" : "4",
+      "id" : "11",
 
         "name" : "Kush Darling",
         "src" : "../images/kushDarling.JPG",
         "type" : "indica",
-        "isNew" : "new",
+        "isNew" : "none",
         "sale" : "none",
-        "pricePerGram" : "$10",
+        "pricePerGram" : "5 for $40 $10",
         "pricePerOunce" : "$210 Ounce",
         "description" : "Kush Darling is a pure Indica that provides a classic heavy-body effect while knocking out pain and easing muscle tension.",
         "inventory" : "full",
@@ -102,42 +280,19 @@
 
 
 
-{
-      "id" : "5",
-
-        "name" : "Durban Poison",
-        "src" : "../images/durbanPoison.JPG",
-        "type" : "sativa",
-        "isNew" : "new",
-        "sale" : "sale",
-        "pricePerGram" : "$10",
-        "pricePerOunce" : "$210 Ounce",
-        "description" : "This pure sativa originates from the South African port city of Durban. It has gained notoriety worldwide for its sweet smell and energetic, uplifting effects. Durban Poison is the perfect strain to help you stay productive through a busy day, when exploring the outdoors, or to lend a spark of creativity. Growers and concentrate enthusiasts will both enjoy the over-sized resin glands which make this strain a quality choice for concentrate extraction. The buds are round and chunky, and leave a thick coating of trichomes on almost all areas of the plant.",
-        "inventory" : "full",
-          "THC" : "26",
-          "taste" : "82",
-          "aroma" : "83",
-          "pain" : "74",
-          "insomnia" : "73",
-          "appetite" : "74",
-          "overall" : "77", 
-    "soldOut" : "none",
-    "opacity" : "1"
-},
-
 
 
 {
-      "id" : "6",
+      "id" : "12",
 
         "name" : "Gorilla Glue #2",
         "src" : "../images/gorillaGlue2.JPG",
         "type" : "hybrid",
-        "isNew" : "new",
+        "isNew" : "none",
         "sale" : "none",
-        "pricePerGram" : "$10",
+        "pricePerGram" : "5 for $40 $10",
         "pricePerOunce" : "$210 Ounce",
-        "description" : "Gorilla Glue #2 is a very potent strain of cannabis, the genetic makeup is a mix of Chocolate Diesel with Sour Diesel. The smell of diesel is strong but the taste is similar to coffee that has gone stale. The smell is extremely strong, one of the strongest strains. This is why it is mainly grown indoors. The THC level is about 26%. This marijuana plant is light green in color. When it is ready to be harvested, the leaves look like they have snow or salt on them. They offer a high yield of THC. Gorilla Glue #2 is a sativa hybrid strain. This type of cannabis is often used by those that feel a need to self-medicate. It can help with reducing chronic pain such as arthritis and chronic back pain. It is also used for the treatment of Obsessive Compulsive Disorder (OCD).",
+        "description" : "Gorilla Glue #2 is a very potent strain of cannabis, the genetic makeup is a mix of Chocolate Diesel with Sour Diesel. The smell of diesel is strong but the taste is similar to coffee that has gone stale. The smell is extremely strong, one of the strongest strains. This is why it is mainly grown indoors. The THC level is about 26%. When it is ready to be harvested, the leaves look like they have snow or salt on them. They offer a high yield of THC. This type of cannabis is often used by those that feel a need to self-medicate. It can help with reducing chronic pain such as arthritis and chronic back pain. It is also used for the treatment of Obsessive Compulsive Disorder (OCD)",
         "inventory" : "full",
           "THC" : "26",
           "taste" : "85",
@@ -158,14 +313,14 @@
 
 
 {
-      "id" : "7",
+      "id" : "13",
 
         "name" : "Monster Cookies",
         "src" : "../images/monsterCookies.JPG",
         "type" : "indica",
-        "isNew" : "new",
+        "isNew" : "none",
         "sale" : "none",
-        "pricePerGram" : "$10",
+        "pricePerGram" : "5 for $40 $10",
         "pricePerOunce" : "$210 Ounce",
         "description" : "Monster Cookies is an 80% indica cross between Girl Scout Cookies and Granddaddy Purple that delivers a jarring dose of euphoria and relaxation. Its aroma is dominated by earthy notes, enriched by a grape and berry scent passed on by Granddaddy Purple. Hues of purple and green weave together under a silver blanket of crystal trichomes, colors that continue to darken with maturation. Calming sedation wells up over time, making this strain ideal for late night use.",
         "inventory" : "full",
@@ -185,7 +340,7 @@
 
 
 {
-      "id" : "8",
+      "id" : "14",
 
         "name" : "Mango",
         "src" : "../images/mango.JPG",
@@ -194,13 +349,13 @@
         "sale" : "sale",
         "pricePerGram" : "$9",
         "pricePerOunce" : "$195 Ounce",
-        "description" : "This strain is true to her name, she delights the senses with delicious flavour of mango. This herb is very potent with THC levels reaching up to 26%. Beginners should be mindful of the dose to avoid sedative stupor and overwhelming couchlock. Mango marijuana strain is perfect for evening and nighttime medicinal and recreational use due to strong sedative properties.",
+        "description" : "This strain is true to her name, she delights the senses with delicious flavour of mango. This strain is perfect for daytime use and will leave you felling energetic and in a good mood.",
         "inventory" : "full",
           "THC" : "25",
           "taste" : "80",
-          "aroma" : "79",
+          "aroma" : "80",
           "pain" : "80",
-          "insomnia" : "81",
+          "insomnia" : "79",
           "appetite" : "80",
           "overall" : "80", 
     "soldOut" : "none",
@@ -213,7 +368,7 @@
 
 
 {
-      "id" : "9",
+      "id" : "15",
 
         "name" : "Citrus Bliss",
         "src" : "../images/citrusBliss.JPG",
@@ -240,17 +395,17 @@
 
 
 {
-      "id" : "10",
+      "id" : "16",
 
         "name" : "PK",
         "src" : "../images/pk.JPG",
         "type" : "indica",
         "isNew" : "none",
         "sale" : "none",
-        "pricePerGram" : "$9",
+        "pricePerGram" : "5 for $40 $9",
         "pricePerOunce" : "$200 Ounce",
         "description" : "Purple Kush is a pure indica strain that emerged from the Oakland area of California as the result of a Hindu Kush and Purple Afghani cross. Its aroma is subtle and earthy with sweet overtones typical of Kush varieties. Blissful, long-lasting euphoria blankets the mind while physical relaxation rids the body of pain, sleeplessness, and stress.",
-        "inventory" : "full",
+        "inventory" : "med",
           "THC" : "26",
           "taste" : "82",
           "aroma" : "80",
@@ -265,14 +420,14 @@
 
 
 {
-      "id" : "11",
+      "id" : "17",
 
         "name" : "Richie Rich",
         "src" : "../images/richieRich.JPG",
         "type" : "indica",
         "isNew" : "none",
         "sale" : "none",
-        "pricePerGram" : "$10",
+        "pricePerGram" : "5 for $40 $10",
         "pricePerOunce" : "$210 Ounce",
         "description" : "Richie Rich cannabis is a Northern Lights #5 crossed with Skunk #1 hybrid.  This weed provides a nice body stone that is a favorite among medicinal users suffering from pain.",
         "inventory" : "med",
@@ -290,14 +445,14 @@
 
 
 {
-      "id" : "12",
+      "id" : "18",
 
         "name" : "BlueberryCheesecake",
         "src" : "../images/blueberryCheesecake.JPG",
         "type" : "hybrid",
         "isNew" : "none",
         "sale" : "none",
-        "pricePerGram" : "$10",
+        "pricePerGram" : "5 for $40 $10",
         "pricePerOunce" : "$210 Ounce",
         "description" : "It's Back!! Blueberry Cheesecake is a rather popular cross of Big Buddha Cheese and the eminent Blueberry. It's a sativa-dominant hybrid with a sativa/indica ratio of at least 70:30. Not surprisingly, then, this strain produces mostly mental effects that are calming but euphoric, happy and creative. Its best medical uses include treatment of low mood, lack of appetite, chronic pain, insomnia, and ordinary stress.",
         "inventory" : "full",
@@ -315,7 +470,7 @@
 
 
 {
-      "id" : "13",
+      "id" : "19",
 
         "name" : "Pure Pineapple",
         "src" : "../images/purePineapple.JPG",
@@ -339,39 +494,39 @@
 
 
 {
-      "id" : "14",
+      "id" : "20",
 
         "name" : "Sticky Icky",
         "src" : "../images/stickieIcky.JPG",
         "type" : "indica",
         "isNew" : "none",
         "sale" : "none",
-        "pricePerGram" : "$10",
+        "pricePerGram" : "5 for $40 $10",
         "pricePerOunce" : "$210 Ounce",
         "description" : "If you are looking to kick back and unwind after a long day, Sticky Icky is there to give you a hand. This indica is pure relaxation with a euphoric twist. Providing users with a moderate strong heavy body sensation and a sense of spiritual uplift, Sticky Icky is a great nighttime strain and works well for users who suffer from pain, stress, and depression. This is a sweet tasting strain and has a piney, floral smell.",
         "inventory" : "full",
           "THC" : "26",
-          "taste" : "81",
-          "aroma" : "81",
+          "taste" : "85",
+          "aroma" : "84",
           "pain" : "80",
           "insomnia" : "80",
           "appetite" : "83",
-          "overall" : "81", 
+          "overall" : "85", 
     "soldOut" : "none",
     "opacity" : "1"
 },
 
 
 {
-      "id" : "15",
+      "id" : "21",
 
         "name" : "Obama",
         "src" : "../images/obama.JPG",
         "type" : "indica",
         "isNew" : "none",
         "sale" : "none",
-        "pricePerGram" : "5 for $45 $10",
-        "pricePerOunce" : "$225 Ounce",
+        "pricePerGram" : "5 for $40 $10",
+        "pricePerOunce" : "$210 Ounce",
         "description" : "Obama Kush sets itself apart from other indicas through its cerebral stimulation and euphoric rush. This strain is recommended for all levels of patients looking for a balanced experience, as it offers powerful physical effects as well as an intense cerebral uplift that helps concentration, perfect medication for watching movies or playing video games. The flowers are frosty with a purple hue and reddish hairs, giving off a light aroma.",
         "inventory" : "med",
           "THC" : "26",
@@ -387,17 +542,17 @@
 
 
 {
-      "id" : "16",
+      "id" : "22",
 
         "name" : "Romain Rockstar",
         "src" : "../images/romainRockstar.JPG",
         "type" : "hybrid",
         "isNew" : "none",
         "sale" : "sale",
-        "pricePerGram" : "$10",
+        "pricePerGram" : "5 for $40 $10",
         "pricePerOunce" : "$200 Ounce",
         "description" : "Romain Rockstar is a potent indica-dominant hybrid that delivers strong effects without debilitating sedation. With aromatic notes of spice and grape, Rockstar is a favorite medicine for headaches, pain, and sleep disorders.",
-        "inventory" : "full",
+        "inventory" : "med",
           "THC" : "24",
           "taste" : "80",
           "aroma" : "80",
@@ -414,14 +569,14 @@
 
 
 {
-      "id" : "17",
+      "id" : "23",
 
         "name" : "Blue Diamond",
         "src" : "../images/blueDiamond.JPG",
         "type" : "hybrid",
         "isNew" : "none",
         "sale" : "none",
-        "pricePerGram" : "$10",
+        "pricePerGram" : "5 for $40 $10",
         "pricePerOunce" : "$210 Ounce",
         "description" : "Blue Diamond is a mostly indica hybrid. It's buds are big, dense, and tight. The flowers of this plant will give off a sweet and hashy smell that is similar to that of blueberries. The flavor of this strain will also be hashy and could be compared to roasted peanuts. This strain is known for giving the users physical and mental relaxation. This is also known to be a good mood elevator and is recommended for conditions like depression.",
         "inventory" : "med",
@@ -436,32 +591,10 @@
     "opacity" : "1"
 },
 
-{
-      "id" : "18",
-
-        "name" : "Purple OG",
-        "src" : "../images/purpleOG.JPG",
-        "type" : "indica",
-        "isNew" : "none",
-        "sale" : "none",
-        "pricePerGram" : "$10",
-        "pricePerOunce" : "$210 Ounce",
-        "description" : "Have some snacks ready before testing out this extremely potent indica. Providing users with both an intense head and body heavy sensation, Purple OG Kush is one of the more popular medical strains. With a thick aroma of musty berries and pine, the smell and taste of this strain are as strong as the effects themselves. Purple OG Kush may cause you to feel sleepy, cloudy, and unfocused, making this strain perfect for nighttime use.",
-        "inventory" : "low",
-          "THC" : "25",
-          "taste" : "85",
-          "aroma" : "84",
-          "pain" : "85",
-          "insomnia" : "84",
-          "appetite" : "85",
-          "overall" : "85", 
-    "soldOut" : "none",
-    "opacity" : "1"
-},
 
 
 {
-      "id" : "19",
+      "id" : "24",
 
         "name" : "Platinum Bubba",
         "src" : "../images/platnumBubba.JPG",
@@ -493,14 +626,14 @@
 
 
 {
-      "id" : "20",
+      "id" : "25",
 
         "name" : "King Kush",
         "src" : "../images/kingKush.JPG",
         "type" : "indica",
         "isNew" : "none",
-        "sale" : "none",
-        "pricePerGram" : "$10",
+        "sale" : "sale",
+        "pricePerGram" : "5 for $40 $10",
         "pricePerOunce" : "$210 Ounce",
         "description" : "King Kush, bred by Green House Seeds, derives from OG Kush and the elusive Grape strain. With gradual but powerful effects, King Kush is famous for its potency and shiny trichromes during flowering. This strain comes across as sweet and sour with a powerful and tangy grape scent, as well as some hints of lavender.",
         "inventory" : "med",
@@ -519,14 +652,14 @@
 
 
 {
-      "id" : "21",
+      "id" : "26",
 
         "name" : "Death Star",
         "src" : "../images/deathStar.JPG",
         "type" : "indica",
         "isNew" : "none",
         "sale" : "none",
-        "pricePerGram" : "$10",
+        "pricePerGram" : "5 for $40 $10",
         "pricePerOunce" : "$210 Ounce",
         "description" : "Death Star is an Indica dominant hybrid strain of marijuana known for it's potency and having a creeping onset. While you may be eying this strain in particular as a Star Wars fan, it's got a lot more going for it than just a cool name. Death Star is a cross of the infamous Sour Diesel and Sensi Star. This cross breeding results in Death Star having a mix of both indica and sativa effects, giving it a nice balance. This strain is renowned for having high THC Content with potent effects. The buds are thick, fat, and sticky.",
         "inventory" : "low",
@@ -548,7 +681,7 @@
 
 
 {
-      "id" : "22",
+      "id" : "27",
 
         "name" : "Yellowfin Tuna",
         "src" : "../images/yellowfinTuna.JPG",
@@ -571,14 +704,14 @@
     },
 
 {
-      "id" : "23",
+      "id" : "28",
 
         "name" : "Blue Dream",
         "src" : "../images/blueDream.JPG",
         "type" : "hybrid",
         "isNew" : "none",
         "sale" : "none",
-        "pricePerGram" : "$10",
+        "pricePerGram" : "5 for $40 $10",
         "pricePerOunce" : "$210 Ounce",
         "description" : "Blue Dream, a sativa-dominant hybrid originating in California, has achieved legendary status among West Coast strains. Crossing a Blueberry indica with the sativa Haze, Blue Dream balances full-body relaxation with gentle cerebral invigoration. Novice and veteran consumers alike enjoy the level effects of Blue Dream, which ease you gently into a calm euphoria.",
         "inventory" : "med",
@@ -599,32 +732,10 @@
 
 
 
-    {
-
-      "id" : "24",
-
-        "name" : "Pink Kandy Kush",
-        "src" : "../images/pinkKandyKush.JPG",
-        "type" : "indica",
-        "isNew" : "none",
-        "sale" : "sale",
-        "pricePerGram" : "$10",
-        "pricePerOunce" : "$210 Ounce",
-        "description" : "Pink hairs burst from bright green buds barely visible under a blanket of sugar-like trichomes, with traces of a sweet vanilla and candy perfume. The potency of this strain could be considered overpowering, and even small doses are known to eliminate pain, insomnia, and appetite loss.",
-        "inventory" : "med",
-          "THC" : "26",
-          "taste" : "82",
-          "aroma" : "81",
-          "pain" : "82",
-          "insomnia" : "80",
-          "appetite" : "79",
-          "overall" : "81", 
-    "soldOut" : "none",
-    "opacity" : "1"
-    },
+    
 
 {
-      "id" : "25",
+      "id" : "29",
 
         "name" : "Pink God",
         "src" : "../images/pinkGod.JPG",
@@ -652,17 +763,17 @@
     
 
     {
-      "id" : "26",
+      "id" : "30",
 
         "name" : "S Lemon Rockstar",
         "src" : "../images/superLemonRockstar.JPG",
         "type" : "hybrid",
         "isNew" : "none",
         "sale" : "none",
-        "pricePerGram" : "$10",
+        "pricePerGram" : "5 for $40 $10",
         "pricePerOunce" : "$210 Ounce",
         "description" : "As the name states this strain has real lemony characteristics. The smell is zesty, citrusy, and a little sweet. As for the taste, it's everything one would expect from the namesake; tart and sweet like lemonheads candy - not quite as sharp as one might expect. The effects are uniquely energetic and lively, may not be the best strain for those of us that are naturally wound-up tight.",
-          "inventory" : "med",
+          "inventory" : "low",
           "THC" : "22",
           "taste" : "79",
           "aroma" : "78",
@@ -683,14 +794,14 @@
 
     
     {
-      "id" : "27",
+      "id" : "31",
 
       "name" : "Nuken",
       "src" : "../images/dukeNuken.JPG",
       "type" : "hybrid",
       "isNew" : "none",
-      "sale" : "none",
-      "pricePerGram" : "$10",
+      "sale" : "sale",
+      "pricePerGram" : "5 for $40 $10",
       "pricePerOunce" : "$210 Ounce",
       "description" : "The mostly Indica Nuken is a Canadian strain bred by combining genetics from kish and God Bud. Her even-keeled effects are delivered alongside a sweet, earthy aroma. While undeniably strong, Nuken typically leaves you functional enough to still enjoy hobbies and the company of friends. Nuken blooms with rounded, dense buds covered in a blanket of crystal resin veiling it's sage hues.",
       "inventory" : "low",
@@ -707,14 +818,14 @@
     },
 
 {
-      "id" : "28",
+      "id" : "32",
 
         "name" : "Tuna",
         "src" : "../images/newTuna.JPG",
         "type" : "indica",
         "isNew" : "none",
         "sale" : "sale",
-        "pricePerGram" : "$10",
+        "pricePerGram" : "5 for $40 $10",
         "pricePerOunce" : "$185 Ounce",
         "description" : "Tuna Kush is a BC legend that is now surfacing in North American medical cannabis markets. This strain has been deemed one of the most potent available, producing small, dense nuggets that are hard-caked with resin. ",
         "inventory" : "med",
@@ -730,7 +841,7 @@
     },
 
 {
-      "id" : "29",
+      "id" : "33",
 
         "name" : "BC Chemo",
         "src" : "../images/bcChemo.JPG",
@@ -754,16 +865,16 @@
 
 
 {
-      "id" : "30",
+      "id" : "34",
 
-        "name" : "Jack Herer",
-        "src" : "../images/jackHerer.JPG",
+        "name" : "Amnesia Haze",
+        "src" : "../images/amnesiaHaze.JPG",
         "type" : "hybrid",
         "isNew" : "none",
         "sale" : "sale",
         "pricePerGram" : "$6",
         "pricePerOunce" : "$160 Ounce",
-        "description" : "Jack Herer captures both the cerebral elevation associated with sativas and the heavy resin production of indicas. Its rich genetic background gives rise to several different variations of Jack Herer, each phenotype bearing its own unique features and effects. However, consumers typically describe this 55% sativa hybrid as blissful, clear-headed, and creative.",
+        "description" : "",
         "inventory" : "med",
           "THC" : "21",
           "taste" : "72",
@@ -780,7 +891,7 @@
 
 
 {
-      "id" : "31",
+      "id" : "35",
 
         "name" : "Bottoms",
         "src" : "../images/bottoms.JPG",
@@ -798,8 +909,8 @@
           "insomnia" : "?",
           "appetite" : "?",
           "overall" : "?", 
-    "soldOut" : "none",
-    "opacity" : "1"
+    "soldOut" : "sold out",
+    "opacity" : "0.3"
 }
 
 

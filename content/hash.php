@@ -23,7 +23,7 @@
                         </div>
                         <h3 class="hashItemTitle" id="">Temple</h3>
                         <div class="hashPrice">
-                            $12<span> Gram</span> / 5 <span>for</span> $65
+                            $15<span> Gram</span> / 5 <span>for</span> $65
                             <p>Top Quaility Hash</p>
                         </div>
                         <div id="templeInventory">

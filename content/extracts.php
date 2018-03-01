@@ -172,7 +172,6 @@
 	     <div class="extractsBox col-lg-6 col-md-6">
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
-			<div class="new">new</div>
                         <img src= "../images/hashOil.JPG" style="height: 100%">
                     </div>
                     <div class="extractsItemTitle" id="">Rick Simpson Oil</div>
@@ -266,7 +265,6 @@
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
 
-			<div class="new">new</div>
                         <div class="sativa">sativa</div>
                         <img src= "../images/bigBang.JPG" style="height: 100%">
                     </div>
@@ -293,7 +291,6 @@
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
 
-			<div class="new">new</div>
                         <div class="indica">indica</div>
                         <img src= "../images/purpleAfghani.JPG" style="height: 100%">
                     </div>
@@ -320,7 +317,6 @@
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
 
-			<div class="new">new</div>
                         <div class="indica">indica</div>
                         <img src= "../images/grapeDrink.JPG" style="height: 100%">
                     </div>
@@ -346,7 +342,6 @@
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
 
-			<div class="new">new</div>
                         <div class="sativa">sativa</div>
                         <img src= "../images/strawberryMango.JPG" style="height: 100%">
                     </div>
@@ -366,10 +361,60 @@
                 </div>
             </div>
 
+
 	    <div class="extractsBox col-lg-6 col-md-6">
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
                         <div class="new">new</div>
+                        <div class="hybrid">hybrid</div>
+                        <img src= "../images/luisxiii.JPG" style="height: 100%">
+                    </div>
+                    <div class="extractsItemTitle" id="">Louis XIII</div>
+                    <div class="extractsPrice">
+                        <span>$40 Per </span><br>
+                        <h3>Emerald Extracts</h3>
+                        <p class="descriptionP">Pungent earthy, sweet taste.
+                        Great for Pain, stress and depression.
+                        </p>
+                    </div>
+                       <br> 
+                    <div id="louisXiii">
+                        <div></div>
+                    </div>
+                    <p class="inventoryPTag">inventory</p>
+                </div>
+            </div>
+
+
+
+	    <div class="extractsBox col-lg-6 col-md-6">
+                <div class="extractsThumbnail">
+                    <div class="extractsImageDiv">
+                        <div class="new">new</div>
+                        <div class="hybrid">hybrid</div>
+                        <img src= "../images/blackTuna.JPG" style="height: 100%">
+                    </div>
+                    <div class="extractsItemTitle" id="">Black Tuna</div>
+                    <div class="extractsPrice">
+                        <span>$40 Per </span><br>
+                        <h3>Emerald Extracts</h3>
+                        <p class="descriptionP">Earthy, woody, pungent taste .
+                        Great for Pain, stress and insomnia.
+                        </p>
+                    </div>
+                       <br> 
+                    <div id="blackTuna">
+                        <div></div>
+                    </div>
+                    <p class="inventoryPTag">inventory</p>
+                </div>
+            </div>
+
+
+
+	    <div class="extractsBox col-lg-6 col-md-6">
+                <div class="extractsThumbnail">
+                    <div class="extractsImageDiv">
                         <div class="hybrid">hybrid</div>
                         <img src= "../images/goldenGoat.JPG" style="height: 100%">
                     </div>
@@ -395,7 +440,6 @@
 	    <div class="extractsBox col-lg-6 col-md-6">
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
-                        <div class="new">new</div>
                         <div class="indica">indica</div>
                         <img src= "../images/deathStarExtract.JPG" style="height: 100%">
                     </div>

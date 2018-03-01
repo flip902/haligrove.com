@@ -510,7 +510,7 @@
 
 #purpleAfghani > div {
   background-color: #C9DF78;
-  width: 100%; /* Adjust with JavaScript */
+  width: 80%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -525,7 +525,7 @@
 
 #bigBang > div {
   background-color: #C9DF78;
-  width: 100%; /* Adjust with JavaScript */
+  width: 80%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -573,7 +573,7 @@
 
 #goldenGoat > div {
   background-color: #C9DF78;
-  width: 100%; /* Adjust with JavaScript */
+  width: 80%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -588,7 +588,7 @@
 
 #deathStarInventory > div {
   background-color: #C9DF78;
-  width: 100%; /* Adjust with JavaScript */
+  width: 80%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -624,6 +624,35 @@
   border-radius: 10px;
 }
 
+#louisXiii {
+  width: 80%;
+  background-color: black;
+  border-radius: 13px; /* (height of inner div) / 2 + padding */
+  padding: 3px;
+  margin: 0 auto 0 auto;
+}
+
+#louisXiii > div {
+  background-color: #C9DF78;
+  width: 100%; /* Adjust with JavaScript */
+  height: 20px;
+  border-radius: 10px;
+}
+
+#blackTuna {
+  width: 80%;
+  background-color: black;
+  border-radius: 13px; /* (height of inner div) / 2 + padding */
+  padding: 3px;
+  margin: 0 auto 0 auto;
+}
+
+#blackTuna > div {
+  background-color: #C9DF78;
+  width: 100%; /* Adjust with JavaScript */
+  height: 20px;
+  border-radius: 10px;
+}
 
 
 /* Hash inventory */

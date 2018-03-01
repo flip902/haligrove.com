@@ -19,6 +19,7 @@
               <li data-target="#myCarousel" data-slide-to="3"></li>
 	      <li data-target="#myCarousel" data-slide-to="4"></li>
 	      <li data-target="#myCarousel" data-slide-to="5"></li>
+
 	      <li data-target="#myCarousel" data-slide-to="6"></li>
 
 
@@ -29,6 +30,46 @@
           <div class="carousel-inner">
 
 	    <div class="item active">
+		<a href="content/extracts.php"><img src="images/blackTunaAd.JPG" alt="">
+                
+                <div class="carousel-caption">
+                    <h3>2 new Extracts: Black Tuna & Louis XIII</h3>
+                    <p>$40 per
+			              </p>
+                </div>
+              </a>
+             </div>
+
+
+
+	    <div class="item">
+		<a href="content/specials.php"><img src="images/kingKush.JPG" alt="">
+                
+                <div class="carousel-caption">
+                    <h3>2 Favourites on Sale! King Kush & Nuken</h3>
+                    <p>5 for $35<br>10 for $70<br>28 for $190
+			              </p>
+                </div>
+              </a>
+             </div>
+
+
+
+
+	    <div class="item">
+		<a href="content/strains.php"><img src="images/girlscoutCookies.JPG" alt="">
+                
+                <div class="carousel-caption">
+                    <h3>New Strains!</h3>
+                    <p><br>Girlscout Cookies,<br>Sugar Lemon Kush & <br>Ice Wreck
+			              </p>
+                </div>
+              </a>
+             </div>
+
+
+
+	    <div class="item">
 		<a href="content/strains.php"><img src="images/board.JPG" alt="">
                 
                 <div class="carousel-caption">
@@ -45,19 +86,7 @@
                 
                 <div class="carousel-caption">
                     <h3>Try our new Temple Hash</h3>
-                    <p>3 for $40<br>5 for $65
-			              </p>
-                </div>
-              </a>
-             </div>
-
-
-	    <div class="item">
-		<a href="content/strains.php"><img src="images/superSourStrawberryBanana.JPG" alt="">
-                
-                <div class="carousel-caption">
-                    <h3>new sativa!</h3>
-                    <p>Super Sour Strawberry Banana
+                    <p>3 for $40<br>5 for $65<br>10 for $125
 			              </p>
                 </div>
               </a>
@@ -65,16 +94,7 @@
 
 
 
-	    <div class="item">
-		<a href="content/extracts.php"><img src="images/masterKushShatterAd.JPG" alt="">
-                
-                <div class="carousel-caption">
-                    <h3>New Extracts!</h3>
-                    <p>2 Emerald Extracts and 2 new premium
-			              </p>
-                </div>
-              </a>
-             </div>
+
 
 
 
@@ -94,12 +114,12 @@
 
 
 	    <div class="item">
-		<a href="content/edibles.php"><img src="images/peanutButterAd.JPG" alt="">
+		<a href="content/edibles.php"><img src="images/hotChocolatAd.JPG" alt="">
                 
                 <div class="carousel-caption">
-                    <h3>Check out our Peanut Butter Filled Chocolate!</h3>
+                    <h3>Have you tried our Hot Cocoa?</h3>
                     <p>
-			              $6 per</p>
+			              $12 per or 2 for $20</p>
                 </div>
               </a>
              </div>
@@ -110,26 +130,7 @@
 
 
 
-	    <div class="item">
-              <a href="content/paraphernalia.php"><img src="images/GpenAd.JPG" alt="">
-
-                <div class="carousel-caption">
-                    <h3>February Sale!</h3>
-                    <p>Snoop Dogg Gpens<br>
-	            $50 per <br>2 for $90</p>
-                </div>
-              </a>
-            </div>
-
-	    
-
-
-
-	    
-              
-
-	   
-          
+ 
           </div><!-- carosel inner -->
 
           <!-- Left and right controls -->

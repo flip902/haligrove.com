@@ -29,7 +29,7 @@
 	<p>Selling the old to bring in the new! help us clear out stock to bring in new strains and save a little $ :)</p>
 	<a href="strains.php">
 
-	 Mango, Citrus Bliss, BC Chemo,<br> Pink Kandy Kush,<br> Pink God, Yellowfin
+	 Mango, Citrus Bliss, BC Chemo,<br> Pink God, Yellowfin Tuna
 	 </a>
 	<ui>
      	     <li>5g for $35</li>
@@ -38,34 +38,27 @@
 	</ul>
 	<br>
 
+	<h1 class="pickOTW">2 Favourites on Sale!<br>King Kush and Nuken</h1>
 
-	<a href="strains.php">Durban Poison, Tuna, Romain Rockstar</a>	
+
+	<a href="strains.php">Romain Rockstar, Tuna, King Kush, and Nuken</a>	
 	<ui>
      	     <li>5g for $35</li>
 	    <li>10 for $70</li>
-	    <li>28 for $185</li>
+	    <li>28 for $190</li>
 	</ul>
 	<br>
 
-	<h1 class="pickOTW">February Sale!</h1>
-	
-	<a href="strains.php#" class="pink">Snoop Dogg G Pens</a>
-        <ui>
-            <li>$50 per</li>
-            <li>2 for $90</li>
-
-        </ul>
-        <br>
-	
-	<a href="strains.php#" class="pink">Jack Herer</a>
+	<a href="strains.php#" class="pink">Amnesia Haze</a>
         <ui>
             <li>15 grams for $80</li>
             <li>20 grams and over: $5 per gram</li>
 
         </ul>
-        <br>
-	<br>
-	<br>
+        <br>	
+
+	
+	
         <!-- <img class="arrow" src="https://cdn3.iconfinder.com/data/icons/google-material-design-icons/48/ic_keyboard_arrow_down_48px-128.png" /> -->
 	<br>
         <a href="strains.php">All Strains (except strains below)<br> sell as follows:</a><br>
@@ -89,7 +82,7 @@
 	</ul>
 	<br>
 	
-        <a href="strains.php">LA Grape, Platinum Bubba, Pure Pineapple, <br>Super Sour Strawberry Banana</a>
+        <a href="strains.php">Girlscout Cookies, Death Bubba, White Bubblegum, LA Grape, Platinum Bubba, Pure Pineapple, <br></a>
 	<ui>
 	    <li>$10 per gram accross the board</li>
 	    <li>$250 per Oz</li>
@@ -98,14 +91,25 @@
 
 	<a href="strains.php">
 
-	 Obama<br>
+	 Super Sour Strawberry Banana<br>
 	 </a>
 	<ui>
      	     <li>5g for $45</li>
-	    <li>10 for $80</li>
+	    <li>10 for $90</li>
 	    <li>28 for $225</li>
 	</ul>
 	<br>	
+
+
+
+	<a href="/content/hash.php" class="pinkChalk">Temple Hash</a>
+        <ui>
+            <li>3 for $40</li>
+            <li>5 for $65</li>
+	    <li>10 for $125</li>
+        </ul>
+        <br>
+
 	
 	
 	<a href="/content/hash.php" class="pinkChalk">Habibi, Red Lebanese & Shetral Hash</a>
