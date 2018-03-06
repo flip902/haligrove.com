@@ -62,7 +62,6 @@
 	    <div class="extractsBox col-lg-6 col-md-6">
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
-	            <div class="new">new</div>
                         <img src= "../images/tripleBerrySugarWax.JPG" style="height: 100%">
                     </div>
                     <div class="extractsItemTitle" id="">Triple Berry</div>
@@ -84,7 +83,6 @@
 	    <div class="extractsBox col-lg-6 col-md-6">
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
-	            <div class="new">new</div>
                         <img src= "../images/rockstarSugarWax.JPG" style="height: 100%">
                     </div>
                     <div class="extractsItemTitle" id="">Rockstar</div>
@@ -809,7 +807,7 @@
                     </div>
                     <div class="extractsItemTitle" id="">Growers Blend</div>
                     <div class="extractsPrice">
-                        <span>$45 Per </span><br>
+                        <span>$40 Per </span><br>
                         <h3>Forever Phoenix</h3>
                         <p class="descriptionP">Earthy, pungent taste.
                         Forever Phoenix is one of the monst popular brands of shatter around .

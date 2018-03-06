@@ -82,7 +82,7 @@
 	</ul>
 	<br>
 	
-        <a href="strains.php">Girlscout Cookies, Death Bubba, White Bubblegum, LA Grape, Platinum Bubba, Pure Pineapple, <br></a>
+        <a href="strains.php">Girlscout Cookies, White Bubblegum, LA Grape, Platinum Bubba,  <br></a>
 	<ui>
 	    <li>$10 per gram accross the board</li>
 	    <li>$250 per Oz</li>
@@ -91,12 +91,12 @@
 
 	<a href="strains.php">
 
-	 Super Sour Strawberry Banana<br>
+	 Death Bubba, Pure Pineapple, Super Sour Strawberry Banana<br>
 	 </a>
 	<ui>
      	     <li>5g for $45</li>
 	    <li>10 for $90</li>
-	    <li>28 for $225</li>
+	    <li>28 for $235</li>
 	</ul>
 	<br>	
 
