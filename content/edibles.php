@@ -64,8 +64,8 @@
       <div class="paraphernaliaBox col-lg-6 col-md-6">
         <div class="paraphernaliaThumbnail">
           <div class="paraphernaliaImageDiv">
-	    <div class="new">new</div>
-            <img src="../images/chocolateBar.jpg" alt="" style="height:300px">
+	    <div class="sold out">sold out</div>
+            <img src="../images/chocolateBar.jpg" alt="" style="height:300px; opacity: 0.3">
           </div>
           <h3 class="paraphernaliaItemTitle">Toffe Coffee</h3>
           <div class="paraphernaliaPrice">
