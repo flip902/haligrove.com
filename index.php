@@ -20,7 +20,6 @@
 	      <li data-target="#myCarousel" data-slide-to="4"></li>
 	      <li data-target="#myCarousel" data-slide-to="5"></li>
 
-	      <li data-target="#myCarousel" data-slide-to="6"></li>
 
 
 
@@ -30,6 +29,20 @@
           <div class="carousel-inner">
 
 	    <div class="item active">
+		<a href="content/strains.php"><img src="images/reefJerky.JPG" alt="">
+                
+                <div class="carousel-caption">
+                    <h3>New Strains!</h3>
+                    <p><br>Reef Jerky,<br>& Black Widow
+			              </p>
+                </div>
+              </a>
+             </div>
+
+
+
+
+	    <div class="item">
 		<a href="content/extracts.php"><img src="images/blackTunaAd.JPG" alt="">
                 
                 <div class="carousel-caption">
@@ -42,32 +55,7 @@
 
 
 
-	    <div class="item">
-		<a href="content/specials.php"><img src="images/kingKush.JPG" alt="">
-                
-                <div class="carousel-caption">
-                    <h3>2 Favourites on Sale! King Kush & Nuken</h3>
-                    <p>5 for $35<br>10 for $70<br>28 for $190
-			              </p>
-                </div>
-              </a>
-             </div>
-
-
-
-
-	    <div class="item">
-		<a href="content/strains.php"><img src="images/girlscoutCookies.JPG" alt="">
-                
-                <div class="carousel-caption">
-                    <h3>New Strains!</h3>
-                    <p><br>Girlscout Cookies,<br>Sugar Lemon Kush & <br>Ice Wreck
-			              </p>
-                </div>
-              </a>
-             </div>
-
-
+	   
 
 	    <div class="item">
 		<a href="content/strains.php"><img src="images/board.JPG" alt="">

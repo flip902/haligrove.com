@@ -38,10 +38,10 @@
 	</ul>
 	<br>
 
-	<h1 class="pickOTW">2 Favourites on Sale!<br>King Kush and Nuken</h1>
+	<h1 class="pickOTW">Favourites on Sale!</h1>
 
 
-	<a href="strains.php">Romain Rockstar, Tuna, King Kush, and Nuken</a>	
+	<a href="strains.php">Black Widow, Romain Rockstar, & Tuna</a>	
 	<ui>
      	     <li>5g for $35</li>
 	    <li>10 for $70</li>

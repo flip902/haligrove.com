@@ -314,9 +314,9 @@
 	    <div class="extractsBox col-lg-6 col-md-6">
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
-
+			<div class="sold out">sold out</div>
                         <div class="indica">indica</div>
-                        <img src= "../images/grapeDrink.JPG" style="height: 100%">
+                        <img src= "../images/grapeDrink.JPG" style="height: 100%; opacity: 0.3">
                     </div>
                     <div class="extractsItemTitle" id="">Grape Drink</div>
                     <div class="extractsPrice">
@@ -327,7 +327,7 @@
                         </p>
                     </div>
                        <br> 
-                    <div id="vampirePink">
+                    <div id="grapeDrink">
                         <div></div>
                     </div>
                     <p class="inventoryPTag">inventory</p>
