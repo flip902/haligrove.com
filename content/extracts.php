@@ -199,7 +199,8 @@
 	    <div class="extractsBox col-lg-6 col-md-6">
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
-                        <img src= "../images/oilPen.JPG" alt="Oil Pen" style="height:100%">
+			<div class="sold out">sold out</div>
+                        <img src= "../images/oilPen.JPG" alt="Oil Pen" style="height:100%;opacity: 0.3">
                             
                     </div>
                     <div class="extractsItemTitle" id="">Phoenix Oil Pen</div>

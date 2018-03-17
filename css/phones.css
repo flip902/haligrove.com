@@ -58,7 +58,7 @@
 
 #oilPenInventory > div {
   background-color: #C9DF78;
-  width: 50%; /* Adjust with JavaScript */
+  width: 0%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -116,35 +116,7 @@
   border-radius: 10px;
 }
 
-#kushyInventory {
-  width: 80%;
-  background-color: black;
-  border-radius: 13px; /* (height of inner div) / 2 + padding */
-  padding: 3px;
-  margin: 0 auto 0 auto;
-}
 
-#kushyInventory > div {
-  background-color: #C9DF78;
-  width: 40%; /* Adjust with JavaScript */
-  height: 20px;
-  border-radius: 10px;
-}
-
-#kushy40Inventory {
-  width: 80%;
-  background-color: black;
-  border-radius: 13px; /* (height of inner div) / 2 + padding */
-  padding: 3px;
-  margin: 0 auto 0 auto;
-}
-
-#kushy40Inventory > div {
-  background-color: #C9DF78;
-  width: 0%; /* Adjust with JavaScript */
-  height: 20px;
-  border-radius: 10px;
-}
 
 
 #sourTangieInventory {
@@ -278,7 +250,7 @@
 
 #hashplant > div {
   background-color: #C9DF78;
-  width: 50%; /* Adjust with JavaScript */
+  width: 20%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -385,7 +357,7 @@
 
 #northernLights > div {
   background-color: #C9DF78;
-  width: 80%; /* Adjust with JavaScript */
+  width: 40%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -525,7 +497,7 @@
 
 #bigBang > div {
   background-color: #C9DF78;
-  width: 80%; /* Adjust with JavaScript */
+  width: 50%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -791,7 +763,7 @@
 
 #templeInventory > div {
   background-color: #C9DF78;
-  width: 100%; /* Adjust with JavaScript */
+  width: 80%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }

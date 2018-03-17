@@ -82,7 +82,7 @@
 	</ul>
 	<br>
 	
-        <a href="strains.php">Girlscout Cookies, White Bubblegum, LA Grape, Platinum Bubba,  <br></a>
+        <a href="strains.php">Gods Green Crack, Girlscout Cookies, White Bubblegum, LA Grape, Platinum Bubba,  <br></a>
 	<ui>
 	    <li>$10 per gram accross the board</li>
 	    <li>$250 per Oz</li>

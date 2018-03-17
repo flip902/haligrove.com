@@ -41,7 +41,7 @@
         "sale" : "none",
         "pricePerGram" : "5 for $40 $10",
         "pricePerOunce" : "$210 Ounce",
-        "description" : "",
+        "description" : "Reef Jerky may taste fruity, spicy, earthy, sour, piney. When smoked, this strain can make you feel euphoria, creativity, calm, numbness, appetite gain, and pain relief.",
         "inventory" : "full",
           "THC" : "26",
           "taste" : "81",
@@ -65,7 +65,7 @@
         "sale" : "none",
         "pricePerGram" : "5 for $35 $9",
         "pricePerOunce" : "$195 Ounce",
-        "description" : "",
+        "description" : "Black Widow provides an exceptional head high with remarkably intense euphoria, powerful happiness, deep relaxation, and a major case of the munchies.",
         "inventory" : "full",
           "THC" : "26",
           "taste" : "80",
@@ -91,7 +91,7 @@
         "pricePerGram" : "5 for $40 $10",
         "pricePerOunce" : "$210 Ounce",
         "description" : "Definitely a strain made for staying in and not venturing out, Blackwater offers a palpable indica body stone. Although it mounts slowly, smokers shouldn’t underestimate this high’s ability to comfortably pin them down in their surroundings. Within minutes, a sense of calm envelops the core and spreads down through the limbs, allowing users to breathe comfortably and easily.",
-        "inventory" : "med",
+        "inventory" : "low",
           "THC" : "26",
           "taste" : "84",
           "aroma" : "85",
@@ -111,7 +111,7 @@
         "name" : "Gods Green Crack",
         "src" : "../images/godsGreenCrack.JPG",
         "type" : "hybrid",
-        "isNew" : "new",
+        "isNew" : "none",
         "sale" : "none",
         "pricePerGram" : "5 for $50 $12",
         "pricePerOunce" : "$250 Ounce",
@@ -139,7 +139,7 @@
         "name" : "Girlscout Cookies",
         "src" : "../images/girlscoutCookies.JPG",
         "type" : "hybrid",
-        "isNew" : "new",
+        "isNew" : "none",
         "sale" : "none",
         "pricePerGram" : "5 for $50 $12",
         "pricePerOunce" : "$250 Ounce",
@@ -163,7 +163,7 @@
         "name" : "Sugar Lemon Kush",
         "src" : "../images/sugarLemonKush.JPG",
         "type" : "indica",
-        "isNew" : "new",
+        "isNew" : "none",
         "sale" : "none",
         "pricePerGram" : "5 for $40 $10",
         "pricePerOunce" : "$210 Ounce",
@@ -192,7 +192,7 @@
         "pricePerGram" : "5 for $40 $10",
         "pricePerOunce" : "$210 Ounce",
         "description" : "By combining two high-potency strains, Ice and Trainwreck, Crop King Seeds has created a real knockout of a hybrid that has tested at over 27% THC. Ice Wreck blends the cerebral high of a sativa with the deep body stone of an indica into one great package.",
-        "inventory" : "full",
+        "inventory" : "med",
           "THC" : "26",
           "taste" : "83",
           "aroma" : "81",
@@ -352,8 +352,8 @@
           "insomnia" : "84",
           "appetite" : "84",
           "overall" : "87", 
-    "soldOut" : "none",
-    "opacity" : "1"
+    "soldOut" : "sold out",
+    "opacity" : "0.3"
 },
 
 
@@ -988,7 +988,7 @@
           "insomnia" : "?",
           "appetite" : "?",
           "overall" : "?", 
-    "soldOut" : "none",
+    "soldOut" : "sold out",
     "opacity" : "1"
 }
 
