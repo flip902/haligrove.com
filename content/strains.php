@@ -1,5 +1,5 @@
 <?php include("header.php");?>
-
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="NO-CACHE">
 
   <div class="bodyContainer">
     

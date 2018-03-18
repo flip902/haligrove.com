@@ -17,7 +17,6 @@
 	    <div class="extractsBox col-lg-6 col-md-6">
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
-	            <div class="new">new</div>
                         <img src= "../images/godsGiftShatter.JPG" style="height: 100%">
                     </div>
                     <div class="extractsItemTitle" id="">Gods Gift</div>
@@ -40,7 +39,6 @@
 	    <div class="extractsBox col-lg-6 col-md-6">
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
-	            <div class="new">new</div>
                         <img src= "../images/masterKushShatter.JPG" style="height: 100%">
                     </div>
                     <div class="extractsItemTitle" id="">Master Kush</div>
@@ -365,7 +363,6 @@
 	    <div class="extractsBox col-lg-6 col-md-6">
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
-                        <div class="new">new</div>
                         <div class="hybrid">hybrid</div>
                         <img src= "../images/luisxiii.JPG" style="height: 100%">
                     </div>
@@ -390,7 +387,6 @@
 	    <div class="extractsBox col-lg-6 col-md-6">
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
-                        <div class="new">new</div>
                         <div class="hybrid">hybrid</div>
                         <img src= "../images/blackTuna.JPG" style="height: 100%">
                     </div>

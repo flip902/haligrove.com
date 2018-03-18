@@ -1,5 +1,4 @@
 <?php include("includes/header.php");?>
-
   <section class="indexHeight">
     <!-- Welcome Header -->
     <div class="bodyContainer">

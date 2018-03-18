@@ -92,7 +92,7 @@
 	
         <a href="strains.php">Gods Green Crack, Girlscout Cookies, White Bubblegum, Platinum Bubba,  <br></a>
 	<ui>
-	    <li>$10 per gram accross the board</li>
+	    <li>$10 per gram accross the board (5g and above)</li>
 	    <li>$250 per Oz</li>
 	</ul>
 	<br>

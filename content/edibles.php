@@ -16,7 +16,6 @@
     <div class="paraphernaliaBox col-lg-6 col-md-6">
         <div class="paraphernaliaThumbnail">
           <div class="paraphernaliaImageDiv">
-	    <div class="new">new</div>
             <img src="../images/peanutButter.JPG" alt="Peanut Butter" style="height:300px">
           </div>
           <h3 class="paraphernaliaItemTitle">Peanut Butter</h3>
