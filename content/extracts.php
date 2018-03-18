@@ -170,11 +170,12 @@
 	     <div class="extractsBox col-lg-6 col-md-6">
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
+			<div class="sale">sale</div>
                         <img src= "../images/hashOil.JPG" style="height: 100%">
                     </div>
                     <div class="extractsItemTitle" id="">Rick Simpson Oil</div>
                     <div class="extractsPrice">
-                        <span>$200 Per</span>
+                        <span style="text-decoration: line-through">$200</span><span> $160 per</span>
                         <h3>10 gram vials</h3>
                         <p class="descriptionP">
 			Rick Simpson is the creator of this cannabis oil. RSO has amazing medical benefits, and is renowned by cannabis connoisseurs around the globe.

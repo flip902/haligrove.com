@@ -23,17 +23,32 @@
 
 
 
+
           </ol>
 
           <!-- Wrapper for slides -->
           <div class="carousel-inner">
 
+	   
+
 	    <div class="item active">
-		<a href="content/strains.php"><img src="images/reefJerky.JPG" alt="">
+		<a href="content/strains.php"><img src="images/dankBubba.JPG" alt="">
                 
                 <div class="carousel-caption">
-                    <h3>New Strains!</h3>
-                    <p><br>Reef Jerky,<br>& Black Widow
+                    <h3>New Dank Bubba</h3>
+                    <p>5 for $45
+			              </p>
+                </div>
+              </a>
+             </div>
+
+
+	     <div class="item">
+		<a href="content/extracts.php"><img src="images/hashOilAd.JPG" alt="">
+                
+                <div class="carousel-caption">
+                    <h3>RSO Oil Sale!!</h3>
+                    <p>Save $40!! <br>Price is now $160 for a 10g vial
 			              </p>
                 </div>
               </a>
@@ -41,13 +56,12 @@
 
 
 
-
 	    <div class="item">
-		<a href="content/extracts.php"><img src="images/blackTunaAd.JPG" alt="">
+		<a href="content/strains.php"><img src="images/reefJerky.JPG" alt="">
                 
                 <div class="carousel-caption">
-                    <h3>2 new Extracts: Black Tuna & Louis XIII</h3>
-                    <p>$40 per
+                    <h3>New Strains!</h3>
+                    <p><br>Reef Jerky,<br>& Black Widow
 			              </p>
                 </div>
               </a>
@@ -69,16 +83,7 @@
              </div>
 
 
-	     <div class="item">
-		<a href="content/hash.php"><img src="images/templeAd.JPG" alt="">
-                
-                <div class="carousel-caption">
-                    <h3>Try our new Temple Hash</h3>
-                    <p>3 for $40<br>5 for $65<br>10 for $125
-			              </p>
-                </div>
-              </a>
-             </div>
+	     
 
 
 

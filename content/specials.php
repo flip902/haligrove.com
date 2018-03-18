@@ -38,6 +38,14 @@
 	</ul>
 	<br>
 
+	<h1 class="pickOTW">RSO Oil Sale!</h1>
+	<a href="extracts.php">Rick Simpson Oil</a>
+	<ui>
+		<li>10g vial is now only $160</li>
+	</ul>
+	<br>
+
+
 	<h1 class="pickOTW">Favourites on Sale!</h1>
 
 
@@ -82,7 +90,7 @@
 	</ul>
 	<br>
 	
-        <a href="strains.php">Gods Green Crack, Girlscout Cookies, White Bubblegum, LA Grape, Platinum Bubba,  <br></a>
+        <a href="strains.php">Gods Green Crack, Girlscout Cookies, White Bubblegum, Platinum Bubba,  <br></a>
 	<ui>
 	    <li>$10 per gram accross the board</li>
 	    <li>$250 per Oz</li>

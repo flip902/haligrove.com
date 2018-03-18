@@ -560,7 +560,7 @@
 
 #deathStarInventory > div {
   background-color: #C9DF78;
-  width: 80%; /* Adjust with JavaScript */
+  width: 10%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
