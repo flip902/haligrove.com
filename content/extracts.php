@@ -17,6 +17,28 @@
 	    <div class="extractsBox col-lg-6 col-md-6">
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
+			<div class="new">new</div>
+                        <img src= "../images/cbdIsolate.JPG" style="height: 100%">
+                    </div>
+                    <div class="extractsItemTitle" id="">CBD Isolate</div>
+                    <div class="extractsPrice">
+                        <h3>1g $50 per</h3>
+                        <p class="descriptionP">
+                        CBD isolate 99% purity, CBD isolate In its pure crystalline form. One of the easiest ways to use CBD crytals is in baked goods.</p><br>
+                    </div>
+                        
+                    <div id="cbdInventory">
+                        <div></div>
+                    </div>
+                    <p class="inventoryPTag">inventory</p>
+                </div>
+            </div>
+
+
+
+	    <div class="extractsBox col-lg-6 col-md-6">
+                <div class="extractsThumbnail">
+                    <div class="extractsImageDiv">
                         <img src= "../images/godsGiftShatter.JPG" style="height: 100%">
                     </div>
                     <div class="extractsItemTitle" id="">Gods Gift</div>

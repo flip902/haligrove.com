@@ -19,6 +19,7 @@
 	      <li data-target="#myCarousel" data-slide-to="4"></li>
 	      <li data-target="#myCarousel" data-slide-to="5"></li>
 
+	      <li data-target="#myCarousel" data-slide-to="6"></li>
 
 
 
@@ -28,9 +29,19 @@
           <!-- Wrapper for slides -->
           <div class="carousel-inner">
 
+	    <div class="item active">
+		<a href="content/extracts.php"><img src="images/cbdAd.JPG" alt="">
+                
+                <div class="carousel-caption">
+                    <h3>New CBD Isolate</h3>
+                    <p>$50 per gram
+			              </p>
+                </div>
+              </a>
+             </div>
 	   
 
-	    <div class="item active">
+	    <div class="item">
 		<a href="content/strains.php"><img src="images/dankBubba.JPG" alt="">
                 
                 <div class="carousel-caption">
