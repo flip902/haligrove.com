@@ -107,6 +107,23 @@
       </div>
 
 
+      <div class="paraphernaliaBox col-lg-6 col-md-6">
+        <div class="paraphernaliaThumbnail">
+          <div class="paraphernaliaImageDiv">
+	    <div class="new">new</div>
+            <img src="../images/pumpkinSpice.JPG" alt="Hot CoaCoa" style="height:300px">
+          </div>
+          <h3 class="paraphernaliaItemTitle">Pumpkin Spice</h3>
+          <div class="paraphernaliaPrice">
+	     <p style="max-width: 85%; margin-left: 15px">Enhanced Hot Cocoa<br>
+            $12<span> Per</span> / 2 for $20<br>
+            
+           Contains 50mg winterized BHO, all natural, great for pain and insomnia.</p>
+          </div>
+        </div>
+      </div>
+
+
 
       <div class="paraphernaliaBox col-lg-6 col-md-6">
         <div class="paraphernaliaThumbnail">

@@ -19,7 +19,6 @@
 	      <li data-target="#myCarousel" data-slide-to="4"></li>
 	      <li data-target="#myCarousel" data-slide-to="5"></li>
 
-	      <li data-target="#myCarousel" data-slide-to="6"></li>
 
 
 
@@ -29,7 +28,21 @@
           <!-- Wrapper for slides -->
           <div class="carousel-inner">
 
+
 	    <div class="item active">
+		<a href="content/extracts.php"><img src="images/oilSyringeAd.JPG" alt="">
+                
+                <div class="carousel-caption">
+                    <h3>Oil Syringe now only $25</h3>
+                    <p>save $5
+			              </p>
+                </div>
+              </a>
+             </div>
+
+
+
+	    <div class="item">
 		<a href="content/extracts.php"><img src="images/cbdAd.JPG" alt="">
                 
                 <div class="carousel-caption">
@@ -66,16 +79,7 @@
 
 
 
-	    <div class="item">
-		<a href="content/strains.php"><img src="images/reefJerky.JPG" alt="">
-                
-                <div class="carousel-caption">
-                    <h3>New Strains!</h3>
-                    <p><br>Reef Jerky,<br>& Black Widow
-			              </p>
-                </div>
-              </a>
-             </div>
+	  
 
 
 
@@ -110,23 +114,6 @@
                 </div>
               </a>
              </div>
-
-
-
-
-
-
-	    <div class="item">
-		<a href="content/edibles.php"><img src="images/hotChocolatAd.JPG" alt="">
-                
-                <div class="carousel-caption">
-                    <h3>Have you tried our Hot Cocoa?</h3>
-                    <p>
-			              $12 per or 2 for $20</p>
-                </div>
-              </a>
-             </div>
-
 
 
 

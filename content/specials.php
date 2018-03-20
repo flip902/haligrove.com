@@ -39,9 +39,11 @@
 	<br>
 
 	<h1 class="pickOTW">RSO Oil Sale!</h1>
-	<a href="extracts.php">Rick Simpson Oil</a>
+	<a href="extracts.php">Rick Simpson Oil, Oil Syringe</a>
 	<ui>
-		<li>10g vial is now only $160</li>
+		<li>10g vial is now only $160 save $40</li>
+
+		<li>Oil Syringe now only $25  save $5</li>
 	</ul>
 	<br>
 
@@ -99,7 +101,7 @@
 
 	<a href="strains.php">
 
-	 Death Bubba, Pure Pineapple, Super Sour Strawberry Banana<br>
+	 Dank Bubba, Death Bubba, Pure Pineapple, Super Sour Strawberry Banana<br>
 	 </a>
 	<ui>
      	     <li>5g for $45</li>

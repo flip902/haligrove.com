@@ -266,11 +266,12 @@
             <div class="extractsBox col-lg-6 col-md-6">
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
+			<div class="sale">sale</div>
                         <img src= "../images/oilSyringe.JPG" style="height: 100%">
                     </div>
                     <div class="extractsItemTitle" id="">Oil Syringe</div>
                     <div class="extractsPrice">
-                        $30<span> per</span><br>
+                        <span style="text-decoration: line-through">$30</span><span> $25 per</span><br>
                         <p>RSO Oil. Taken orally or can be used for dabs. This oil has long lasting effects and many medical benefits such as relief for seizures, pain, lack of appetite and more</p><br>
                     </div>
                     <div id="oilInventory">
