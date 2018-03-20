@@ -41,9 +41,9 @@
 	<h1 class="pickOTW">RSO Oil Sale!</h1>
 	<a href="extracts.php">Rick Simpson Oil, Oil Syringe</a>
 	<ui>
-		<li>10g vial is now only $160 save $40</li>
+		<li>10g vial is now only $160 <br>save $40</li>
 
-		<li>Oil Syringe now only $25  save $5</li>
+		<li>Oil Syringe now only $25 <br>save $5</li>
 	</ul>
 	<br>
 
