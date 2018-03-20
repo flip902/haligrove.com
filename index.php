@@ -19,6 +19,7 @@
 	      <li data-target="#myCarousel" data-slide-to="4"></li>
 	      <li data-target="#myCarousel" data-slide-to="5"></li>
 
+	      <li data-target="#myCarousel" data-slide-to="6"></li>
 
 
 
@@ -30,6 +31,18 @@
 
 
 	    <div class="item active">
+		<a href="content/strains.php"><img src="images/vanillaCheesecake.JPG" alt="">
+                
+                <div class="carousel-caption">
+                    <h3>New Vanilla Cheesecake</h3>
+                    <p>5 for $40
+			              </p>
+                </div>
+              </a>
+             </div>
+
+
+	    <div class="item">
 		<a href="content/extracts.php"><img src="images/oilSyringeAd.JPG" alt="">
                 
                 <div class="carousel-caption">

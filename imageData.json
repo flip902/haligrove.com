@@ -31,12 +31,36 @@
 },
 
 
+{
+      "id" : "2",
+
+        "name" : "VanillaCheesecake",
+        "src" : "../images/vanillaCheesecake.JPG",
+        "type" : "hybrid",
+        "isNew" : "new",
+        "sale" : "none",
+        "pricePerGram" : "5 for $40 $10",
+        "pricePerOunce" : "$210 Ounce",
+        "description" : "This strain is a cousin of Blueberry Cheesecake. Vanilla Cheesecake is a sativa dominant hybrid that produces euphoric mental effects that leave you feeling creative and happy. Great for low mood, lack of appetite, and ordinary stress.",
+        "inventory" : "full",
+          "THC" : "26",
+          "taste" : "86",
+          "aroma" : "86",
+          "pain" : "82",
+          "insomnia" : "80",
+          "appetite" : "83",
+          "overall" : "86", 
+    "soldOut" : "none",
+    "opacity" : "1"
+},
+
+
 
 
 
 
 {
-      "id" : "2",
+      "id" : "3",
 
         "name" : "Dank Bubba",
         "src" : "../images/dankBubba.JPG",
@@ -60,7 +84,7 @@
 
 
 {
-      "id" : "3",
+      "id" : "4",
 
         "name" : "Reef Jerky",
         "src" : "../images/reefJerky.JPG",
@@ -84,7 +108,7 @@
 
 
 {
-      "id" : "4",
+      "id" : "5",
 
         "name" : "Black Widow",
         "src" : "../images/blackWidow.JPG",
@@ -109,7 +133,7 @@
 
 
 {
-      "id" : "5",
+      "id" : "6",
 
         "name" : "Blackwater",
         "src" : "../images/blackWater.JPG",
@@ -134,7 +158,7 @@
 
 
 {
-      "id" : "6",
+      "id" : "7",
 
         "name" : "Gods Green Crack",
         "src" : "../images/godsGreenCrack.JPG",
@@ -162,7 +186,7 @@
 
 
 {
-      "id" : "7",
+      "id" : "8",
 
         "name" : "Girlscout Cookies",
         "src" : "../images/girlscoutCookies.JPG",
@@ -186,7 +210,7 @@
 
 
 {
-      "id" : "8",
+      "id" : "9",
 
         "name" : "Sugar Lemon Kush",
         "src" : "../images/sugarLemonKush.JPG",
@@ -210,7 +234,7 @@
 
 
 {
-      "id" : "9",
+      "id" : "10",
 
         "name" : "Ice Wreck",
         "src" : "../images/iceWreck.JPG",
@@ -235,7 +259,7 @@
 
 
 {
-      "id" : "10",
+      "id" : "11",
 
         "name" : "Death Bubba",
         "src" : "../images/deathBubb.JPG",
@@ -259,7 +283,7 @@
 
 
 {
-      "id" : "11",
+      "id" : "12",
 
         "name" : "White Bubblegum",
         "src" : "../images/whiteBubbleGum.JPG",
@@ -285,7 +309,7 @@
 
 
 {
-      "id" : "12",
+      "id" : "13",
 
         "name" : "Bruce Banner",
         "src" : "../images/bruceBanner.JPG",
@@ -310,7 +334,7 @@
 
 
 {
-      "id" : "13",
+      "id" : "14",
 
         "name" : "Hardcore OG",
         "src" : "../images/hardcoreOg.JPG",
@@ -335,7 +359,7 @@
 
 
 {
-      "id" : "14",
+      "id" : "15",
 
         "name" : "S.S.S.B",
         "src" : "../images/superSourStrawberryBanana.JPG",
@@ -365,7 +389,7 @@
 
 
 {
-      "id" : "15",
+      "id" : "16",
 
         "name" : "Kush Darling",
         "src" : "../images/kushDarling.JPG",
@@ -392,7 +416,7 @@
 
 
 {
-      "id" : "16",
+      "id" : "17",
 
         "name" : "Gorilla Glue #2",
         "src" : "../images/gorillaGlue2.JPG",
@@ -422,7 +446,7 @@
 
 
 {
-      "id" : "17",
+      "id" : "18",
 
         "name" : "Monster Cookies",
         "src" : "../images/monsterCookies.JPG",
@@ -449,7 +473,7 @@
 
 
 {
-      "id" : "18",
+      "id" : "19",
 
         "name" : "Mango",
         "src" : "../images/mango.JPG",
@@ -477,7 +501,7 @@
 
 
 {
-      "id" : "19",
+      "id" : "20",
 
         "name" : "Citrus Bliss",
         "src" : "../images/citrusBliss.JPG",
@@ -504,7 +528,7 @@
 
 
 {
-      "id" : "20",
+      "id" : "21",
 
         "name" : "PK",
         "src" : "../images/pk.JPG",
@@ -529,7 +553,7 @@
 
 
 {
-      "id" : "21",
+      "id" : "22",
 
         "name" : "Richie Rich",
         "src" : "../images/richieRich.JPG",
@@ -554,7 +578,7 @@
 
 
 {
-      "id" : "22",
+      "id" : "23",
 
         "name" : "BlueberryCheesecake",
         "src" : "../images/blueberryCheesecake.JPG",
@@ -579,7 +603,7 @@
 
 
 {
-      "id" : "23",
+      "id" : "24",
 
         "name" : "Pure Pineapple",
         "src" : "../images/purePineapple.JPG",
@@ -603,7 +627,7 @@
 
 
 {
-      "id" : "24",
+      "id" : "25",
 
         "name" : "Sticky Icky",
         "src" : "../images/stickieIcky.JPG",
@@ -627,7 +651,7 @@
 
 
 {
-      "id" : "25",
+      "id" : "26",
 
         "name" : "Obama",
         "src" : "../images/obama.JPG",
@@ -651,7 +675,7 @@
 
 
 {
-      "id" : "26",
+      "id" : "27",
 
         "name" : "Romain Rockstar",
         "src" : "../images/romainRockstar.JPG",
@@ -678,7 +702,7 @@
 
 
 {
-      "id" : "27",
+      "id" : "28",
 
         "name" : "Blue Diamond",
         "src" : "../images/blueDiamond.JPG",
@@ -703,7 +727,7 @@
 
 
 {
-      "id" : "28",
+      "id" : "29",
 
         "name" : "Platinum Bubba",
         "src" : "../images/platnumBubba.JPG",
@@ -747,7 +771,7 @@
 
 
 {
-      "id" : "29",
+      "id" : "30",
 
         "name" : "Yellowfin Tuna",
         "src" : "../images/yellowfinTuna.JPG",
@@ -770,7 +794,7 @@
     },
 
 {
-      "id" : "30",
+      "id" : "31",
 
         "name" : "Blue Dream",
         "src" : "../images/blueDream.JPG",
@@ -801,7 +825,7 @@
     
 
 {
-      "id" : "31",
+      "id" : "32",
 
         "name" : "Pink God",
         "src" : "../images/pinkGod.JPG",
@@ -838,7 +862,7 @@
     
 
 {
-      "id" : "32",
+      "id" : "33",
 
         "name" : "Tuna",
         "src" : "../images/newTuna.JPG",
@@ -861,7 +885,7 @@
     },
 
 {
-      "id" : "33",
+      "id" : "34",
 
         "name" : "BC Chemo",
         "src" : "../images/bcChemo.JPG",
@@ -885,7 +909,7 @@
 
 
 {
-      "id" : "34",
+      "id" : "35",
 
         "name" : "Amnesia Haze",
         "src" : "../images/amnesiaHaze.JPG",
@@ -911,7 +935,7 @@
 
 
 {
-      "id" : "35",
+      "id" : "36",
 
         "name" : "Bottoms",
         "src" : "../images/bottoms.JPG",
@@ -929,7 +953,7 @@
           "insomnia" : "?",
           "appetite" : "?",
           "overall" : "?", 
-    "soldOut" : "sold out",
+    "soldOut" : "none",
     "opacity" : "1"
 }
 
