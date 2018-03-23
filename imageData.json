@@ -34,6 +34,31 @@
 {
       "id" : "2",
 
+        "name" : "U.K. Cheese",
+        "src" : "../images/ukCheese.JPG",
+        "type" : "hybrid",
+        "isNew" : "new",
+        "sale" : "none",
+        "pricePerGram" : "5 for $40 $10",
+        "pricePerOunce" : "$210 Ounce",
+        "description" : "UK Cheese is a popular hybrid strain known for its potent, balanced effects and signature musty cheese smell. The flavor is also unique with notes of berries and spicy cheese (one that may just have to be tasted rather than described). This strain is thought to be a specific phenotype (same genetics, different end result) of Skunk #1 that was originally cultivated in the early 1990s by a UK collective group known as “Exodus.” (As a result, this strain is also known as Exodus Cheese.) UK Cheese became popular for its energetic, euphoric head effects combined with its impressive pain relief potential. It quickly spread beyond the borders of its British home. Most users experience alert, sativa effects that allow for mental relaxation without sedation, but it may hasten bedtime for some. Effects tend to be felt in the head first, generally around the eyes, then spread throughout the entire body, producing muscle relaxation and even some tingly numbness. UK’s flowers are on the denser end of the scale and light green with a coat of orange hairs that would make both Prince Charles and Prince William jealous.",
+        "inventory" : "full",
+          "THC" : "26",
+          "taste" : "86",
+          "aroma" : "86",
+          "pain" : "83",
+          "insomnia" : "83",
+          "appetite" : "83",
+          "overall" : "86", 
+    "soldOut" : "none",
+    "opacity" : "1"
+},
+
+
+
+{
+      "id" : "3",
+
         "name" : "VanillaCheesecake",
         "src" : "../images/vanillaCheesecake.JPG",
         "type" : "hybrid",
@@ -60,7 +85,7 @@
 
 
 {
-      "id" : "3",
+      "id" : "4",
 
         "name" : "Dank Bubba",
         "src" : "../images/dankBubba.JPG",
@@ -84,7 +109,7 @@
 
 
 {
-      "id" : "4",
+      "id" : "5",
 
         "name" : "Reef Jerky",
         "src" : "../images/reefJerky.JPG",
@@ -94,7 +119,7 @@
         "pricePerGram" : "5 for $40 $10",
         "pricePerOunce" : "$210 Ounce",
         "description" : "Reef Jerky may taste fruity, spicy, earthy, sour, piney. When smoked, this strain can make you feel euphoria, creativity, calm, numbness, appetite gain, and pain relief.",
-        "inventory" : "full",
+        "inventory" : "med",
           "THC" : "26",
           "taste" : "81",
           "aroma" : "80",
@@ -108,7 +133,7 @@
 
 
 {
-      "id" : "5",
+      "id" : "6",
 
         "name" : "Black Widow",
         "src" : "../images/blackWidow.JPG",
@@ -118,7 +143,7 @@
         "pricePerGram" : "5 for $35 $9",
         "pricePerOunce" : "$195 Ounce",
         "description" : "Black Widow provides an exceptional head high with remarkably intense euphoria, powerful happiness, deep relaxation, and a major case of the munchies.",
-        "inventory" : "full",
+        "inventory" : "med",
           "THC" : "26",
           "taste" : "80",
           "aroma" : "80",
@@ -133,7 +158,7 @@
 
 
 {
-      "id" : "6",
+      "id" : "7",
 
         "name" : "Blackwater",
         "src" : "../images/blackWater.JPG",
@@ -158,7 +183,7 @@
 
 
 {
-      "id" : "7",
+      "id" : "8",
 
         "name" : "Gods Green Crack",
         "src" : "../images/godsGreenCrack.JPG",
@@ -186,7 +211,7 @@
 
 
 {
-      "id" : "8",
+      "id" : "9",
 
         "name" : "Girlscout Cookies",
         "src" : "../images/girlscoutCookies.JPG",
@@ -210,7 +235,7 @@
 
 
 {
-      "id" : "9",
+      "id" : "10",
 
         "name" : "Sugar Lemon Kush",
         "src" : "../images/sugarLemonKush.JPG",
@@ -234,7 +259,7 @@
 
 
 {
-      "id" : "10",
+      "id" : "11",
 
         "name" : "Ice Wreck",
         "src" : "../images/iceWreck.JPG",
@@ -259,7 +284,7 @@
 
 
 {
-      "id" : "11",
+      "id" : "12",
 
         "name" : "Death Bubba",
         "src" : "../images/deathBubb.JPG",
@@ -283,7 +308,7 @@
 
 
 {
-      "id" : "12",
+      "id" : "13",
 
         "name" : "White Bubblegum",
         "src" : "../images/whiteBubbleGum.JPG",
@@ -309,7 +334,7 @@
 
 
 {
-      "id" : "13",
+      "id" : "14",
 
         "name" : "Bruce Banner",
         "src" : "../images/bruceBanner.JPG",
@@ -334,7 +359,7 @@
 
 
 {
-      "id" : "14",
+      "id" : "15",
 
         "name" : "Hardcore OG",
         "src" : "../images/hardcoreOg.JPG",
@@ -359,7 +384,7 @@
 
 
 {
-      "id" : "15",
+      "id" : "16",
 
         "name" : "S.S.S.B",
         "src" : "../images/superSourStrawberryBanana.JPG",
@@ -389,7 +414,7 @@
 
 
 {
-      "id" : "16",
+      "id" : "17",
 
         "name" : "Kush Darling",
         "src" : "../images/kushDarling.JPG",
@@ -416,7 +441,7 @@
 
 
 {
-      "id" : "17",
+      "id" : "18",
 
         "name" : "Gorilla Glue #2",
         "src" : "../images/gorillaGlue2.JPG",
@@ -446,7 +471,7 @@
 
 
 {
-      "id" : "18",
+      "id" : "19",
 
         "name" : "Monster Cookies",
         "src" : "../images/monsterCookies.JPG",
@@ -473,7 +498,7 @@
 
 
 {
-      "id" : "19",
+      "id" : "20",
 
         "name" : "Mango",
         "src" : "../images/mango.JPG",
@@ -501,7 +526,7 @@
 
 
 {
-      "id" : "20",
+      "id" : "21",
 
         "name" : "Citrus Bliss",
         "src" : "../images/citrusBliss.JPG",
@@ -528,7 +553,7 @@
 
 
 {
-      "id" : "21",
+      "id" : "22",
 
         "name" : "PK",
         "src" : "../images/pk.JPG",
@@ -553,7 +578,7 @@
 
 
 {
-      "id" : "22",
+      "id" : "23",
 
         "name" : "Richie Rich",
         "src" : "../images/richieRich.JPG",
@@ -578,7 +603,7 @@
 
 
 {
-      "id" : "23",
+      "id" : "24",
 
         "name" : "BlueberryCheesecake",
         "src" : "../images/blueberryCheesecake.JPG",
@@ -588,7 +613,7 @@
         "pricePerGram" : "5 for $40 $10",
         "pricePerOunce" : "$210 Ounce",
         "description" : "It's Back!! Blueberry Cheesecake is a rather popular cross of Big Buddha Cheese and the eminent Blueberry. It's a sativa-dominant hybrid with a sativa/indica ratio of at least 70:30. Not surprisingly, then, this strain produces mostly mental effects that are calming but euphoric, happy and creative. Its best medical uses include treatment of low mood, lack of appetite, chronic pain, insomnia, and ordinary stress.",
-        "inventory" : "low",
+        "inventory" : "full",
           "THC" : "26",
           "taste" : "86",
           "aroma" : "86",
@@ -603,7 +628,7 @@
 
 
 {
-      "id" : "24",
+      "id" : "25",
 
         "name" : "Pure Pineapple",
         "src" : "../images/purePineapple.JPG",
@@ -627,7 +652,7 @@
 
 
 {
-      "id" : "25",
+      "id" : "26",
 
         "name" : "Sticky Icky",
         "src" : "../images/stickieIcky.JPG",
@@ -651,7 +676,7 @@
 
 
 {
-      "id" : "26",
+      "id" : "27",
 
         "name" : "Obama",
         "src" : "../images/obama.JPG",
@@ -675,7 +700,7 @@
 
 
 {
-      "id" : "27",
+      "id" : "28",
 
         "name" : "Romain Rockstar",
         "src" : "../images/romainRockstar.JPG",
@@ -702,7 +727,7 @@
 
 
 {
-      "id" : "28",
+      "id" : "29",
 
         "name" : "Blue Diamond",
         "src" : "../images/blueDiamond.JPG",
@@ -727,7 +752,7 @@
 
 
 {
-      "id" : "29",
+      "id" : "30",
 
         "name" : "Platinum Bubba",
         "src" : "../images/platnumBubba.JPG",
@@ -771,7 +796,7 @@
 
 
 {
-      "id" : "30",
+      "id" : "31",
 
         "name" : "Yellowfin Tuna",
         "src" : "../images/yellowfinTuna.JPG",
@@ -794,7 +819,7 @@
     },
 
 {
-      "id" : "31",
+      "id" : "32",
 
         "name" : "Blue Dream",
         "src" : "../images/blueDream.JPG",
@@ -825,7 +850,7 @@
     
 
 {
-      "id" : "32",
+      "id" : "33",
 
         "name" : "Pink God",
         "src" : "../images/pinkGod.JPG",
@@ -862,7 +887,7 @@
     
 
 {
-      "id" : "33",
+      "id" : "34",
 
         "name" : "Tuna",
         "src" : "../images/newTuna.JPG",
@@ -885,7 +910,7 @@
     },
 
 {
-      "id" : "34",
+      "id" : "35",
 
         "name" : "BC Chemo",
         "src" : "../images/bcChemo.JPG",
@@ -909,7 +934,7 @@
 
 
 {
-      "id" : "35",
+      "id" : "36",
 
         "name" : "Amnesia Haze",
         "src" : "../images/amnesiaHaze.JPG",
@@ -935,7 +960,7 @@
 
 
 {
-      "id" : "36",
+      "id" : "37",
 
         "name" : "Bottoms",
         "src" : "../images/bottoms.JPG",
