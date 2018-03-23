@@ -151,8 +151,8 @@
           "insomnia" : "86",
           "appetite" : "86",
           "overall" : "86", 
-    "soldOut" : "none",
-    "opacity" : "1"
+    "soldOut" : "sold out",
+    "opacity" : "0.3"
 },
 
 
