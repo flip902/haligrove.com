@@ -588,7 +588,7 @@
         "pricePerGram" : "5 for $40 $10",
         "pricePerOunce" : "$210 Ounce",
         "description" : "Richie Rich cannabis is a Northern Lights #5 crossed with Skunk #1 hybrid.  This weed provides a nice body stone that is a favorite among medicinal users suffering from pain.",
-        "inventory" : "med",
+        "inventory" : "low",
           "THC" : "26",
           "taste" : "84",
           "aroma" : "84",
@@ -978,8 +978,8 @@
           "insomnia" : "?",
           "appetite" : "?",
           "overall" : "?", 
-    "soldOut" : "none",
-    "opacity" : "1"
+    "soldOut" : "sold out",
+    "opacity" : "0.3"
 }
 
 

@@ -29,12 +29,20 @@
 	<p>Selling the old to bring in the new! help us clear out stock to bring in new strains and save a little $ :)</p>
 	<a href="strains.php">
 
-	 Mango, Citrus Bliss, BC Chemo,<br> Pink God, Yellowfin Tuna
+	 Mango, BC Chemo, Yellowfin Tuna
 	 </a>
 	<ui>
      	     <li>5g for $35</li>
 	    <li>10 for $65</li>
 	    <li>28 for $170</li>
+	</ul>
+	<br>
+
+	<h1 class="pickOTW">Overstock sale!</h1>
+	<a href="strains.php">Citrus Bliss & Pink God</a>
+	<ui>
+		<li>10g for $60</li>
+		<li>20g for $110</li>
 	</ul>
 	<br>
 
@@ -112,7 +120,7 @@
 
 
 
-	<a href="/content/hash.php" class="pinkChalk">Temple Hash</a>
+	<a href="/content/hash.php" class="pinkChalk">Temple Hash, Shetral Hash</a>
         <ui>
             <li>3 for $40</li>
             <li>5 for $65</li>
@@ -122,7 +130,7 @@
 
 	
 	
-	<a href="/content/hash.php" class="pinkChalk">Habibi, Red Lebanese & Shetral Hash</a>
+	<a href="/content/hash.php" class="pinkChalk">Habibi, Red Lebanese</a>
         <ui>
             <li>5 for $70</li>
             <li>10 for $135</li>

@@ -81,7 +81,7 @@
                         </div>
                         <h3 class="hashItemTitle" id="">Shetral</h3>
                         <div class="hashPrice">
-                            $15<span> Gram</span> / 5 <span>for</span> $70 
+                            $15<span> Gram</span> / 5 <span>for</span> $65 
                             <p>soft, brown, sweet smell</p>
                         </div>
                         <div id="shetral">
