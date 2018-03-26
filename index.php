@@ -38,7 +38,22 @@ header("Pragma: no-cache");
           <div class="carousel-inner">
 
 
+
+	   
+
 	    <div class="item active">
+		<a href="content/edibles.php"><img src="images/chocChipAd.JPG" alt="">
+                
+                <div class="carousel-caption">
+                    <h3>New Edibles!</h3>
+                    <p>Cookies,<br>Peanut Butter Balls<br>2 for $20
+			              </p>
+                </div>
+              </a>
+             </div>
+
+
+	    <div class="item">
 		<a href="content/specials.php"><img src="images/citrusBliss.JPG" alt="">
                 
                 <div class="carousel-caption">
@@ -115,18 +130,6 @@ header("Pragma: no-cache");
 
 
 
-	   
-
-	    <div class="item">
-		<a href="content/strains.php"><img src="images/board.JPG" alt="">
-                
-                <div class="carousel-caption">
-                    <h3>We now have a signature strain!</h3>
-                    <p>"The Board"<br>5 for $50
-			              </p>
-                </div>
-              </a>
-             </div>
 
 
 	     

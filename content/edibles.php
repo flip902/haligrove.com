@@ -13,6 +13,42 @@
   <section class="paraphernaliaSpace">
     <div class="row paraphernaliaWidth">
 
+
+      <div class="paraphernaliaBox col-lg-6 col-md-6">
+        <div class="paraphernaliaThumbnail">
+          <div class="paraphernaliaImageDiv">
+	    <div class="new">new</div>
+            <img src="../images/peanutButterChocChip.JPG" alt="Peanut Butter" style="height:300px">
+          </div>
+          <h3 class="paraphernaliaItemTitle">Peanut Butter Choc. Chip Cookies</h3>
+          <div class="paraphernaliaPrice">
+	     
+            $12<span> Per</span><span> 2 for $20<br>
+            
+           Contains 145mg THC.</p>
+          </div>
+        </div>
+      </div>
+
+
+      <div class="paraphernaliaBox col-lg-6 col-md-6">
+        <div class="paraphernaliaThumbnail">
+          <div class="paraphernaliaImageDiv">
+	    <div class="new">new</div>
+            <img src="../images/peanutButterBalls.JPG" alt="Peanut Butter" style="height:300px">
+          </div>
+          <h3 class="paraphernaliaItemTitle">Peanut Butter Balls</h3>
+          <div class="paraphernaliaPrice">
+	     
+            $12<span> Per</span><span> 2 for $20<br>
+            
+           Contains 145mg THC.</p>
+          </div>
+        </div>
+      </div>
+
+
+
     <div class="paraphernaliaBox col-lg-6 col-md-6">
         <div class="paraphernaliaThumbnail">
           <div class="paraphernaliaImageDiv">

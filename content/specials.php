@@ -23,7 +23,7 @@
 	  <img src="../images/ether.png" style="hieght: 150px; width: 150px">
         </div>
         </a>-->
-<br>	
+	
 
 	<h1 class="pickOTW">Blowout Sale!!</h1>
 	<p>Selling the old to bring in the new! help us clear out stock to bring in new strains and save a little $ :)</p>
