@@ -109,7 +109,7 @@
 
 	<a href="strains.php">
 
-	 Dank Bubba, Death Bubba, Pure Pineapple, Super Sour Strawberry Banana<br>
+	 Organic Scoutmaster, Purple Quads, Dank Bubba, Death Bubba, Pure Pineapple, Super Sour Strawberry Banana<br>
 	 </a>
 	<ui>
      	     <li>5g for $45</li>

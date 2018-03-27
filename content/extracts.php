@@ -220,8 +220,7 @@
 	    <div class="extractsBox col-lg-6 col-md-6">
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
-			<div class="sold out">sold out</div>
-                        <img src= "../images/oilPen.JPG" alt="Oil Pen" style="height:100%;opacity: 0.3">
+                        <img src= "../images/oilPen.JPG" alt="Oil Pen" style="height:100%;opacity: 1.3">
                             
                     </div>
                     <div class="extractsItemTitle" id="">Phoenix Oil Pen</div>
@@ -334,28 +333,6 @@
 
 
 
-	    <div class="extractsBox col-lg-6 col-md-6">
-                <div class="extractsThumbnail">
-                    <div class="extractsImageDiv">
-			<div class="sold out">sold out</div>
-                        <div class="indica">indica</div>
-                        <img src= "../images/grapeDrink.JPG" style="height: 100%; opacity: 0.3">
-                    </div>
-                    <div class="extractsItemTitle" id="">Grape Drink</div>
-                    <div class="extractsPrice">
-                        <span>$40 Per </span><br>
-                        <h3>Wonka Extracts</h3>
-                        <p class="descriptionP">Grape, berry, pungent taste.
-                        Great for Pain, stress and fatigue.
-                        </p>
-                    </div>
-                       <br> 
-                    <div id="grapeDrink">
-                        <div></div>
-                    </div>
-                    <p class="inventoryPTag">inventory</p>
-                </div>
-            </div>
 
 
 

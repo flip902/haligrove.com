@@ -37,11 +37,20 @@ header("Pragma: no-cache");
           <!-- Wrapper for slides -->
           <div class="carousel-inner">
 
-
+	     <div class="item active">
+		<a href="content/strains.php"><img src="images/purpleQuads.JPG" alt="">
+                
+                <div class="carousel-caption">
+                    <h3>New Organic Scoutmaster<br>and Purple Quads</h3>
+                    <p>5 for $45
+			              </p>
+                </div>
+              </a>
+             </div>
 
 	   
 
-	    <div class="item active">
+	    <div class="item">
 		<a href="content/edibles.php"><img src="images/chocChipAd.JPG" alt="">
                 
                 <div class="carousel-caption">
@@ -98,16 +107,7 @@ header("Pragma: no-cache");
 
 
 
-	    <div class="item">
-		<a href="content/extracts.php"><img src="images/cbdAd.JPG" alt="">
-                
-                <div class="carousel-caption">
-                    <h3>New CBD Isolate</h3>
-                    <p>$50 per gram
-			              </p>
-                </div>
-              </a>
-             </div>
+	   
 	   
 
 	    

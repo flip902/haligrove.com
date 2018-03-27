@@ -58,7 +58,7 @@
 
 #oilPenInventory > div {
   background-color: #C9DF78;
-  width: 0%; /* Adjust with JavaScript */
+  width: 40%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
