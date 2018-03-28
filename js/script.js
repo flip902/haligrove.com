@@ -156,7 +156,7 @@ $.getJSON(jsonURL, function (json) {
     $.each(json.images, function () {
       imgList += '<div class="col-lg-6 col-md-6 strainBox"><div class="thumbnail"><div class="strainImageDiv"><img src= "' + this.src + '"" alt="' + this.description + '" style="width:100%; opacity: ' + this.opacity + '" id="' + this.id + '" onclick="modalWindow(' + this.id + ')"><div class="' + this.isNew + '">new</div><div class="' + this.soldOut + '">' + this.soldOut + '</div><div class="' + this.sale + '"><a href ="specials.php">sale</a></div><div class="' + this.type + '">' + this.type + '</div></div>' +
       '<div class="row"><div class="caption col-lg-8 col-md-8 col-sm-8 col-xs-8"><h3 class="strainItemTitle" id="img' + this.id + '">' + this.name + '</h3><div class="strainPrice">' + this.pricePerGram +
-      '<span> Gram</span> ' + this.pricePerOunce +'</div><p></p></div><div class="inventoryJar col-lg-3 col-md-3 col-sm-3 col-xs-3"><img src="../images/' + this.inventory + '.png"  alt="Jar"><p>inventory</p></div></div></div></div>';
+      '<span> </span> ' + this.pricePerOunce +'</div><p></p></div><div class="inventoryJar col-lg-3 col-md-3 col-sm-3 col-xs-3"><img src="../images/' + this.inventory + '.png"  alt="Jar"><p>inventory</p></div></div></div></div>';
     });
 
     $('.strip').append(imgList);
