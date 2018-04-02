@@ -27,7 +27,6 @@ header("Pragma: no-cache");
 	      <li data-target="#myCarousel" data-slide-to="4"></li>
 	      <li data-target="#myCarousel" data-slide-to="5"></li>
 
-	      <li data-target="#myCarousel" data-slide-to="6"></li>
 
 
 
@@ -38,11 +37,11 @@ header("Pragma: no-cache");
           <div class="carousel-inner">
 
 	     <div class="item active">
-		<a href="content/strains.php"><img src="images/purpleQuads.JPG" alt="">
+		<a href="content/strains.php"><img src="images/cherryGrapefruit.JPG" alt="">
                 
                 <div class="carousel-caption">
-                    <h3>New Organic Scoutmaster<br>and Purple Quads</h3>
-                    <p>5 for $45
+                    <h3>New Cherry Grapefruit!</h3>
+                    <p>5 for $40
 			              </p>
                 </div>
               </a>
@@ -78,23 +77,7 @@ header("Pragma: no-cache");
 
 
 
-	    <div class="item">
-		<a href="content/strains.php"><img src="images/ukCheese.JPG" alt="">
-                
-                <div class="carousel-caption">
-                    <h3>New UK Cheese!</h3>
-                    <p>5 for $40
-			              </p>
-                </div>
-              </a>
-             </div>
-
-
-
-	    
-
-
-	    <div class="item">
+	     <div class="item">
 		<a href="content/extracts.php"><img src="images/oilSyringeAd.JPG" alt="">
                 
                 <div class="carousel-caption">
@@ -133,9 +116,6 @@ header("Pragma: no-cache");
 
 
 	     
-
-
-
 
 
 
