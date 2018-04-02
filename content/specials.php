@@ -29,7 +29,7 @@
 	<p>Selling the old to bring in the new! help us clear out stock to bring in new strains and save a little $ :)</p>
 	<a href="strains.php">
 
-	 Mango, BC Chemo, Yellowfin Tuna
+	 Mango, Yellowfin Tuna
 	 </a>
 	<ui>
      	     <li>5g for $35</li>
