@@ -36,7 +36,20 @@ header("Pragma: no-cache");
           <!-- Wrapper for slides -->
           <div class="carousel-inner">
 
-	     <div class="item active">
+	    <div class="item active">
+		<a href="content/edibles.php"><img src="images/gummyAd.JPG" alt="">
+                
+                <div class="carousel-caption">
+                    <h3>New Gummy!</h3>
+                    <p>Contains 145mg THC<br>$12 per or 2 for $20
+			              </p>
+                </div>
+              </a>
+             </div>
+
+
+
+	     <div class="item">
 		<a href="content/strains.php"><img src="images/cherryGrapefruit.JPG" alt="">
                 
                 <div class="carousel-caption">
@@ -49,16 +62,7 @@ header("Pragma: no-cache");
 
 	   
 
-	    <div class="item">
-		<a href="content/edibles.php"><img src="images/chocChipAd.JPG" alt="">
-                
-                <div class="carousel-caption">
-                    <h3>New Edibles!</h3>
-                    <p>Cookies,<br>Peanut Butter Balls<br>2 for $20
-			              </p>
-                </div>
-              </a>
-             </div>
+	    
 
 
 	    <div class="item">
