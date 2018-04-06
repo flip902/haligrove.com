@@ -27,6 +27,7 @@ header("Pragma: no-cache");
 	      <li data-target="#myCarousel" data-slide-to="4"></li>
 	      <li data-target="#myCarousel" data-slide-to="5"></li>
 
+	      <li data-target="#myCarousel" data-slide-to="6"></li>
 
 
 
@@ -36,7 +37,35 @@ header("Pragma: no-cache");
           <!-- Wrapper for slides -->
           <div class="carousel-inner">
 
-	    <div class="item active">
+
+	     <div class="item active">
+		<a href="content/edibles.php"><img src="images/chocChipAd.JPG" alt="">
+                
+                <div class="carousel-caption">
+                    <h3>New Choc Chip Cookies!</h3>
+                    <p>Contains 145mg THC<br>$12 per or 2 for $20
+			              </p>
+                </div>
+              </a>
+             </div>
+
+
+
+	    <div class="item">
+		<a href="content/strains.php"><img src="images/blueCheez.JPG" alt="">
+                
+                <div class="carousel-caption">
+                    <h3>New Blue Cheez!</h3>
+                    <p>5 for $40
+			              </p>
+                </div>
+              </a>
+             </div>
+
+
+
+
+	    <div class="item">
 		<a href="content/edibles.php"><img src="images/gummyAd.JPG" alt="">
                 
                 <div class="carousel-caption">
@@ -49,17 +78,7 @@ header("Pragma: no-cache");
 
 
 
-	     <div class="item">
-		<a href="content/strains.php"><img src="images/cherryGrapefruit.JPG" alt="">
-                
-                <div class="carousel-caption">
-                    <h3>New Cherry Grapefruit!</h3>
-                    <p>5 for $40
-			              </p>
-                </div>
-              </a>
-             </div>
-
+	     
 	   
 
 	    
