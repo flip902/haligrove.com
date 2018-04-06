@@ -63,7 +63,7 @@
 	<ui>
      	     <li>5g for $35</li>
 	    <li>10 for $70</li>
-	    <li>28 for $190</li>
+	    <li>28 for $185-$190</li>
 	</ul>
 	<br>
 
@@ -100,7 +100,7 @@
 	</ul>
 	<br>
 	
-        <a href="strains.php">Gods Green Crack, Girlscout Cookies, White Bubblegum, Platinum Bubba,  <br></a>
+        <a href="strains.php">Gods Green Crack, Girlscout Cookies, Platinum Bubba,  <br></a>
 	<ui>
 	    <li>$10 per gram accross the board (5g and above)</li>
 	    <li>$230-$250 per Oz</li>
@@ -109,7 +109,7 @@
 
 	<a href="strains.php">
 
-	 Organic Scoutmaster, Purple Quads, Dank Bubba, Death Bubba, Pure Pineapple, Super Sour Strawberry Banana<br>
+	 Organic Scoutmaster, White Bubblegum, Purple Quads, Dank Bubba, Death Bubba, Pure Pineapple, Super Sour Strawberry Banana<br>
 	 </a>
 	<ui>
      	     <li>5g for $45</li>
