@@ -39,7 +39,8 @@
 	    <div class="extractsBox col-lg-6 col-md-6">
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
-                        <img src= "../images/godsGiftShatter.JPG" style="height: 100%">
+			<div class="sold out" style="z-index: 1">sold out</div>
+                        <img src= "../images/godsGiftShatter.JPG" style="height: 100%; opacity: 0.3">
                     </div>
                     <div class="extractsItemTitle" id="">Gods Gift</div>
                     <div class="extractsPrice">
@@ -61,7 +62,9 @@
 	    <div class="extractsBox col-lg-6 col-md-6">
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
-                        <img src= "../images/masterKushShatter.JPG" style="height: 100%">
+
+			<div class="sold out" style="z-index: 1">sold out</div>
+                        <img src= "../images/masterKushShatter.JPG" style="height: 100%; opacity: 0.3">
                     </div>
                     <div class="extractsItemTitle" id="">Master Kush</div>
                     <div class="extractsPrice">
