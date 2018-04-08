@@ -54,7 +54,7 @@
           <div class="paraphernaliaImageDiv">
             <img src="../images/peanutButterChocChip.JPG" alt="Peanut Butter" style="height:300px">
           </div>
-          <h3 class="paraphernaliaItemTitle">Peanut Butter Choc. Chip Cookies</h3>
+          <h3 class="paraphernaliaItemTitle">Peanut Butter Choc. Chip</h3>
           <div class="paraphernaliaPrice">
 	     
             $12<span> Per</span><span> 2 for $20<br>

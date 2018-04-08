@@ -38,9 +38,23 @@ header("Pragma: no-cache");
           <div class="carousel-inner">
 
 
-	     <div class="item active">
-		<a href="content/edibles.php"><img src="images/chocChipAd.JPG" alt="">
+	     
+
+	    <div class="item active">
+		<a href="content/strains.php"><img src="images/whiteCastle.JPG" alt="">
                 
+                <div class="carousel-caption">
+                    <h3>New Whitecastle & Classic Chemo!</h3>
+                    <p>5 for $40
+			              </p>
+                </div>
+              </a>
+             </div>
+
+
+             <div class="item">
+		<a href="content/edibles.php"><img src="images/chocChipAd.JPG" alt="">
+   
                 <div class="carousel-caption">
                     <h3>New Choc Chip Cookies!</h3>
                     <p>Contains 145mg THC<br>$12 per or 2 for $20
@@ -51,16 +65,7 @@ header("Pragma: no-cache");
 
 
 
-	    <div class="item">
-		<a href="content/strains.php"><img src="images/blueCheez.JPG" alt="">
-                
-                <div class="carousel-caption">
-                    <h3>New Blue Cheez!</h3>
-                    <p>5 for $40
-			              </p>
-                </div>
-              </a>
-             </div>
+	    
 
 
 
