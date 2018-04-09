@@ -23,7 +23,38 @@
 	  <img src="../images/ether.png" style="hieght: 150px; width: 150px">
         </div>
         </a>-->
-	
+
+
+
+	<h1 class="pickOTW">Oz of Board now $255</h1>
+	<a href="strains.php">
+
+         save $25!
+	 </a>
+         <br>
+
+	<h1 class="pickOTW">Sale On..</h1>
+	<a href="strains.php">
+
+	Dank Bubba & Organic Scoutmaster 
+	 </a>
+	<ui>
+     	     <li>5g for $40</li>
+             <li>10g for $80</li>
+	</ul>
+	<br>
+	<a href="strains.php">
+
+	Icewreck & PK 
+	 </a>
+	<ui>
+     	     <li>5g for $35</li>
+             <li>10g for $70</li>
+	</ul>
+	<br>
+
+
+
 
 	<h1 class="pickOTW">Blowout Sale!!</h1>
 	<p>Selling the old to bring in the new! help us clear out stock to bring in new strains and save a little $ :)</p>
@@ -109,7 +140,7 @@
 
 	<a href="strains.php">
 
-	 Organic Scoutmaster, White Bubblegum, Purple Quads, Dank Bubba, Death Bubba, Pure Pineapple, Super Sour Strawberry Banana<br>
+	 White Bubblegum, Purple Quads, Death Bubba, Pure Pineapple, Super Sour Strawberry Banana<br>
 	 </a>
 	<ui>
      	     <li>5g for $45</li>

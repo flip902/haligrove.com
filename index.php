@@ -38,13 +38,41 @@ header("Pragma: no-cache");
           <div class="carousel-inner">
 
 
+	    <div class="item active">
+		<a href="content/specials.php"><img src="images/dankBubba.JPG" alt="">
+                
+                <div class="carousel-caption">
+                    <h3>Sale on..</h3>
+                    <p>Dank Bubba, Org. Scoutmaster</p>
+			
+			<p>5 for $40</p>
+		    <p>Icewreck, PK</p>
+			
+			<p>5 for $35</p>
+                </div>
+              </a>
+             </div>
+
+
+	    <div class="item">
+		<a href="content/strains.php"><img src="images/board.JPG" alt="">
+                
+                <div class="carousel-caption">
+                    <h3>Ounce of Board on Sale!</h3>
+                    <p>now $255 save $25
+			              </p>
+                </div>
+              </a>
+             </div>
+
+
 	     
 
-	    <div class="item active">
+	    <div class="item">
 		<a href="content/strains.php"><img src="images/whiteCastle.JPG" alt="">
                 
                 <div class="carousel-caption">
-                    <h3>New Whitecastle & Classic Chemo!</h3>
+                    <h3>New White Castle & Classic Chemo!</h3>
                     <p>5 for $40
 			              </p>
                 </div>
@@ -74,7 +102,7 @@ header("Pragma: no-cache");
 		<a href="content/edibles.php"><img src="images/gummyAd.JPG" alt="">
                 
                 <div class="carousel-caption">
-                    <h3>New Gummy!</h3>
+                    <h3>New Gummies!</h3>
                     <p>Contains 145mg THC<br>$12 per or 2 for $20
 			              </p>
                 </div>
@@ -105,16 +133,7 @@ header("Pragma: no-cache");
 
 
 
-	     <div class="item">
-		<a href="content/extracts.php"><img src="images/oilSyringeAd.JPG" alt="">
-                
-                <div class="carousel-caption">
-                    <h3>Oil Syringe now only $25</h3>
-                    <p>save $5
-			              </p>
-                </div>
-              </a>
-             </div>
+	     
 
 
 
@@ -148,15 +167,7 @@ header("Pragma: no-cache");
 
 
 
-	    <div class="item">
-		<a href="content/specials.php"><img src="images/blowout.jpg" alt="">
-                
-                <div class="carousel-caption">
-                    <h3>Blowout Sale on numerous Strains!</h3>
-                    <p>Tap Here to go to specials</p>
-                </div>
-              </a>
-             </div>
+	    
 
 
 

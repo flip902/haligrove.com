@@ -17,7 +17,6 @@
 	    <div class="extractsBox col-lg-6 col-md-6">
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
-			<div class="new">new</div>
                         <img src= "../images/cbdIsolate.JPG" style="height: 100%">
                     </div>
                     <div class="extractsItemTitle" id="">CBD Isolate</div>
@@ -36,7 +35,7 @@
 
 
 
-	    <div class="extractsBox col-lg-6 col-md-6">
+	   <!-- <div class="extractsBox col-lg-6 col-md-6">
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
 			<div class="sold out" style="z-index: 1">sold out</div>
@@ -54,12 +53,12 @@
                     </div>
                     <p class="inventoryPTag">inventory</p>
                 </div>
-            </div>
+            </div>-->
 
 
 
 
-	    <div class="extractsBox col-lg-6 col-md-6">
+	   <!-- <div class="extractsBox col-lg-6 col-md-6">
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
 
@@ -78,7 +77,7 @@
                     </div>
                     <p class="inventoryPTag">inventory</p>
                 </div>
-            </div>
+            </div>-->
 
 
 
@@ -166,7 +165,7 @@
             </div>
 
 
-	    <div class="extractsBox col-lg-6 col-md-6">
+	   <!-- <div class="extractsBox col-lg-6 col-md-6">
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
 			<div class="sold out" style="z-index: 1">sold out</div>
@@ -186,7 +185,7 @@
                     </div>
                     <p class="inventoryPTag">inventory</p>
                 </div>
-            </div>
+            </div>-->
 
 
 
@@ -311,32 +310,7 @@
 
 
 
-          <div class="extractsBox col-lg-6 col-md-6">
-                <div class="extractsThumbnail">
-                    <div class="extractsImageDiv">
-			<div class="sold out" style="z-index: 1">sold out</div>
-                        <div class="indica">indica</div>
-                        <img src= "../images/purpleAfghani.JPG" style="height: 100%; opacity: 0.3">
-                    </div>
-                    <div class="extractsItemTitle" id="">Purple Afghani</div>
-                    <div class="extractsPrice">
-                        <span>$40 Per </span><br>
-                        <h3>Firerock Extracts</h3>
-                        <p class="descriptionP">Medical Grade Indica.
-                        Great for Pain, stress and inflamation.
-                        </p>
-                    </div>
-                       <br> 
-                    <div id="purpleAfghani">
-                        <div></div>
-                    </div>
-                    <p class="inventoryPTag">inventory</p>
-                </div>
-            </div>
-
-
-
-
+          
 
 
 

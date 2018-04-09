@@ -143,7 +143,7 @@
       
 
 
-      <div class="paraphernaliaBox col-lg-6 col-md-6">
+      <!--<div class="paraphernaliaBox col-lg-6 col-md-6">
         <div class="paraphernaliaThumbnail">
           <div class="paraphernaliaImageDiv">
 	    <div class="sold out" style="z-index: 1">sold out</div>
@@ -157,10 +157,10 @@
            Contains 200mg winterized BHO, all natural, great for pain and insomnia.</p>
           </div>
         </div>
-      </div>
+      </div>-->
 
 
-      <div class="paraphernaliaBox col-lg-6 col-md-6">
+      <!--<div class="paraphernaliaBox col-lg-6 col-md-6">
         <div class="paraphernaliaThumbnail">
           <div class="paraphernaliaImageDiv">
 	    <div class="sold out" style="z-index: 1">sold out</div>
@@ -174,7 +174,7 @@
            Contains 200mg winterized BHO, all natural, great for pain and insomnia.</p>
           </div>
         </div>
-      </div>
+      </div>-->
 
 
       <div class="paraphernaliaBox col-lg-6 col-md-6">
