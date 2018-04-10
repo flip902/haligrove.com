@@ -23,12 +23,15 @@
 	  <img src="../images/ether.png" style="hieght: 150px; width: 150px">
         </div>
         </a>-->
+	<h1 class="pickOTW">Wolf and Emerald Extracts</h1>
+	<a href="extracts.php">
+	Now only $35 each save $5!</a><br>
 
 
-
-	<h1 class="pickOTW">Oz of Board now $255</h1>
+	<h1 class="pickOTW">Oz of our Signature Strain
+				The Board</h1>
 	<a href="strains.php">
-
+         now only $255
          save $25!
 	 </a>
          <br>
@@ -127,7 +130,7 @@
 	<ui>
      	     <li>5g for $50</li>
 	    <li>10 for $100</li>
-	    <li>28 for $280</li>
+	    <li>28 for $255</li>
 	</ul>
 	<br>
 	

@@ -37,8 +37,21 @@ header("Pragma: no-cache");
           <!-- Wrapper for slides -->
           <div class="carousel-inner">
 
-
 	    <div class="item active">
+		<a href="content/extracts.php"><img src="images/luisxiiiAd.JPG" alt="">
+                
+                <div class="carousel-caption">
+                    <h3>All Wolf and Emerald extracts</h3>
+                    <p>now $35 each!!
+			              </p>
+                </div>
+              </a>
+             </div>
+
+
+
+
+	    <div class="item">
 		<a href="content/specials.php"><img src="images/dankBubba.JPG" alt="">
                 
                 <div class="carousel-caption">
@@ -58,7 +71,7 @@ header("Pragma: no-cache");
 		<a href="content/strains.php"><img src="images/board.JPG" alt="">
                 
                 <div class="carousel-caption">
-                    <h3>Ounce of Board on Sale!</h3>
+                    <h3>Ounce of The Board on Sale!</h3>
                     <p>now $255 save $25
 			              </p>
                 </div>
@@ -129,45 +142,6 @@ header("Pragma: no-cache");
               </a>
              </div>
 
-
-
-
-
-	     
-
-
-
-	   
-	   
-
-	    
-
-
-	     <div class="item">
-		<a href="content/extracts.php"><img src="images/hashOilAd.JPG" alt="">
-                
-                <div class="carousel-caption">
-                    <h3>RSO Oil Sale!!</h3>
-                    <p>Save $40!! <br>Price is now $160 for a 10g vial
-			              </p>
-                </div>
-              </a>
-             </div>
-
-
-
-	  
-
-
-
-
-
-	     
-
-
-
-
-	    
 
 
 

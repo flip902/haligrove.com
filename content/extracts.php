@@ -346,7 +346,7 @@
                     </div>
                     <div class="extractsItemTitle" id="">Louis XIII</div>
                     <div class="extractsPrice">
-                        <span>$40 Per </span><br>
+                        <span>$35 Per </span><br>
                         <h3>Emerald Extracts</h3>
                         <p class="descriptionP">Pungent earthy, sweet taste.
                         Great for Pain, stress and depression.
@@ -370,7 +370,7 @@
                     </div>
                     <div class="extractsItemTitle" id="">Black Tuna</div>
                     <div class="extractsPrice">
-                        <span>$40 Per </span><br>
+                        <span>$35 Per </span><br>
                         <h3>Emerald Extracts</h3>
                         <p class="descriptionP">Earthy, woody, pungent taste .
                         Great for Pain, stress and insomnia.
@@ -394,7 +394,7 @@
                     </div>
                     <div class="extractsItemTitle" id="">Golden Goat</div>
                     <div class="extractsPrice">
-                        <span>$40 Per </span><br>
+                        <span>$35 Per </span><br>
                         <h3>Emerald Extracts</h3>
                         <p class="descriptionP">Earthy, citrus, sweet taste.
                         Great for Pain, stress and depression.
@@ -419,7 +419,7 @@
                     </div>
                     <div class="extractsItemTitle" id="">Death Star</div>
                     <div class="extractsPrice">
-                        <span>$40 Per </span><br>
+                        <span>$35 Per </span><br>
                         <h3>Emerald Extracts</h3>
                         <p class="descriptionP">Pungent earthy, diesel taste.
                         Great for Pain, stress and insomnia.
@@ -445,7 +445,7 @@
                     </div>
                     <div class="extractsItemTitle" id="">Vampire Pink</div>
                     <div class="extractsPrice">
-                        <span>$40 Per </span><br>
+                        <span>$35 Per </span><br>
                         <h3>Emerald Extracts</h3>
                         <p class="descriptionP">Pungent earthy, berry taste.
                         Great for Pain, stress and insomnia.
@@ -469,7 +469,7 @@
                     </div>
                     <div class="extractsItemTitle" id="">Lightning Skunk</div>
                     <div class="extractsPrice">
-                        <span>$40 Per </span><br>
+                        <span>$35 Per </span><br>
                         <h3>Emerald Extracts</h3>
                         <p class="descriptionP">Sweet grape berry taste.
                         Great for Pain, stress and insomnia.
@@ -494,7 +494,7 @@
                     </div>
                     <div class="extractsItemTitle" id="">Goomba Smash</div>
                     <div class="extractsPrice">
-                        <span>$40 Per </span><br>
+                        <span>$35 Per </span><br>
                         <h3>Emerald Extracts</h3>
                         <p class="descriptionP">Strawberry, sweet berry taste.
                         Great for Pain, stress and depression.
@@ -523,7 +523,7 @@
                     </div>
                     <div class="extractsItemTitle" id="">White Gorilla</div>
                     <div class="extractsPrice">
-                        <span>$40 Per </span><br>
+                        <span>$35 Per </span><br>
                         <h3>Emerald Extracts</h3>
                         <p class="descriptionP">Earthy, sweet, pungent taste.
                         Great for depression, euphoric happy high.
@@ -546,7 +546,7 @@
                     </div>
                     <div class="extractsItemTitle" id="">Gorilla Glue</div>
                     <div class="extractsPrice">
-                        <span>$40 Per </span><br>
+                        <span>$35 Per </span><br>
                         <h3>Emerald Extracts</h3>
                         <p class="descriptionP">Earthy, pine, pungent taste.
                         Great for Pain, appetite and insomnia.
@@ -568,7 +568,7 @@
                     </div>
                     <div class="extractsItemTitle" id="">Couch Potato</div>
                     <div class="extractsPrice">
-                        <span>$40 Per </span><br>
+                        <span>$35 Per </span><br>
                         <h3>Emerald Extracts</h3>
                         <p class="descriptionP">Earthy, woody, pungent taste.
                         Great for Pain, inflamation and insomnia.
@@ -590,7 +590,7 @@
                     </div>
                     <div class="extractsItemTitle" id="">Purple Urkle</div>
                     <div class="extractsPrice">
-                        <span>$40 Per </span><br>
+                        <span>$35 Per </span><br>
                         <h3>Emerald Extracts</h3>
                         <p class="descriptionP">Sweet, grape, berry taste.
                         Great for Pain, stress and insomnia.
@@ -612,7 +612,7 @@
                     </div>
                     <div class="extractsItemTitle" id="">Nardius Haze</div>
                     <div class="extractsPrice">
-                        <span>$40 Per </span><br>
+                        <span>$35 Per </span><br>
                         <h3>Emerald Extracts</h3>
                         <p class="descriptionP">Pungent, earthy, flowery taste.
                         Great for Pain, stress and relaxation.
@@ -635,7 +635,7 @@
                     </div>
                     <div class="extractsItemTitle" id="">Girl Scout Cookies</div>
                     <div class="extractsPrice">
-                        <span>$40 Per </span><br>
+                        <span>$35 Per </span><br>
                         <h3>Emerald Extracts</h3>
                         <p class="descriptionP">Earthy, pungent, sweet taste.
                         Great for depression, stress and pain.
@@ -659,7 +659,7 @@
                     </div>
                     <div class="extractsItemTitle" id="">God Bud</div>
                     <div class="extractsPrice">
-                        <span>$40 Per </span><br>
+                        <span>$35 Per </span><br>
                         <h3>Wolf Extracts</h3>
                         <p class="descriptionP">Tropical berry/piney taste.
                         Indica dominant strain. good night-time medication.
@@ -687,7 +687,7 @@
                     </div>
                     <div class="extractsItemTitle" id="">Northern Lights</div>
                     <div class="extractsPrice">
-                        <span>$40 Per </span><br>
+                        <span>$35 Per </span><br>
                         <h3>Wolf Extracts</h3>
                         <p class="descriptionP">Pungent, sweet, spicey.
                         Great for relaxing muscles.
