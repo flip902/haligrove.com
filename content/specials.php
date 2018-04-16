@@ -67,7 +67,7 @@
 	 </a>
 	<ui>
      	     <li>5g for $35</li>
-	    <li>10 for $65</li>
+	    <li>10 for $60</li>
 	    <li>28 for $170</li>
 	</ul>
 	<br>
@@ -143,7 +143,7 @@
 
 	<a href="strains.php">
 
-	 White Bubblegum, Purple Quads, Death Bubba, Pure Pineapple, Super Sour Strawberry Banana<br>
+	 White Bubblegum, Purple Quads, Death Bubba, Super Sour Strawberry Banana<br>
 	 </a>
 	<ui>
      	     <li>5g for $45</li>

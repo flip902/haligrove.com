@@ -366,7 +366,7 @@
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
                         <div class="hybrid">hybrid</div>
-                        <img src= "../images/blackTuna.JPG" style="height: 100%">
+                        <img src= "../images/blackTunaExtracts.jpg" style="height: 100%">
                     </div>
                     <div class="extractsItemTitle" id="">Black Tuna</div>
                     <div class="extractsPrice">

@@ -34,10 +34,82 @@
 {
       "id" : "2",
 
+        "name" : "Black Tuna",
+        "src" : "../images/blackTuna.JPG",
+        "type" : "indica",
+        "isNew" : "new",
+        "sale" : "none",
+        "pricePerGram" : "$10/g, 5 for $40,",
+        "pricePerOunce" : "$210/Oz",
+        "description" : "Black Tuna is a British Columbian strain created by 5 Star Organic to give patients a potent punch of THC that is ideal for chronic pain relief. This Herijuana and Lamb's Bread cross has gained quite a bit of fame in Canada for both its strong narcotic effect and its whimsical marketing—prepackaged meds were sold in sealed tuna cans. Flowers will be compact, trichome-covered and have a strong smell. Black Tuna doesn’t smell quite like fish, however; the strain’s name comes from the Black Tuna Gang that was famous for smuggling Colombian marijuana into the United States in the 1970s. Given its potency and high THC, this strain may be too much for novice or moderate consumers.",
+        "inventory" : "full",
+          "THC" : "21",
+          "taste" : "86",
+          "aroma" : "85",
+          "pain" : "85",
+          "insomnia" : "85",
+          "appetite" : "84",
+          "overall" : "86", 
+    "soldOut" : "none",
+    "opacity" : "1"
+},
+
+
+{
+      "id" : "3",
+
+        "name" : "Bubba Grape",
+        "src" : "../images/bubbaGrape.JPG",
+        "type" : "indica",
+        "isNew" : "new",
+        "sale" : "none",
+        "pricePerGram" : "$10/g, 5 for $40,",
+        "pricePerOunce" : "$210/Oz",
+        "description" : "Given Bubba Grape's potent genetics, you can be sure that a few puffs of this smooth and fruity tasting strain will leave you stuck to your chair with an intense body high. According to reports, Bubba Grape can be beneficial for patients suffering from chronic pain, loss of appetite, anxiety, and insomnia.",
+        "inventory" : "full",
+          "THC" : "20",
+          "taste" : "85",
+          "aroma" : "85",
+          "pain" : "84",
+          "insomnia" : "80",
+          "appetite" : "82",
+          "overall" : "85", 
+    "soldOut" : "none",
+    "opacity" : "1"
+},
+
+
+{
+      "id" : "4",
+
+        "name" : "Pink Lady",
+        "src" : "../images/pinkLady.JPG",
+        "type" : "indica",
+        "isNew" : "new",
+        "sale" : "none",
+        "pricePerGram" : "$10/g, 5 for $40,",
+        "pricePerOunce" : "$210/Oz",
+        "description" : "Pink Lady features a sweet, india flavor with hints of Rosemary and lemon. This strain promotes energy which is good for daytime highs involving a stroll through the woods amongst the fallen leaves, but also tends to be rather relaxing when it comes to pain and nausea. For those who would prefer their weed to lull them into a high, pink lady is perfect for them. Just be careful not to consume too much as this is known to produce a “creeper” (slow onset) high that can last for multiple hours.",
+        "inventory" : "full",
+          "THC" : "20",
+          "taste" : "85",
+          "aroma" : "85",
+          "pain" : "83",
+          "insomnia" : "81",
+          "appetite" : "80",
+          "overall" : "85", 
+    "soldOut" : "none",
+    "opacity" : "1"
+},
+
+
+{
+      "id" : "5",
+
         "name" : "White Castle",
         "src" : "../images/whiteCastle.JPG",
         "type" : "hybrid",
-        "isNew" : "new",
+        "isNew" : "none",
         "sale" : "none",
         "pricePerGram" : "$10/g, 5 for $40,",
         "pricePerOunce" : "$210/Oz",
@@ -57,12 +129,12 @@
 
 
 {
-      "id" : "3",
+      "id" : "6",
 
         "name" : "Classic Chemo",
         "src" : "../images/classicChemo.JPG",
         "type" : "indica",
-        "isNew" : "new",
+        "isNew" : "none",
         "sale" : "none",
         "pricePerGram" : "$10/g, 5 for $40,",
         "pricePerOunce" : "$210/Oz",
@@ -84,12 +156,12 @@
 
 
 {
-      "id" : "4",
+      "id" : "7",
 
         "name" : "Blue Cheez",
         "src" : "../images/blueCheez.JPG",
         "type" : "hybrid",
-        "isNew" : "new",
+        "isNew" : "none",
         "sale" : "none",
         "pricePerGram" : "$10/g, 5 for $40,",
         "pricePerOunce" : "$210/Oz",
@@ -108,12 +180,12 @@
 
 
 {
-      "id" : "5",
+      "id" : "8",
 
         "name" : "Cherry Grapefruit",
         "src" : "../images/cherryGrapefruit.JPG",
         "type" : "hybrid",
-        "isNew" : "new",
+        "isNew" : "none",
         "sale" : "none",
         "pricePerGram" : "$10/g, 5 for $40,",
         "pricePerOunce" : "$225/Oz",
@@ -134,7 +206,7 @@
 
 
 {
-      "id" : "6",
+      "id" : "9",
 
         "name" : "Purple Quads",
         "src" : "../images/purpleQuads.JPG",
@@ -159,7 +231,7 @@
 
 
 {
-      "id" : "7",
+      "id" : "10",
 
         "name" : "Org. ScoutMaster",
         "src" : "../images/organicScoutmaster.JPG",
@@ -184,7 +256,7 @@
 
 
 {
-      "id" : "8",
+      "id" : "11",
 
         "name" : "U.K. Cheese",
         "src" : "../images/ukCheese.JPG",
@@ -209,7 +281,7 @@
 
 
 {
-      "id" : "9",
+      "id" : "12",
 
         "name" : "VanillaCheesecake",
         "src" : "../images/vanillaCheesecake.JPG",
@@ -237,7 +309,7 @@
 
 
 {
-      "id" : "10",
+      "id" : "13",
 
         "name" : "Dank Bubba",
         "src" : "../images/dankBubba.JPG",
@@ -261,7 +333,7 @@
 
 
 {
-      "id" : "11",
+      "id" : "14",
 
         "name" : "Reef Jerky",
         "src" : "../images/reefJerky.JPG",
@@ -285,7 +357,7 @@
 
 
 {
-      "id" : "12",
+      "id" : "15",
 
         "name" : "Black Widow",
         "src" : "../images/blackWidow.JPG",
@@ -312,7 +384,7 @@
 
 
 {
-      "id" : "13",
+      "id" : "16",
 
         "name" : "Gods Green Crack",
         "src" : "../images/godsGreenCrack.JPG",
@@ -340,7 +412,7 @@
 
 
 {
-      "id" : "14",
+      "id" : "17",
 
         "name" : "Girlscout Cookies",
         "src" : "../images/girlscoutCookies.JPG",
@@ -364,7 +436,7 @@
 
 
 {
-      "id" : "15",
+      "id" : "18",
 
         "name" : "Sugar Lemon Kush",
         "src" : "../images/sugarLemonKush.JPG",
@@ -388,7 +460,7 @@
 
 
 {
-      "id" : "16",
+      "id" : "19",
 
         "name" : "Ice Wreck",
         "src" : "../images/iceWreck.JPG",
@@ -413,7 +485,7 @@
 
 
 {
-      "id" : "17",
+      "id" : "20",
 
         "name" : "Death Bubba",
         "src" : "../images/deathBubb.JPG",
@@ -437,7 +509,7 @@
 
 
 {
-      "id" : "18",
+      "id" : "21",
 
         "name" : "White Bubblegum",
         "src" : "../images/whiteBubbleGum.JPG",
@@ -463,7 +535,7 @@
 
 
 {
-      "id" : "19",
+      "id" : "22",
 
         "name" : "Bruce Banner",
         "src" : "../images/bruceBanner.JPG",
@@ -488,7 +560,7 @@
 
 
 {
-      "id" : "20",
+      "id" : "23",
 
         "name" : "Hardcore OG",
         "src" : "../images/hardcoreOg.JPG",
@@ -513,7 +585,7 @@
 
 
 {
-      "id" : "21",
+      "id" : "24",
 
         "name" : "S.S.S.B",
         "src" : "../images/superSourStrawberryBanana.JPG",
@@ -543,7 +615,7 @@
 
 
 {
-      "id" : "22",
+      "id" : "25",
 
         "name" : "Kush Darling",
         "src" : "../images/kushDarling.JPG",
@@ -570,7 +642,7 @@
 
 
 {
-      "id" : "23",
+      "id" : "26",
 
         "name" : "Gorilla Glue #2",
         "src" : "../images/gorillaGlue2.JPG",
@@ -600,7 +672,7 @@
 
 
 {
-      "id" : "24",
+      "id" : "27",
 
         "name" : "Monster Cookies",
         "src" : "../images/monsterCookies.JPG",
@@ -627,7 +699,7 @@
 
 
 {
-      "id" : "25",
+      "id" : "28",
 
         "name" : "Mango",
         "src" : "../images/mango.JPG",
@@ -655,7 +727,7 @@
 
 
 {
-      "id" : "26",
+      "id" : "29",
 
         "name" : "Citrus Bliss",
         "src" : "../images/citrusBliss.JPG",
@@ -682,7 +754,7 @@
 
 
 {
-      "id" : "27",
+      "id" : "30",
 
         "name" : "PK",
         "src" : "../images/pk.JPG",
@@ -707,7 +779,7 @@
 
 
 {
-      "id" : "28",
+      "id" : "31",
 
         "name" : "Richie Rich",
         "src" : "../images/richieRich.JPG",
@@ -732,7 +804,7 @@
 
 
 {
-      "id" : "29",
+      "id" : "32",
 
         "name" : "BlueberryCheesecake",
         "src" : "../images/blueberryCheesecake.JPG",
@@ -756,32 +828,11 @@
 
 
 
-{
-      "id" : "30",
 
-        "name" : "Pure Pineapple",
-        "src" : "../images/purePineapple.JPG",
-        "type" : "hybrid",
-        "isNew" : "none",
-        "sale" : "none",
-        "pricePerGram" : "$10/g, 5 for $45",
-        "pricePerOunce" : "",
-        "description" : "It all started with an Idea a few years back, Create a kush line that represents The complete wheel of fruit flavours. For our Pineapple Kush we carefully started searching for a fast flowering and an actual Pineapple flavoured bouquet. After a long and diligent search for the most similar flavored cannabis plant in existence we carefully settled with an increbible Mendo Pineapple and Crossed her with Banana Dream To make the smell Jump out at you in a very pungent fashion.Thus the result The Aficionado's have created Pure Pineapple, (Mendo Pineapple X Banana Dream) to create a Pure Pineapple kush with a dank fruit bouquet with a 55-65 day finish. High yielding and abundant in flavour and strength.",
-        "inventory" : "low",
-          "THC" : "20",
-          "taste" : "86",
-          "aroma" : "86",
-          "pain" : "80",
-          "insomnia" : "80",
-          "appetite" : "84",
-          "overall" : "86", 
-    "soldOut" : "sold out",
-    "opacity" : "0.3"
-},
 
 
 {
-      "id" : "31",
+      "id" : "33",
 
         "name" : "Sticky Icky",
         "src" : "../images/stickieIcky.JPG",
@@ -805,7 +856,7 @@
 
 
 {
-      "id" : "32",
+      "id" : "34",
 
         "name" : "Obama",
         "src" : "../images/obama.JPG",
@@ -829,7 +880,7 @@
 
 
 {
-      "id" : "33",
+      "id" : "35",
 
         "name" : "Romain Rockstar",
         "src" : "../images/romainRockstar.JPG",
@@ -859,7 +910,7 @@
 
 
 {
-      "id" : "34",
+      "id" : "36",
 
         "name" : "Platinum Bubba",
         "src" : "../images/platnumBubba.JPG",
@@ -887,7 +938,7 @@
 
 
 {
-      "id" : "35",
+      "id" : "37",
 
         "name" : "Yellowfin Tuna",
         "src" : "../images/yellowfinTuna.JPG",
@@ -910,7 +961,7 @@
     },
 
 {
-      "id" : "36",
+      "id" : "38",
 
         "name" : "Blue Dream",
         "src" : "../images/blueDream.JPG",
@@ -941,7 +992,7 @@
     
 
 {
-      "id" : "37",
+      "id" : "39",
 
         "name" : "Pink God",
         "src" : "../images/pinkGod.JPG",
@@ -978,7 +1029,7 @@
     
 
 {
-      "id" : "38",
+      "id" : "40",
 
         "name" : "Tuna",
         "src" : "../images/newTuna.JPG",
@@ -1004,7 +1055,7 @@
 
 
 {
-      "id" : "39",
+      "id" : "41",
 
         "name" : "Amnesia Haze",
         "src" : "../images/amnesiaHaze.JPG",
@@ -1030,7 +1081,7 @@
 
 
 {
-      "id" : "40",
+      "id" : "42",
 
         "name" : "Bottoms",
         "src" : "../images/bottoms.JPG",

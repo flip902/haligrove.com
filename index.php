@@ -38,6 +38,17 @@ header("Pragma: no-cache");
           <div class="carousel-inner">
 
 	    <div class="item active">
+		<a href="content/strains.php"><img src="images/pinkLady.JPG" alt="">
+                
+                <div class="carousel-caption">
+                    <h3>New Pink Lady!</h3>
+                    <p>5 for $40
+			              </p>
+                </div>
+              </a>
+             </div>
+
+	    <div class="item">
 		<a href="content/extracts.php"><img src="images/luisxiiiAd.JPG" alt="">
                 
                 <div class="carousel-caption">
@@ -81,16 +92,7 @@ header("Pragma: no-cache");
 
 	     
 
-	    <div class="item">
-		<a href="content/strains.php"><img src="images/whiteCastle.JPG" alt="">
-                
-                <div class="carousel-caption">
-                    <h3>New White Castle & Classic Chemo!</h3>
-                    <p>5 for $40
-			              </p>
-                </div>
-              </a>
-             </div>
+	    
 
 
              <div class="item">
