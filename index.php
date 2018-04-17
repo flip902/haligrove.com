@@ -29,6 +29,7 @@ header("Pragma: no-cache");
 
 	      <li data-target="#myCarousel" data-slide-to="6"></li>
 
+	      <li data-target="#myCarousel" data-slide-to="7"></li>
 
 
 
@@ -38,10 +39,24 @@ header("Pragma: no-cache");
           <div class="carousel-inner">
 
 	    <div class="item active">
-		<a href="content/strains.php"><img src="images/pinkLady.JPG" alt="">
+		<a href="content/specials.php"><img src="images/420.jpg" alt="">
                 
                 <div class="carousel-caption">
-                    <h3>New Pink Lady!</h3>
+                    <h3>420 sale!!!<br> Big savings coming 4/20!</h3>
+                    <p>Our sale will be announced on April 19th
+			              </p>
+                </div>
+              </a>
+             </div>
+
+
+
+	    <div class="item">
+		<a href="content/strains.php"><img src="images/blackTuna2.JPG" alt="">
+                
+                <div class="carousel-caption">
+                    <h3>New Black Tuna & <br>
+			Bubba Grape!</h3>
                     <p>5 for $40
 			              </p>
                 </div>
