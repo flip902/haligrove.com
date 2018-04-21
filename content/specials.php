@@ -23,6 +23,9 @@
 	  <img src="../images/ether.png" style="hieght: 150px; width: 150px">
         </div>
         </a>-->
+
+
+
 	<h1 class="pickOTW">Wolf and Emerald Extracts</h1>
 	<a href="extracts.php">
 	Now only $35 each save $5!</a><br>

@@ -34,6 +34,30 @@
 {
       "id" : "2",
 
+        "name" : "Violator",
+        "src" : "../images/violatorKush.JPG",
+        "type" : "indica",
+        "isNew" : "new",
+        "sale" : "none",
+        "pricePerGram" : "$10/g, 5 for $40,",
+        "pricePerOunce" : "$210/Oz",
+        "description" : "These nugs are dusted with a fine layer of milky white trichomes and sticky sweet resin.Violator has a musty, earthy smell and taste and provides a strong body buzz that will leave you stuck to your chair.",
+        "inventory" : "full",
+          "THC" : "20",
+          "taste" : "85",
+          "aroma" : "85",
+          "pain" : "85",
+          "insomnia" : "85",
+          "appetite" : "84",
+          "overall" : "86", 
+    "soldOut" : "none",
+    "opacity" : "1"
+},
+
+
+{
+      "id" : "3",
+
         "name" : "Black Tuna",
         "src" : "../images/blackTuna2.JPG",
         "type" : "indica",
@@ -56,7 +80,7 @@
 
 
 {
-      "id" : "3",
+      "id" : "4",
 
         "name" : "Bubba Grape",
         "src" : "../images/bubbaGrape.JPG",
@@ -66,7 +90,7 @@
         "pricePerGram" : "$10/g, 5 for $40,",
         "pricePerOunce" : "$210/Oz",
         "description" : "Given Bubba Grape's potent genetics, you can be sure that a few puffs of this smooth and fruity tasting strain will leave you stuck to your chair with an intense body high. According to reports, Bubba Grape can be beneficial for patients suffering from chronic pain, loss of appetite, anxiety, and insomnia.",
-        "inventory" : "full",
+        "inventory" : "med",
           "THC" : "19",
           "taste" : "85",
           "aroma" : "85",
@@ -80,7 +104,7 @@
 
 
 {
-      "id" : "4",
+      "id" : "5",
 
         "name" : "Pink Lady",
         "src" : "../images/pinkLady.JPG",
@@ -104,7 +128,7 @@
 
 
 {
-      "id" : "5",
+      "id" : "6",
 
         "name" : "White Castle",
         "src" : "../images/whiteCastle.JPG",
@@ -114,7 +138,7 @@
         "pricePerGram" : "$10/g, 5 for $40,",
         "pricePerOunce" : "$210/Oz",
         "description" : "White Castle is a slightly indica dominant hybrid (60% indica/40% sativa) strain created through crossing the classic White Widow X Ice strains. Not to be confused with the delicious sliders, this bud has a flavor all of its own, with fresh berries and strawberries blending together for a sweet tasty smoke each and every time. The aroma is very earthy with a fruity sweet overtone accented by fresh ripe berries and tangy strawberries. The White Castle high is very euphoric with sleepy overtones that can leave you dozing if you’re not careful.",
-        "inventory" : "full",
+        "inventory" : "med",
           "THC" : "20",
           "taste" : "87",
           "aroma" : "87",
@@ -129,7 +153,7 @@
 
 
 {
-      "id" : "6",
+      "id" : "7",
 
         "name" : "Classic Chemo",
         "src" : "../images/classicChemo.JPG",
@@ -156,7 +180,7 @@
 
 
 {
-      "id" : "7",
+      "id" : "8",
 
         "name" : "Blue Cheez",
         "src" : "../images/blueCheez.JPG",
@@ -180,7 +204,7 @@
 
 
 {
-      "id" : "8",
+      "id" : "9",
 
         "name" : "Cherry Grapefruit",
         "src" : "../images/cherryGrapefruit.JPG",
@@ -190,7 +214,7 @@
         "pricePerGram" : "$10/g, 5 for $40,",
         "pricePerOunce" : "$225/Oz",
         "description" : "Cherry Grapefruit by Kera Seeds is a super fruity sativa-dominant hybrid that brings out the best qualities of parent strains Cherry and Grapefruit.  Cherry Grapefruit brings on the flavor, mixing sweet grapes and cherries with a creamy herbal exhale that’s almost like garlicky butter.  The smell is very citrus and herby with a tangy fruity overtone that’s slightly earthy at times. This strain will give you a cerebral boost, infusing you with a feeling of focus and energy that doesn't counter your deep relaxation. Cherry Grapefruit is said to be perfect for treating conditions such as chronic pain, muscle spasms or tremors, and hypertension.",
-        "inventory" : "full",
+        "inventory" : "med",
           "THC" : "21",
           "taste" : "86",
           "aroma" : "86",
@@ -206,7 +230,7 @@
 
 
 {
-      "id" : "9",
+      "id" : "10",
 
         "name" : "Purple Quads",
         "src" : "../images/purpleQuads.JPG",
@@ -231,7 +255,7 @@
 
 
 {
-      "id" : "10",
+      "id" : "11",
 
         "name" : "Org. ScoutMaster",
         "src" : "../images/organicScoutmaster.JPG",
@@ -241,7 +265,7 @@
         "pricePerGram" : "$10/g, 5 for <span style='text-decoration: line-through'>$45 </span>$40,",
         "pricePerOunce" : "$225/Oz",
         "description" : "Organic Scoutmaster is a delicious treat caked with trichomes that will make you giggle uncontrollably. The Scout Master strain is a Sativa-dominant hybrid full of hypnotizing effects that will leave you energized and full of laughter.",
-        "inventory" : "full",
+        "inventory" : "med",
           "THC" : "20",
           "taste" : "86",
           "aroma" : "86",
@@ -256,7 +280,7 @@
 
 
 {
-      "id" : "11",
+      "id" : "12",
 
         "name" : "U.K. Cheese",
         "src" : "../images/ukCheese.JPG",
@@ -281,7 +305,7 @@
 
 
 {
-      "id" : "12",
+      "id" : "13",
 
         "name" : "VanillaCheesecake",
         "src" : "../images/vanillaCheesecake.JPG",
@@ -309,7 +333,7 @@
 
 
 {
-      "id" : "13",
+      "id" : "14",
 
         "name" : "Dank Bubba",
         "src" : "../images/dankBubba.JPG",
@@ -333,7 +357,7 @@
 
 
 {
-      "id" : "14",
+      "id" : "15",
 
         "name" : "Reef Jerky",
         "src" : "../images/reefJerky.JPG",
@@ -357,7 +381,7 @@
 
 
 {
-      "id" : "15",
+      "id" : "16",
 
         "name" : "Black Widow",
         "src" : "../images/blackWidow.JPG",
@@ -384,7 +408,7 @@
 
 
 {
-      "id" : "16",
+      "id" : "17",
 
         "name" : "Gods Green Crack",
         "src" : "../images/godsGreenCrack.JPG",
@@ -412,7 +436,7 @@
 
 
 {
-      "id" : "17",
+      "id" : "18",
 
         "name" : "Girlscout Cookies",
         "src" : "../images/girlscoutCookies.JPG",
@@ -436,7 +460,7 @@
 
 
 {
-      "id" : "18",
+      "id" : "19",
 
         "name" : "Sugar Lemon Kush",
         "src" : "../images/sugarLemonKush.JPG",
@@ -454,13 +478,13 @@
           "insomnia" : "81",
           "appetite" : "84",
           "overall" : "87", 
-    "soldOut" : "none",
-    "opacity" : "1"
+    "soldOut" : "sold out",
+    "opacity" : "0.3"
 },
 
 
 {
-      "id" : "19",
+      "id" : "20",
 
         "name" : "Ice Wreck",
         "src" : "../images/iceWreck.JPG",
@@ -485,7 +509,7 @@
 
 
 {
-      "id" : "20",
+      "id" : "21",
 
         "name" : "Death Bubba",
         "src" : "../images/deathBubb.JPG",
@@ -509,7 +533,7 @@
 
 
 {
-      "id" : "21",
+      "id" : "22",
 
         "name" : "White Bubblegum",
         "src" : "../images/whiteBubbleGum.JPG",
@@ -535,7 +559,7 @@
 
 
 {
-      "id" : "22",
+      "id" : "23",
 
         "name" : "Bruce Banner",
         "src" : "../images/bruceBanner.JPG",
@@ -560,7 +584,7 @@
 
 
 {
-      "id" : "23",
+      "id" : "24",
 
         "name" : "Hardcore OG",
         "src" : "../images/hardcoreOg.JPG",
@@ -585,7 +609,7 @@
 
 
 {
-      "id" : "24",
+      "id" : "25",
 
         "name" : "S.S.S.B",
         "src" : "../images/superSourStrawberryBanana.JPG",
@@ -615,7 +639,7 @@
 
 
 {
-      "id" : "25",
+      "id" : "26",
 
         "name" : "Kush Darling",
         "src" : "../images/kushDarling.JPG",
@@ -642,7 +666,7 @@
 
 
 {
-      "id" : "26",
+      "id" : "27",
 
         "name" : "Gorilla Glue #2",
         "src" : "../images/gorillaGlue2.JPG",
@@ -672,7 +696,7 @@
 
 
 {
-      "id" : "27",
+      "id" : "28",
 
         "name" : "Monster Cookies",
         "src" : "../images/monsterCookies.JPG",
@@ -699,7 +723,7 @@
 
 
 {
-      "id" : "28",
+      "id" : "29",
 
         "name" : "Mango",
         "src" : "../images/mango.JPG",
@@ -727,7 +751,7 @@
 
 
 {
-      "id" : "29",
+      "id" : "30",
 
         "name" : "Citrus Bliss",
         "src" : "../images/citrusBliss.JPG",
@@ -754,7 +778,7 @@
 
 
 {
-      "id" : "30",
+      "id" : "31",
 
         "name" : "PK",
         "src" : "../images/pk.JPG",
@@ -779,7 +803,7 @@
 
 
 {
-      "id" : "31",
+      "id" : "32",
 
         "name" : "Richie Rich",
         "src" : "../images/richieRich.JPG",
@@ -804,7 +828,7 @@
 
 
 {
-      "id" : "32",
+      "id" : "33",
 
         "name" : "BlueberryCheesecake",
         "src" : "../images/blueberryCheesecake.JPG",
@@ -832,7 +856,7 @@
 
 
 {
-      "id" : "33",
+      "id" : "34",
 
         "name" : "Sticky Icky",
         "src" : "../images/stickieIcky.JPG",
@@ -856,7 +880,7 @@
 
 
 {
-      "id" : "34",
+      "id" : "35",
 
         "name" : "Obama",
         "src" : "../images/obama.JPG",
@@ -866,7 +890,7 @@
         "pricePerGram" : "$10/g, 5 for $40,",
         "pricePerOunce" : "$210/Oz",
         "description" : "Obama Kush sets itself apart from other indicas through its cerebral stimulation and euphoric rush. This strain is recommended for all levels of patients looking for a balanced experience, as it offers powerful physical effects as well as an intense cerebral uplift that helps concentration, perfect medication for watching movies or playing video games. The flowers are frosty with a purple hue and reddish hairs, giving off a light aroma.",
-        "inventory" : "med",
+        "inventory" : "low",
           "THC" : "20",
           "taste" : "87",
           "aroma" : "85",
@@ -880,7 +904,7 @@
 
 
 {
-      "id" : "35",
+      "id" : "36",
 
         "name" : "Romain Rockstar",
         "src" : "../images/romainRockstar.JPG",
@@ -910,7 +934,7 @@
 
 
 {
-      "id" : "36",
+      "id" : "37",
 
         "name" : "Platinum Bubba",
         "src" : "../images/platnumBubba.JPG",
@@ -938,7 +962,7 @@
 
 
 {
-      "id" : "37",
+      "id" : "38",
 
         "name" : "Yellowfin Tuna",
         "src" : "../images/yellowfinTuna.JPG",
@@ -948,7 +972,7 @@
         "pricePerGram" : "$9/g, 5 for $35,",
         "pricePerOunce" : "$170/Oz",
         "description" : "Yellowfin Tuna gives patients a potent punch of THC that is ideal for chronic pain relief. This Herijuana and Lamb's Bread cross has gained quite a bit of fame in Canada for both its strong narcotic effect and its whimsical marketing - prepackaged meds were sold in sealed tuna cans. Flowers will be compact, trichome-covered and have a strong smell. ",
-        "inventory" : "med",
+        "inventory" : "low",
           "THC" : "18",
           "taste" : "80",
           "aroma" : "78",
@@ -961,7 +985,7 @@
     },
 
 {
-      "id" : "38",
+      "id" : "39",
 
         "name" : "Blue Dream",
         "src" : "../images/blueDream.JPG",
@@ -992,7 +1016,7 @@
     
 
 {
-      "id" : "39",
+      "id" : "40",
 
         "name" : "Pink God",
         "src" : "../images/pinkGod.JPG",
@@ -1029,7 +1053,7 @@
     
 
 {
-      "id" : "40",
+      "id" : "41",
 
         "name" : "Tuna",
         "src" : "../images/newTuna.JPG",
@@ -1055,7 +1079,7 @@
 
 
 {
-      "id" : "41",
+      "id" : "42",
 
         "name" : "Amnesia Haze",
         "src" : "../images/amnesiaHaze.JPG",
@@ -1081,7 +1105,7 @@
 
 
 {
-      "id" : "42",
+      "id" : "43",
 
         "name" : "Bottoms",
         "src" : "../images/bottoms.JPG",

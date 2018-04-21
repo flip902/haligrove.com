@@ -265,7 +265,7 @@
 
 #blueberry > div {
   background-color: #C9DF78;
-  width: 1%; /* Adjust with JavaScript */
+  width: 0%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -357,7 +357,7 @@
 
 #northernLights > div {
   background-color: #C9DF78;
-  width: 40%; /* Adjust with JavaScript */
+  width: 0%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -387,7 +387,7 @@
 
 #godBud > div {
   background-color: #C9DF78;
-  width: 40%; /* Adjust with JavaScript */
+  width: 0%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -560,7 +560,7 @@
 
 #deathStarInventory > div {
   background-color: #C9DF78;
-  width: 10%; /* Adjust with JavaScript */
+  width: 0%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }

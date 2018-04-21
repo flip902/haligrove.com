@@ -25,11 +25,8 @@ header("Pragma: no-cache");
               <li data-target="#myCarousel" data-slide-to="2"></li>
               <li data-target="#myCarousel" data-slide-to="3"></li>
 	      <li data-target="#myCarousel" data-slide-to="4"></li>
-	      <li data-target="#myCarousel" data-slide-to="5"></li>
 
-	      <li data-target="#myCarousel" data-slide-to="6"></li>
 
-	      <li data-target="#myCarousel" data-slide-to="7"></li>
 
 
 
@@ -38,25 +35,15 @@ header("Pragma: no-cache");
           <!-- Wrapper for slides -->
           <div class="carousel-inner">
 
+
+
+
 	    <div class="item active">
-		<a href="content/specials.php"><img src="images/420.jpg" alt="">
+		<a href="content/strains.php"><img src="images/violatorKush.JPG" alt="">
                 
                 <div class="carousel-caption">
-                    <h3>420 sale!!!<br> Big savings coming 4/20!</h3>
-                    <p>Our sale will be announced on April 19th
-			              </p>
-                </div>
-              </a>
-             </div>
+                    <h3>New Violator!</h3>
 
-
-
-	    <div class="item">
-		<a href="content/strains.php"><img src="images/blackTuna2.JPG" alt="">
-                
-                <div class="carousel-caption">
-                    <h3>New Black Tuna & <br>
-			Bubba Grape!</h3>
                     <p>5 for $40
 			              </p>
                 </div>
@@ -105,44 +92,6 @@ header("Pragma: no-cache");
              </div>
 
 
-	     
-
-	    
-
-
-             <div class="item">
-		<a href="content/edibles.php"><img src="images/chocChipAd.JPG" alt="">
-   
-                <div class="carousel-caption">
-                    <h3>New Choc Chip Cookies!</h3>
-                    <p>Contains 145mg THC<br>$12 per or 2 for $20
-			              </p>
-                </div>
-              </a>
-             </div>
-
-
-
-	    
-
-
-
-
-	    <div class="item">
-		<a href="content/edibles.php"><img src="images/gummyAd.JPG" alt="">
-                
-                <div class="carousel-caption">
-                    <h3>New Gummies!</h3>
-                    <p>Contains 145mg THC<br>$12 per or 2 for $20
-			              </p>
-                </div>
-              </a>
-             </div>
-
-
-
-	     
-	   
 
 	    
 
