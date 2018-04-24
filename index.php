@@ -39,12 +39,12 @@ header("Pragma: no-cache");
 
 
 	    <div class="item active">
-		<a href="content/strains.php"><img src="images/violatorKush.JPG" alt="">
+		<a href="content/strains.php"><img src="images/sensiStar.JPG" alt="">
                 
                 <div class="carousel-caption">
-                    <h3>New Violator!</h3>
+                    <h3>New Sensi Star!</h3>
 
-                    <p>5 for $40
+                    <p>5 for $45
 			              </p>
                 </div>
               </a>

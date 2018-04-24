@@ -146,7 +146,7 @@
 
 	<a href="strains.php">
 
-	 White Bubblegum, Purple Quads, Death Bubba, Super Sour Strawberry Banana<br>
+	 Sensi Star, White Bubblegum, Death Bubba, Super Sour Strawberry Banana<br>
 	 </a>
 	<ui>
      	     <li>5g for $45</li>

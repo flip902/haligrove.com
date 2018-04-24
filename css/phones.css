@@ -9,7 +9,7 @@
 
 #penInventory > div {
   background-color: #C9DF78;
-  width: 40%; /* Adjust with JavaScript */
+  width: 0%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -58,7 +58,7 @@
 
 #oilPenInventory > div {
   background-color: #C9DF78;
-  width: 40%; /* Adjust with JavaScript */
+  width: 10%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
