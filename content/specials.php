@@ -24,6 +24,30 @@
         </div>
         </a>-->
 
+<h1 class="pickOTW">Extracts Sale!</h1>
+	<a href="extracts.php">CBD Isolate, All Budders and Sugar Wax</a>
+	<ui>
+		<li>CBD Isolate now only $35</li>
+
+		<li>$10 off ALL Budders and Sugar Wax</li>
+	</ul>
+	<br>
+
+
+
+	<h1 class="pickOTW">Newer Strain On Sale!</h1>
+	<a href="strains.php">
+
+	Bubba Grape 
+	 </a>
+	<ui>
+     	     <li>5g for $35</li>
+             <li>10g for $70</li>
+
+             <li>Oz for $185</li>
+	</ul>
+	<br>
+
 
 
 	<h1 class="pickOTW">Wolf and Emerald Extracts</h1>
@@ -96,7 +120,7 @@
 	<h1 class="pickOTW">Favourites on Sale!</h1>
 
 
-	<a href="strains.php">Black Widow, Romain Rockstar, & Tuna</a>	
+	<a href="strains.php">Blue Cheez, Bruce Banner, Black Widow, Romain Rockstar, & Tuna</a>	
 	<ui>
      	     <li>5g for $35</li>
 	    <li>10 for $70</li>

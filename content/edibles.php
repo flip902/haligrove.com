@@ -13,11 +13,58 @@
   <section class="paraphernaliaSpace">
     <div class="row paraphernaliaWidth">
 
+<div class="paraphernaliaBox col-lg-6 col-md-6">
+        <div class="paraphernaliaThumbnail">
+          <div class="paraphernaliaImageDiv">
+	    <div class="new">new</div>
+            <img src="../images/waterEnhancer.JPG" alt="water" style="height:300px">
+          </div>
+          <h3 class="paraphernaliaItemTitle">Water Enhancer</h3>
+          <div class="paraphernaliaPrice">
+	     
+            $8<span> Per</span><span> 2 for $15<br>
+            
+           Contains 50mg winterized BHO.</p>
+          </div>
+        </div>
+      </div>
+
+<div class="paraphernaliaBox col-lg-6 col-md-6">
+        <div class="paraphernaliaThumbnail">
+          <div class="paraphernaliaImageDiv">
+	    <div class="new">new</div>
+            <img src="../images/capsule100mg.JPG" alt="capsule" style="height:300px">
+          </div>
+          <h3 class="paraphernaliaItemTitle">Canna Cap</h3>
+          <div class="paraphernaliaPrice">
+	     
+            $8<span> Per</span><span> 2 for $15<br>
+            
+           100mg THC capsule</p>
+          </div>
+        </div>
+      </div>
+
+<div class="paraphernaliaBox col-lg-6 col-md-6">
+        <div class="paraphernaliaThumbnail">
+          <div class="paraphernaliaImageDiv">
+	    <div class="new">new</div>
+            <img src="../images/honeyOil.JPG" alt="honey oil" style="height:300px">
+          </div>
+          <h3 class="paraphernaliaItemTitle">Honey Oil</h3>
+          <div class="paraphernaliaPrice">
+	     
+            $80<span> Per</span><br>
+            
+           1g syringe. oral use only</p>
+          </div>
+        </div>
+      </div>
+
 
       <div class="paraphernaliaBox col-lg-6 col-md-6">
         <div class="paraphernaliaThumbnail">
           <div class="paraphernaliaImageDiv">
-	    <div class="new">new</div>
             <img src="../images/chocChip.JPG" alt="Choc Chip" style="height:300px">
           </div>
           <h3 class="paraphernaliaItemTitle">Choc. Chip Cookies</h3>
@@ -35,14 +82,14 @@
         <div class="paraphernaliaThumbnail">
           <div class="paraphernaliaImageDiv">
 	    <div class="new">new</div>
-            <img src="../images/watermelonGummy.JPG" alt="Gummy" style="height:300px">
+            <img src="../images/gummy150.JPG" alt="Gummy" style="height:300px">
           </div>
           <h3 class="paraphernaliaItemTitle">Watermelon Gummy</h3>
           <div class="paraphernaliaPrice">
 	     
             $12<span> Per</span><span> 2 for $20<br>
             
-           Contains 145mg THC.</p>
+           Contains 150mg THC.</p>
           </div>
         </div>
       </div>
@@ -52,7 +99,8 @@
       <div class="paraphernaliaBox col-lg-6 col-md-6">
         <div class="paraphernaliaThumbnail">
           <div class="paraphernaliaImageDiv">
-            <img src="../images/peanutButterChocChip.JPG" alt="Peanut Butter" style="height:300px">
+	    <div class="sold out" style="z-index: 1">sold out</div>
+            <img src="../images/peanutButterChocChip.JPG" alt="Peanut Butter" style="height:300px; opacity: 0.3">
           </div>
           <h3 class="paraphernaliaItemTitle">Peanut Butter Choc. Chip</h3>
           <div class="paraphernaliaPrice">

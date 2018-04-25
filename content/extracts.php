@@ -17,11 +17,12 @@
 	    <div class="extractsBox col-lg-6 col-md-6">
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
+			<div class="sale">sale</div>
                         <img src= "../images/cbdIsolate.JPG" style="height: 100%">
                     </div>
                     <div class="extractsItemTitle" id="">CBD Isolate</div>
                     <div class="extractsPrice">
-                        <h3>1g $50 per</h3>
+                        <h3>1g <span style="text-decoration: line-through">$50</span> $35 per</h3>
                         <p class="descriptionP">
                         CBD isolate 99% purity, CBD isolate In its pure crystalline form. One of the easiest ways to use CBD crytals is in baked goods.</p><br>
                     </div>
@@ -84,11 +85,12 @@
 	    <div class="extractsBox col-lg-6 col-md-6">
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
+			<div class="sale">sale</div>
                         <img src= "../images/tripleBerrySugarWax.JPG" style="height: 100%">
                     </div>
                     <div class="extractsItemTitle" id="">Triple Berry</div>
                     <div class="extractsPrice">
-                        <h3>1g Sugar Wax ($70 per)</h3>
+                        <h3>1g Sugar Wax (<span style="text-decoration: line-through">$70</span> $60 per)</h3>
                         <p class="descriptionP">
                         Sugar wax is a marijuana concentrate with full flavor and a slightly grainy texture. Many people prefer sugar wax for its richer, more complex flavor profile.</p>
                     </div>
@@ -105,11 +107,12 @@
 	    <div class="extractsBox col-lg-6 col-md-6">
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
+			<div class="sale">sale</div>
                         <img src= "../images/rockstarSugarWax.JPG" style="height: 100%">
                     </div>
                     <div class="extractsItemTitle" id="">Rockstar</div>
                     <div class="extractsPrice">
-                        <h3>1g Sugar Wax ($70 per)</h3>
+                        <h3>1g Sugar Wax (<span style="text-decoration: line-through">$70</span> $60 per)</h3>
                         <p class="descriptionP">
                         highly potent concentrated cannabis extract made from Rockstar cannabis. Recommended for patients with a higher tolerance requiring a stronger medication. </p>
                     </div>
@@ -126,11 +129,12 @@
 	    <div class="extractsBox col-lg-6 col-md-6">
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
+			<div class="sale">sale</div>
                         <img src= "../images/lemonSourDiesel.JPG" style="height: 100%">
                     </div>
                     <div class="extractsItemTitle" id="">Lemon Sour Diesel</div>
                     <div class="extractsPrice">
-                        <h3>1g Budder ($70 per)</h3>
+                        <h3>1g Budder (<span style="text-decoration: line-through">$70</span> $60 per)</h3>
                         <p class="descriptionP">
                         One gram contains approximately 40 hits. Each hit is the equivalent of 1-2 full joints, making this product dollar-for-dollar the most economical way to experience the full medical benefits of cannabis.</p>
                     </div>
@@ -146,12 +150,13 @@
 	    <div class="extractsBox col-lg-6 col-md-6">
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
+			<div class="sale">sale</div>
                         <img src= "../images/watermelon.JPG" style="height: 100%">
                     </div>
                     <div class="extractsItemTitle" id="">Watermelon Haze</div>
                     <div class="extractsPrice">
                         
-                        <h3>1g Budder ($70 per)</h3>
+                        <h3>1g Budder (<span style="text-decoration: line-through">$70</span> $60 per)</h3>
                         <p class="descriptionP">
 			It takes 28 grams of premium buds (not leaf or shake) to make 3 grams of Budder. Budder is the result of adding light heat and agitation to BHO. Budder is totally opaque and known for its easy-to-use consistency.	
                         </p>
@@ -241,30 +246,7 @@
             </div>
                 
 
-            <div class="extractsBox col-lg-6 col-md-6">
-                <div class="extractsThumbnail">
-                    <div class="extractsImageDiv">
-			<div class="sold out" style="z-index: 1">sold out</div>
-                        <img src= "../images/pen.JPG" alt="Pen" style="height:100%; opacity: 0.3">
-                            
-                    </div>
-                    <div class="extractsItemTitle" id="">Shatter Pen</div>
-                    <div class="extractsPrice">
-                        $40<span> per</span><br>
-                        <p class="penDescription">These pens are made from an OG Kush
-                        indica relative. Perfect for when on the go or have to be discreet
-                        or even at work. These are pre-loaded and ready
-                        to go, just puff and toss in the trash when
-                        done. Good for up to 300 puffs. (Depending on many factors such as: length of puffs, storage, temp., etc) No 
-                        charging required.
-                        </p>
-                    </div>
-                    <div id="penInventory">
-                        <div></div>
-                    </div>
-                    <p class="inventoryPTag">inventory</p>
-                </div>
-            </div>
+            
 
             <div class="extractsBox col-lg-6 col-md-6">
                 <div class="extractsThumbnail">
@@ -412,28 +394,6 @@
 
 
 
-	    <div class="extractsBox col-lg-6 col-md-6">
-                <div class="extractsThumbnail">
-                    <div class="extractsImageDiv">
-			<div class="sold out" style="z-index: 1">sold out</div>
-                        <div class="indica">indica</div>
-                        <img src= "../images/deathStarExtract.JPG" style="height: 100%; opacity: 0.3">
-                    </div>
-                    <div class="extractsItemTitle" id="">Death Star</div>
-                    <div class="extractsPrice">
-                        <span>$35 Per </span><br>
-                        <h3>Emerald Extracts</h3>
-                        <p class="descriptionP">Pungent earthy, diesel taste.
-                        Great for Pain, stress and insomnia.
-                        </p>
-                    </div>
-                       <br> 
-                    <div id="deathStarInventory">
-                        <div></div>
-                    </div>
-                    <p class="inventoryPTag">inventory</p>
-                </div>
-            </div>
 
 
 
@@ -662,8 +622,9 @@
 	    <div class="extractsBox col-lg-6 col-md-6">
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
+			<div class="sold out" style="z-index">sold out</div>
                         <div class="hybrid">hybrid</div>
-                        <img src= "../images/wolfCheeze.JPG" style="height: 100%">
+                        <img src= "../images/wolfCheeze.JPG" style="height: 100%; opacity: 0.3">
                     </div>
                     <div class="extractsItemTitle" id="">Cheese</div>
                     <div class="extractsPrice">
@@ -683,29 +644,6 @@
 
 
 
-	    <div class="extractsBox col-lg-6 col-md-6">
-                <div class="extractsThumbnail">
-                    <div class="extractsImageDiv">
-
-			<div class="sold out" style="z-index: 1">sold out</div>
-                        <div class="hybrid">hybrid</div>
-                        <img src= "../images/wolfBlueberry.JPG" style="height: 100%; opacity: 0.3">
-                    </div>
-                    <div class="extractsItemTitle" id="">Blueberry</div>
-                    <div class="extractsPrice">
-                        <span>$35 Per </span><br>
-                        <h3>Wolf Extracts</h3>
-                        <p class="descriptionP">Sweet flavours and high THC content.
-                        Great for pain, stress, and relaxation.
-                        </p>
-                    </div>
-                       <br> 
-                    <div id="blueberry">
-                        <div></div>
-                    </div>
-                    <p class="inventoryPTag">inventory</p>
-                </div>
-            </div>
 
 	    <div class="extractsBox col-lg-6 col-md-6">
                 <div class="extractsThumbnail">

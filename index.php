@@ -26,7 +26,9 @@ header("Pragma: no-cache");
               <li data-target="#myCarousel" data-slide-to="3"></li>
 	      <li data-target="#myCarousel" data-slide-to="4"></li>
 
+	      <li data-target="#myCarousel" data-slide-to="5"></li>
 
+	      <li data-target="#myCarousel" data-slide-to="6"></li>
 
 
 
@@ -36,9 +38,32 @@ header("Pragma: no-cache");
           <div class="carousel-inner">
 
 
-
-
 	    <div class="item active">
+		<a href="content/edibles.php"><img src="images/waterEnhancerAd.JPG" alt="">
+                
+                <div class="carousel-caption">
+                    <h3>Check out our new Water Enhancers</h3>
+
+                    <p>New Capsules and Honey Oil Too!
+			              </p>
+                </div>
+              </a>
+             </div>
+
+	    <div class="item">
+		<a href="content/paraphernalia.php"><img src="images/purePullsAd.JPG" alt="">
+                
+                <div class="carousel-caption">
+                    <h3>Check out our new Paraphernalia!</h3>
+
+                    <p>Pure Pulls, Lip Balm and Headache Oil
+			              </p>
+                </div>
+              </a>
+             </div>
+
+
+	    <div class="item">
 		<a href="content/strains.php"><img src="images/sensiStar.JPG" alt="">
                 
                 <div class="carousel-caption">
