@@ -120,7 +120,7 @@
 	<h1 class="pickOTW">Favourites on Sale!</h1>
 
 
-	<a href="strains.php">Blue Cheez, Bruce Banner, Black Widow, Romain Rockstar, & Tuna</a>	
+	<a href="strains.php">Blue Cheez, Bruce Banner, Romain Rockstar, & Tuna</a>	
 	<ui>
      	     <li>5g for $35</li>
 	    <li>10 for $70</li>

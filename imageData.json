@@ -43,7 +43,7 @@
 	"pricePerGram" : "$10/g, 5 for $45,",
 	"pricePerOunce" : "$225/Oz",
 	"description" : "Sensi Star by Paradise Seeds is a legendary indica strain that is renowned worldwide for its powerful full-body effects and subtle cerebral invigoration. Crystal trichomes sparkle like a constellation of stars against this indica’s dark green and purple coloration, reflecting a potency worthy of placement in the 1999, 2000, and 2005 High Times Cannabis Cups. Her stunning results at maturation have also won the hearts of growers who cultivate both indoor and out in either hydroponic or soil methods.",
-	"inventory" : "full",
+	"inventory" : "med",
 	  "THC" : "21",
 	  "taste" : "86",
 	  "aroma" : "86",
@@ -115,7 +115,7 @@
         "pricePerGram" : "$8/g, 5 for $35,",
         "pricePerOunce" : "$185/Oz",
         "description" : "Given Bubba Grape's potent genetics, you can be sure that a few puffs of this smooth and fruity tasting strain will leave you stuck to your chair with an intense body high. According to reports, Bubba Grape can be beneficial for patients suffering from chronic pain, loss of appetite, anxiety, and insomnia.",
-        "inventory" : "med",
+        "inventory" : "low",
           "THC" : "19",
           "taste" : "85",
           "aroma" : "85",
@@ -239,7 +239,7 @@
         "pricePerGram" : "$10/g, 5 for $40,",
         "pricePerOunce" : "$225/Oz",
         "description" : "Cherry Grapefruit by Kera Seeds is a super fruity sativa-dominant hybrid that brings out the best qualities of parent strains Cherry and Grapefruit.  Cherry Grapefruit brings on the flavor, mixing sweet grapes and cherries with a creamy herbal exhale that’s almost like garlicky butter.  The smell is very citrus and herby with a tangy fruity overtone that’s slightly earthy at times. This strain will give you a cerebral boost, infusing you with a feeling of focus and energy that doesn't counter your deep relaxation. Cherry Grapefruit is said to be perfect for treating conditions such as chronic pain, muscle spasms or tremors, and hypertension.",
-        "inventory" : "med",
+        "inventory" : "low",
           "THC" : "21",
           "taste" : "86",
           "aroma" : "86",
@@ -267,7 +267,7 @@
         "pricePerGram" : "$10/g, 5 for <span style='text-decoration: line-through'>$45 </span>$40,",
         "pricePerOunce" : "$225/Oz",
         "description" : "Organic Scoutmaster is a delicious treat caked with trichomes that will make you giggle uncontrollably. The Scout Master strain is a Sativa-dominant hybrid full of hypnotizing effects that will leave you energized and full of laughter.",
-        "inventory" : "med",
+        "inventory" : "low",
           "THC" : "20",
           "taste" : "86",
           "aroma" : "86",
@@ -345,7 +345,7 @@
         "pricePerGram" : "$10/g, 5 for <span style='text-decoration: line-through'>$45 </span>$40,",
         "pricePerOunce" : "$225/Oz",
         "description" : "Dank Bubba is an indica strain that has gained notoriety in the U.S. and beyond for its heavy tranquilizing effects. Sweet hashish flavors with subtle notes of chocolate and coffee come through on the exhale, delighting the palate as powerful relaxation takes over. From head to toe, muscles ease with heaviness as dreamy euphoria blankets the mind, crushing stress while coercing happy moods. Dank Bubba exhibits a distinctive, bulky bud structure with hues that range from forest green to pale purple.",
-        "inventory" : "full",
+        "inventory" : "med",
           "THC" : "21",
           "taste" : "86",
           "aroma" : "85",
@@ -401,8 +401,8 @@
           "insomnia" : "79",
           "appetite" : "82",
           "overall" : "80", 
-    "soldOut" : "none",
-    "opacity" : "1"
+    "soldOut" : "sold out",
+    "opacity" : "0.3"
 },
 
 
@@ -456,8 +456,8 @@
           "insomnia" : "86",
           "appetite" : "85",
           "overall" : "87", 
-    "soldOut" : "none",
-    "opacity" : "1"
+    "soldOut" : "sold out",
+    "opacity" : "0.3"
 },
 
 
@@ -714,7 +714,7 @@
         "pricePerGram" : "$8/g, 10 for $60,",
         "pricePerOunce" : "$170/Oz",
         "description" : "This strain is true to her name, she delights the senses with delicious flavour of mango. This strain is perfect for daytime use and will leave you felling energetic and in a good mood.",
-        "inventory" : "full",
+        "inventory" : "med",
           "THC" : "18",
           "taste" : "80",
           "aroma" : "80",
@@ -802,7 +802,7 @@
           "insomnia" : "82",
           "appetite" : "81",
           "overall" : "84", 
-    "soldOut" : "none",
+    "soldOut" : "sold out",
     "opacity" : "1"
 },
 
@@ -1078,8 +1078,8 @@
           "insomnia" : "70",
           "appetite" : "75",
           "overall" : "71", 
-    "soldOut" : "none",
-    "opacity" : "1"
+    "soldOut" : "sold out",
+    "opacity" : "0.3"
 },
 
 

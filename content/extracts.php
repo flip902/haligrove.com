@@ -17,6 +17,54 @@
 	    <div class="extractsBox col-lg-6 col-md-6">
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
+			<div class="new">new</div>
+                        <div class="hybrid">hybrid</div>
+                        <img src= "../images/whiteCastleResin.JPG" style="height: 100%">
+                    </div>
+                    <div class="extractsItemTitle" id="">White Castle</div>
+                    <div class="extractsPrice">
+                        <span>$40 ea. 0.5g</span><br>
+                        <h3>0.5 gram Live Resin</h3>
+                        <p class="descriptionP">
+                       Highest Quality Live Resin. White Castle is Eathy with a fruity sweet overtone. great for depression and anxiety. 
+                        </p>
+                    </div>
+                       <br> 
+                    <div id="whiteCastleResin">
+                        <div></div>
+                    </div>
+                    <p class="inventoryPTag">inventory</p>
+                </div>
+            </div>
+
+
+	    <div class="extractsBox col-lg-6 col-md-6">
+                <div class="extractsThumbnail">
+                    <div class="extractsImageDiv">
+			<div class="new">new</div>
+                        <div class="hybrid">hybrid</div>
+                        <img src= "../images/godsGreenCrackResin.JPG" style="height: 100%">
+                    </div>
+                    <div class="extractsItemTitle" id="">Gods Green Crack</div>
+                    <div class="extractsPrice">
+                        <span>$40 ea. 0.5g</span><br>
+                        <h3>0.5 gram Live Resin</h3>
+                        <p class="descriptionP">
+                       Highest Quality Live Resin. Great for insomnia, infamation, lack of appetite and relaxation. 
+                        </p>
+                    </div>
+                       <br> 
+                    <div id="godsGreenCrackResin">
+                        <div></div>
+                    </div>
+                    <p class="inventoryPTag">inventory</p>
+                </div>
+            </div>
+
+
+	    <div class="extractsBox col-lg-6 col-md-6">
+                <div class="extractsThumbnail">
+                    <div class="extractsImageDiv">
 			<div class="sale">sale</div>
                         <img src= "../images/cbdIsolate.JPG" style="height: 100%">
                     </div>
@@ -270,9 +318,10 @@
 	<div class="extractsBox col-lg-6 col-md-6">
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
+			<div class="sold out" style="z-index: 1">sold out</div>
 
                         <div class="sativa">sativa</div>
-                        <img src= "../images/bigBang.JPG" style="height: 100%">
+                        <img src= "../images/bigBang.JPG" style="height: 100%; opacity: 0.3">
                     </div>
                     <div class="extractsItemTitle" id="">Outer Space</div>
                     <div class="extractsPrice">
@@ -451,8 +500,9 @@
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
 
+			<div class="sold out" style="z-index: 1">sold out</div>
                         <div class="sativa">sativa</div>
-                        <img src= "../images/goombaSmash.JPG" style="height: 100%">
+                        <img src= "../images/goombaSmash.JPG" style="height: 100%; opacity: 0.3">
                     </div>
                     <div class="extractsItemTitle" id="">Goomba Smash</div>
                     <div class="extractsPrice">

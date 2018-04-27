@@ -30,6 +30,7 @@ header("Pragma: no-cache");
 
 	      <li data-target="#myCarousel" data-slide-to="6"></li>
 
+	      <li data-target="#myCarousel" data-slide-to="7"></li>
 
 
           </ol>
@@ -37,8 +38,19 @@ header("Pragma: no-cache");
           <!-- Wrapper for slides -->
           <div class="carousel-inner">
 
-
 	    <div class="item active">
+		<a href="content/extracts.php"><img src="images/whiteCastleResinAd.JPG" alt="">
+                
+                <div class="carousel-caption">
+                    <h3>New Top Quality Live Resin!</h3>
+                    <p>0.5 gram is $40
+			              </p>
+                </div>
+              </a>
+             </div>
+
+
+	    <div class="item">
 		<a href="content/edibles.php"><img src="images/waterEnhancerAd.JPG" alt="">
                 
                 <div class="carousel-caption">

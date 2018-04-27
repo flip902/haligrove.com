@@ -22,7 +22,7 @@
           <h3 class="paraphernaliaItemTitle">Water Enhancer</h3>
           <div class="paraphernaliaPrice">
 	     
-            $8<span> Per</span><span> 2 for $15<br>
+            $8<span> ea.</span><span> 2 for $15, 10 for $70<br>
             
            Contains 50mg winterized BHO.</p>
           </div>
@@ -33,12 +33,12 @@
         <div class="paraphernaliaThumbnail">
           <div class="paraphernaliaImageDiv">
 	    <div class="new">new</div>
-            <img src="../images/capsule100mg.JPG" alt="capsule" style="height:300px">
+            <img src="../images/haliCap.JPG" alt="capsule" style="height:300px">
           </div>
-          <h3 class="paraphernaliaItemTitle">Canna Cap</h3>
+          <h3 class="paraphernaliaItemTitle">Hali Cap</h3>
           <div class="paraphernaliaPrice">
 	     
-            $8<span> Per</span><span> 2 for $15<br>
+            $8<span> ea.</span><span> 2 for $15, 10 for $70,<br> 20 for $135<br>
             
            100mg THC capsule</p>
           </div>
@@ -54,7 +54,7 @@
           <h3 class="paraphernaliaItemTitle">Honey Oil</h3>
           <div class="paraphernaliaPrice">
 	     
-            $80<span> Per</span><br>
+            $80<span> ea.</span><br>
             
            1g syringe. oral use only</p>
           </div>
@@ -70,7 +70,7 @@
           <h3 class="paraphernaliaItemTitle">Choc. Chip Cookies</h3>
           <div class="paraphernaliaPrice">
 	     
-            $12<span> Per</span><span> 2 for $20<br>
+            $12<span> ea.</span><span> 2 for $20<br>
             
            Contains 145mg THC.</p>
           </div>
