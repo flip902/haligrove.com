@@ -31,9 +31,33 @@
 },
 
 
-
 {
       "id" : "2",
+
+	"name" : "Blue Haze",
+	"src" : "../images/blueHaze.JPG",
+	"type" : "sativa",
+	"isNew" : "new",
+	"sale" : "none",
+	"pricePerGram" : "$10/g, 5 for $40,",
+	"pricePerOunce" : "$210/Oz",
+	"description" : "This sweet and peppery strain features a spicy berry smell and high THC content. Feelings of euphoria, and cerebral stimulation are common, as are bouts of insane creativity.",
+	"inventory" : "full",
+	  "THC" : "21",
+	  "taste" : "86",
+	  "aroma" : "86",
+	  "pain" : "80",
+	  "insomnia" : "80",
+	  "appetite" : "83",
+	  "overall" : "86", 
+    "soldOut" : "none",
+    "opacity" : "1"
+},
+
+
+
+{
+      "id" : "3",
 
 	"name" : "Sensi Star",
 	"src" : "../images/sensiStar.JPG",
@@ -57,7 +81,7 @@
 
 
 {
-      "id" : "3",
+      "id" : "4",
 
         "name" : "Violator",
         "src" : "../images/violatorKush.JPG",
@@ -81,7 +105,7 @@
 
 
 {
-      "id" : "4",
+      "id" : "5",
 
         "name" : "Black Tuna",
         "src" : "../images/blackTuna2.JPG",
@@ -105,7 +129,7 @@
 
 
 {
-      "id" : "5",
+      "id" : "6",
 
         "name" : "Bubba Grape",
         "src" : "../images/bubbaGrape.JPG",
@@ -129,7 +153,7 @@
 
 
 {
-      "id" : "6",
+      "id" : "7",
 
         "name" : "Pink Lady",
         "src" : "../images/pinkLady.JPG",
@@ -153,7 +177,7 @@
 
 
 {
-      "id" : "7",
+      "id" : "8",
 
         "name" : "White Castle",
         "src" : "../images/whiteCastle.JPG",
@@ -178,7 +202,7 @@
 
 
 {
-      "id" : "8",
+      "id" : "9",
 
         "name" : "Classic Chemo",
         "src" : "../images/classicChemo.JPG",
@@ -205,7 +229,7 @@
 
 
 {
-      "id" : "9",
+      "id" : "10",
 
         "name" : "Blue Cheez",
         "src" : "../images/blueCheez.JPG",
@@ -229,7 +253,7 @@
 
 
 {
-      "id" : "10",
+      "id" : "11",
 
         "name" : "Cherry Grapefruit",
         "src" : "../images/cherryGrapefruit.JPG",
@@ -257,7 +281,7 @@
 
 
 {
-      "id" : "11",
+      "id" : "12",
 
         "name" : "Org. ScoutMaster",
         "src" : "../images/organicScoutmaster.JPG",
@@ -282,7 +306,7 @@
 
 
 {
-      "id" : "12",
+      "id" : "13",
 
         "name" : "U.K. Cheese",
         "src" : "../images/ukCheese.JPG",
@@ -307,7 +331,7 @@
 
 
 {
-      "id" : "13",
+      "id" : "14",
 
         "name" : "VanillaCheesecake",
         "src" : "../images/vanillaCheesecake.JPG",
@@ -335,7 +359,7 @@
 
 
 {
-      "id" : "14",
+      "id" : "15",
 
         "name" : "Dank Bubba",
         "src" : "../images/dankBubba.JPG",
@@ -359,7 +383,7 @@
 
 
 {
-      "id" : "15",
+      "id" : "16",
 
         "name" : "Reef Jerky",
         "src" : "../images/reefJerky.JPG",
@@ -383,7 +407,7 @@
 
 
 {
-      "id" : "16",
+      "id" : "17",
 
         "name" : "Black Widow",
         "src" : "../images/blackWidow.JPG",
@@ -410,7 +434,7 @@
 
 
 {
-      "id" : "17",
+      "id" : "18",
 
         "name" : "Gods Green Crack",
         "src" : "../images/godsGreenCrack.JPG",
@@ -438,7 +462,7 @@
 
 
 {
-      "id" : "18",
+      "id" : "19",
 
         "name" : "Girlscout Cookies",
         "src" : "../images/girlscoutCookies.JPG",
@@ -465,7 +489,7 @@
 
 
 {
-      "id" : "19",
+      "id" : "20",
 
         "name" : "Ice Wreck",
         "src" : "../images/iceWreck.JPG",
@@ -490,7 +514,7 @@
 
 
 {
-      "id" : "20",
+      "id" : "21",
 
         "name" : "Death Bubba",
         "src" : "../images/deathBubb.JPG",
@@ -514,7 +538,7 @@
 
 
 {
-      "id" : "21",
+      "id" : "22",
 
         "name" : "White Bubblegum",
         "src" : "../images/whiteBubbleGum.JPG",
@@ -540,7 +564,7 @@
 
 
 {
-      "id" : "22",
+      "id" : "23",
 
         "name" : "Bruce Banner",
         "src" : "../images/bruceBanner.JPG",
@@ -565,7 +589,7 @@
 
 
 {
-      "id" : "23",
+      "id" : "24",
 
         "name" : "Hardcore OG",
         "src" : "../images/hardcoreOg.JPG",
@@ -590,7 +614,7 @@
 
 
 {
-      "id" : "24",
+      "id" : "25",
 
         "name" : "S.S.S.B",
         "src" : "../images/superSourStrawberryBanana.JPG",
@@ -620,7 +644,7 @@
 
 
 {
-      "id" : "25",
+      "id" : "26",
 
         "name" : "Kush Darling",
         "src" : "../images/kushDarling.JPG",
@@ -647,7 +671,7 @@
 
 
 {
-      "id" : "26",
+      "id" : "27",
 
         "name" : "Gorilla Glue #2",
         "src" : "../images/gorillaGlue2.JPG",
@@ -677,7 +701,7 @@
 
 
 {
-      "id" : "27",
+      "id" : "28",
 
         "name" : "Monster Cookies",
         "src" : "../images/monsterCookies.JPG",
@@ -704,7 +728,7 @@
 
 
 {
-      "id" : "28",
+      "id" : "29",
 
         "name" : "Mango",
         "src" : "../images/mango.JPG",
@@ -732,7 +756,7 @@
 
 
 {
-      "id" : "29",
+      "id" : "30",
 
         "name" : "Citrus Bliss",
         "src" : "../images/citrusBliss.JPG",
@@ -759,7 +783,7 @@
 
 
 {
-      "id" : "30",
+      "id" : "31",
 
         "name" : "PK",
         "src" : "../images/pk.JPG",
@@ -784,7 +808,7 @@
 
 
 {
-      "id" : "31",
+      "id" : "32",
 
         "name" : "Richie Rich",
         "src" : "../images/richieRich.JPG",
@@ -810,7 +834,7 @@
 
 
 {
-      "id" : "32",
+      "id" : "33",
 
         "name" : "BlueberryCheesecake",
         "src" : "../images/blueberryCheesecake.JPG",
@@ -838,7 +862,7 @@
 
 
 {
-      "id" : "33",
+      "id" : "34",
 
         "name" : "Sticky Icky",
         "src" : "../images/stickieIcky.JPG",
@@ -862,7 +886,7 @@
 
 
 {
-      "id" : "34",
+      "id" : "35",
 
         "name" : "Obama",
         "src" : "../images/obama.JPG",
@@ -886,7 +910,7 @@
 
 
 {
-      "id" : "35",
+      "id" : "36",
 
         "name" : "Romain Rockstar",
         "src" : "../images/romainRockstar.JPG",
@@ -916,7 +940,7 @@
 
 
 {
-      "id" : "36",
+      "id" : "37",
 
         "name" : "Platinum Bubba",
         "src" : "../images/platnumBubba.JPG",
@@ -944,7 +968,7 @@
 
 
 {
-      "id" : "37",
+      "id" : "38",
 
         "name" : "Yellowfin Tuna",
         "src" : "../images/yellowfinTuna.JPG",
@@ -967,7 +991,7 @@
     },
 
 {
-      "id" : "38",
+      "id" : "39",
 
         "name" : "Blue Dream",
         "src" : "../images/blueDream.JPG",
@@ -998,7 +1022,7 @@
     
 
 {
-      "id" : "39",
+      "id" : "40",
 
         "name" : "Pink God",
         "src" : "../images/pinkGod.JPG",
@@ -1035,7 +1059,7 @@
     
 
 {
-      "id" : "40",
+      "id" : "41",
 
         "name" : "Tuna",
         "src" : "../images/newTuna.JPG",
@@ -1061,7 +1085,7 @@
 
 
 {
-      "id" : "41",
+      "id" : "42",
 
         "name" : "Amnesia Haze",
         "src" : "../images/amnesiaHaze.JPG",
@@ -1087,7 +1111,7 @@
 
 
 {
-      "id" : "42",
+      "id" : "43",
 
         "name" : "Bottoms",
         "src" : "../images/bottoms.JPG",

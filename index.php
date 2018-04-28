@@ -26,11 +26,8 @@ header("Pragma: no-cache");
               <li data-target="#myCarousel" data-slide-to="3"></li>
 	      <li data-target="#myCarousel" data-slide-to="4"></li>
 
-	      <li data-target="#myCarousel" data-slide-to="5"></li>
 
-	      <li data-target="#myCarousel" data-slide-to="6"></li>
 
-	      <li data-target="#myCarousel" data-slide-to="7"></li>
 
 
           </ol>
@@ -87,46 +84,8 @@ header("Pragma: no-cache");
               </a>
              </div>
 
-	    <div class="item">
-		<a href="content/extracts.php"><img src="images/luisxiiiAd.JPG" alt="">
-                
-                <div class="carousel-caption">
-                    <h3>All Wolf and Emerald extracts</h3>
-                    <p>now $35 each!!
-			              </p>
-                </div>
-              </a>
-             </div>
 
 
-
-
-	    <div class="item">
-		<a href="content/specials.php"><img src="images/dankBubba.JPG" alt="">
-                
-                <div class="carousel-caption">
-                    <h3>Sale on..</h3>
-                    <p>Dank Bubba, Org. Scoutmaster</p>
-			
-			<p>5 for $40</p>
-		    <p>Icewreck, PK</p>
-			
-			<p>5 for $35</p>
-                </div>
-              </a>
-             </div>
-
-
-	    <div class="item">
-		<a href="content/strains.php"><img src="images/board.JPG" alt="">
-                
-                <div class="carousel-caption">
-                    <h3>Ounce of The Board on Sale!</h3>
-                    <p>now $255 save $25
-			              </p>
-                </div>
-              </a>
-             </div>
 
 
 

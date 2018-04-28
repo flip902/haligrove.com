@@ -13,6 +13,29 @@
     <div class="extractsPositioning">
         <div class="row width extractWidth">
 
+ <div class="extractsBox col-lg-6 col-md-6">
+                <div class="extractsThumbnail">
+                    <div class="extractsImageDiv">
+			<div class="new">new</div>
+                        <div class="sativa">sativa</div>
+                        <img src= "../images/spaceQueen.JPG" style="height: 100%">
+                    </div>
+                    <div class="extractsItemTitle" id="">Space Queen</div>
+                    <div class="extractsPrice">
+                        <span>$30 ea. 0.5g</span><br>
+                        <h3>0.5 gram Rosin</h3>
+                        <p class="descriptionP">
+                       Top Quality Rosin! Rosin is just as potent as other concentrates but significantly cheaper to produce. Give it a try! 
+                        </p>
+                    </div>
+                       <br> 
+                    <div id="spaceQueen">
+                        <div></div>
+                    </div>
+                    <p class="inventoryPTag">inventory</p>
+                </div>
+            </div>
+
 
 	    <div class="extractsBox col-lg-6 col-md-6">
                 <div class="extractsThumbnail">

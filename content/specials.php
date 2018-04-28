@@ -35,18 +35,7 @@
 
 
 
-	<h1 class="pickOTW">Newer Strain On Sale!</h1>
-	<a href="strains.php">
-
-	Bubba Grape 
-	 </a>
-	<ui>
-     	     <li>5g for $35</li>
-             <li>10g for $70</li>
-
-             <li>Oz for $185</li>
-	</ul>
-	<br>
+	
 
 
 
@@ -120,21 +109,14 @@
 	<h1 class="pickOTW">Favourites on Sale!</h1>
 
 
-	<a href="strains.php">Blue Cheez, Bruce Banner, Romain Rockstar, & Tuna</a>	
+	<a href="strains.php">Bubba Grape, Blue Cheez, Bruce Banner, Romain Rockstar, & Tuna</a>	
 	<ui>
      	     <li>5g for $35</li>
 	    <li>10 for $70</li>
 	    <li>28 for $185-$190</li>
 	</ul>
 	<br>
-
-	<a href="strains.php#" class="pink">Amnesia Haze</a>
-        <ui>
-            <li>15 grams for $80</li>
-            <li>20 grams and over: $5 per gram</li>
-
-        </ul>
-        <br>	
+	
 
 	
 	
@@ -161,7 +143,7 @@
 	</ul>
 	<br>
 	
-        <a href="strains.php">Gods Green Crack, Girlscout Cookies, Platinum Bubba,  <br></a>
+        <a href="strains.php">Gods Green Crack, Platinum Bubba,  <br></a>
 	<ui>
 	    <li>$10 per gram accross the board (5g and above)</li>
 	    <li>$230-$250 per Oz</li>

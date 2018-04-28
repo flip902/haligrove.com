@@ -35,7 +35,7 @@
 	    <div class="new">new</div>
             <img src="../images/haliCap.JPG" alt="capsule" style="height:300px">
           </div>
-          <h3 class="paraphernaliaItemTitle">Hali Cap</h3>
+          <h3 class="paraphernaliaItemTitle">Hali Caps</h3>
           <div class="paraphernaliaPrice">
 	     
             $8<span> ea.</span><span> 2 for $15, 10 for $70,<br> 20 for $135<br>
@@ -170,9 +170,9 @@
           <h3 class="paraphernaliaItemTitle">Kushy Chews</h3>
           <div class="paraphernaliaPrice">
 	     <p>
-            $10<span> Per</span><br>
+            $10/bag 4pcs/bag<br>
             
-           Great tasting chews. Each Gummy is infused with 20mg of THC, great for pain and insomnia</p>
+           Great tasting chews. Each Gummy is infused with 20mg of THC (80mg total), great for pain and insomnia</p>
           </div>
         </div>
       </div>
