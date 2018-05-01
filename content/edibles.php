@@ -13,6 +13,89 @@
   <section class="paraphernaliaSpace">
     <div class="row paraphernaliaWidth">
 
+      <div class="paraphernaliaBox col-lg-6 col-md-6">
+        <div class="paraphernaliaThumbnail">
+          <div class="paraphernaliaImageDiv">
+	    <div class="new">new</div>
+            <img src="../images/fudge.JPG" alt="fudge" style="height:300px">
+          </div>
+          <h3 class="paraphernaliaItemTitle">Fudge</h3>
+          <div class="paraphernaliaPrice">
+	     
+            $12<span> Per</span><span> 4 for $40<br>
+            
+           Contains 150mg Shatter.</p>
+          </div>
+        </div>
+      </div>
+
+
+<div class="paraphernaliaBox col-lg-6 col-md-6">
+        <div class="paraphernaliaThumbnail">
+          <div class="paraphernaliaImageDiv">
+	    <div class="new">new</div>
+            <img src="../images/IMG_9026.JPG" alt="snowball" style="height:300px">
+          </div>
+          <h3 class="paraphernaliaItemTitle">Snowballs</h3>
+          <div class="paraphernaliaPrice">
+	     
+            $12<span> Per</span><span> 4 for $40<br>
+            
+           Contains 150mg Shatter.</p>
+          </div>
+        </div>
+      </div>
+
+
+      <div class="paraphernaliaBox col-lg-6 col-md-6">
+        <div class="paraphernaliaThumbnail">
+          <div class="paraphernaliaImageDiv">
+	    <div class="new">new</div>
+            <img src="../images/chocolateCrisp.JPG" alt="Crisp" style="height:300px">
+          </div>
+          <h3 class="paraphernaliaItemTitle">Chocolate Crisp</h3>
+          <div class="paraphernaliaPrice">
+	     
+            $12<span> Per</span><span> 4 for $40<br>
+            
+           Contains 150mg Shatter.</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="paraphernaliaBox col-lg-6 col-md-6">
+        <div class="paraphernaliaThumbnail">
+          <div class="paraphernaliaImageDiv">
+	    <div class="new">new</div>
+            <img src="../images/butterScotchCrunch.JPG" alt="BSCrunch" style="height:300px">
+          </div>
+          <h3 class="paraphernaliaItemTitle">Butterscotch Crunch</h3>
+          <div class="paraphernaliaPrice">
+	     
+            $12<span> Per</span><span> 4 for $40<br>
+            
+           Contains 150mg THC.</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="paraphernaliaBox col-lg-6 col-md-6">
+        <div class="paraphernaliaThumbnail">
+          <div class="paraphernaliaImageDiv">
+	    <div class="new">new</div>
+            <img src="../images/fudgeWithNuts.JPG" alt="BSCrunch" style="height:300px">
+          </div>
+          <h3 class="paraphernaliaItemTitle">Fudge (contains nuts)</h3>
+          <div class="paraphernaliaPrice">
+	     
+            $12<span> Per</span><span> 4 for $40<br>
+            
+           Contains 150mg Shatter.</p>
+          </div>
+        </div>
+      </div>
+
+
 <div class="paraphernaliaBox col-lg-6 col-md-6">
         <div class="paraphernaliaThumbnail">
           <div class="paraphernaliaImageDiv">
@@ -38,7 +121,7 @@
           <h3 class="paraphernaliaItemTitle">Hali Caps</h3>
           <div class="paraphernaliaPrice">
 	     
-            $8<span> ea.</span><span> 2 for $15, 10 for $70,<br> 20 for $135<br>
+            $8<span> ea.</span><span> 2 for $15, 10 for $70, 20 for $135<br>
             
            100mg THC capsule</p>
           </div>
@@ -95,22 +178,6 @@
       </div>
 
 
-
-      <div class="paraphernaliaBox col-lg-6 col-md-6">
-        <div class="paraphernaliaThumbnail">
-          <div class="paraphernaliaImageDiv">
-	    <div class="sold out" style="z-index: 1">sold out</div>
-            <img src="../images/peanutButterChocChip.JPG" alt="Peanut Butter" style="height:300px; opacity: 0.3">
-          </div>
-          <h3 class="paraphernaliaItemTitle">Peanut Butter Choc. Chip</h3>
-          <div class="paraphernaliaPrice">
-	     
-            $12<span> Per</span><span> 2 for $20<br>
-            
-           Contains 145mg THC.</p>
-          </div>
-        </div>
-      </div>
 
 
       <div class="paraphernaliaBox col-lg-6 col-md-6">

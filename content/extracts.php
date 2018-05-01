@@ -338,29 +338,7 @@
             </div>
 
 
-	<div class="extractsBox col-lg-6 col-md-6">
-                <div class="extractsThumbnail">
-                    <div class="extractsImageDiv">
-			<div class="sold out" style="z-index: 1">sold out</div>
 
-                        <div class="sativa">sativa</div>
-                        <img src= "../images/bigBang.JPG" style="height: 100%; opacity: 0.3">
-                    </div>
-                    <div class="extractsItemTitle" id="">Outer Space</div>
-                    <div class="extractsPrice">
-                        <span>$40 Per </span><br>
-                        <h3>Big Bang Extracts</h3>
-                        <p class="descriptionP">Earthy, pine, lemon taste.
-                        Energetic, happy, uplifting high.
-                        </p>
-                    </div>
-                       <br> 
-                    <div id="bigBang">
-                        <div></div>
-                    </div>
-                    <p class="inventoryPTag">inventory</p>
-                </div>
-            </div>
 
 
 
@@ -519,29 +497,6 @@
 
 
 
-	    <div class="extractsBox col-lg-6 col-md-6">
-                <div class="extractsThumbnail">
-                    <div class="extractsImageDiv">
-
-			<div class="sold out" style="z-index: 1">sold out</div>
-                        <div class="sativa">sativa</div>
-                        <img src= "../images/goombaSmash.JPG" style="height: 100%; opacity: 0.3">
-                    </div>
-                    <div class="extractsItemTitle" id="">Goomba Smash</div>
-                    <div class="extractsPrice">
-                        <span>$35 Per </span><br>
-                        <h3>Emerald Extracts</h3>
-                        <p class="descriptionP">Strawberry, sweet berry taste.
-                        Great for Pain, stress and depression.
-                        </p>
-                    </div>
-                       <br> 
-                    <div id="goombaSmash">
-                        <div></div>
-                    </div>
-                    <p class="inventoryPTag">inventory</p>
-                </div>
-            </div>
 
 
 
@@ -691,29 +646,6 @@
 	     
 	    
 
-
-	    <div class="extractsBox col-lg-6 col-md-6">
-                <div class="extractsThumbnail">
-                    <div class="extractsImageDiv">
-			<div class="sold out" style="z-index">sold out</div>
-                        <div class="hybrid">hybrid</div>
-                        <img src= "../images/wolfCheeze.JPG" style="height: 100%; opacity: 0.3">
-                    </div>
-                    <div class="extractsItemTitle" id="">Cheese</div>
-                    <div class="extractsPrice">
-                        <span>$35 Per </span><br>
-                        <h3>Wolf Extracts</h3>
-                        <p class="descriptionP">A sharp sour aroma known for it's unique flavour.
-			Relaxed, blissful, happy effects.
-                        </p>
-                    </div>
-                       <br> 
-                    <div id="cheese">
-                        <div></div>
-                    </div>
-                    <p class="inventoryPTag">inventory</p>
-                </div>
-            </div>
 
 
 

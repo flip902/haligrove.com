@@ -26,6 +26,7 @@ header("Pragma: no-cache");
               <li data-target="#myCarousel" data-slide-to="3"></li>
 	      <li data-target="#myCarousel" data-slide-to="4"></li>
 
+	      <li data-target="#myCarousel" data-slide-to="5"></li>
 
 
 
@@ -36,6 +37,32 @@ header("Pragma: no-cache");
           <div class="carousel-inner">
 
 	    <div class="item active">
+		<a href="content/edibles.php"><img src="images/fudgeAd.JPG" alt="">
+                
+                <div class="carousel-caption">
+                    <h3>New Edibles!</h3>
+
+                    <p>These tempting treats are: <br>$12 ea. or 4 for $40
+			              </p>
+                </div>
+              </a>
+             </div>
+
+
+	    <div class="item">
+		<a href="content/strains.php"><img src="images/superKush.JPG" alt="">
+                
+                <div class="carousel-caption">
+                    <h3>3 New Strains!</h3>
+
+                    <p>Super Kush, Blueberry Hubba Bubba and Sugar Cookies<br>all 5 for $40
+			              </p>
+                </div>
+              </a>
+             </div>
+
+
+	    <div class="item">
 		<a href="content/extracts.php"><img src="images/whiteCastleResinAd.JPG" alt="">
                 
                 <div class="carousel-caption">
@@ -70,26 +97,6 @@ header("Pragma: no-cache");
                 </div>
               </a>
              </div>
-
-
-	    <div class="item">
-		<a href="content/strains.php"><img src="images/sensiStar.JPG" alt="">
-                
-                <div class="carousel-caption">
-                    <h3>New Sensi Star!</h3>
-
-                    <p>5 for $45
-			              </p>
-                </div>
-              </a>
-             </div>
-
-
-
-
-
-
-	    
 
 
 	    <div class="item">

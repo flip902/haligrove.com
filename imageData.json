@@ -30,9 +30,81 @@
     "opacity" : "1"
 },
 
-
 {
       "id" : "2",
+
+	"name" : "Sugar Cookies",
+	"src" : "../images/sugarCookies.JPG",
+	"type" : "hybrid",
+	"isNew" : "new",
+	"sale" : "none",
+	"pricePerGram" : "$10/g, 5 for $40,",
+	"pricePerOunce" : "$210/Oz",
+	"description" : "Sugar Cookies is a relaxing indica-dominant hybrid with an aromatic sweetness that is likely to have influenced this strain’s name. You might think by it's small bud and aroma this hybrid belongs in the same family as the famed Girl Scout Cookies, but its genetics say otherwise. Sugar Cookies is a three-way cross between Crystal Gayle, Blue Hawaiian, and Sensi Star, together passing on the resinous qualities of a Northern Lights ancestor along with tropical fruit and berry flavors.",
+	"inventory" : "full",
+	  "THC" : "20",
+	  "taste" : "85",
+	  "aroma" : "86",
+	  "pain" : "80",
+	  "insomnia" : "80",
+	  "appetite" : "86",
+	  "overall" : "85", 
+    "soldOut" : "none",
+    "opacity" : "1"
+},
+
+
+
+{
+      "id" : "3",
+
+	"name" : "BB Hubba Bubba",
+	"src" : "../images/blueberryHubbaBubba.JPG",
+	"type" : "indica",
+	"isNew" : "new",
+	"sale" : "none",
+	"pricePerGram" : "$10/g, 5 for $40,",
+	"pricePerOunce" : "$210/Oz",
+	"description" : "Blueberry Hubba Bubba. The name says it all... If you have not yet smoked this you are missing out on a great strain. Good taste with tranquilizing effects.",
+	"inventory" : "full",
+	  "THC" : "21",
+	  "taste" : "86",
+	  "aroma" : "85",
+	  "pain" : "84",
+	  "insomnia" : "86",
+	  "appetite" : "84",
+	  "overall" : "86", 
+    "soldOut" : "none",
+    "opacity" : "1"
+},
+
+
+{
+      "id" : "4",
+
+	"name" : "Super Kush",
+	"src" : "../images/superKush.JPG",
+	"type" : "indica",
+	"isNew" : "new",
+	"sale" : "none",
+	"pricePerGram" : "$10/g, 5 for $40,",
+	"pricePerOunce" : "$210/Oz",
+	"description" : "When you’re looking to wind down and relax, Super Kush is there to lend a hand. Daughter of Northern Lights #5 and Hindu Kush, Super Kush is a very clear-headed indica. This strain is best for users who would like to ease stress without being stuck on the couch.",
+	"inventory" : "full",
+	  "THC" : "21",
+	  "taste" : "85",
+	  "aroma" : "85",
+	  "pain" : "82",
+	  "insomnia" : "82",
+	  "appetite" : "80",
+	  "overall" : "85", 
+    "soldOut" : "none",
+    "opacity" : "1"
+},
+
+
+{
+      "id" : "5",
 
 	"name" : "Blue Haze",
 	"src" : "../images/blueHaze.JPG",
@@ -44,12 +116,12 @@
 	"description" : "This sweet and peppery strain features a spicy berry smell and high THC content. Feelings of euphoria, and cerebral stimulation are common, as are bouts of insane creativity.",
 	"inventory" : "full",
 	  "THC" : "21",
-	  "taste" : "86",
-	  "aroma" : "86",
+	  "taste" : "85",
+	  "aroma" : "85",
 	  "pain" : "80",
 	  "insomnia" : "80",
 	  "appetite" : "83",
-	  "overall" : "86", 
+	  "overall" : "85", 
     "soldOut" : "none",
     "opacity" : "1"
 },
@@ -57,7 +129,7 @@
 
 
 {
-      "id" : "3",
+      "id" : "6",
 
 	"name" : "Sensi Star",
 	"src" : "../images/sensiStar.JPG",
@@ -81,7 +153,7 @@
 
 
 {
-      "id" : "4",
+      "id" : "7",
 
         "name" : "Violator",
         "src" : "../images/violatorKush.JPG",
@@ -98,19 +170,19 @@
           "pain" : "85",
           "insomnia" : "85",
           "appetite" : "84",
-          "overall" : "86", 
+          "overall" : "85", 
     "soldOut" : "none",
     "opacity" : "1"
 },
 
 
 {
-      "id" : "5",
+      "id" : "8",
 
         "name" : "Black Tuna",
         "src" : "../images/blackTuna2.JPG",
         "type" : "indica",
-        "isNew" : "new",
+        "isNew" : "none",
         "sale" : "none",
         "pricePerGram" : "$10/g, 5 for $40,",
         "pricePerOunce" : "$210/Oz",
@@ -129,7 +201,7 @@
 
 
 {
-      "id" : "6",
+      "id" : "9",
 
         "name" : "Bubba Grape",
         "src" : "../images/bubbaGrape.JPG",
@@ -153,7 +225,7 @@
 
 
 {
-      "id" : "7",
+      "id" : "10",
 
         "name" : "Pink Lady",
         "src" : "../images/pinkLady.JPG",
@@ -177,7 +249,7 @@
 
 
 {
-      "id" : "8",
+      "id" : "11",
 
         "name" : "White Castle",
         "src" : "../images/whiteCastle.JPG",
@@ -202,7 +274,7 @@
 
 
 {
-      "id" : "9",
+      "id" : "12",
 
         "name" : "Classic Chemo",
         "src" : "../images/classicChemo.JPG",
@@ -229,7 +301,7 @@
 
 
 {
-      "id" : "10",
+      "id" : "13",
 
         "name" : "Blue Cheez",
         "src" : "../images/blueCheez.JPG",
@@ -253,7 +325,7 @@
 
 
 {
-      "id" : "11",
+      "id" : "14",
 
         "name" : "Cherry Grapefruit",
         "src" : "../images/cherryGrapefruit.JPG",
@@ -281,7 +353,7 @@
 
 
 {
-      "id" : "12",
+      "id" : "15",
 
         "name" : "Org. ScoutMaster",
         "src" : "../images/organicScoutmaster.JPG",
@@ -306,7 +378,7 @@
 
 
 {
-      "id" : "13",
+      "id" : "16",
 
         "name" : "U.K. Cheese",
         "src" : "../images/ukCheese.JPG",
@@ -331,7 +403,7 @@
 
 
 {
-      "id" : "14",
+      "id" : "17",
 
         "name" : "VanillaCheesecake",
         "src" : "../images/vanillaCheesecake.JPG",
@@ -359,7 +431,7 @@
 
 
 {
-      "id" : "15",
+      "id" : "18",
 
         "name" : "Dank Bubba",
         "src" : "../images/dankBubba.JPG",
@@ -383,7 +455,7 @@
 
 
 {
-      "id" : "16",
+      "id" : "19",
 
         "name" : "Reef Jerky",
         "src" : "../images/reefJerky.JPG",
@@ -406,35 +478,13 @@
 },
 
 
-{
-      "id" : "17",
-
-        "name" : "Black Widow",
-        "src" : "../images/blackWidow.JPG",
-        "type" : "hybrid",
-        "isNew" : "none",
-        "sale" : "sale",
-        "pricePerGram" : "$9/g, 5 for $35,",
-        "pricePerOunce" : "$190/Oz",
-        "description" : "Black Widow provides an exceptional head high with remarkably intense euphoria, powerful happiness, deep relaxation, and a major case of the munchies.",
-        "inventory" : "low",
-          "THC" : "19",
-          "taste" : "80",
-          "aroma" : "80",
-          "pain" : "80",
-          "insomnia" : "79",
-          "appetite" : "82",
-          "overall" : "80", 
-    "soldOut" : "sold out",
-    "opacity" : "0.3"
-},
 
 
 
 
 
 {
-      "id" : "18",
+      "id" : "20",
 
         "name" : "Gods Green Crack",
         "src" : "../images/godsGreenCrack.JPG",
@@ -461,35 +511,13 @@
 
 
 
-{
-      "id" : "19",
-
-        "name" : "Girlscout Cookies",
-        "src" : "../images/girlscoutCookies.JPG",
-        "type" : "hybrid",
-        "isNew" : "none",
-        "sale" : "none",
-        "pricePerGram" : "$12/g, 5 for $50,",
-        "pricePerOunce" : "$250/Oz",
-        "description" : "GSC, formerly known as Girl Scout Cookies, is an OG Kush and Durban Poison hybrid cross whose reputation grew too large to stay within the borders of its California homeland. With a sweet and earthy aroma, GSC launches you to euphoria’s top floor where full-body relaxation meets a time-bending cerebral space. A little goes a long way with this hybrid, whose THC heights have won GSC numerous Cannabis Cup awards. Patients needing a strong dose of relief, however, may look to GSC for severe pain, nausea, and appetite loss.",
-        "inventory" : "low",
-          "THC" : "22",
-          "taste" : "87",
-          "aroma" : "87",
-          "pain" : "86",
-          "insomnia" : "86",
-          "appetite" : "85",
-          "overall" : "87", 
-    "soldOut" : "sold out",
-    "opacity" : "0.3"
-},
 
 
 
 
 
 {
-      "id" : "20",
+      "id" : "21",
 
         "name" : "Ice Wreck",
         "src" : "../images/iceWreck.JPG",
@@ -514,7 +542,7 @@
 
 
 {
-      "id" : "21",
+      "id" : "22",
 
         "name" : "Death Bubba",
         "src" : "../images/deathBubb.JPG",
@@ -538,7 +566,7 @@
 
 
 {
-      "id" : "22",
+      "id" : "23",
 
         "name" : "White Bubblegum",
         "src" : "../images/whiteBubbleGum.JPG",
@@ -564,7 +592,7 @@
 
 
 {
-      "id" : "23",
+      "id" : "24",
 
         "name" : "Bruce Banner",
         "src" : "../images/bruceBanner.JPG",
@@ -589,7 +617,7 @@
 
 
 {
-      "id" : "24",
+      "id" : "25",
 
         "name" : "Hardcore OG",
         "src" : "../images/hardcoreOg.JPG",
@@ -614,7 +642,7 @@
 
 
 {
-      "id" : "25",
+      "id" : "26",
 
         "name" : "S.S.S.B",
         "src" : "../images/superSourStrawberryBanana.JPG",
@@ -644,7 +672,7 @@
 
 
 {
-      "id" : "26",
+      "id" : "27",
 
         "name" : "Kush Darling",
         "src" : "../images/kushDarling.JPG",
@@ -671,7 +699,7 @@
 
 
 {
-      "id" : "27",
+      "id" : "28",
 
         "name" : "Gorilla Glue #2",
         "src" : "../images/gorillaGlue2.JPG",
@@ -701,7 +729,7 @@
 
 
 {
-      "id" : "28",
+      "id" : "29",
 
         "name" : "Monster Cookies",
         "src" : "../images/monsterCookies.JPG",
@@ -728,7 +756,7 @@
 
 
 {
-      "id" : "29",
+      "id" : "30",
 
         "name" : "Mango",
         "src" : "../images/mango.JPG",
@@ -756,7 +784,7 @@
 
 
 {
-      "id" : "30",
+      "id" : "31",
 
         "name" : "Citrus Bliss",
         "src" : "../images/citrusBliss.JPG",
@@ -783,7 +811,7 @@
 
 
 {
-      "id" : "31",
+      "id" : "32",
 
         "name" : "PK",
         "src" : "../images/pk.JPG",
@@ -801,35 +829,12 @@
           "insomnia" : "80",
           "appetite" : "80",
           "overall" : "82", 
-    "soldOut" : "none",
-    "opacity" : "1"
-},
-
-
-
-{
-      "id" : "32",
-
-        "name" : "Richie Rich",
-        "src" : "../images/richieRich.JPG",
-        "type" : "indica",
-        "isNew" : "none",
-        "sale" : "none",
-        "pricePerGram" : "$10/g, 5 for $40,",
-        "pricePerOunce" : "$210/Oz",
-        "description" : "Richie Rich cannabis is a Northern Lights #5 crossed with Skunk #1 hybrid.  This weed provides a nice body stone that is a favorite among medicinal users suffering from pain.",
-        "inventory" : "low",
-          "THC" : "20",
-          "taste" : "84",
-          "aroma" : "84",
-          "pain" : "85",
-          "insomnia" : "82",
-          "appetite" : "81",
-          "overall" : "84", 
     "soldOut" : "sold out",
     "opacity" : "0.3"
-    
 },
+
+
+
 
 
 
@@ -1084,34 +1089,11 @@
 
 
 
+
+
+
 {
       "id" : "42",
-
-        "name" : "Amnesia Haze",
-        "src" : "../images/amnesiaHaze.JPG",
-        "type" : "hybrid",
-        "isNew" : "none",
-        "sale" : "sale",
-        "pricePerGram" : "$6/g,",
-        "pricePerOunce" : "$160/Oz",
-        "description" : "",
-        "inventory" : "low",
-          "THC" : "17",
-          "taste" : "72",
-          "aroma" : "73",
-          "pain" : "70",
-          "insomnia" : "70",
-          "appetite" : "75",
-          "overall" : "71", 
-    "soldOut" : "sold out",
-    "opacity" : "0.3"
-},
-
-
-
-
-{
-      "id" : "43",
 
         "name" : "Bottoms",
         "src" : "../images/bottoms.JPG",
