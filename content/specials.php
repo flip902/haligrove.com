@@ -64,7 +64,7 @@
 	<br>
 	<a href="strains.php">
 
-	Icewreck & PK 
+	Icewreck 
 	 </a>
 	<ui>
      	     <li>5g for $35</li>

@@ -46,7 +46,7 @@
                     </div>
                     <div class="extractsItemTitle" id="">White Castle</div>
                     <div class="extractsPrice">
-                        <span>$40 ea. 0.5g</span><br>
+                        <span>$35 ea. 0.5g</span><br>
                         <h3>0.5 gram Live Resin</h3>
                         <p class="descriptionP">
                        Highest Quality Live Resin. White Castle is Eathy with a fruity sweet overtone. great for depression and anxiety. 
@@ -70,7 +70,7 @@
                     </div>
                     <div class="extractsItemTitle" id="">Gods Green Crack</div>
                     <div class="extractsPrice">
-                        <span>$40 ea. 0.5g</span><br>
+                        <span>$35 ea. 0.5g</span><br>
                         <h3>0.5 gram Live Resin</h3>
                         <p class="descriptionP">
                        Highest Quality Live Resin. Great for insomnia, infamation, lack of appetite and relaxation. 
@@ -206,8 +206,7 @@
                     <div class="extractsItemTitle" id="">Lemon Sour Diesel</div>
                     <div class="extractsPrice">
                         <h3>1g Budder (<span style="text-decoration: line-through">$70</span> $60 per)</h3>
-                        <p class="descriptionP">
-                        One gram contains approximately 40 hits. Each hit is the equivalent of 1-2 full joints, making this product dollar-for-dollar the most economical way to experience the full medical benefits of cannabis.</p>
+                        <p class="descriptionP">Budder is a great option for those looking for a concentrate with a creamy, buttery consistency, as well as a great high. It can be vaped, dabbed, smoked, or used in edibles. It’s incredibly versatile!</p>
                     </div>
                         
                     <div id="lemonSourDiesel">
