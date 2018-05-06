@@ -65,75 +65,6 @@
 
 
 
-
-
-#HulkInventory {
-  width: 80%;
-  background-color: black;
-  border-radius: 13px; /* (height of inner div) / 2 + padding */
-  padding: 3px;
-  margin: 0 auto 0 auto;
-}
-
-#HulkInventory > div {
-  background-color: #C9DF78;
-  width: 20%; /* Adjust with JavaScript */
-  height: 20px;
-  border-radius: 10px;
-}
-
-
-
-
-
-#alienOGInventory {
-  width: 80%;
-  background-color: black;
-  border-radius: 13px; /* (height of inner div) / 2 + padding */
-  padding: 3px;
-  margin: 0 auto 0 auto;
-}
-
-#alienOGInventory > div {
-  background-color: #C9DF78;
-  width: 0%; /* Adjust with JavaScript */
-  height: 20px;
-  border-radius: 10px;
-}
-
-#popRocksInventory {
-  width: 80%;
-  background-color: black;
-  border-radius: 13px; /* (height of inner div) / 2 + padding */
-  padding: 3px;
-  margin: 0 auto 0 auto;
-}
-
-#popRocksInventory > div {
-  background-color: #C9DF78;
-  width: 0%; /* Adjust with JavaScript */
-  height: 20px;
-  border-radius: 10px;
-}
-
-
-
-
-#sourTangieInventory {
-  width: 80%;
-  background-color: black;
-  border-radius: 13px; /* (height of inner div) / 2 + padding */
-  padding: 3px;
-  margin: 0 auto 0 auto;
-}
-
-#sourTangieInventory > div {
-  background-color: #C9DF78;
-  width: 0%; /* Adjust with JavaScript */
-  height: 20px;
-  border-radius: 10px;
-}
-
 #girlScout {
   width: 80%;
   background-color: black;
@@ -144,25 +75,12 @@
 
 #girlScout > div {
   background-color: #C9DF78;
-  width: 40%; /* Adjust with JavaScript */
+  width: 20%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
 
-#goombaSmash {
-  width: 80%;
-  background-color: black;
-  border-radius: 13px; /* (height of inner div) / 2 + padding */
-  padding: 3px;
-  margin: 0 auto 0 auto;
-}
 
-#goombaSmash > div {
-  background-color: #C9DF78;
-  width: 0%; /* Adjust with JavaScript */
-  height: 20px;
-  border-radius: 10px;
-}
 
 #nardiusHaze {
   width: 80%;
@@ -174,7 +92,7 @@
 
 #nardiusHaze > div {
   background-color: #C9DF78;
-  width: 45%; /* Adjust with JavaScript */
+  width: 25%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -189,7 +107,7 @@
 
 #purpleUrkle > div {
   background-color: #C9DF78;
-  width: 50%; /* Adjust with JavaScript */
+  width: 30%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -204,7 +122,7 @@
 
 #couchPotato > div {
   background-color: #C9DF78;
-  width: 40%; /* Adjust with JavaScript */
+  width: 20%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -219,7 +137,7 @@
 
 #gorillaGlue > div {
   background-color: #C9DF78;
-  width: 50%; /* Adjust with JavaScript */
+  width: 30%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -235,7 +153,7 @@
 
 #foreverPhoenix > div {
   background-color: #C9DF78;
-  width: 60%; /* Adjust with JavaScript */
+  width: 40%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -255,80 +173,7 @@
   border-radius: 10px;
 }
 
-#blueberry {
-  width: 80%;
-  background-color: black;
-  border-radius: 13px; /* (height of inner div) / 2 + padding */
-  padding: 3px;
-  margin: 0 auto 0 auto;
-}
 
-#blueberry > div {
-  background-color: #C9DF78;
-  width: 0%; /* Adjust with JavaScript */
-  height: 20px;
-  border-radius: 10px;
-}
-
-#blueDream {
-  width: 80%;
-  background-color: black;
-  border-radius: 13px; /* (height of inner div) / 2 + padding */
-  padding: 3px;
-  margin: 0 auto 0 auto;
-}
-
-#blueDream > div {
-  background-color: #C9DF78;
-  width: 0%; /* Adjust with JavaScript */
-  height: 20px;
-  border-radius: 10px;
-}
-
-#cheese {
-  width: 80%;
-  background-color: black;
-  border-radius: 13px; /* (height of inner div) / 2 + padding */
-  padding: 3px;
-  margin: 0 auto 0 auto;
-}
-
-#cheese > div {
-  background-color: #C9DF78;
-  width: 0%; /* Adjust with JavaScript */
-  height: 20px;
-  border-radius: 10px;
-}
-
-#resinInventory {
-  width: 80%;
-  background-color: black;
-  border-radius: 13px; /* (height of inner div) / 2 + padding */
-  padding: 3px;
-  margin: 0 auto 0 auto;
-}
-
-#resinInventory > div {
-  background-color: #C9DF78;
-  width: 0%; /* Adjust with JavaScript */
-  height: 20px;
-  border-radius: 10px;
-}
-
-#suckersInventory {
-  width: 80%;
-  background-color: black;
-  border-radius: 13px; /* (height of inner div) / 2 + padding */
-  padding: 3px;
-  margin: 0 auto 0 auto;
-}
-
-#suckersInventory > div {
-  background-color: #C9DF78;
-  width: 80%; /* Adjust with JavaScript */
-  height: 20px;
-  border-radius: 10px;
-}
 
 
 #RSO {
@@ -347,50 +192,11 @@
 }
 
 
-#northernLights {
-  width: 80%;
-  background-color: black;
-  border-radius: 13px; /* (height of inner div) / 2 + padding */
-  padding: 3px;
-  margin: 0 auto 0 auto;
-}
 
-#northernLights > div {
-  background-color: #C9DF78;
-  width: 0%; /* Adjust with JavaScript */
-  height: 20px;
-  border-radius: 10px;
-}
 
-#greenCrack {
-  width: 80%;
-  background-color: black;
-  border-radius: 13px; /* (height of inner div) / 2 + padding */
-  padding: 3px;
-  margin: 0 auto 0 auto;
-}
 
-#greenCrack > div {
-  background-color: #C9DF78;
-  width: 0%; /* Adjust with JavaScript */
-  height: 20px;
-  border-radius: 10px;
-}
 
-#godBud {
-  width: 80%;
-  background-color: black;
-  border-radius: 13px; /* (height of inner div) / 2 + padding */
-  padding: 3px;
-  margin: 0 auto 0 auto;
-}
 
-#godBud > div {
-  background-color: #C9DF78;
-  width: 0%; /* Adjust with JavaScript */
-  height: 20px;
-  border-radius: 10px;
-}
 
 #whiteGorilla {
   width: 80%;
@@ -402,7 +208,7 @@
 
 #whiteGorilla > div {
   background-color: #C9DF78;
-  width: 35%; /* Adjust with JavaScript */
+  width: 25%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -418,7 +224,7 @@
 
 #lightningSkunk > div {
   background-color: #C9DF78;
-  width: 40%; /* Adjust with JavaScript */
+  width: 20%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -434,7 +240,7 @@
 
 #vampirePink > div {
   background-color: #C9DF78;
-  width: 50%; /* Adjust with JavaScript */
+  width: 30%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -450,7 +256,7 @@
 
 #lemonSourDiesel > div {
   background-color: #C9DF78;
-  width: 40%; /* Adjust with JavaScript */
+  width: 30%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -466,41 +272,14 @@
 
 #watermelonHaze > div {
   background-color: #C9DF78;
-  width: 30%; /* Adjust with JavaScript */
+  width: 20%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
 
 
-#purpleAfghani {
-  width: 80%;
-  background-color: black;
-  border-radius: 13px; /* (height of inner div) / 2 + padding */
-  padding: 3px;
-  margin: 0 auto 0 auto;
-}
 
-#purpleAfghani > div {
-  background-color: #C9DF78;
-  width: 0%; /* Adjust with JavaScript */
-  height: 20px;
-  border-radius: 10px;
-}
 
-#bigBang {
-  width: 80%;
-  background-color: black;
-  border-radius: 13px; /* (height of inner div) / 2 + padding */
-  padding: 3px;
-  margin: 0 auto 0 auto;
-}
-
-#bigBang > div {
-  background-color: #C9DF78;
-  width: 0%; /* Adjust with JavaScript */
-  height: 20px;
-  border-radius: 10px;
-}
 
 
 #tripleBerry {
@@ -529,7 +308,7 @@
 
 #rockstarSugarWax > div {
   background-color: #C9DF78;
-  width: 35%; /* Adjust with JavaScript */
+  width: 30%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -545,56 +324,17 @@
 
 #goldenGoat > div {
   background-color: #C9DF78;
-  width: 40%; /* Adjust with JavaScript */
-  height: 20px;
-  border-radius: 10px;
-}
-
-#deathStarInventory {
-  width: 80%;
-  background-color: black;
-  border-radius: 13px; /* (height of inner div) / 2 + padding */
-  padding: 3px;
-  margin: 0 auto 0 auto;
-}
-
-#deathStarInventory > div {
-  background-color: #C9DF78;
-  width: 0%; /* Adjust with JavaScript */
+  width: 20%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
 
 
-#masterKushInventory {
-  width: 80%;
-  background-color: black;
-  border-radius: 13px; /* (height of inner div) / 2 + padding */
-  padding: 3px;
-  margin: 0 auto 0 auto;
-}
 
-#masterKushInventory > div {
-  background-color: #C9DF78;
-  width: 0%; /* Adjust with JavaScript */
-  height: 20px;
-  border-radius: 10px;
-}
 
-#godsGiftInventory {
-  width: 80%;
-  background-color: black;
-  border-radius: 13px; /* (height of inner div) / 2 + padding */
-  padding: 3px;
-  margin: 0 auto 0 auto;
-}
 
-#godsGiftInventory > div {
-  background-color: #C9DF78;
-  width: 0%; /* Adjust with JavaScript */
-  height: 20px;
-  border-radius: 10px;
-}
+
+
 
 #louisXiii {
   width: 80%;
@@ -606,7 +346,7 @@
 
 #louisXiii > div {
   background-color: #C9DF78;
-  width: 50%; /* Adjust with JavaScript */
+  width: 30%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -621,25 +361,11 @@
 
 #blackTuna > div {
   background-color: #C9DF78;
-  width: 50%; /* Adjust with JavaScript */
+  width: 30%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
 
-#grapeDrink {
-  width: 80%;
-  background-color: black;
-  border-radius: 13px; /* (height of inner div) / 2 + padding */
-  padding: 3px;
-  margin: 0 auto 0 auto;
-}
-
-#grapeDrink > div {
-  background-color: #C9DF78;
-  width: 0%; /* Adjust with JavaScript */
-  height: 20px;
-  border-radius: 10px;
-}
 
 
 #cbdInventory {
@@ -652,7 +378,7 @@
 
 #cbdInventory > div {
   background-color: #C9DF78;
-  width: 100%; /* Adjust with JavaScript */
+  width: 90%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -667,7 +393,7 @@
 
 #godsGreenCrackResin > div {
   background-color: #C9DF78;
-  width: 100%; /* Adjust with JavaScript */
+  width: 90%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -682,7 +408,7 @@
 
 #whiteCastleResin > div {
   background-color: #C9DF78;
-  width: 100%; /* Adjust with JavaScript */
+  width: 90%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -697,7 +423,7 @@
 
 #spaceQueen > div {
   background-color: #C9DF78;
-  width: 100%; /* Adjust with JavaScript */
+  width: 90%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }

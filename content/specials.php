@@ -24,92 +24,12 @@
         </div>
         </a>-->
 
-<h1 class="pickOTW">Extracts Sale!</h1>
-	<a href="extracts.php">CBD Isolate, All Budders and Sugar Wax</a>
-	<ui>
-		<li>CBD Isolate now only $35</li>
-
-		<li>$10 off ALL Budders and Sugar Wax</li>
-	</ul>
-	<br>
 
 
-
-	
-
+	<h1 class="pickOTW">Strains on sale:</h1>
 
 
-	<h1 class="pickOTW">Wolf and Emerald Extracts</h1>
-	<a href="extracts.php">
-	Now only $35 each save $5!</a><br>
-
-
-	<h1 class="pickOTW">Oz of our Signature Strain
-				The Board</h1>
-	<a href="strains.php">
-         now only $255
-         save $25!
-	 </a>
-         <br>
-
-	<h1 class="pickOTW">Sale On..</h1>
-	<a href="strains.php">
-
-	Dank Bubba & Organic Scoutmaster 
-	 </a>
-	<ui>
-     	     <li>5g for $40</li>
-             <li>10g for $80</li>
-	</ul>
-	<br>
-	<a href="strains.php">
-
-	Icewreck 
-	 </a>
-	<ui>
-     	     <li>5g for $35</li>
-             <li>10g for $70</li>
-	</ul>
-	<br>
-
-
-
-
-	<h1 class="pickOTW">Blowout Sale!!</h1>
-	<p>Selling the old to bring in the new! help us clear out stock to bring in new strains and save a little $ :)</p>
-	<a href="strains.php">
-
-	 Mango, Yellowfin Tuna
-	 </a>
-	<ui>
-     	     <li>5g for $35</li>
-	    <li>10 for $60</li>
-	    <li>28 for $170</li>
-	</ul>
-	<br>
-
-	<h1 class="pickOTW">Overstock sale!</h1>
-	<a href="strains.php">Citrus Bliss & Pink God</a>
-	<ui>
-		<li>10g for $60</li>
-		<li>20g for $110</li>
-	</ul>
-	<br>
-
-	<h1 class="pickOTW">RSO Oil Sale!</h1>
-	<a href="extracts.php">Rick Simpson Oil, Oil Syringe</a>
-	<ui>
-		<li>10g vial is now only $160 <br>save $40</li>
-
-		<li>Oil Syringe now only $25 <br>save $5</li>
-	</ul>
-	<br>
-
-
-	<h1 class="pickOTW">Favourites on Sale!</h1>
-
-
-	<a href="strains.php">Bubba Grape, Blue Cheez, Bruce Banner, Romain Rockstar, & Tuna</a>	
+	<a href="strains.php">Ice Wreck, Bubba Grape, Blue Cheez, Bruce Banner, Romain Rockstar, & Tuna</a>	
 	<ui>
      	     <li>5g for $35</li>
 	    <li>10 for $70</li>
@@ -143,7 +63,7 @@
 	</ul>
 	<br>
 	
-        <a href="strains.php">Gods Green Crack, Platinum Bubba,  <br></a>
+        <a href="strains.php">God's Kush, Berry Breath, Gods Green Crack, Platinum Bubba,  <br></a>
 	<ui>
 	    <li>$10 per gram accross the board (5g and above)</li>
 	    <li>$230-$250 per Oz</li>
@@ -152,14 +72,93 @@
 
 	<a href="strains.php">
 
-	 Sensi Star, White Bubblegum, Death Bubba, Super Sour Strawberry Banana<br>
+	 Sensi Star, Death Bubba, <br>
 	 </a>
 	<ui>
      	     <li>5g for $45</li>
 	    <li>10 for $90</li>
 	    <li>28 for $235</li>
 	</ul>
-	<br>	
+	<br>
+
+
+	<h1 class="pickOTW">Sale On..</h1>
+	<a href="strains.php">
+
+	White Bubblegum, Super Sour Strawberry Banana 
+	 </a>
+	<ui>
+     	     <li>5g for $40</li>
+             <li>10g for $80</li>
+	</ul>
+	<br>
+	<a href="strains.php">
+
+	
+
+
+
+
+	<h1 class="pickOTW">Blowout Sale!!</h1>
+	<p>Selling the old to bring in the new! help us clear out stock to bring in new strains and save a little $ :)</p>
+	<a href="strains.php">
+
+	 Mango, Yellowfin Tuna
+	 </a>
+	<ui>
+     	     <li>5g for $35</li>
+	    <li>10 for $60</li>
+	    <li>28 for $170</li>
+	</ul>
+	<br>
+
+	<h1 class="pickOTW">Overstock sale!</h1>
+	<a href="strains.php">Citrus Bliss & Pink God</a>
+	<ui>
+		<li>10g for $60</li>
+		<li>20g for $110</li>
+	</ul>
+	<br>
+
+	<h1 class="pickOTW">Extracts Sale!</h1>
+	<a href="extracts.php">CBD Isolate, All Budders and Sugar Wax</a>
+	<ui>
+		<li>CBD Isolate now only $35</li>
+
+		<li>$10 off ALL Budders and Sugar Wax</li>
+	</ul>
+	<br>
+
+
+
+	
+
+
+
+	<h1 class="pickOTW">Wolf and Emerald Extracts</h1>
+	<a href="extracts.php">
+	Now only $35 each save $5!</a><br>
+
+
+	<h1 class="pickOTW">Oz of our Signature Strain
+				The Board</h1>
+	<a href="strains.php">
+         now only $255
+         save $25!
+	 </a>
+         <br>
+
+	<h1 class="pickOTW">RSO Oil Sale!</h1>
+	<a href="extracts.php">Rick Simpson Oil, Oil Syringe</a>
+	<ui>
+		<li>10g vial is now only $160 <br>save $40</li>
+
+		<li>Oil Syringe now only $25 <br>save $5</li>
+	</ul>
+	<br>
+
+
+		
 
 
 

@@ -28,6 +28,7 @@ header("Pragma: no-cache");
 
 	      <li data-target="#myCarousel" data-slide-to="5"></li>
 
+	      <li data-target="#myCarousel" data-slide-to="6"></li>
 
 
 
@@ -37,6 +38,31 @@ header("Pragma: no-cache");
           <div class="carousel-inner">
 
 	    <div class="item active">
+		<a href="content/edibles.php"><img src="images/haliCapAd.JPG" alt="">
+                
+                <div class="carousel-caption">
+                    <h3>Try our Hali Caps</h3>
+                    <p>$8 ea.<br>2 for $15<br>10 for $70
+			              </p>
+                </div>
+              </a>
+             </div>
+
+
+	    <div class="item">
+		<a href="content/strains.php"><img src="images/berryBreath.JPG" alt="">
+                
+                <div class="carousel-caption">
+                    <h3>2 New Premium Strains!</h3>
+
+                    <p>God's Kush and Berry Breath <br>5 for $50
+			              </p>
+                </div>
+              </a>
+             </div>
+
+
+	    <div class="item">
 		<a href="content/edibles.php"><img src="images/fudgeAd.JPG" alt="">
                 
                 <div class="carousel-caption">
@@ -49,17 +75,6 @@ header("Pragma: no-cache");
              </div>
 
 
-	    <div class="item">
-		<a href="content/strains.php"><img src="images/superKush.JPG" alt="">
-                
-                <div class="carousel-caption">
-                    <h3>3 New Strains!</h3>
-
-                    <p>Super Kush, Blueberry Hubba Bubba and Sugar Cookies<br>all 5 for $40
-			              </p>
-                </div>
-              </a>
-             </div>
 
 
 	    <div class="item">
@@ -67,7 +82,7 @@ header("Pragma: no-cache");
                 
                 <div class="carousel-caption">
                     <h3>New Top Quality Live Resin!</h3>
-                    <p>0.5 gram is $40
+                    <p>0.5 gram is $35
 			              </p>
                 </div>
               </a>
@@ -80,7 +95,7 @@ header("Pragma: no-cache");
                 <div class="carousel-caption">
                     <h3>Check out our new Water Enhancers</h3>
 
-                    <p>New Capsules and Honey Oil Too!
+                    <p>Just mix into 500mL of water $8 ea.
 			              </p>
                 </div>
               </a>
@@ -90,10 +105,8 @@ header("Pragma: no-cache");
 		<a href="content/paraphernalia.php"><img src="images/purePullsAd.JPG" alt="">
                 
                 <div class="carousel-caption">
-                    <h3>Check out our new Paraphernalia!</h3>
+                    <h3>Check out our new Vape Pens!</h3>
 
-                    <p>Pure Pulls, Lip Balm and Headache Oil
-			              </p>
                 </div>
               </a>
              </div>
