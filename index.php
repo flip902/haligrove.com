@@ -37,7 +37,20 @@ header("Pragma: no-cache");
           <!-- Wrapper for slides -->
           <div class="carousel-inner">
 
-	    <div class="item active">
+	     <div class="item active">
+		<a href="content/strains.php"><img src="images/chocolateChunk.JPG" alt="">
+                
+                <div class="carousel-caption">
+                    <h3>New Choco Chunk</h3>
+
+                    <p>Give this rare hybrid a try!<br>5 for $50
+			              </p>
+                </div>
+              </a>
+             </div>
+
+
+	    <div class="item">
 		<a href="content/edibles.php"><img src="images/haliCapAd.JPG" alt="">
                 
                 <div class="carousel-caption">
@@ -49,17 +62,7 @@ header("Pragma: no-cache");
              </div>
 
 
-	    <div class="item">
-		<a href="content/strains.php"><img src="images/berryBreath.JPG" alt="">
-                
-                <div class="carousel-caption">
-                    <h3>2 New Premium Strains!</h3>
-
-                    <p>God's Kush and Berry Breath <br>5 for $50
-			              </p>
-                </div>
-              </a>
-             </div>
+	   
 
 
 	    <div class="item">

@@ -349,9 +349,9 @@
 	    <div class="extractsBox col-lg-6 col-md-6">
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
-
+			<div class="sold out" style="z-index: 1">sold out</div>
                         <div class="sativa">sativa</div>
-                        <img src= "../images/strawberryMango.JPG" style="height: 100%">
+                        <img src= "../images/strawberryMango.JPG" style="height: 100%; opacity: 0.3">
                     </div>
                     <div class="extractsItemTitle" id="">Strawberry Mango</div>
                     <div class="extractsPrice">
@@ -362,7 +362,7 @@
                         </p>
                     </div>
                        <br> 
-                    <div id="vampirePink">
+                    <div id="">
                         <div></div>
                     </div>
                     <p class="inventoryPTag">inventory</p>

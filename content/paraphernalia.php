@@ -21,11 +21,11 @@
 	    <div class="new">new</div>
             <img src="../images/purePulls.JPG" alt="pure pulls" style="height:300px">
           </div>
-          <h3 class="paraphernaliaItemTitle">Pure Pulls Reuseable Vape Pen</h3>
+          <h3 class="paraphernaliaItemTitle">Pure Pulls Vape Pen</h3>
           <div class="paraphernaliaPrice">
 	     <p>1000mg CO2 Oil ($80 Per)<br>
             
-            Just puff and go. Discrete, refillable cartridges: Indica, Sativa, and Hybrid</p>
+            Just puff and go. Discrete, refillable cartridges.</p>
           </div>
         </div>
       </div>

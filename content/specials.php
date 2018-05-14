@@ -63,7 +63,7 @@
 	</ul>
 	<br>
 	
-        <a href="strains.php">God's Kush, Berry Breath, Gods Green Crack, Platinum Bubba,  <br></a>
+        <a href="strains.php">Choco Chunk, God's Kush, Berry Breath, Gods Green Crack, Platinum Bubba,  <br></a>
 	<ui>
 	    <li>$10 per gram accross the board (5g and above)</li>
 	    <li>$230-$250 per Oz</li>
@@ -103,7 +103,7 @@
 	<p>Selling the old to bring in the new! help us clear out stock to bring in new strains and save a little $ :)</p>
 	<a href="strains.php">
 
-	 Mango, Yellowfin Tuna
+	 Yellowfin Tuna
 	 </a>
 	<ui>
      	     <li>5g for $35</li>

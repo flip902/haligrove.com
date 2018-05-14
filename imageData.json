@@ -33,6 +33,29 @@
 {
       "id" : "2",
 
+	"name" : "Choco Chunk",
+	"src" : "../images/chocolateChunk.JPG",
+	"type" : "hybrid",
+	"isNew" : "new",
+	"sale" : "none",
+	"pricePerGram" : "$12/g, 5 for $50,",
+	"pricePerOunce" : "$235/Oz",
+	"description" : "In looks it resembles medium, dense buds which are light green and coated in trichromes. The smell of Chocolate chunk tends to be very musky and earthy. It gives off a natural, mountain peak like smell which makes the house smell outdoorsy. Up close it might smell a bit pungent, but apart from that it has quite a chocolaty aroma. It is perfect for lazy days as it allows you to relax and lay back. It is quite a powerful strain meaning you don't have to take a lot of choco chunk to get high.",
+	"inventory" : "full",
+	  "THC" : "22",
+	  "taste" : "87",
+	  "aroma" : "87",
+	  "pain" : "81",
+	  "insomnia" : "80",
+	  "appetite" : "85",
+	  "overall" : "87", 
+    "soldOut" : "none",
+    "opacity" : "1"
+},
+
+{
+      "id" : "3",
+
 	"name" : "God's Kush",
 	"src" : "../images/godsKush.JPG",
 	"type" : "indica",
@@ -54,7 +77,7 @@
 },
 
 {
-      "id" : "3",
+      "id" : "4",
 
 	"name" : "Berry Breath",
 	"src" : "../images/berryBreath.JPG",
@@ -79,12 +102,12 @@
 
 
 {
-      "id" : "4",
+      "id" : "5",
 
 	"name" : "Sugar Cookies",
 	"src" : "../images/sugarCookies.JPG",
 	"type" : "hybrid",
-	"isNew" : "new",
+	"isNew" : "none",
 	"sale" : "none",
 	"pricePerGram" : "$9/g, 5 for $40,",
 	"pricePerOunce" : "$195/Oz",
@@ -104,12 +127,12 @@
 
 
 {
-      "id" : "5",
+      "id" : "6",
 
 	"name" : "BB Hubba Bubba",
 	"src" : "../images/blueberryHubbaBubba.JPG",
 	"type" : "indica",
-	"isNew" : "new",
+	"isNew" : "none",
 	"sale" : "none",
 	"pricePerGram" : "$10/g, 5 for $40,",
 	"pricePerOunce" : "$210/Oz",
@@ -122,18 +145,18 @@
 	  "insomnia" : "86",
 	  "appetite" : "84",
 	  "overall" : "86", 
-    "soldOut" : "none",
-    "opacity" : "1"
+    "soldOut" : "sold out",
+    "opacity" : "0.3"
 },
 
 
 {
-      "id" : "6",
+      "id" : "7",
 
 	"name" : "Super Kush",
 	"src" : "../images/superKush.JPG",
 	"type" : "indica",
-	"isNew" : "new",
+	"isNew" : "none",
 	"sale" : "none",
 	"pricePerGram" : "$10/g, 5 for $40,",
 	"pricePerOunce" : "$210/Oz",
@@ -152,12 +175,12 @@
 
 
 {
-      "id" : "7",
+      "id" : "8",
 
 	"name" : "Blue Haze",
 	"src" : "../images/blueHaze.JPG",
 	"type" : "sativa",
-	"isNew" : "new",
+	"isNew" : "none",
 	"sale" : "none",
 	"pricePerGram" : "$10/g, 5 for $40,",
 	"pricePerOunce" : "$210/Oz",
@@ -177,7 +200,7 @@
 
 
 {
-      "id" : "8",
+      "id" : "9",
 
 	"name" : "Sensi Star",
 	"src" : "../images/sensiStar.JPG",
@@ -201,7 +224,7 @@
 
 
 {
-      "id" : "9",
+      "id" : "10",
 
         "name" : "Violator",
         "src" : "../images/violatorKush.JPG",
@@ -225,7 +248,7 @@
 
 
 {
-      "id" : "10",
+      "id" : "11",
 
         "name" : "Black Tuna",
         "src" : "../images/blackTuna2.JPG",
@@ -249,7 +272,7 @@
 
 
 {
-      "id" : "11",
+      "id" : "12",
 
         "name" : "Bubba Grape",
         "src" : "../images/bubbaGrape.JPG",
@@ -273,7 +296,7 @@
 
 
 {
-      "id" : "12",
+      "id" : "13",
 
         "name" : "Pink Lady",
         "src" : "../images/pinkLady.JPG",
@@ -297,7 +320,7 @@
 
 
 {
-      "id" : "13",
+      "id" : "14",
 
         "name" : "White Castle",
         "src" : "../images/whiteCastle.JPG",
@@ -322,7 +345,7 @@
 
 
 {
-      "id" : "14",
+      "id" : "15",
 
         "name" : "Classic Chemo",
         "src" : "../images/classicChemo.JPG",
@@ -349,7 +372,7 @@
 
 
 {
-      "id" : "15",
+      "id" : "16",
 
         "name" : "Blue Cheez",
         "src" : "../images/blueCheez.JPG",
@@ -370,33 +393,6 @@
     "soldOut" : "none",
     "opacity" : "1"
 },
-
-
-{
-      "id" : "16",
-
-        "name" : "Cherry Grapefruit",
-        "src" : "../images/cherryGrapefruit.JPG",
-        "type" : "hybrid",
-        "isNew" : "none",
-        "sale" : "none",
-        "pricePerGram" : "$10/g, 5 for $40,",
-        "pricePerOunce" : "$225/Oz",
-        "description" : "Cherry Grapefruit by Kera Seeds is a super fruity sativa-dominant hybrid that brings out the best qualities of parent strains Cherry and Grapefruit.  Cherry Grapefruit brings on the flavor, mixing sweet grapes and cherries with a creamy herbal exhale that’s almost like garlicky butter.  The smell is very citrus and herby with a tangy fruity overtone that’s slightly earthy at times. This strain will give you a cerebral boost, infusing you with a feeling of focus and energy that doesn't counter your deep relaxation. Cherry Grapefruit is said to be perfect for treating conditions such as chronic pain, muscle spasms or tremors, and hypertension.",
-        "inventory" : "low",
-          "THC" : "21",
-          "taste" : "86",
-          "aroma" : "86",
-          "pain" : "80",
-          "insomnia" : "80",
-          "appetite" : "84",
-          "overall" : "86", 
-    "soldOut" : "sold out",
-    "opacity" : "0.3"
-},
-
-
-
 
 
 
@@ -810,7 +806,7 @@
         "src" : "../images/mango.JPG",
         "type" : "hybrid",
         "isNew" : "none",
-        "sale" : "sale",
+        "sale" : "none",
         "pricePerGram" : "$8/g, 10 for $60,",
         "pricePerOunce" : "$170/Oz",
         "description" : "This strain is true to her name, she delights the senses with delicious flavour of mango. This strain is perfect for daytime use and will leave you felling energetic and in a good mood.",
@@ -822,8 +818,8 @@
           "insomnia" : "79",
           "appetite" : "80",
           "overall" : "80", 
-    "soldOut" : "none",
-    "opacity" : "1"
+    "soldOut" : "sold out",
+    "opacity" : "0.3"
 },
 
 
@@ -858,36 +854,14 @@
 
 
 
+
+
+
+
+
+
 {
       "id" : "34",
-
-        "name" : "PK",
-        "src" : "../images/pk.JPG",
-        "type" : "indica",
-        "isNew" : "none",
-        "sale" : "sale",
-        "pricePerGram" : "$9/g, 5 for <span style='text-decoration: line-through'>$40 </span>$35,",
-        "pricePerOunce" : "$190/Oz",
-        "description" : "Purple Kush is a pure indica strain that emerged from the Oakland area of California as the result of a Hindu Kush and Purple Afghani cross. Its aroma is subtle and earthy with sweet overtones typical of Kush varieties. Blissful, long-lasting euphoria blankets the mind while physical relaxation rids the body of pain, sleeplessness, and stress.",
-        "inventory" : "low",
-          "THC" : "19",
-          "taste" : "82",
-          "aroma" : "80",
-          "pain" : "82",
-          "insomnia" : "80",
-          "appetite" : "80",
-          "overall" : "82", 
-    "soldOut" : "sold out",
-    "opacity" : "0.3"
-},
-
-
-
-
-
-
-{
-      "id" : "35",
 
         "name" : "BlueberryCheesecake",
         "src" : "../images/blueberryCheesecake.JPG",
@@ -915,7 +889,7 @@
 
 
 {
-      "id" : "36",
+      "id" : "35",
 
         "name" : "Sticky Icky",
         "src" : "../images/stickieIcky.JPG",
@@ -939,7 +913,7 @@
 
 
 {
-      "id" : "37",
+      "id" : "36",
 
         "name" : "Obama",
         "src" : "../images/obama.JPG",
@@ -963,7 +937,7 @@
 
 
 {
-      "id" : "38",
+      "id" : "37",
 
         "name" : "Romain Rockstar",
         "src" : "../images/romainRockstar.JPG",
@@ -993,7 +967,7 @@
 
 
 {
-      "id" : "39",
+      "id" : "38",
 
         "name" : "Platinum Bubba",
         "src" : "../images/platnumBubba.JPG",
@@ -1021,7 +995,7 @@
 
 
 {
-      "id" : "40",
+      "id" : "39",
 
         "name" : "Yellowfin Tuna",
         "src" : "../images/yellowfinTuna.JPG",
@@ -1044,7 +1018,7 @@
     },
 
 {
-      "id" : "41",
+      "id" : "40",
 
         "name" : "Blue Dream",
         "src" : "../images/blueDream.JPG",
@@ -1075,7 +1049,7 @@
     
 
 {
-      "id" : "42",
+      "id" : "41",
 
         "name" : "Pink God",
         "src" : "../images/pinkGod.JPG",
@@ -1112,7 +1086,7 @@
     
 
 {
-      "id" : "43",
+      "id" : "42",
 
         "name" : "Tuna",
         "src" : "../images/newTuna.JPG",
@@ -1141,7 +1115,7 @@
 
 
 {
-      "id" : "44",
+      "id" : "43",
 
         "name" : "Bottoms",
         "src" : "../images/bottoms.JPG",
