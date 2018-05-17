@@ -33,6 +33,30 @@
 {
       "id" : "2",
 
+	"name" : "Gas Mask",
+	"src" : "../images/gasMask.JPG",
+	"type" : "indica",
+	"isNew" : "new",
+	"sale" : "none",
+	"pricePerGram" : "$10/g, 5 for $40,",
+	"pricePerOunce" : "$210/Oz",
+	"description" : "This pungent phenotype is known for its strong, long-lasting high, so mind your dosage. Anticipate a heavy, mind-numbing cerebral sensation that evaporates stress as it sinks into the limbs.",
+	"inventory" : "full",
+	  "THC" : "21",
+	  "taste" : "86",
+	  "aroma" : "86",
+	  "pain" : "85",
+	  "insomnia" : "84",
+	  "appetite" : "82",
+	  "overall" : "86", 
+    "soldOut" : "none",
+    "opacity" : "1"
+},
+
+
+{
+      "id" : "3",
+
 	"name" : "Choco Chunk",
 	"src" : "../images/chocolateChunk.JPG",
 	"type" : "hybrid",
@@ -54,7 +78,7 @@
 },
 
 {
-      "id" : "3",
+      "id" : "4",
 
 	"name" : "God's Kush",
 	"src" : "../images/godsKush.JPG",
@@ -77,7 +101,7 @@
 },
 
 {
-      "id" : "4",
+      "id" : "5",
 
 	"name" : "Berry Breath",
 	"src" : "../images/berryBreath.JPG",
@@ -102,7 +126,7 @@
 
 
 {
-      "id" : "5",
+      "id" : "6",
 
 	"name" : "Sugar Cookies",
 	"src" : "../images/sugarCookies.JPG",
@@ -126,28 +150,6 @@
 
 
 
-{
-      "id" : "6",
-
-	"name" : "BB Hubba Bubba",
-	"src" : "../images/blueberryHubbaBubba.JPG",
-	"type" : "indica",
-	"isNew" : "none",
-	"sale" : "none",
-	"pricePerGram" : "$10/g, 5 for $40,",
-	"pricePerOunce" : "$210/Oz",
-	"description" : "Blueberry Hubba Bubba. The name says it all... If you have not yet smoked this you are missing out on a great strain. Good taste with tranquilizing effects.",
-	"inventory" : "low",
-	  "THC" : "21",
-	  "taste" : "86",
-	  "aroma" : "85",
-	  "pain" : "84",
-	  "insomnia" : "86",
-	  "appetite" : "84",
-	  "overall" : "86", 
-    "soldOut" : "sold out",
-    "opacity" : "0.3"
-},
 
 
 {
@@ -799,36 +801,14 @@
 
 
 
+
+
+
+
+
+
 {
       "id" : "32",
-
-        "name" : "Mango",
-        "src" : "../images/mango.JPG",
-        "type" : "hybrid",
-        "isNew" : "none",
-        "sale" : "none",
-        "pricePerGram" : "$8/g, 10 for $60,",
-        "pricePerOunce" : "$170/Oz",
-        "description" : "This strain is true to her name, she delights the senses with delicious flavour of mango. This strain is perfect for daytime use and will leave you felling energetic and in a good mood.",
-        "inventory" : "low",
-          "THC" : "18",
-          "taste" : "80",
-          "aroma" : "80",
-          "pain" : "80",
-          "insomnia" : "79",
-          "appetite" : "80",
-          "overall" : "80", 
-    "soldOut" : "sold out",
-    "opacity" : "0.3"
-},
-
-
-
-
-
-
-{
-      "id" : "33",
 
         "name" : "Citrus Bliss",
         "src" : "../images/citrusBliss.JPG",
@@ -861,7 +841,7 @@
 
 
 {
-      "id" : "34",
+      "id" : "33",
 
         "name" : "BlueberryCheesecake",
         "src" : "../images/blueberryCheesecake.JPG",
@@ -889,7 +869,7 @@
 
 
 {
-      "id" : "35",
+      "id" : "34",
 
         "name" : "Sticky Icky",
         "src" : "../images/stickieIcky.JPG",
@@ -913,7 +893,7 @@
 
 
 {
-      "id" : "36",
+      "id" : "35",
 
         "name" : "Obama",
         "src" : "../images/obama.JPG",
@@ -937,7 +917,7 @@
 
 
 {
-      "id" : "37",
+      "id" : "36",
 
         "name" : "Romain Rockstar",
         "src" : "../images/romainRockstar.JPG",
@@ -967,7 +947,7 @@
 
 
 {
-      "id" : "38",
+      "id" : "37",
 
         "name" : "Platinum Bubba",
         "src" : "../images/platnumBubba.JPG",
@@ -995,7 +975,7 @@
 
 
 {
-      "id" : "39",
+      "id" : "38",
 
         "name" : "Yellowfin Tuna",
         "src" : "../images/yellowfinTuna.JPG",
@@ -1018,7 +998,7 @@
     },
 
 {
-      "id" : "40",
+      "id" : "39",
 
         "name" : "Blue Dream",
         "src" : "../images/blueDream.JPG",
@@ -1049,7 +1029,7 @@
     
 
 {
-      "id" : "41",
+      "id" : "40",
 
         "name" : "Pink God",
         "src" : "../images/pinkGod.JPG",
@@ -1086,7 +1066,7 @@
     
 
 {
-      "id" : "42",
+      "id" : "41",
 
         "name" : "Tuna",
         "src" : "../images/newTuna.JPG",
@@ -1115,7 +1095,7 @@
 
 
 {
-      "id" : "43",
+      "id" : "42",
 
         "name" : "Bottoms",
         "src" : "../images/bottoms.JPG",

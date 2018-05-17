@@ -38,13 +38,12 @@ header("Pragma: no-cache");
           <div class="carousel-inner">
 
 	     <div class="item active">
-		<a href="content/strains.php"><img src="images/chocolateChunk.JPG" alt="">
+		<a href="content/strains.php"><img src="images/gasMask.JPG" alt="">
                 
                 <div class="carousel-caption">
-                    <h3>New Choco Chunk</h3>
+                    <h3>New Gas Mask!</h3>
 
-                    <p>Give this rare hybrid a try!<br>5 for $50
-			              </p>
+                    <p>5 for $40<br>10 for $80</p>
                 </div>
               </a>
              </div>
