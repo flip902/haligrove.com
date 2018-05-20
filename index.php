@@ -37,7 +37,19 @@ header("Pragma: no-cache");
           <!-- Wrapper for slides -->
           <div class="carousel-inner">
 
+
 	     <div class="item active">
+		<a href="content/extracts.php"><img src="images/rosinAd.JPG" alt="">
+                
+                <div class="carousel-caption">
+                    <h3>New Live Rosin!</h3>
+                    <p>4 new top quality strains 
+			              </p>
+                </div>
+              </a>
+             </div>
+
+	     <div class="item">
 		<a href="content/strains.php"><img src="images/gasMask.JPG" alt="">
                 
                 <div class="carousel-caption">
@@ -79,16 +91,7 @@ header("Pragma: no-cache");
 
 
 
-	    <div class="item">
-		<a href="content/extracts.php"><img src="images/whiteCastleResinAd.JPG" alt="">
-                
-                <div class="carousel-caption">
-                    <h3>New Top Quality Live Resin!</h3>
-                    <p>0.5 gram is $35
-			              </p>
-                </div>
-              </a>
-             </div>
+	    
 
 
 	    <div class="item">

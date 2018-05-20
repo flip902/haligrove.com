@@ -13,10 +13,105 @@
     <div class="extractsPositioning">
         <div class="row width extractWidth">
 
- <div class="extractsBox col-lg-6 col-md-6">
+	    <div class="extractsBox col-lg-6 col-md-6">
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
 			<div class="new">new</div>
+                        <div class="indica">indica</div>
+                        <img src= "../images/genghisChron.JPG" style="height: 100%">
+                    </div>
+                    <div class="extractsItemTitle" id="">Genghis Chron</div>
+                    <div class="extractsPrice">
+                        <span>$30 ea. 0.5g</span><br>
+                        <h3>0.5 gram Rosin</h3>
+                        <p class="descriptionP">
+                       Top Quality Rosin! Great for pain, insomnia, inflamation. Very potent indica! 
+                        </p>
+                    </div>
+                       <br> 
+                    <div id="genghisChron">
+                        <div></div>
+                    </div>
+                    <p class="inventoryPTag">inventory</p>
+                </div>
+            </div>
+
+	    <div class="extractsBox col-lg-6 col-md-6">
+                <div class="extractsThumbnail">
+                    <div class="extractsImageDiv">
+			<div class="new">new</div>
+                        <div class="sativa">sativa</div>
+                        <img src= "../images/redCongoleseHaze.JPG" style="height: 100%">
+                    </div>
+                    <div class="extractsItemTitle" id="">Red Congolese Haze</div>
+                    <div class="extractsPrice">
+                        <span>$30 ea. 0.5g</span><br>
+                        <h3>0.5 gram Rosin</h3>
+                        <p class="descriptionP">
+                       Top Quality Rosin! Great for depression, anxiety and creativity! 
+                        </p>
+                    </div>
+                       <br> 
+                    <div id="redCongoleseHaze">
+                        <div></div>
+                    </div>
+                    <p class="inventoryPTag">inventory</p>
+                </div>
+            </div>
+
+
+	    <div class="extractsBox col-lg-6 col-md-6">
+                <div class="extractsThumbnail">
+                    <div class="extractsImageDiv">
+			<div class="new">new</div>
+                        <div class="sativa">sativa</div>
+                        <img src= "../images/silverHaze.JPG" style="height: 100%">
+                    </div>
+                    <div class="extractsItemTitle" id="">Silver Haze</div>
+                    <div class="extractsPrice">
+                        <span>$60 ea. 1g</span><br>
+                        <h3>1 gram Rosin</h3>
+                        <p class="descriptionP">
+                       Top Quality Rosin! Great for depression, anxiety and promotes free thought ;). 
+                        </p>
+                    </div>
+                       <br> 
+                    <div id="silverHaze">
+                        <div></div>
+                    </div>
+                    <p class="inventoryPTag">inventory</p>
+                </div>
+            </div>
+
+
+
+	    <div class="extractsBox col-lg-6 col-md-6">
+                <div class="extractsThumbnail">
+                    <div class="extractsImageDiv">
+			<div class="new">new</div>
+                        <div class="hybrid">hybrid</div>
+                        <img src= "../images/whiteWalker.JPG" style="height: 100%">
+                    </div>
+                    <div class="extractsItemTitle" id="">White Walker</div>
+                    <div class="extractsPrice">
+                        <span>$60 ea. 1g</span><br>
+                        <h3>1 gram Rosin</h3>
+                        <p class="descriptionP">
+                       Top Quality Rosin! Great for depression, anxiety and pain. These rosins usually sell for $80/g! 
+                        </p>
+                    </div>
+                       <br> 
+                    <div id="whiteWalker">
+                        <div></div>
+                    </div>
+                    <p class="inventoryPTag">inventory</p>
+                </div>
+            </div>
+
+
+ 	    <div class="extractsBox col-lg-6 col-md-6">
+                <div class="extractsThumbnail">
+                    <div class="extractsImageDiv">
                         <div class="sativa">sativa</div>
                         <img src= "../images/spaceQueen.JPG" style="height: 100%">
                     </div>
@@ -40,7 +135,6 @@
 	    <div class="extractsBox col-lg-6 col-md-6">
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
-			<div class="new">new</div>
                         <div class="hybrid">hybrid</div>
                         <img src= "../images/whiteCastleResin.JPG" style="height: 100%">
                     </div>
@@ -64,7 +158,6 @@
 	    <div class="extractsBox col-lg-6 col-md-6">
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
-			<div class="new">new</div>
                         <div class="hybrid">hybrid</div>
                         <img src= "../images/godsGreenCrackResin.JPG" style="height: 100%">
                     </div>
@@ -295,26 +388,7 @@
 
 
 
-	    <div class="extractsBox col-lg-6 col-md-6">
-                <div class="extractsThumbnail">
-                    <div class="extractsImageDiv">
-                        <img src= "../images/oilPen.JPG" alt="Oil Pen" style="height:100%;opacity: 1.3">
-                            
-                    </div>
-                    <div class="extractsItemTitle" id="">Phoenix Oil Pen</div>
-                    <div class="extractsPrice">
-                        $35<span> per</span><br>
-                        <p class="penDescription">These pens are different from our shatter pens. They function the same as the shatter pens but are 
-                            infused with phoenix oil instead of the shatter. Phoenix oil is high in cbd's as well as thc, and has many medical benefits.
-                        </p>
-                    </div>
-                    <div id="oilPenInventory">
-                        <div></div>
-                    </div>
-                    <p class="inventoryPTag">inventory</p>
-                </div>
-            </div>
-                
+	                    
 
             
 
@@ -346,28 +420,6 @@
 
 
 
-	    <div class="extractsBox col-lg-6 col-md-6">
-                <div class="extractsThumbnail">
-                    <div class="extractsImageDiv">
-			<div class="sold out" style="z-index: 1">sold out</div>
-                        <div class="sativa">sativa</div>
-                        <img src= "../images/strawberryMango.JPG" style="height: 100%; opacity: 0.3">
-                    </div>
-                    <div class="extractsItemTitle" id="">Strawberry Mango</div>
-                    <div class="extractsPrice">
-                        <span>$40 Per </span><br>
-                        <h3>Firerock Extracts</h3>
-                        <p class="descriptionP">Strawberry mango, berry taste.
-                        Great for Pain, stress and depression.
-                        </p>
-                    </div>
-                       <br> 
-                    <div id="">
-                        <div></div>
-                    </div>
-                    <p class="inventoryPTag">inventory</p>
-                </div>
-            </div>
 
 
 	    <div class="extractsBox col-lg-6 col-md-6">
@@ -571,27 +623,7 @@
                 </div>
             </div>
 
-	  <div class="extractsBox col-lg-6 col-md-6">
-                <div class="extractsThumbnail">
-                    <div class="extractsImageDiv">
-                        <div class="indica">indica</div>
-                        <img src= "../images/purpleUrkleEm.JPG" style="height: 100%">
-                    </div>
-                    <div class="extractsItemTitle" id="">Purple Urkle</div>
-                    <div class="extractsPrice">
-                        <span>$35 Per </span><br>
-                        <h3>Emerald Extracts</h3>
-                        <p class="descriptionP">Sweet, grape, berry taste.
-                        Great for Pain, stress and insomnia.
-                        </p>
-                    </div>
-                       <br> 
-                    <div id="purpleUrkle">
-                        <div></div>
-                    </div>
-                    <p class="inventoryPTag">inventory</p>
-                </div>
-            </div>
+	  
 
 	  <div class="extractsBox col-lg-6 col-md-6">
                 <div class="extractsThumbnail">

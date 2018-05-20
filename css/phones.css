@@ -107,7 +107,7 @@
 
 #purpleUrkle > div {
   background-color: #C9DF78;
-  width: 30%; /* Adjust with JavaScript */
+  width: 0%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -378,7 +378,7 @@
 
 #cbdInventory > div {
   background-color: #C9DF78;
-  width: 90%; /* Adjust with JavaScript */
+  width: 40%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -424,6 +424,68 @@
 #spaceQueen > div {
   background-color: #C9DF78;
   width: 90%; /* Adjust with JavaScript */
+  height: 20px;
+  border-radius: 10px;
+}
+
+#genghisChron {
+  width: 80%;
+  background-color: black;
+  border-radius: 13px; /* (height of inner div) / 2 + padding */
+  padding: 3px;
+  margin: 0 auto 0 auto;
+}
+
+#genghisChron > div {
+  background-color: #C9DF78;
+  width: 100%; /* Adjust with JavaScript */
+  height: 20px;
+  border-radius: 10px;
+}
+
+
+#redCongoleseHaze {
+  width: 80%;
+  background-color: black;
+  border-radius: 13px; /* (height of inner div) / 2 + padding */
+  padding: 3px;
+  margin: 0 auto 0 auto;
+}
+
+#redCongoleseHaze > div {
+  background-color: #C9DF78;
+  width: 100%; /* Adjust with JavaScript */
+  height: 20px;
+  border-radius: 10px;
+}
+
+#silverHaze {
+  width: 80%;
+  background-color: black;
+  border-radius: 13px; /* (height of inner div) / 2 + padding */
+  padding: 3px;
+  margin: 0 auto 0 auto;
+}
+
+#silverHaze > div {
+  background-color: #C9DF78;
+  width: 100%; /* Adjust with JavaScript */
+  height: 20px;
+  border-radius: 10px;
+}
+
+
+#whiteWalker {
+  width: 80%;
+  background-color: black;
+  border-radius: 13px; /* (height of inner div) / 2 + padding */
+  padding: 3px;
+  margin: 0 auto 0 auto;
+}
+
+#whiteWalker > div {
+  background-color: #C9DF78;
+  width: 100%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }

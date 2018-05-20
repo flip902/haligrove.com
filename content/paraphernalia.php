@@ -51,7 +51,6 @@
 <div class="paraphernaliaBox col-lg-6 col-md-6">
         <div class="paraphernaliaThumbnail">
           <div class="paraphernaliaImageDiv">
-	    <div class="new">new</div>
             <img src="../images/lipService.JPG" alt="lip" style="height:300px">
           </div>
           <h3 class="paraphernaliaItemTitle">Lip Service</h3>
@@ -64,7 +63,6 @@
 <div class="paraphernaliaBox col-lg-6 col-md-6">
         <div class="paraphernaliaThumbnail">
           <div class="paraphernaliaImageDiv">
-	    <div class="new">new</div>
             <img src="../images/headache.JPG" alt="headache" style="height:300px">
           </div>
           <h3 class="paraphernaliaItemTitle">Headache Therapeutic oil</h3>
@@ -78,7 +76,6 @@
 <div class="paraphernaliaBox col-lg-6 col-md-6">
         <div class="paraphernaliaThumbnail">
           <div class="paraphernaliaImageDiv">
-	    <div class="new">new</div>
             <img src="../images/booBoo.JPG" alt="booboo" style="height:300px">
           </div>
           <h3 class="paraphernaliaItemTitle">Boo Boos Therapeutic oil</h3>
