@@ -13,6 +13,53 @@
     <div class="extractsPositioning">
         <div class="row width extractWidth">
 
+
+	    <div class="extractsBox col-lg-6 col-md-6">
+                <div class="extractsThumbnail">
+                    <div class="extractsImageDiv">
+			<div class="new">new</div>
+                        <div class="indica">indica</div>
+                        <img src= "../images/deathBubbaCbd.JPG" style="height: 100%">
+                    </div>
+                    <div class="extractsItemTitle" id="">Death Bubba</div>
+                    <div class="extractsPrice">
+                        <span>$45 ea. 1g</span><br>
+                        <h3>Canada's Best Derivatives</h3>
+                        <p class="descriptionP">
+			This is the perfect strain for bedtime use or if you need some serious mental and physical relaxation.
+                        </p>
+                    </div>
+                       <br> 
+                    <div id="harlequin">
+                        <div></div>
+                    </div>
+                    <p class="inventoryPTag">inventory</p>
+                </div>
+            </div>
+
+	    <div class="extractsBox col-lg-6 col-md-6">
+                <div class="extractsThumbnail">
+                    <div class="extractsImageDiv">
+			<div class="new">new</div>
+                        <div class="sativa">sativa</div>
+                        <img src= "../images/harlequinCbd.JPG" style="height: 100%">
+                    </div>
+                    <div class="extractsItemTitle" id="">Harlequin Shatter</div>
+                    <div class="extractsPrice">
+                        <span>$45 ea. 1g</span><br>
+                        <h3>Canada's Best Derivatives</h3>
+                        <p class="descriptionP">
+                       CBD is one of the best extracts availible. This strain is known for it's clearity and potency. 
+                        </p>
+                    </div>
+                       <br> 
+                    <div id="harlequin">
+                        <div></div>
+                    </div>
+                    <p class="inventoryPTag">inventory</p>
+                </div>
+            </div>
+
 	    <div class="extractsBox col-lg-6 col-md-6">
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">

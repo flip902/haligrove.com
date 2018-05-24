@@ -37,28 +37,33 @@ header("Pragma: no-cache");
           <!-- Wrapper for slides -->
           <div class="carousel-inner">
 
-
-	     <div class="item active">
-		<a href="content/extracts.php"><img src="images/rosinAd.JPG" alt="">
+	    <div class="item active">
+		<a href="content/extracts.php"><img src="images/harlequinCbdAd.JPG" alt="">
                 
                 <div class="carousel-caption">
-                    <h3>New Live Rosin!</h3>
-                    <p>4 new top quality strains 
+                    <h3>New Shatter</h3>
+                    <p>Canada's Best Derivatives<br>$45 ea. 
 			              </p>
                 </div>
               </a>
              </div>
 
-	     <div class="item">
-		<a href="content/strains.php"><img src="images/gasMask.JPG" alt="">
+	    <div class="item">
+		<a href="content/strains.php"><img src="images/benFranklin.JPG" alt="">
                 
                 <div class="carousel-caption">
-                    <h3>New Gas Mask!</h3>
+                    <h3>New Ben Franklin<br>
+			& Pink Kandy Kush!</h3>
 
                     <p>5 for $40<br>10 for $80</p>
                 </div>
               </a>
              </div>
+
+
+	     
+
+	   
 
 
 	    <div class="item">

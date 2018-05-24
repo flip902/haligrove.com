@@ -92,25 +92,9 @@
              <li>10g for $80</li>
 	</ul>
 	<br>
-	<a href="strains.php">
 
 	
 
-
-
-
-	<h1 class="pickOTW">Blowout Sale!!</h1>
-	<p>Selling the old to bring in the new! help us clear out stock to bring in new strains and save a little $ :)</p>
-	<a href="strains.php">
-
-	 Yellowfin Tuna
-	 </a>
-	<ui>
-     	     <li>5g for $35</li>
-	    <li>10 for $60</li>
-	    <li>28 for $170</li>
-	</ul>
-	<br>
 
 	<h1 class="pickOTW">Overstock sale!</h1>
 	<a href="strains.php">Citrus Bliss & Pink God</a>
