@@ -37,7 +37,22 @@ header("Pragma: no-cache");
           <!-- Wrapper for slides -->
           <div class="carousel-inner">
 
+
 	    <div class="item active">
+		<a href="content/strains.php"><img src="images/axlRose.JPG" alt="">
+                
+                <div class="carousel-caption">
+                    <h3>New Axl Rose<br>
+			& Space Bubba</h3>
+
+                    <p></p>
+                </div>
+              </a>
+             </div>
+
+
+
+	    <div class="item">
 		<a href="content/extracts.php"><img src="images/harlequinCbdAd.JPG" alt="">
                 
                 <div class="carousel-caption">
@@ -48,17 +63,7 @@ header("Pragma: no-cache");
               </a>
              </div>
 
-	    <div class="item">
-		<a href="content/strains.php"><img src="images/benFranklin.JPG" alt="">
-                
-                <div class="carousel-caption">
-                    <h3>New Ben Franklin<br>
-			& Pink Kandy Kush!</h3>
-
-                    <p>5 for $40<br>10 for $80</p>
-                </div>
-              </a>
-             </div>
+	    
 
 
 	     
