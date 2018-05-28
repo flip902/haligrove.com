@@ -38,7 +38,31 @@ header("Pragma: no-cache");
           <div class="carousel-inner">
 
 
-	    <div class="item active">
+	     <div class="item active">
+		<a href="content/strains.php"><img src="images/willieNelson.JPG" alt="">
+                
+                <div class="carousel-caption">
+                    <h3>New Sativa! <br>Willie Nelson</h3>
+			<p>5 for $40</p>
+                </div>
+              </a>
+             </div>
+
+
+	    <div class="item">
+		<a href="content/hash.php"><img src="images/afghaniBlackAd.JPG" alt="">
+                
+                <div class="carousel-caption">
+                    <h3>Afghani Black on Sale!</h3>
+
+                    <p>now only $10 a gram!
+			              </p>
+                </div>
+              </a>
+             </div>
+
+
+	    <div class="item">
 		<a href="content/strains.php"><img src="images/axlRose.JPG" alt="">
                 
                 <div class="carousel-caption">
@@ -86,17 +110,7 @@ header("Pragma: no-cache");
 	   
 
 
-	    <div class="item">
-		<a href="content/edibles.php"><img src="images/fudgeAd.JPG" alt="">
-                
-                <div class="carousel-caption">
-                    <h3>New Edibles!</h3>
-
-                    <p>These tempting treats are: <br>$12 ea. or 4 for $40
-			              </p>
-                </div>
-              </a>
-             </div>
+	    
 
 
 
@@ -116,15 +130,7 @@ header("Pragma: no-cache");
               </a>
              </div>
 
-	    <div class="item">
-		<a href="content/paraphernalia.php"><img src="images/purePullsAd.JPG" alt="">
-                
-                <div class="carousel-caption">
-                    <h3>Check out our new Vape Pens!</h3>
-
-                </div>
-              </a>
-             </div>
+	   
 
 
 	    <div class="item">

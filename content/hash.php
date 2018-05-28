@@ -38,11 +38,12 @@
 	        <div class="hashBox col-lg-6 col-md-6">
                     <div class="hashThumbnail">
                         <div class="hashImageDiv">
+				<div class="sale">sale</div>
                                 <img src= "../images/afghaniBlack.JPG" alt="Afghani">
                         </div>
                         <h3 class="hashItemTitle" id="">Afghani Black</h3>
                         <div class="hashPrice">
-                            $12<span> Gram</span> / 5 <span>for</span> $55
+                           <span style="text-decoration: line-through">$12</span> $10<span> Gram</span> / 5 <span>for</span> <span style="text-decoration: line-through">$55</span> $50
                             <p>Good Quality for a good price!</p>
                         </div>
                         <div id="afghaniBlack">

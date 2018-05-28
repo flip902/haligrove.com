@@ -172,21 +172,6 @@
 
 
 
-    <div class="paraphernaliaBox col-lg-6 col-md-6">
-        <div class="paraphernaliaThumbnail">
-          <div class="paraphernaliaImageDiv">
-	    <div class="sold out" style="z-index: 1">sold out</div>
-            <img src="../images/peanutButter.JPG" alt="Peanut Butter" style="height:300px; opacity: 0.3">
-          </div>
-          <h3 class="paraphernaliaItemTitle">Peanut Butter</h3>
-          <div class="paraphernaliaPrice">
-	     <p>PB filled chocolate (contains nuts)<br>
-            $6<span> Per</span><br>
-            
-           Contains 50mg winterized BHO.</p>
-          </div>
-        </div>
-      </div>
 
 
 

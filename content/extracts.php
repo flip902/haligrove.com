@@ -136,7 +136,7 @@
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
 			<div class="new">new</div>
-                        <div class="hybrid">hybrid</div>
+                        <div class="indica">indica</div>
                         <img src= "../images/whiteWalker.JPG" style="height: 100%">
                     </div>
                     <div class="extractsItemTitle" id="">White Walker</div>
@@ -144,7 +144,7 @@
                         <span>$60 ea. 1g</span><br>
                         <h3>1 gram Rosin</h3>
                         <p class="descriptionP">
-                       Top Quality Rosin! Great for depression, anxiety and pain. These rosins usually sell for $80/g! 
+                       Top Quality Rosin! Great for depression, anxiety and pain.  
                         </p>
                     </div>
                        <br> 
@@ -340,8 +340,9 @@
 	    <div class="extractsBox col-lg-6 col-md-6">
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
-			<div class="sale">sale</div>
-                        <img src= "../images/lemonSourDiesel.JPG" style="height: 100%">
+
+			<div class="sold out" style="z-index: 1">sold out</div>
+                        <img src= "../images/lemonSourDiesel.JPG" style="height: 100%; opacity: 0.3">
                     </div>
                     <div class="extractsItemTitle" id="">Lemon Sour Diesel</div>
                     <div class="extractsPrice">
@@ -573,9 +574,10 @@
 	    <div class="extractsBox col-lg-6 col-md-6">
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
+			<div class="sold out" style="z-index: 1">sold out</div>
 
                         <div class="indica">indica</div>
-                        <img src= "../images/lightningSkunk.JPG" style="height: 100%">
+                        <img src= "../images/lightningSkunk.JPG" style="height: 100%; opacity: 0.3">
                     </div>
                     <div class="extractsItemTitle" id="">Lightning Skunk</div>
                     <div class="extractsPrice">
@@ -606,8 +608,9 @@
 	    <div class="extractsBox col-lg-6 col-md-6">
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
+			<div class="sold out" style="z-index: 1">sold out</div>
                         <div class="hybrid">hybrid</div>
-                        <img src= "../images/whiteGorilla.JPG" style="height: 100%">
+                        <img src= "../images/whiteGorilla.JPG" style="height: 100%; opacity: 0.3">
                     </div>
                     <div class="extractsItemTitle" id="">White Gorilla</div>
                     <div class="extractsPrice">
@@ -698,8 +701,9 @@
 	   <div class="extractsBox col-lg-6 col-md-6">
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
+			<div class="sold out" style="z-index: 1">sold out</div>
                         <div class="hybrid">hybrid</div>
-                        <img src= "../images/girlScoutCookiesEm.JPG" style="height: 100%; opacity: 1">
+                        <img src= "../images/girlScoutCookiesEm.JPG" style="height: 100%; opacity: 0.3">
                     </div>
                     <div class="extractsItemTitle" id="">Girl Scout Cookies</div>
                     <div class="extractsPrice">

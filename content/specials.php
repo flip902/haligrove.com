@@ -29,7 +29,7 @@
 	<h1 class="pickOTW">Strains on sale:</h1>
 
 
-	<a href="strains.php">Ice Wreck, Bubba Grape, Blue Cheez, Bruce Banner, Romain Rockstar, & Tuna</a>	
+	<a href="strains.php">Ice Wreck,  Blue Cheez, Bruce Banner, Romain Rockstar, & Tuna</a>	
 	<ui>
      	     <li>5g for $35</li>
 	    <li>10 for $70</li>
