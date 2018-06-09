@@ -153,7 +153,7 @@
 
 #foreverPhoenix > div {
   background-color: #C9DF78;
-  width: 40%; /* Adjust with JavaScript */
+  width: 8%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -240,7 +240,7 @@
 
 #vampirePink > div {
   background-color: #C9DF78;
-  width: 30%; /* Adjust with JavaScript */
+  width: 0%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -378,7 +378,7 @@
 
 #cbdInventory > div {
   background-color: #C9DF78;
-  width: 40%; /* Adjust with JavaScript */
+  width: 0%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -438,7 +438,7 @@
 
 #genghisChron > div {
   background-color: #C9DF78;
-  width: 100%; /* Adjust with JavaScript */
+  width: 80%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -454,7 +454,7 @@
 
 #redCongoleseHaze > div {
   background-color: #C9DF78;
-  width: 100%; /* Adjust with JavaScript */
+  width: 80%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -469,7 +469,7 @@
 
 #silverHaze > div {
   background-color: #C9DF78;
-  width: 100%; /* Adjust with JavaScript */
+  width: 70%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -485,7 +485,7 @@
 
 #whiteWalker > div {
   background-color: #C9DF78;
-  width: 100%; /* Adjust with JavaScript */
+  width: 0%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -500,7 +500,7 @@
 
 #harlequin > div {
   background-color: #C9DF78;
-  width: 100%; /* Adjust with JavaScript */
+  width: 80%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -516,7 +516,7 @@
 
 #deathBubbaCbd > div {
   background-color: #C9DF78;
-  width: 100%; /* Adjust with JavaScript */
+  width: 75%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -666,6 +666,13 @@ div h1.shatterDeal {
   color: #191CE0;
   text-shadow: 1px 1px black;
 }
+
+@media (min-width: 1601px) {
+	* {
+	display: none;
+	}
+}
+
 
 /* landscape phones */
 @media (min-width: 545px) and (max-width: 669px) {

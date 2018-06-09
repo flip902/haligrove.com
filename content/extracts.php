@@ -30,7 +30,7 @@
                         </p>
                     </div>
                        <br> 
-                    <div id="harlequin">
+                    <div id="deathBubbaCbd">
                         <div></div>
                     </div>
                     <p class="inventoryPTag">inventory</p>
@@ -63,7 +63,6 @@
 	    <div class="extractsBox col-lg-6 col-md-6">
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
-			<div class="new">new</div>
                         <div class="indica">indica</div>
                         <img src= "../images/genghisChron.JPG" style="height: 100%">
                     </div>
@@ -86,7 +85,6 @@
 	    <div class="extractsBox col-lg-6 col-md-6">
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
-			<div class="new">new</div>
                         <div class="sativa">sativa</div>
                         <img src= "../images/redCongoleseHaze.JPG" style="height: 100%">
                     </div>
@@ -110,7 +108,6 @@
 	    <div class="extractsBox col-lg-6 col-md-6">
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
-			<div class="new">new</div>
                         <div class="sativa">sativa</div>
                         <img src= "../images/silverHaze.JPG" style="height: 100%">
                     </div>
@@ -135,9 +132,9 @@
 	    <div class="extractsBox col-lg-6 col-md-6">
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
-			<div class="new">new</div>
+			<div class="sold out" style="z-index: 1">sold out</div>
                         <div class="indica">indica</div>
-                        <img src= "../images/whiteWalker.JPG" style="height: 100%">
+                        <img src= "../images/whiteWalker.JPG" style="height: 100%; opacity: 0.3">
                     </div>
                     <div class="extractsItemTitle" id="">White Walker</div>
                     <div class="extractsPrice">
@@ -224,26 +221,6 @@
                 </div>
             </div>
 
-
-	    <div class="extractsBox col-lg-6 col-md-6">
-                <div class="extractsThumbnail">
-                    <div class="extractsImageDiv">
-			<div class="sale">sale</div>
-                        <img src= "../images/cbdIsolate.JPG" style="height: 100%">
-                    </div>
-                    <div class="extractsItemTitle" id="">CBD Isolate</div>
-                    <div class="extractsPrice">
-                        <h3>1g <span style="text-decoration: line-through">$50</span> $35 per</h3>
-                        <p class="descriptionP">
-                        CBD isolate 99% purity, CBD isolate In its pure crystalline form. One of the easiest ways to use CBD crytals is in baked goods.</p><br>
-                    </div>
-                        
-                    <div id="cbdInventory">
-                        <div></div>
-                    </div>
-                    <p class="inventoryPTag">inventory</p>
-                </div>
-            </div>
 
 
 
@@ -336,26 +313,6 @@
             </div>
 
 
-
-	    <div class="extractsBox col-lg-6 col-md-6">
-                <div class="extractsThumbnail">
-                    <div class="extractsImageDiv">
-
-			<div class="sold out" style="z-index: 1">sold out</div>
-                        <img src= "../images/lemonSourDiesel.JPG" style="height: 100%; opacity: 0.3">
-                    </div>
-                    <div class="extractsItemTitle" id="">Lemon Sour Diesel</div>
-                    <div class="extractsPrice">
-                        <h3>1g Budder (<span style="text-decoration: line-through">$70</span> $60 per)</h3>
-                        <p class="descriptionP">Budder is a great option for those looking for a concentrate with a creamy, buttery consistency, as well as a great high. It can be vaped, dabbed, smoked, or used in edibles. It’s incredibly versatile!</p>
-                    </div>
-                        
-                    <div id="lemonSourDiesel">
-                        <div></div>
-                    </div>
-                    <p class="inventoryPTag">inventory</p>
-                </div>
-            </div>
 
 
 	    <div class="extractsBox col-lg-6 col-md-6">
@@ -547,87 +504,6 @@
 
 
 
-	    <div class="extractsBox col-lg-6 col-md-6">
-                <div class="extractsThumbnail">
-                    <div class="extractsImageDiv">
-
-                        <div class="hybrid">hybrid</div>
-                        <img src= "../images/vampirePink.JPG" style="height: 100%">
-                    </div>
-                    <div class="extractsItemTitle" id="">Vampire Pink</div>
-                    <div class="extractsPrice">
-                        <span>$35 Per </span><br>
-                        <h3>Emerald Extracts</h3>
-                        <p class="descriptionP">Pungent earthy, berry taste.
-                        Great for Pain, stress and insomnia.
-                        </p>
-                    </div>
-                       <br> 
-                    <div id="vampirePink">
-                        <div></div>
-                    </div>
-                    <p class="inventoryPTag">inventory</p>
-                </div>
-            </div>
-
-
-	    <div class="extractsBox col-lg-6 col-md-6">
-                <div class="extractsThumbnail">
-                    <div class="extractsImageDiv">
-			<div class="sold out" style="z-index: 1">sold out</div>
-
-                        <div class="indica">indica</div>
-                        <img src= "../images/lightningSkunk.JPG" style="height: 100%; opacity: 0.3">
-                    </div>
-                    <div class="extractsItemTitle" id="">Lightning Skunk</div>
-                    <div class="extractsPrice">
-                        <span>$35 Per </span><br>
-                        <h3>Emerald Extracts</h3>
-                        <p class="descriptionP">Sweet grape berry taste.
-                        Great for Pain, stress and insomnia.
-                        </p>
-                    </div>
-                       <br> 
-                    <div id="lightningSkunk">
-                        <div></div>
-                    </div>
-                    <p class="inventoryPTag">inventory</p>
-                </div>
-            </div>
-
-
-
-
-
-
-	   
-
-	    
-
-
-	    <div class="extractsBox col-lg-6 col-md-6">
-                <div class="extractsThumbnail">
-                    <div class="extractsImageDiv">
-			<div class="sold out" style="z-index: 1">sold out</div>
-                        <div class="hybrid">hybrid</div>
-                        <img src= "../images/whiteGorilla.JPG" style="height: 100%; opacity: 0.3">
-                    </div>
-                    <div class="extractsItemTitle" id="">White Gorilla</div>
-                    <div class="extractsPrice">
-                        <span>$35 Per </span><br>
-                        <h3>Emerald Extracts</h3>
-                        <p class="descriptionP">Earthy, sweet, pungent taste.
-                        Great for depression, euphoric happy high.
-                        </p>
-                    </div>
-                       <br> 
-                    <div id="whiteGorilla">
-                        <div></div>
-                    </div>
-                    <p class="inventoryPTag">inventory</p>
-                </div>
-            </div>
-
 
 	     <div class="extractsBox col-lg-6 col-md-6">
                 <div class="extractsThumbnail">
@@ -696,38 +572,6 @@
                     <p class="inventoryPTag">inventory</p>
                 </div>
             </div>
-
-
-	   <div class="extractsBox col-lg-6 col-md-6">
-                <div class="extractsThumbnail">
-                    <div class="extractsImageDiv">
-			<div class="sold out" style="z-index: 1">sold out</div>
-                        <div class="hybrid">hybrid</div>
-                        <img src= "../images/girlScoutCookiesEm.JPG" style="height: 100%; opacity: 0.3">
-                    </div>
-                    <div class="extractsItemTitle" id="">Girl Scout Cookies</div>
-                    <div class="extractsPrice">
-                        <span>$35 Per </span><br>
-                        <h3>Emerald Extracts</h3>
-                        <p class="descriptionP">Earthy, pungent, sweet taste.
-                        Great for depression, stress and pain.
-                        </p>
-                    </div>
-                       <br> 
-                    <div id="girlScout">
-                        <div></div>
-                    </div>
-                    <p class="inventoryPTag">inventory</p>
-                </div>
-            </div>
-
-
-
-
-
-	     
-	    
-
 
 
 

@@ -24,12 +24,29 @@
         </div>
         </a>-->
 
+<h1 class="pickOTW">June sale!</h1> 
+
+	<a href="strains.php">Death Bubba</a>	
+	<ui>
+     	     <li>5g for $40</li>
+	    <li>10 for $80</li>
+	    <li>28 for $220</li>
+	</ul>
+	<br>
+	
+	<a href="strains.php">Ice Wreck</a>	
+	<ui>
+     	     <li>5g for $35</li>
+	    <li>10 for $65</li>
+	</ul>
+	<br>
+
 
 
 	<h1 class="pickOTW">Strains on sale:</h1>
 
 
-	<a href="strains.php">Ice Wreck,  Blue Cheez, Bruce Banner, Romain Rockstar, & Tuna</a>	
+	<a href="strains.php">Blue Cheez, Bruce Banner, Romain Rockstar, & Tuna</a>	
 	<ui>
      	     <li>5g for $35</li>
 	    <li>10 for $70</li>
@@ -63,7 +80,7 @@
 	</ul>
 	<br>
 	
-        <a href="strains.php">Choco Chunk, God's Kush, Berry Breath, Gods Green Crack, Platinum Bubba,  <br></a>
+        <a href="strains.php">Choco Chunk, God's Kush, Berry Breath, Platinum Bubba,  <br></a>
 	<ui>
 	    <li>$10 per gram accross the board (5g and above)</li>
 	    <li>$230-$250 per Oz</li>
@@ -72,7 +89,7 @@
 
 	<a href="strains.php">
 
-	 Sensi Star, Death Bubba, <br>
+	 Axl Rose, Sensi Star <br>
 	 </a>
 	<ui>
      	     <li>5g for $45</li>
@@ -85,7 +102,7 @@
 	<h1 class="pickOTW">Sale On..</h1>
 	<a href="strains.php">
 
-	White Bubblegum, Super Sour Strawberry Banana 
+	Super Sour Strawberry Banana 
 	 </a>
 	<ui>
      	     <li>5g for $40</li>
@@ -105,9 +122,8 @@
 	<br>
 
 	<h1 class="pickOTW">Extracts Sale!</h1>
-	<a href="extracts.php">CBD Isolate, All Budders and Sugar Wax</a>
+	<a href="extracts.php"> All Budders and Sugar Wax</a>
 	<ui>
-		<li>CBD Isolate now only $35</li>
 
 		<li>$10 off ALL Budders and Sugar Wax</li>
 	</ul>
@@ -166,7 +182,7 @@
 
 	<a href="/content/hash.php" class="pinkChalk">Afghani Black</a>
         <ui>
-            <li>5 for $55</li>
+            <li>5 for $50</li>
             <li>10 for $100</li>
 	    <li>28 for $265</li>
         </ul>

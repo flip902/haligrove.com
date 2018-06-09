@@ -37,16 +37,42 @@ header("Pragma: no-cache");
           <!-- Wrapper for slides -->
           <div class="carousel-inner">
 
-
-	     <div class="item active">
-		<a href="content/strains.php"><img src="images/willieNelson.JPG" alt="">
+	    
+	      <div class="item active">
+		<a href="content/strains.php"><img src="images/pinkLemonaide.JPG" alt="">
                 
                 <div class="carousel-caption">
-                    <h3>New Sativa! <br>Willie Nelson</h3>
-			<p>5 for $40</p>
+                    <h3>New Pink Lemonaide & Harlequin</h3>
+		    <p>5 for $40</p>
                 </div>
               </a>
              </div>
+
+	    <div class="item">
+		<a href="content/edibles.php"><img src="images/suckerAd.JPG" alt="">
+                
+                <div class="carousel-caption">
+                    <h3>New Suckers! <br>different strengths</h3>
+			<p>4 for $40</p>
+                </div>
+              </a>
+             </div>
+           
+ 	      <div class="item">
+		<a href="content/specials.php"><img src="images/deathBubba.JPG" alt="">    
+                <div class="carousel-caption">
+                    <h3>June Sale!
+			</h3>
+
+                    <p>Death Bubba - 5 for $40<br>Ice Wreck - 5 for $35</p>
+                </div>
+              </a>
+             </div>
+
+	    
+
+
+	     
 
 
 	    <div class="item">
@@ -62,17 +88,7 @@ header("Pragma: no-cache");
              </div>
 
 
-	    <div class="item">
-		<a href="content/strains.php"><img src="images/axlRose.JPG" alt="">
-                
-                <div class="carousel-caption">
-                    <h3>New Axl Rose<br>
-			& Space Bubba</h3>
-
-                    <p></p>
-                </div>
-              </a>
-             </div>
+	    
 
 
 
@@ -133,17 +149,7 @@ header("Pragma: no-cache");
 	   
 
 
-	    <div class="item">
-		<a href="content/specials.php"><img src="images/citrusBliss.JPG" alt="">
-                
-                <div class="carousel-caption">
-                    <h3>Overstock Sale!</h3>
-		    <p>Citrus Bliss, Pink God</p>
-                    <p>10g for $60<br>20g for $110
-			              </p>
-                </div>
-              </a>
-             </div>
+	    
 
 
 

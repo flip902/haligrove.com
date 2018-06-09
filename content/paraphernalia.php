@@ -18,14 +18,13 @@
 <div class="paraphernaliaBox col-lg-6 col-md-6">
         <div class="paraphernaliaThumbnail">
           <div class="paraphernaliaImageDiv">
-	    <div class="new">new</div>
             <img src="../images/purePulls.JPG" alt="pure pulls" style="height:300px">
           </div>
           <h3 class="paraphernaliaItemTitle">Pure Pulls Vape Pen</h3>
           <div class="paraphernaliaPrice">
 	     <p>1000mg CO2 Oil ($80 Per)<br>
             
-            Just puff and go. Discrete, refillable cartridges.</p>
+            Discrete, Just puff and go. </p>
           </div>
         </div>
       </div>
@@ -35,14 +34,13 @@
 <div class="paraphernaliaBox col-lg-6 col-md-6">
         <div class="paraphernaliaThumbnail">
           <div class="paraphernaliaImageDiv">
-	    <div class="new">new</div>
             <img src="../images/refillCartridges.JPG" alt="pure pulls" style="height:300px">
           </div>
           <h3 class="paraphernaliaItemTitle">Pure Pulls Cartridge</h3>
           <div class="paraphernaliaPrice">
 	     <p>1000mg CO2 Oil ($70 Per)<br>
             
-           Refill Cartridge for Pure Pulls Vape Pen. Indica, Sativa, and Hybrid available.</p>
+           Refill Cartridge for Pure Pulls Vape Pen. only hybrid left.(new shipment next week)</p>
           </div>
         </div>
       </div>

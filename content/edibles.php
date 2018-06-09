@@ -16,6 +16,54 @@
       <div class="paraphernaliaBox col-lg-6 col-md-6">
         <div class="paraphernaliaThumbnail">
           <div class="paraphernaliaImageDiv">
+	    <div class="new">new</div>
+            <img src="../images/shatterSucker150mg.JPG" alt="sucker" style="height:300px">
+          </div>
+          <h3 class="paraphernaliaItemTitle">Shatter Sucker</h3>
+          <div class="paraphernaliaPrice">
+	     
+            $12<span> ea.</span><span> 5 for $50<br>
+            
+           Contains 150mg Shatter.</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="paraphernaliaBox col-lg-6 col-md-6">
+        <div class="paraphernaliaThumbnail">
+          <div class="paraphernaliaImageDiv">
+	    <div class="new">new</div>
+            <img src="../images/wildBerrySucker.JPG" alt="sucker" style="height:300px">
+          </div>
+          <h3 class="paraphernaliaItemTitle">Wild Berry Sucker</h3>
+          <div class="paraphernaliaPrice">
+	     
+            $12<span> ea.</span><span> 5 for $50<br>
+            
+           Contains 110mg THC.</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="paraphernaliaBox col-lg-6 col-md-6">
+        <div class="paraphernaliaThumbnail">
+          <div class="paraphernaliaImageDiv">
+	    <div class="new">new</div>
+            <img src="../images/cherrySucker.JPG" alt="sucker" style="height:300px">
+          </div>
+          <h3 class="paraphernaliaItemTitle">Cherry Sucker</h3>
+          <div class="paraphernaliaPrice">
+	     
+            $12<span> ea.</span><span> 5 for $50<br>
+            
+           Contains 90mg Shatter.</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="paraphernaliaBox col-lg-6 col-md-6">
+        <div class="paraphernaliaThumbnail">
+          <div class="paraphernaliaImageDiv">
             <img src="../images/fudge.JPG" alt="fudge" style="height:300px">
           </div>
           <h3 class="paraphernaliaItemTitle">Fudge</h3>
@@ -29,7 +77,7 @@
       </div>
 
 
-<div class="paraphernaliaBox col-lg-6 col-md-6">
+    <div class="paraphernaliaBox col-lg-6 col-md-6">
         <div class="paraphernaliaThumbnail">
           <div class="paraphernaliaImageDiv">
             <img src="../images/IMG_9026.JPG" alt="snowball" style="height:300px">
