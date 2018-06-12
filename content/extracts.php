@@ -129,30 +129,6 @@
 
 
 
-	    <div class="extractsBox col-lg-6 col-md-6">
-                <div class="extractsThumbnail">
-                    <div class="extractsImageDiv">
-			<div class="sold out" style="z-index: 1">sold out</div>
-                        <div class="indica">indica</div>
-                        <img src= "../images/whiteWalker.JPG" style="height: 100%; opacity: 0.3">
-                    </div>
-                    <div class="extractsItemTitle" id="">White Walker</div>
-                    <div class="extractsPrice">
-                        <span>$60 ea. 1g</span><br>
-                        <h3>1 gram Rosin</h3>
-                        <p class="descriptionP">
-                       Top Quality Rosin! Great for depression, anxiety and pain.  
-                        </p>
-                    </div>
-                       <br> 
-                    <div id="whiteWalker">
-                        <div></div>
-                    </div>
-                    <p class="inventoryPTag">inventory</p>
-                </div>
-            </div>
-
-
  	    <div class="extractsBox col-lg-6 col-md-6">
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
@@ -601,8 +577,9 @@
 	   <div class="extractsBox col-lg-6 col-md-6">
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
+			<div class="sold out" style="z-index: 1">sold out</div>
                         <div class="hybrid">hybrid</div>
-                        <img src= "../images/foreverPhoenix.JPG" style="height: 100%">
+                        <img src= "../images/foreverPhoenix.JPG" style="height: 100%; opacity: 0.3">
                     </div>
                     <div class="extractsItemTitle" id="">Growers Blend</div>
                     <div class="extractsPrice">

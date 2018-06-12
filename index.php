@@ -64,7 +64,7 @@ header("Pragma: no-cache");
                     <h3>June Sale!
 			</h3>
 
-                    <p>Death Bubba - 5 for $40<br>Ice Wreck - 5 for $35</p>
+                    <p>Death Bubba:<br>5 for $40<br>Ice Wreck:<br>10 for $65</p>
                 </div>
               </a>
              </div>
