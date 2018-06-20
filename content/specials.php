@@ -24,6 +24,34 @@
         </div>
         </a>-->
 
+<h1 class="pickOTW">Sale on 0.5g Rosins & Live Resins</h1>
+	<a href="extracts.php">Buy any 2 halves and recieve $10 off! (mix and match)</a>
+	<ui>
+		<li>0.5g for $30 now  only $25 (with purchase of 2)</li>
+
+		<li>0.5g for $35 now  only $30 (with purchase of 2)</li>
+
+	</ul>
+	<br>
+
+<h1 class="pickOTW">New Strains on Sale!</h1> 
+
+	<a href="strains.php">Gods Kush</a>	
+	<ui>
+     	     <li>5g for $45</li>
+	    <li>10 for $90</li>
+	    <li>28 for $235</li>
+	</ul>
+	<br>
+	
+	<a href="strains.php">Harlequin</a>	
+	<ui>
+     	     <li>5g for $35</li>
+	    <li>10 for $70</li>
+	    <li>28 for $185</li>
+	</ul>
+	<br>
+
 <h1 class="pickOTW">June sale!</h1> 
 
 	<a href="strains.php">Death Bubba</a>	
@@ -80,7 +108,7 @@
 	</ul>
 	<br>
 	
-        <a href="strains.php">Choco Chunk, God's Kush, Berry Breath, Platinum Bubba,  <br></a>
+        <a href="strains.php">Choco Chunk, Berry Breath, Platinum Bubba,  <br></a>
 	<ui>
 	    <li>$10 per gram accross the board (5g and above)</li>
 	    <li>$230-$250 per Oz</li>

@@ -30,6 +30,7 @@ header("Pragma: no-cache");
 
 	      <li data-target="#myCarousel" data-slide-to="6"></li>
 
+	      <li data-target="#myCarousel" data-slide-to="7"></li>
 
 
           </ol>
@@ -39,11 +40,22 @@ header("Pragma: no-cache");
 
 	    
 	      <div class="item active">
-		<a href="content/strains.php"><img src="images/pinkLemonaide.JPG" alt="">
+		<a href="content/strains.php"><img src="images/acapulcoGold.JPG" alt="">
                 
                 <div class="carousel-caption">
-                    <h3>New Pink Lemonaide & Harlequin</h3>
+                    <h3>New Acapulco Gold<br> & Nuken Ultra</h3>
 		    <p>5 for $40</p>
+                </div>
+              </a>
+             </div>
+
+	    <div class="item">
+		<a href="content/specials.php"><img src="images/rosinAd.JPG" alt="">    
+                <div class="carousel-caption">
+                    <h3>Sale on 0.5g Rosins & Live Resins
+			</h3>
+
+                    <p>Buy any 2 halves and recieve $10 off! (mix and match)</p>
                 </div>
               </a>
              </div>
@@ -52,11 +64,13 @@ header("Pragma: no-cache");
 		<a href="content/edibles.php"><img src="images/suckerAd.JPG" alt="">
                 
                 <div class="carousel-caption">
-                    <h3>New Suckers! <br>different strengths</h3>
-			<p>4 for $40</p>
+                    <h3>New Suckers!</h3>
+			<p>$12 ea. <br>5 for $50</p>
                 </div>
               </a>
              </div>
+
+	    
            
  	      <div class="item">
 		<a href="content/specials.php"><img src="images/deathBubba.JPG" alt="">    

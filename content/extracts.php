@@ -63,6 +63,7 @@
 	    <div class="extractsBox col-lg-6 col-md-6">
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
+			<div class="sale">sale</div>
                         <div class="indica">indica</div>
                         <img src= "../images/genghisChron.JPG" style="height: 100%">
                     </div>
@@ -85,6 +86,7 @@
 	    <div class="extractsBox col-lg-6 col-md-6">
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
+			<div class="sale">sale</div>
                         <div class="sativa">sativa</div>
                         <img src= "../images/redCongoleseHaze.JPG" style="height: 100%">
                     </div>
@@ -132,6 +134,7 @@
  	    <div class="extractsBox col-lg-6 col-md-6">
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
+			<div class="sale">sale</div>
                         <div class="sativa">sativa</div>
                         <img src= "../images/spaceQueen.JPG" style="height: 100%">
                     </div>
@@ -155,6 +158,7 @@
 	    <div class="extractsBox col-lg-6 col-md-6">
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
+			<div class="sale">sale</div>
                         <div class="hybrid">hybrid</div>
                         <img src= "../images/whiteCastleResin.JPG" style="height: 100%">
                     </div>
@@ -178,6 +182,7 @@
 	    <div class="extractsBox col-lg-6 col-md-6">
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
+			<div class="sale">sale</div>
                         <div class="hybrid">hybrid</div>
                         <img src= "../images/godsGreenCrackResin.JPG" style="height: 100%">
                     </div>
@@ -485,6 +490,7 @@
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
                         <div class="hybrid">hybrid</div>
+			<div class="sold out" style="z-index: 1">sold out</div>
                         <img src= "../images/gorillaGlueEm.JPG" style="height: 100%">
                     </div>
                     <div class="extractsItemTitle" id="">Gorilla Glue</div>
