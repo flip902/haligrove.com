@@ -38,12 +38,24 @@ header("Pragma: no-cache");
           <!-- Wrapper for slides -->
           <div class="carousel-inner">
 
-	    
-	      <div class="item active">
-		<a href="content/strains.php"><img src="images/acapulcoGold.JPG" alt="">
+            <div class="item active">
+		<a href="content/strains.php"><img src="images/blueCityDiesel.JPG" alt="">
                 
                 <div class="carousel-caption">
-                    <h3>New Acapulco Gold<br> & Nuken Ultra</h3>
+                    <h3>New Blue City Diesel<br> & Juicy Fruit</h3>
+		    <p>5 for $40</p>
+                </div>
+              </a>
+             </div>
+
+	   
+
+	    
+	      <div class="item">
+		<a href="content/strains.php"><img src="images/islandPink.JPG" alt="">
+                
+                <div class="carousel-caption">
+                    <h3>New Island Pink<br> & MK Ultra</h3>
 		    <p>5 for $40</p>
                 </div>
               </a>
@@ -71,22 +83,6 @@ header("Pragma: no-cache");
              </div>
 
 	    
-           
- 	      <div class="item">
-		<a href="content/specials.php"><img src="images/deathBubba.JPG" alt="">    
-                <div class="carousel-caption">
-                    <h3>June Sale!
-			</h3>
-
-                    <p>Death Bubba:<br>5 for $40<br>Ice Wreck:<br>10 for $65</p>
-                </div>
-              </a>
-             </div>
-
-	    
-
-
-	     
 
 
 	    <div class="item">

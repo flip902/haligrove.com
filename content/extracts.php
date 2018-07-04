@@ -17,7 +17,6 @@
 	    <div class="extractsBox col-lg-6 col-md-6">
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
-			<div class="new">new</div>
                         <div class="indica">indica</div>
                         <img src= "../images/deathBubbaCbd.JPG" style="height: 100%">
                     </div>
@@ -40,7 +39,6 @@
 	    <div class="extractsBox col-lg-6 col-md-6">
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
-			<div class="new">new</div>
                         <div class="sativa">sativa</div>
                         <img src= "../images/harlequinCbd.JPG" style="height: 100%">
                     </div>
@@ -459,8 +457,9 @@
 	    <div class="extractsBox col-lg-6 col-md-6">
                 <div class="extractsThumbnail">
                     <div class="extractsImageDiv">
+			<div class="sold out" style="z-index: 1">sold out</div>
                         <div class="hybrid">hybrid</div>
-                        <img src= "../images/goldenGoat.JPG" style="height: 100%">
+                        <img src= "../images/goldenGoat.JPG" style="height: 100%; opacity: 0.3">
                     </div>
                     <div class="extractsItemTitle" id="">Golden Goat</div>
                     <div class="extractsPrice">
@@ -484,30 +483,6 @@
 
 
 
-
-
-	     <div class="extractsBox col-lg-6 col-md-6">
-                <div class="extractsThumbnail">
-                    <div class="extractsImageDiv">
-                        <div class="hybrid">hybrid</div>
-			<div class="sold out" style="z-index: 1">sold out</div>
-                        <img src= "../images/gorillaGlueEm.JPG" style="height: 100%">
-                    </div>
-                    <div class="extractsItemTitle" id="">Gorilla Glue</div>
-                    <div class="extractsPrice">
-                        <span>$35 Per </span><br>
-                        <h3>Emerald Extracts</h3>
-                        <p class="descriptionP">Earthy, pine, pungent taste.
-                        Great for Pain, appetite and insomnia.
-                        </p>
-                    </div>
-                       <br> 
-                    <div id="gorillaGlue">
-                        <div></div>
-                    </div>
-                    <p class="inventoryPTag">inventory</p>
-                </div>
-            </div>
 
 	  <div class="extractsBox col-lg-6 col-md-6">
                 <div class="extractsThumbnail">
@@ -580,28 +555,6 @@
                 </div>
             </div>
 
-	   <div class="extractsBox col-lg-6 col-md-6">
-                <div class="extractsThumbnail">
-                    <div class="extractsImageDiv">
-			<div class="sold out" style="z-index: 1">sold out</div>
-                        <div class="hybrid">hybrid</div>
-                        <img src= "../images/foreverPhoenix.JPG" style="height: 100%; opacity: 0.3">
-                    </div>
-                    <div class="extractsItemTitle" id="">Growers Blend</div>
-                    <div class="extractsPrice">
-                        <span>$40 Per </span><br>
-                        <h3>Forever Phoenix</h3>
-                        <p class="descriptionP">Earthy, pungent taste.
-                        Forever Phoenix is one of the monst popular brands of shatter around .
-                        </p>
-                    </div>
-                       <br> 
-                    <div id="foreverPhoenix">
-                        <div></div>
-                    </div>
-                    <p class="inventoryPTag">inventory</p>
-                </div>
-            </div>
 
 
 	 

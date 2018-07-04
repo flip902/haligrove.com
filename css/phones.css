@@ -92,7 +92,7 @@
 
 #nardiusHaze > div {
   background-color: #C9DF78;
-  width: 25%; /* Adjust with JavaScript */
+  width: 10%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -122,7 +122,7 @@
 
 #couchPotato > div {
   background-color: #C9DF78;
-  width: 20%; /* Adjust with JavaScript */
+  width: 10%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -324,7 +324,7 @@
 
 #goldenGoat > div {
   background-color: #C9DF78;
-  width: 20%; /* Adjust with JavaScript */
+  width: 0%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -346,7 +346,7 @@
 
 #louisXiii > div {
   background-color: #C9DF78;
-  width: 30%; /* Adjust with JavaScript */
+  width: 10%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -361,7 +361,7 @@
 
 #blackTuna > div {
   background-color: #C9DF78;
-  width: 30%; /* Adjust with JavaScript */
+  width: 10%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -626,7 +626,7 @@
 
 #afghaniBlack > div {
   background-color: #C9DF78;
-  width: 80%; /* Adjust with JavaScript */
+  width: 65%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }
@@ -642,7 +642,7 @@
 
 #templeInventory > div {
   background-color: #C9DF78;
-  width: 80%; /* Adjust with JavaScript */
+  width: 65%; /* Adjust with JavaScript */
   height: 20px;
   border-radius: 10px;
 }

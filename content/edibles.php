@@ -16,7 +16,6 @@
       <div class="paraphernaliaBox col-lg-6 col-md-6">
         <div class="paraphernaliaThumbnail">
           <div class="paraphernaliaImageDiv">
-	    <div class="new">new</div>
             <img src="../images/shatterSucker150mg.JPG" alt="sucker" style="height:300px">
           </div>
           <h3 class="paraphernaliaItemTitle">Shatter Sucker</h3>
@@ -32,7 +31,6 @@
       <div class="paraphernaliaBox col-lg-6 col-md-6">
         <div class="paraphernaliaThumbnail">
           <div class="paraphernaliaImageDiv">
-	    <div class="new">new</div>
             <img src="../images/wildBerrySucker.JPG" alt="sucker" style="height:300px">
           </div>
           <h3 class="paraphernaliaItemTitle">Wild Berry Sucker</h3>
@@ -48,7 +46,6 @@
       <div class="paraphernaliaBox col-lg-6 col-md-6">
         <div class="paraphernaliaThumbnail">
           <div class="paraphernaliaImageDiv">
-	    <div class="new">new</div>
             <img src="../images/cherrySucker.JPG" alt="sucker" style="height:300px">
           </div>
           <h3 class="paraphernaliaItemTitle">Cherry Sucker</h3>

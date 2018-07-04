@@ -24,6 +24,18 @@
         </div>
         </a>-->
 
+<h1 class="pickOTW">July sale!</h1> 
+
+	<a href="strains.php">Choco Chunk</a>	
+	<ui>
+     	     <li>5g for $45</li>
+	    <li>10 for $90</li>
+	    <li>28 for $225</li>
+	</ul>
+	<br>
+	
+
+
 <h1 class="pickOTW">Sale on 0.5g Rosins & Live Resins</h1>
 	<a href="extracts.php">Buy any 2 halves and recieve $10 off! (mix and match)</a>
 	<ui>
@@ -44,30 +56,8 @@
 	</ul>
 	<br>
 	
-	<a href="strains.php">Harlequin</a>	
-	<ui>
-     	     <li>5g for $35</li>
-	    <li>10 for $70</li>
-	    <li>28 for $185</li>
-	</ul>
-	<br>
 
-<h1 class="pickOTW">June sale!</h1> 
 
-	<a href="strains.php">Death Bubba</a>	
-	<ui>
-     	     <li>5g for $40</li>
-	    <li>10 for $80</li>
-	    <li>28 for $220</li>
-	</ul>
-	<br>
-	
-	<a href="strains.php">Ice Wreck</a>	
-	<ui>
-     	     <li>5g for $35</li>
-	    <li>10 for $65</li>
-	</ul>
-	<br>
 
 
 
@@ -117,7 +107,7 @@
 
 	<a href="strains.php">
 
-	 Axl Rose, Sensi Star <br>
+	 Sensi Star <br>
 	 </a>
 	<ui>
      	     <li>5g for $45</li>
@@ -126,19 +116,6 @@
 	</ul>
 	<br>
 
-
-	<h1 class="pickOTW">Sale On..</h1>
-	<a href="strains.php">
-
-	Super Sour Strawberry Banana 
-	 </a>
-	<ui>
-     	     <li>5g for $40</li>
-             <li>10g for $80</li>
-	</ul>
-	<br>
-
-	
 
 
 	<h1 class="pickOTW">Overstock sale!</h1>
