@@ -1,4 +1,4 @@
 #Haligrove version 2.0
 # haligroveV2
 
-![HomePage](haligrove.com/screenshots/homePage.png)
+![HomePage](https://github.com/flip902/haligrove.com/blob/master/screenshots/edibles.png)
