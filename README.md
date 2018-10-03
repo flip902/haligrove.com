@@ -9,7 +9,7 @@ You can download all the images by clicking on the **screenShots** folder above 
 ![HomePage](https://github.com/flip902/haligrove.com/blob/master/screenshots/strainsPage.png)
 
 ## Strains Description
-![HomePage](https://github.com/flip902/haligrove.com/blob/master/screenshots/strainsDescription.png)
+![HomePage](https://github.com/flip902/haligrove.com/blob/master/screenshots/strainDescription.png)
 
 ## Hash Page
 ![HomePage](https://github.com/flip902/haligrove.com/blob/master/screenshots/hashPage.png)
